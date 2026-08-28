@@ -1,0 +1,417 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.278 - Turn the bearing retainer until the counterbored...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "bearing_retainer",
+      "name": "Bearing retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer",
+      "provenance": {
+        "page": 278,
+        "quote": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 521,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "notch",
+      "name": "Notch",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "notch",
+      "provenance": {
+        "page": 278,
+        "quote": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 521,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 278,
+        "quote": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 521,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 278,
+        "quote": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 521,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 278,
+        "quote": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 521,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 278,
+        "quote": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 521,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 278,
+        "quote": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 521,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 278,
+        "quote": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 521,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 278,
+        "quote": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 521,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_gear",
+      "name": "Governor drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_gear",
+      "provenance": {
+        "page": 278,
+        "quote": "Place the governor drive gear spacer on the shaft. . Install the key and start the gear on the shaft.",
+        "verified": true,
+        "char_start": 525,
+        "char_end": 626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 278,
+        "quote": "Place the governor drive gear spacer on the shaft. . Install the key and start the gear on the shaft.",
+        "verified": true,
+        "char_start": 525,
+        "char_end": 626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 278,
+        "quote": "Place the governor drive gear spacer on the shaft. . Install the key and start the gear on the shaft.",
+        "verified": true,
+        "char_start": 525,
+        "char_end": 626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_key",
+      "name": "Drive key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_key",
+      "provenance": {
+        "page": 278,
+        "quote": "Place the governor drive gear spacer on the shaft. . Install the key and start the gear on the shaft.",
+        "verified": true,
+        "char_start": 525,
+        "char_end": 626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 278,
+        "quote": "Place the governor drive gear spacer on the shaft. . Install the key and start the gear on the shaft.",
+        "verified": true,
+        "char_start": 525,
+        "char_end": 626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 278,
+        "quote": "Tap the gear until the gear and spacer contact the inner race of the weight shaft bearing.",
+        "verified": true,
+        "char_start": 631,
+        "char_end": 721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 278,
+        "quote": "Tap the gear until the gear and spacer contact the inner race of the weight shaft bearing.",
+        "verified": true,
+        "char_start": 631,
+        "char_end": 721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_shaft_bearing",
+      "name": "Weight shaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_shaft_bearing",
+      "provenance": {
+        "page": 278,
+        "quote": "Tap the gear until the gear and spacer contact the inner race of the weight shaft bearing.",
+        "verified": true,
+        "char_start": 631,
+        "char_end": 721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gear_retaining_nut",
+      "name": "Gear retaining nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_retaining_nut",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the gear retaining nut and tighten it to 125- 135 lb-ft torque.",
+        "verified": true,
+        "char_start": 726,
+        "char_end": 797,
+        "bbox": [
+          332.1600000000002,
+          101.12999999999988,
+          571.0108000000002,
+          121.92999999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+      "source_number": 8,
+      "installs": [
+        "bearing_retainer",
+        "notch",
+        "drive_shaft_retainer",
+        "of_the_oil_hole",
+        "of_the_flywheel_housing",
+        "bearing_the_end_bearing",
+        "flat",
+        "cylinder_head",
+        "of_the_buffer_screw"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Turn the bearing retainer until the counterbored notch above the large opening in the retainer and the tapped hole in the housing are aligned. Secure the bearing retainer to the housing with a flat head screw.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 521,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the governor drive gear spacer on the shaft. . Install the key and start the gear on the shaft.",
+      "source_number": 9,
+      "installs": [
+        "governor_drive_gear",
+        "drive_gear_spacer",
+        "end_of_the_shaft",
+        "drive_key",
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Place the governor drive gear spacer on the shaft. . Install the key and start the gear on the shaft.",
+        "verified": true,
+        "char_start": 525,
+        "char_end": 626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Tap the gear until the gear and spacer contact the inner race of the weight shaft bearing.",
+      "source_number": 10,
+      "installs": [
+        "contact",
+        "side_of_the_inner",
+        "weight_shaft_bearing"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Tap the gear until the gear and spacer contact the inner race of the weight shaft bearing.",
+        "verified": true,
+        "char_start": 631,
+        "char_end": 721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the gear retaining nut and tighten it to 125- 135 lb-ft torque.",
+      "source_number": 11,
+      "installs": [
+        "gear_retaining_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 169.5,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Install the gear retaining nut and tighten it to 125- 135 lb-ft torque.",
+        "verified": true,
+        "char_start": 726,
+        "char_end": 797,
+        "bbox": [
+          332.1600000000002,
+          101.12999999999988,
+          571.0108000000002,
+          121.92999999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

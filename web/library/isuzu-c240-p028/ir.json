@@ -1,0 +1,278 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.105 - Apply a coat of engine oil to...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "replace_the_camshaft",
+      "name": "Replace the camshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "replace_the_camshaft",
+      "provenance": {
+        "page": 105,
+        "quote": "Apply a coat of engine oil to the camshaft and the camshaft bearings.",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 970,
+        "bbox": [
+          309.12,
+          489.3377,
+          555.3598640000001,
+          511.45003333333335
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "camshaft_bearing",
+      "name": "Camshaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft_bearing",
+      "provenance": {
+        "page": 105,
+        "quote": "Apply a coat of engine oil to the camshaft and the camshaft bearings.",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 970,
+        "bbox": [
+          309.12,
+          489.3377,
+          555.3598640000001,
+          511.45003333333335
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_body",
+      "name": "Cylinder body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_body",
+      "provenance": {
+        "page": 105,
+        "quote": "Install the camshaft to the cylinder body. Take care not to damage the camshaft bearings.",
+        "verified": true,
+        "char_start": 974,
+        "char_end": 1063,
+        "bbox": [
+          308.64,
+          517.3637,
+          535.5452819999999,
+          543.4848000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "thrust_plate_bolt",
+      "name": "Thrust plate bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thrust_plate_bolt",
+      "provenance": {
+        "page": 105,
+        "quote": "Tighten the thrust plate bolt to the specified torque. Thrust Plate Bolt Torque kg-m (Ib.ft/N-m) 1.8 \u2014 2.2 (13.0 \u2014 15.8/17.7 \u2014 21.5)",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1199,
+        "bbox": [
+          289.20000000000005,
+          549.5497,
+          554.1687900000001,
+          594.4662666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "thrust_plate",
+      "name": "Thrust plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thrust_plate",
+      "provenance": {
+        "page": 105,
+        "quote": "Tighten the thrust plate bolt to the specified torque. Thrust Plate Bolt Torque kg-m (Ib.ft/N-m) 1.8 \u2014 2.2 (13.0 \u2014 15.8/17.7 \u2014 21.5)",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1199,
+        "bbox": [
+          289.20000000000005,
+          549.5497,
+          554.1687900000001,
+          594.4662666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 105,
+        "quote": "Tighten the thrust plate bolt to the specified torque. Thrust Plate Bolt Torque kg-m (Ib.ft/N-m) 1.8 \u2014 2.2 (13.0 \u2014 15.8/17.7 \u2014 21.5)",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1199,
+        "bbox": [
+          289.20000000000005,
+          549.5497,
+          554.1687900000001,
+          594.4662666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply a coat of engine oil to the camshaft and the camshaft bearings.",
+      "source_number": 1,
+      "installs": [
+        "replace_the_camshaft",
+        "camshaft_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Apply a coat of engine oil to the camshaft and the camshaft bearings.",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 970,
+        "bbox": [
+          309.12,
+          489.3377,
+          555.3598640000001,
+          511.45003333333335
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the camshaft to the cylinder body. Take care not to damage the camshaft bearings.",
+      "source_number": 2,
+      "installs": [
+        "cylinder_body"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Install the camshaft to the cylinder body. Take care not to damage the camshaft bearings.",
+        "verified": true,
+        "char_start": 974,
+        "char_end": 1063,
+        "bbox": [
+          308.64,
+          517.3637,
+          535.5452819999999,
+          543.4848000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Tighten the thrust plate bolt to the specified torque. Thrust Plate Bolt Torque kg-m (Ib.ft/N-m) 1.8 \u2014 2.2 (13.0 \u2014 15.8/17.7 \u2014 21.5)",
+      "source_number": 3,
+      "installs": [
+        "thrust_plate_bolt",
+        "thrust_plate",
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 17.7,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Tighten the thrust plate bolt to the specified torque. Thrust Plate Bolt Torque kg-m (Ib.ft/N-m) 1.8 \u2014 2.2 (13.0 \u2014 15.8/17.7 \u2014 21.5)",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1199,
+        "bbox": [
+          289.20000000000005,
+          549.5497,
+          554.1687900000001,
+          594.4662666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check to see that the camshaft turns smoothly by rotating it manually.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Check to see that the camshaft turns smoothly by rotating it manually.",
+        "verified": true,
+        "char_start": 1203,
+        "char_end": 1273,
+        "bbox": [
+          309.12,
+          606.0989,
+          556.1291313333334,
+          627.5140333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

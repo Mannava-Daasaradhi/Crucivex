@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crucivex — Assembly IR Viewer</title>
+<style>
+  :root {
+    --bg:#0a0c10; --panel:#11141a; --panel2:#161a22; --line:#222833;
+    --text:#c9cfd9; --dim:#79828f; --ok:#3ddc97; --warn:#f0a500; --hi:#00d4ff;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  html, body { height:100%; }
+  body {
+    background:var(--bg); color:var(--text); font-family:var(--sans);
+    display:grid; grid-template-rows:auto 1fr; overflow:hidden;
+  }
+
+  /* header */
+  header {
+    display:flex; align-items:center; gap:18px; padding:12px 20px;
+    border-bottom:1px solid var(--line); background:var(--panel);
+  }
+  .back {
+    display:grid; place-items:center; width:30px; height:30px; flex:none;
+    color:var(--dim); text-decoration:none; font-size:16px;
+    border:1px solid var(--line); border-radius:5px; transition:.15s;
+  }
+  .back:hover { color:var(--text); border-color:#38414f; background:var(--panel2); }
+  .doc { display:flex; flex-direction:column; gap:2px; }
+  #doc-title { font-size:13px; font-weight:600; }
+  #doc-source { font-family:var(--mono); font-size:10.5px; color:var(--dim); }
+  .spacer { flex:1; }
+  .btn {
+    font-family:var(--mono); font-size:11px; letter-spacing:.08em;
+    background:var(--panel2); color:var(--text); border:1px solid var(--line);
+    padding:7px 13px; border-radius:5px; cursor:pointer; transition:.15s;
+  }
+  .btn:hover { border-color:#38414f; background:#1b2029; }
+  .btn.on { border-color:var(--hi); color:var(--hi); }
+
+  /* layout */
+  main { display:grid; grid-template-columns:1fr 340px; min-height:0; }
+  .stage { position:relative; display:grid; grid-template-rows:1fr auto; min-width:0; }
+  /* overflow:hidden clips the slide-in panels to the viewport instead of
+     letting them bleed across the sidebar when translated off-parent. */
+  #viewport {
+    position:relative; min-height:0; overflow:hidden;
+    background:
+      radial-gradient(120% 90% at 50% 8%, #1b2532 0%, #10151d 42%, #080b10 100%);
+  }
+  #viewport canvas { display:block; width:100%; height:100%; position:relative; z-index:1; }
+  /* Vignette sits above the canvas but must not eat pointer events. */
+  #viewport::after {
+    content:""; position:absolute; inset:0; z-index:2; pointer-events:none;
+    background:radial-gradient(115% 85% at 50% 45%, transparent 55%, rgba(0,0,0,.5) 100%);
+  }
+
+  /* callouts */
+  #labels, #leaders { position:absolute; inset:0; z-index:3; pointer-events:none; }
+  .callout {
+    position:absolute; top:0; left:0; white-space:nowrap;
+    font-family:var(--mono); font-size:10.5px; letter-spacing:.04em;
+    color:#cddcea; background:rgba(12,16,22,.82); border:1px solid #2b3644;
+    padding:3px 8px; border-radius:3px; transition:opacity .18s;
+  }
+  .callout.active { color:var(--hi); border-color:#1d4d5e; background:rgba(8,22,28,.9); }
+  #leaders .leader { fill:none; stroke:#6e8296; stroke-width:1; transition:opacity .18s; }
+
+  /* torque heads-up */
+  /* Centred, not in a corner: both corners are callout columns. */
+  #torque-hud {
+    position:absolute; top:18px; left:50%; transform:translateX(-50%);
+    z-index:4; pointer-events:none;
+    display:flex; align-items:baseline; gap:5px; font-family:var(--mono);
+  }
+  .torque-value { font-size:30px; font-weight:600; color:var(--hi); letter-spacing:-.02em; }
+  .torque-unit { font-size:12px; color:var(--dim); letter-spacing:.1em; }
+
+  /* Capped in JS as well, but bounded here too: this sits over the scene, and
+     a status note must never be able to become the whole screen. */
+  #unmodelled {
+    position:absolute; left:20px; top:18px; z-index:4;
+    max-width:min(52ch, calc(100% - 40px)); max-height:5em; overflow:hidden;
+    font-family:var(--mono); font-size:10px; line-height:1.5; color:var(--warn);
+    background:rgba(33,26,9,.8); border:1px solid #4a3a12;
+    padding:4px 9px; border-radius:3px;
+  }
+
+  /* controls */
+  .controls {
+    display:flex; align-items:center; gap:14px; padding:12px 18px;
+    border-top:1px solid var(--line); background:var(--panel);
+  }
+  #step-counter { font-family:var(--mono); font-size:12px; color:var(--dim); min-width:56px; text-align:center; }
+  .slider { display:flex; align-items:center; gap:9px; margin-left:auto; }
+  .slider label { font-family:var(--mono); font-size:10.5px; color:var(--dim); letter-spacing:.1em; }
+  input[type=range] { width:150px; accent-color:var(--hi); }
+
+  /* step detail strip */
+  #step-detail {
+    position:absolute; left:20px; bottom:20px; max-width:46%;
+    background:rgba(13,16,21,.92); border:1px solid var(--line);
+    border-radius:6px; padding:13px 16px;
+    backdrop-filter:blur(8px);
+    transition:left .28s cubic-bezier(.4,0,.2,1);
+  }
+  /* Slide clear of the provenance drawer rather than sitting under it. */
+  body.prov-open #step-detail { left:410px; }
+  #step-detail:empty { display:none; }
+  /* Transport is meaningless while a task is running: it is the answer key. */
+  body.task-mode .controls .btn,
+  body.task-mode #step-counter { opacity:.3; pointer-events:none; }
+  .detail-text { font-size:14px; line-height:1.5; }
+  .detail-tags { display:flex; flex-wrap:wrap; gap:6px; margin-top:9px; }
+  .detail-warning { margin-top:9px; font-size:12px; color:var(--warn); }
+
+  .tag {
+    font-family:var(--mono); font-size:10px; letter-spacing:.05em;
+    padding:3px 7px; border-radius:3px; background:#1c212a; color:var(--dim);
+    border:1px solid var(--line); white-space:nowrap;
+  }
+  .tag.ok { color:var(--ok); border-color:#1d4636; background:#0f2019; }
+  .tag.warn { color:var(--warn); border-color:#4a3a12; background:#211a09; }
+  .tag.torque { color:var(--hi); border-color:#123c48; background:#0a1e24; }
+
+  /* sidebar */
+  aside { border-left:1px solid var(--line); background:var(--panel); display:grid; grid-template-rows:auto 1fr; min-height:0; }
+  .aside-head {
+    padding:12px 16px; border-bottom:1px solid var(--line);
+    font-family:var(--mono); font-size:10.5px; letter-spacing:.16em; color:var(--dim);
+  }
+  #steps { overflow-y:auto; padding:6px; }
+  .step {
+    display:flex; gap:11px; width:100%; text-align:left; cursor:pointer;
+    background:transparent; border:1px solid transparent; border-radius:5px;
+    padding:9px 10px; color:var(--text); font-family:var(--sans); transition:.12s;
+  }
+  .step:hover { background:var(--panel2); }
+  .step.active { background:#0f1d24; border-color:#17414f; }
+  .step-num { font-family:var(--mono); font-size:10.5px; color:var(--dim); padding-top:2px; }
+  .step.active .step-num { color:var(--hi); }
+  .step-body { display:flex; flex-direction:column; gap:6px; min-width:0; }
+  .step-text { font-size:12.5px; line-height:1.45; }
+  .step-meta { display:flex; flex-wrap:wrap; gap:5px; }
+
+  /* perform mode */
+  #task { display:flex; flex-direction:column; min-height:0; }
+  .task-hud {
+    display:flex; gap:18px; padding:11px 16px; border-bottom:1px solid var(--line);
+    font-family:var(--mono); font-size:10.5px; color:var(--dim);
+  }
+  .task-hud b { color:var(--text); font-weight:600; font-size:13px; }
+  .task-hud .bad b { color:#ff5f56; }
+  #task-msg:not(:empty) {
+    margin:10px 12px; padding:10px 12px; border-radius:4px; font-size:12px; line-height:1.5;
+    background:#241010; border:1px solid #52201d; color:#ffb4ae;
+  }
+  #task-msg.ok { background:#0f2019; border-color:#1d4636; color:#9fe7c4; }
+  .torque-entry { display:flex; gap:7px; margin:10px 12px; }
+  .torque-entry input {
+    flex:1; min-width:0; background:#0d1117; border:1px solid var(--line); color:var(--text);
+    font-family:var(--mono); font-size:13px; padding:8px 10px; border-radius:4px;
+  }
+  .torque-entry input:focus { outline:none; border-color:var(--hi); }
+  #tray { overflow-y:auto; padding:8px; display:flex; flex-wrap:wrap; gap:6px; align-content:flex-start; }
+  .tray-item {
+    font-family:var(--mono); font-size:11px; padding:7px 10px; border-radius:4px;
+    background:var(--panel2); border:1px solid var(--line); color:var(--text); cursor:pointer;
+    transition:.12s;
+  }
+  .tray-item:hover { border-color:#3d4757; background:#1c222c; }
+  .tray-item.reject { animation:shake .32s; border-color:#7a2b25; background:#2a1210; }
+  @keyframes shake {
+    0%,100% { transform:translateX(0); } 25% { transform:translateX(-4px); }
+    75% { transform:translateX(4px); }
+  }
+
+  /* competency record */
+  #result {
+    position:absolute; inset:0; z-index:8; display:none; place-items:center;
+    background:rgba(6,9,13,.86); backdrop-filter:blur(5px);
+  }
+  #result.open { display:grid; }
+  .record {
+    width:min(520px, 90%); background:var(--panel); border:1px solid var(--line);
+    border-radius:8px; padding:26px 28px;
+  }
+  .record h2 { font-family:var(--mono); font-size:12px; letter-spacing:.16em; color:var(--dim); font-weight:600; }
+  .record-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:16px; margin:20px 0; }
+  .record-grid div span { display:block; font-family:var(--mono); font-size:10px; color:var(--dim); letter-spacing:.1em; }
+  .record-grid div b { font-size:26px; font-weight:600; }
+  .record-note { font-size:12.5px; line-height:1.6; color:var(--text); }
+  .record-note em { color:var(--hi); font-style:normal; }
+  .record-foot { margin-top:20px; display:flex; gap:9px; }
+
+  /* provenance */
+  #provenance {
+    position:absolute; left:0; top:0; bottom:0; width:390px;
+    background:var(--panel); border-right:1px solid var(--line);
+    transform:translateX(-101%); transition:transform .28s cubic-bezier(.4,0,.2,1);
+    display:flex; flex-direction:column; z-index:5;
+  }
+  #provenance.open { transform:none; }
+  .prov-head {
+    display:flex; justify-content:space-between; align-items:flex-start; gap:10px;
+    padding:15px 16px; border-bottom:1px solid var(--line);
+  }
+  .prov-part { font-size:15px; font-weight:600; }
+  .prov-sub { font-family:var(--mono); font-size:10.5px; color:var(--dim); margin-top:3px; }
+  #prov-close { background:none; border:none; color:var(--dim); font-size:21px; cursor:pointer; line-height:1; }
+  .prov-quote {
+    margin:14px 16px; padding:12px 14px; border-radius:5px; font-size:13px;
+    line-height:1.55; background:#0f2019; border-left:2px solid var(--ok);
+  }
+  .prov-quote.warn { background:#211a09; border-left-color:var(--warn); }
+  .prov-label {
+    display:block; font-family:var(--mono); font-size:9.5px; letter-spacing:.14em;
+    color:var(--ok); margin-bottom:7px;
+  }
+  .prov-quote.warn .prov-label { color:var(--warn); }
+  .prov-page { position:relative; margin:0 16px; flex:1; overflow-y:auto; border:1px solid var(--line); border-radius:5px; }
+  .prov-page img { display:block; width:100%; }
+  .prov-page.noimg::after {
+    content:"page image not rendered — run the pipeline"; display:block; padding:26px 16px;
+    font-family:var(--mono); font-size:10.5px; color:var(--dim); text-align:center;
+  }
+  .prov-hl {
+    position:absolute; background:rgba(240,165,0,.26);
+    border:1.5px solid var(--warn); border-radius:2px;
+    box-shadow:0 0 0 3px rgba(240,165,0,.12);
+  }
+  .prov-foot { padding:13px 16px; font-size:11px; line-height:1.5; color:var(--dim); border-top:1px solid var(--line); }
+  .prov-empty { padding:26px 16px; font-family:var(--mono); font-size:11px; color:var(--dim); text-align:center; }
+
+  /* validation report */
+  #report {
+    position:absolute; right:0; top:0; bottom:0; width:520px;
+    background:var(--panel); border-left:1px solid var(--line);
+    transform:translateX(101%); transition:transform .28s cubic-bezier(.4,0,.2,1);
+    display:flex; flex-direction:column; z-index:6;
+  }
+  #report.open { transform:none; }
+  .report-head { padding:15px 18px; border-bottom:1px solid var(--line); }
+  .report-head h2 { font-family:var(--mono); font-size:12px; letter-spacing:.14em; font-weight:600; }
+  .report-head p { font-size:11.5px; color:var(--dim); margin-top:6px; line-height:1.55; }
+  #report-body { padding:10px; overflow-y:auto; flex:1; }
+  .check {
+    display:grid; grid-template-columns:46px 26px 1fr; gap:8px 10px;
+    padding:9px 10px; border-radius:4px; align-items:baseline;
+    font-family:var(--mono); font-size:11px; border-bottom:1px solid #171c24;
+  }
+  .check-status { font-weight:700; }
+  .check.pass .check-status { color:var(--ok); }
+  .check.fail .check-status { color:#ff5f56; }
+  .check.warn .check-status { color:var(--warn); }
+  .check-code { color:var(--dim); }
+  .check-name { color:var(--text); }
+  .check-detail { grid-column:3; color:var(--dim); font-size:10.5px; }
+  .report-foot { padding:14px 18px; border-top:1px solid var(--line); display:flex; align-items:center; gap:12px; }
+  .verdict { font-family:var(--mono); font-size:12px; letter-spacing:.14em; font-weight:700; }
+  .verdict.ok { color:var(--ok); } .verdict.bad { color:#ff5f56; }
+  .report-foot span.note { font-size:11px; color:var(--dim); line-height:1.5; }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="back" href="./index.html" aria-label="Back to library">&larr;</a>
+  <div class="doc">
+    <div id="doc-title">Loading…</div>
+    <div id="doc-source">—</div>
+  </div>
+  <div class="spacer"></div>
+  <button class="btn" id="mode">Start task</button>
+  <button class="btn" id="xray">X-ray</button>
+  <button class="btn" id="show-all">Finished state</button>
+  <button class="btn" id="report-toggle">Verification</button>
+</header>
+
+<main>
+  <div class="stage">
+    <div id="viewport">
+      <svg id="leaders" xmlns="http://www.w3.org/2000/svg"></svg>
+      <div id="labels"></div>
+      <div id="torque-hud"></div>
+      <div id="unmodelled" hidden></div>
+      <div id="step-detail"></div>
+      <div id="result"></div>
+      <div id="provenance"></div>
+      <div id="report">
+        <div class="report-head">
+          <h2>DOCUMENT VERIFICATION</h2>
+          <p>Properties a physically buildable procedure must satisfy. A language model
+             can emit plausible JSON indefinitely; it cannot make a cyclic assembly
+             order acyclic, or resolve a reference to a part it never declared.</p>
+        </div>
+        <div id="report-body"></div>
+        <div class="report-foot">
+          <span class="verdict" id="report-verdict">—</span>
+          <span class="note">Failing a fatal check rejects the world before it is ever rendered.</span>
+        </div>
+      </div>
+    </div>
+    <div class="controls">
+      <button class="btn" id="prev">&larr; Prev</button>
+      <span id="step-counter">— / —</span>
+      <button class="btn" id="next">Next &rarr;</button>
+      <button class="btn" id="play">Play assembly</button>
+      <div class="slider">
+        <label for="explode">EXPLODE</label>
+        <input type="range" id="explode" min="0" max="100" value="0">
+      </div>
+    </div>
+  </div>
+
+  <aside>
+    <div class="aside-head" id="aside-title">PROCEDURE — RECOVERED PARTIAL ORDER</div>
+    <div id="steps"></div>
+    <div id="task" hidden>
+      <div class="task-hud">
+        <div>elapsed <b id="task-timer">0:00</b></div>
+        <div class="bad">errors <b id="task-errors">0</b></div>
+        <div>left <b id="task-left">—</b></div>
+      </div>
+      <div id="task-msg"></div>
+      <div id="tray"></div>
+    </div>
+  </aside>
+</main>
+
+<script type="importmap">
+{ "imports": { "three": "./vendor/three.module.js" } }
+</script>
+<script type="module" src="./app.js"></script>
+</body>
+</html>

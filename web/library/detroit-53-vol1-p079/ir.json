@@ -1,0 +1,481 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.139 - Start the timing gear over the end...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the timing gear over the end of the crankshaft with the timing marks on the outer rim of the gear Since the camshafts must be in time with the facing out and the keyway in the gear in alignment crankshaft, timing marks are located ...",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1507,
+        "bbox": [
+          53.039999999999935,
+          442.8859999999999,
+          564.9527999999998,
+          500.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the timing gear over the end of the crankshaft with the timing marks on the outer rim of the gear Since the camshafts must be in time with the facing out and the keyway in the gear in alignment crankshaft, timing marks are located ...",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1507,
+        "bbox": [
+          53.039999999999935,
+          442.8859999999999,
+          564.9527999999998,
+          500.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the timing gear over the end of the crankshaft with the timing marks on the outer rim of the gear Since the camshafts must be in time with the facing out and the keyway in the gear in alignment crankshaft, timing marks are located ...",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1507,
+        "bbox": [
+          53.039999999999935,
+          442.8859999999999,
+          564.9527999999998,
+          500.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the timing gear over the end of the crankshaft with the timing marks on the outer rim of the gear Since the camshafts must be in time with the facing out and the keyway in the gear in alignment crankshaft, timing marks are located ...",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1507,
+        "bbox": [
+          53.039999999999935,
+          442.8859999999999,
+          564.9527999999998,
+          500.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "keyway",
+      "name": "Keyway",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "keyway",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the timing gear over the end of the crankshaft with the timing marks on the outer rim of the gear Since the camshafts must be in time with the facing out and the keyway in the gear in alignment crankshaft, timing marks are located ...",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1507,
+        "bbox": [
+          53.039999999999935,
+          442.8859999999999,
+          564.9527999999998,
+          500.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "woodruff_key",
+      "name": "Woodruff key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "woodruff_key",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the timing gear over the end of the crankshaft with the timing marks on the outer rim of the gear Since the camshafts must be in time with the facing out and the keyway in the gear in alignment crankshaft, timing marks are located ...",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1507,
+        "bbox": [
+          53.039999999999935,
+          442.8859999999999,
+          564.9527999999998,
+          500.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the timing gear over the end of the crankshaft with the timing marks on the outer rim of the gear Since the camshafts must be in time with the facing out and the keyway in the gear in alignment crankshaft, timing marks are located ...",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1507,
+        "bbox": [
+          53.039999999999935,
+          442.8859999999999,
+          564.9527999999998,
+          500.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_gear",
+      "name": "Crankshaft gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_gear",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the timing gear over the end of the crankshaft with the timing marks on the outer rim of the gear Since the camshafts must be in time with the facing out and the keyway in the gear in alignment crankshaft, timing marks are located ...",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1507,
+        "bbox": [
+          53.039999999999935,
+          442.8859999999999,
+          564.9527999999998,
+          500.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_timing_gear",
+      "name": "Crankshaft timing gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_timing_gear",
+      "provenance": {
+        "page": 139,
+        "quote": "Align the proper timing mark on the crankshaft Section 1.7.1). gear with the corresponding mark on the idler gear (refer to Section 1.7.1). Remove Crankshaft Timing Gear (Flywheel NOTE: When advanced timing is required, align the timing ...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1780,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 139,
+        "quote": "Align the proper timing mark on the crankshaft Section 1.7.1). gear with the corresponding mark on the idler gear (refer to Section 1.7.1). Remove Crankshaft Timing Gear (Flywheel NOTE: When advanced timing is required, align the timing ...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1780,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "socket_head_bolt",
+      "name": "Socket head bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "socket_head_bolt",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the three 3/8 \"'-24 socket head bolts into the fit on the crankshaft. Remove the gear as follows: crankshaft. Then slowly draw the gear tight against the shoulder on the crankshaft by tightening the bolts l. Remove the crankshaft r...",
+        "verified": true,
+        "char_start": 1871,
+        "char_end": 2285,
+        "bbox": [
+          52.559999999999974,
+          583.2819999999999,
+          565.5372,
+          644.5329999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_tight",
+      "name": "Gear tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_tight",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the three 3/8 \"'-24 socket head bolts into the fit on the crankshaft. Remove the gear as follows: crankshaft. Then slowly draw the gear tight against the shoulder on the crankshaft by tightening the bolts l. Remove the crankshaft r...",
+        "verified": true,
+        "char_start": 1871,
+        "char_end": 2285,
+        "bbox": [
+          52.559999999999974,
+          583.2819999999999,
+          565.5372,
+          644.5329999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the three 3/8 \"'-24 socket head bolts into the fit on the crankshaft. Remove the gear as follows: crankshaft. Then slowly draw the gear tight against the shoulder on the crankshaft by tightening the bolts l. Remove the crankshaft r...",
+        "verified": true,
+        "char_start": 1871,
+        "char_end": 2285,
+        "bbox": [
+          52.559999999999974,
+          583.2819999999999,
+          565.5372,
+          644.5329999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_rear_oil_seal",
+      "name": "Crankshaft rear oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_rear_oil_seal",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the three 3/8 \"'-24 socket head bolts into the fit on the crankshaft. Remove the gear as follows: crankshaft. Then slowly draw the gear tight against the shoulder on the crankshaft by tightening the bolts l. Remove the crankshaft r...",
+        "verified": true,
+        "char_start": 1871,
+        "char_end": 2285,
+        "bbox": [
+          52.559999999999974,
+          583.2819999999999,
+          565.5372,
+          644.5329999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 139,
+        "quote": "Start the three 3/8 \"'-24 socket head bolts into the fit on the crankshaft. Remove the gear as follows: crankshaft. Then slowly draw the gear tight against the shoulder on the crankshaft by tightening the bolts l. Remove the crankshaft r...",
+        "verified": true,
+        "char_start": 1871,
+        "char_end": 2285,
+        "bbox": [
+          52.559999999999974,
+          583.2819999999999,
+          565.5372,
+          644.5329999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Start the timing gear over the end of the crankshaft with the timing marks on the outer rim of the gear Since the camshafts must be in time with the facing out and the keyway in the gear in alignment crankshaft, timing marks are located on the rim of the with the Woodruff key in the crankshaft. idler gear with corresponding uming marks stamped on the crankshaft gear and camshaft gears (refer to",
+      "source_number": 2,
+      "installs": [
+        "fuel_pump_drive_gear",
+        "halve_of_the_crankshaft",
+        "idler_gear_outer",
+        "camshaft",
+        "keyway",
+        "woodruff_key",
+        "idler_gear",
+        "crankshaft_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 139,
+        "quote": "Start the timing gear over the end of the crankshaft with the timing marks on the outer rim of the gear Since the camshafts must be in time with the facing out and the keyway in the gear in alignment crankshaft, timing marks are located ...",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1507,
+        "bbox": [
+          53.039999999999935,
+          442.8859999999999,
+          564.9527999999998,
+          500.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Align the proper timing mark on the crankshaft Section 1.7.1). gear with the corresponding mark on the idler gear (refer to Section 1.7.1). Remove Crankshaft Timing Gear (Flywheel NOTE: When advanced timing is required, align the timing mark \u201cA\u201d with the timing mark on",
+      "source_number": 3,
+      "installs": [
+        "crankshaft_timing_gear",
+        "hammer_puller_set_flywheel"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: When advanced timing is required, align the timing mark \u201cA\u201d with the timing mark on",
+      "provenance": {
+        "page": 139,
+        "quote": "Align the proper timing mark on the crankshaft Section 1.7.1). gear with the corresponding mark on the idler gear (refer to Section 1.7.1). Remove Crankshaft Timing Gear (Flywheel NOTE: When advanced timing is required, align the timing ...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1780,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Start the three 3/8 \"'-24 socket head bolts into the fit on the crankshaft. Remove the gear as follows: crankshaft. Then slowly draw the gear tight against the shoulder on the crankshaft by tightening the bolts l. Remove the crankshaft rear oil seal sleeve, if used. uniformly to 35-39 lb-ft torque. To remove the sleeve, peen the outside diameter of the sleeve until it stretches sufficiently so it can be slipped",
+      "source_number": 4,
+      "installs": [
+        "socket_head_bolt",
+        "gear_tight",
+        "engine_front_cover_bolt",
+        "crankshaft_rear_oil_seal",
+        "crankshaft_front_sleeve"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 47.5,
+      "warning": null,
+      "provenance": {
+        "page": 139,
+        "quote": "Start the three 3/8 \"'-24 socket head bolts into the fit on the crankshaft. Remove the gear as follows: crankshaft. Then slowly draw the gear tight against the shoulder on the crankshaft by tightening the bolts l. Remove the crankshaft r...",
+        "verified": true,
+        "char_start": 1871,
+        "char_end": 2285,
+        "bbox": [
+          52.559999999999974,
+          583.2819999999999,
+          565.5372,
+          644.5329999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check the backlash with the mating gear. The off of the crankshaft. backlash should be .003 \" to .005 \u201d with new gears or 008 \u201d maximum with used gears.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 139,
+        "quote": "Check the backlash with the mating gear. The off of the crankshaft. backlash should be .003 \" to .005 \u201d with new gears or 008 \u201d maximum with used gears.",
+        "verified": true,
+        "char_start": 2289,
+        "char_end": 2441,
+        "bbox": [
+          52.80000000000001,
+          637.2819999999999,
+          565.7103999999999,
+          669.6279999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

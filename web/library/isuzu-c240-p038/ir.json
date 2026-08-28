@@ -1,0 +1,220 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.118 - Install the fuel injection pipes @ and...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "fuel_injection_pipe",
+      "name": "Fuel injection pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_injection_pipe",
+      "provenance": {
+        "page": 118,
+        "quote": "Install the fuel injection pipes @ and tighten the sleeve nuts (1) to the specified torque. The sleeve nut tightening torque for in-line type injection pump and the distributor type pump is identical. Tighten them a little at a time even...",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 663,
+        "bbox": [
+          288.48,
+          219.22479999999996,
+          554.2432393333332,
+          343.5385
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "sleeve_nut",
+      "name": "Sleeve nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "sleeve_nut",
+      "provenance": {
+        "page": 118,
+        "quote": "Install the fuel injection pipes @ and tighten the sleeve nuts (1) to the specified torque. The sleeve nut tightening torque for in-line type injection pump and the distributor type pump is identical. Tighten them a little at a time even...",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 663,
+        "bbox": [
+          288.48,
+          219.22479999999996,
+          554.2432393333332,
+          343.5385
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "injection_pump",
+      "name": "Injection pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injection_pump",
+      "provenance": {
+        "page": 118,
+        "quote": "Install the fuel injection pipes @ and tighten the sleeve nuts (1) to the specified torque. The sleeve nut tightening torque for in-line type injection pump and the distributor type pump is identical. Tighten them a little at a time even...",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 663,
+        "bbox": [
+          288.48,
+          219.22479999999996,
+          554.2432393333332,
+          343.5385
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "them_a_little",
+      "name": "Them a little",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "them_a_little",
+      "provenance": {
+        "page": 118,
+        "quote": "Install the fuel injection pipes @ and tighten the sleeve nuts (1) to the specified torque. The sleeve nut tightening torque for in-line type injection pump and the distributor type pump is identical. Tighten them a little at a time even...",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 663,
+        "bbox": [
+          288.48,
+          219.22479999999996,
+          554.2432393333332,
+          343.5385
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "injection_nozzle_holder",
+      "name": "Injection nozzle holder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injection_nozzle_holder",
+      "provenance": {
+        "page": 118,
+        "quote": "Tighten the injection nozzle holders, which are in temporarily tightened condition in Reassembly 2nd Step, to the specified torque.",
+        "verified": true,
+        "char_start": 825,
+        "char_end": 956,
+        "bbox": [
+          308.4,
+          513.0908000000001,
+          555.1608279999999,
+          547.2148000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the fuel injection pipes @ and tighten the sleeve nuts (1) to the specified torque. The sleeve nut tightening torque for in-line type injection pump and the distributor type pump is identical. Tighten them a little at a time evenly so that no undue stress is applied on the pipe line. Injection Pipe Sleeve Nut Torque kg-m (Ib.ft/N-m) 2.5 \u2014 3.5 (23.1 \u2014 30.3/24.5 \u2014 34.3)",
+      "source_number": 1,
+      "installs": [
+        "fuel_injection_pipe",
+        "sleeve_nut",
+        "injection_pump",
+        "them_a_little"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 24.5,
+      "warning": null,
+      "provenance": {
+        "page": 118,
+        "quote": "Install the fuel injection pipes @ and tighten the sleeve nuts (1) to the specified torque. The sleeve nut tightening torque for in-line type injection pump and the distributor type pump is identical. Tighten them a little at a time even...",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 663,
+        "bbox": [
+          288.48,
+          219.22479999999996,
+          554.2432393333332,
+          343.5385
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Carefully position and set the clips @. Note: An improperly positioned clip will result in objection- able fuel pulsing noise and injection pipe breakage.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note: An improperly positioned clip will result in objection- able fuel pulsing noise and injection pipe breakage.",
+      "provenance": {
+        "page": 118,
+        "quote": "Carefully position and set the clips @. Note: An improperly positioned clip will result in objection- able fuel pulsing noise and injection pipe breakage.",
+        "verified": true,
+        "char_start": 667,
+        "char_end": 821,
+        "bbox": [
+          288.72,
+          355.3817,
+          552.44528,
+          506.8748
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Tighten the injection nozzle holders, which are in temporarily tightened condition in Reassembly 2nd Step, to the specified torque.",
+      "source_number": 3,
+      "installs": [
+        "injection_nozzle_holder"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 118,
+        "quote": "Tighten the injection nozzle holders, which are in temporarily tightened condition in Reassembly 2nd Step, to the specified torque.",
+        "verified": true,
+        "char_start": 825,
+        "char_end": 956,
+        "bbox": [
+          308.4,
+          513.0908000000001,
+          555.1608279999999,
+          547.2148000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

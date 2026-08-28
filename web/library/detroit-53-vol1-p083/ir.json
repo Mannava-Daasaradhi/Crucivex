@@ -1,0 +1,421 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.144 - Affix a new blower drive support gasket...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 144,
+        "quote": "Affix a new blower drive support gasket to the forward face of the support. Refer to Figs. 6 and 7 for the relative position of the parts and assemble the blower drive support as",
+        "verified": true,
+        "char_start": 1328,
+        "char_end": 1506,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 144,
+        "quote": "Affix a new blower drive support gasket to the forward face of the support. Refer to Figs. 6 and 7 for the relative position of the parts and assemble the blower drive support as",
+        "verified": true,
+        "char_start": 1328,
+        "char_end": 1506,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 144,
+        "quote": "Affix a new blower drive support gasket to the forward face of the support. Refer to Figs. 6 and 7 for the relative position of the parts and assemble the blower drive support as",
+        "verified": true,
+        "char_start": 1328,
+        "char_end": 1506,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_adjusted_relative",
+      "name": "Valve adjusted relative",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_adjusted_relative",
+      "provenance": {
+        "page": 144,
+        "quote": "Affix a new blower drive support gasket to the forward face of the support. Refer to Figs. 6 and 7 for the relative position of the parts and assemble the blower drive support as",
+        "verified": true,
+        "char_start": 1328,
+        "char_end": 1506,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 144,
+        "quote": "Affix a new blower drive support gasket to the forward face of the support. Refer to Figs. 6 and 7 for the relative position of the parts and assemble the blower drive support as",
+        "verified": true,
+        "char_start": 1328,
+        "char_end": 1506,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support_assembly",
+      "name": "Blower drive support assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support_assembly",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_gear",
+      "name": "Blower drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_gear",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "socket_head_bolt",
+      "name": "Socket head bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "socket_head_bolt",
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Affix a new blower drive support gasket to the forward face of the support. Refer to Figs. 6 and 7 for the relative position of the parts and assemble the blower drive support as",
+      "source_number": 1,
+      "installs": [
+        "blower_drive_support",
+        "head_gasket",
+        "nut_securing_fig",
+        "valve_adjusted_relative",
+        "assembly_examine_the_blower"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 144,
+        "quote": "Affix a new blower drive support gasket to the forward face of the support. Refer to Figs. 6 and 7 for the relative position of the parts and assemble the blower drive support as",
+        "verified": true,
+        "char_start": 1328,
+        "char_end": 1506,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight into the shaft bore in the drive gear from the recessed 3. Install the six bolts, lock washers, plain washers and one socket head bolt. Tighten the bolts to 20-24 Ib-ft side. torque.",
+      "source_number": 2,
+      "installs": [
+        "blower_drive_support_assembly",
+        "copper_plated_dowel_pin",
+        "assembly_rear_end_plate",
+        "blower_drive_gear",
+        "end_of_the_shaft",
+        "press_the_shaft_straight",
+        "fuel_pump_drive_gear",
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "plain_washer",
+        "socket_head_bolt"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": null,
+      "provenance": {
+        "page": 144,
+        "quote": "Place the blower drive support assembly over the follows: two dowel pins in the blower rear end plate and against the gasket. l. Lubricate the drive gear end of the blower drive gear shaft with engine oil. Then start the shaft straight i...",
+        "verified": true,
+        "char_start": 1510,
+        "char_end": 1928,
+        "bbox": [
+          84.24000000000004,
+          595.29,
+          588.6990000000001,
+          669.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

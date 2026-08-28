@@ -1,0 +1,652 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.119 - High velocity type injector cam",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 119,
+        "quote": "High velocity type injector cam.",
+        "verified": true,
+        "char_start": 3621,
+        "char_end": 3653,
+        "bbox": [
+          337.2000000000001,
+          668.0759999999999,
+          468.5241600000001,
+          676.0759999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 119,
+        "quote": "High velocity type injector cam.",
+        "verified": true,
+        "char_start": 3621,
+        "char_end": 3653,
+        "bbox": [
+          337.2000000000001,
+          668.0759999999999,
+          468.5241600000001,
+          676.0759999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 120,
+        "quote": "Scribe a line on the crankshaft pulley in line with the end of the pointer.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 79,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 120,
+        "quote": "Scribe a line on the crankshaft pulley in line with the end of the pointer.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 79,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 120,
+        "quote": "Slowly turn the crankshaft, opposite the direction of rotation, until the indicator hand stops moving.",
+        "verified": true,
+        "char_start": 84,
+        "char_end": 186,
+        "bbox": [
+          86.88000000000002,
+          102.08999999999992,
+          325.12260000000003,
+          123.04099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 120,
+        "quote": "Slowly turn the crankshaft, opposite the direction of rotation, until the indicator hand stops moving.",
+        "verified": true,
+        "char_start": 84,
+        "char_end": 186,
+        "bbox": [
+          86.88000000000002,
+          102.08999999999992,
+          325.12260000000003,
+          123.04099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 120,
+        "quote": "Remove the dial indicator and rod from the engine.",
+        "verified": true,
+        "char_start": 709,
+        "char_end": 759,
+        "bbox": [
+          87.12000000000003,
+          308.80799999999994,
+          326.79720000000003,
+          328.0899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 120,
+        "quote": "Install the injector as outlined in Section 2.1 or 2.1.1. Then, refer to Section 14 and adjust the exhaust valve clearance and time the fuel injector.",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 914,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_an_exhaust_valve",
+      "name": "Insert an exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_an_exhaust_valve",
+      "provenance": {
+        "page": 120,
+        "quote": "Install the injector as outlined in Section 2.1 or 2.1.1. Then, refer to Section 14 and adjust the exhaust valve clearance and time the fuel injector.",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 914,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_injector",
+      "name": "Fuel injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_injector",
+      "provenance": {
+        "page": 120,
+        "quote": "Install the injector as outlined in Section 2.1 or 2.1.1. Then, refer to Section 14 and adjust the exhaust valve clearance and time the fuel injector.",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 914,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 120,
+        "quote": "Turn the crankshaft, in the direction of rotation, until the exhaust valves in the cylinder selected are completely open. Reinstall the dial indicator so the indicator spindle rests on the top of the injector follower. Then, set the indi...",
+        "verified": true,
+        "char_start": 919,
+        "char_end": 1297,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 120,
+        "quote": "Turn the crankshaft, in the direction of rotation, until the exhaust valves in the cylinder selected are completely open. Reinstall the dial indicator so the indicator spindle rests on the top of the injector follower. Then, set the indi...",
+        "verified": true,
+        "char_start": 919,
+        "char_end": 1297,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 120,
+        "quote": "Check the front end of the camshaft for an identification mark. For identification purposes, a letter \u201cV\u201d is stamped on each end of a low velocity camshaft; but a letter \u201c\u0423\u201d is not stamped on a high velocity camshaft. Note the indicator ...",
+        "verified": true,
+        "char_start": 1302,
+        "char_end": 1642,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pointer_attached",
+      "name": "Pointer attached",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pointer_attached",
+      "provenance": {
+        "page": 120,
+        "quote": "Remove the dial indicator; also remove the pointer attached to the front of the engine.",
+        "verified": true,
+        "char_start": 1647,
+        "char_end": 1734,
+        "bbox": [
+          354.24000000000007,
+          287.32899999999995,
+          590.1610400000001,
+          306.33799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 120,
+        "quote": "Install the valve rocker cover.",
+        "verified": true,
+        "char_start": 1739,
+        "char_end": 1770,
+        "bbox": [
+          370.32,
+          319.25299999999993,
+          493.05888,
+          327.25299999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "High velocity type injector cam.",
+      "source_number": 1,
+      "installs": [
+        "end_of_the_injector",
+        "t_push_rod_cam"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "High velocity type injector cam.",
+        "verified": true,
+        "char_start": 3621,
+        "char_end": 3653,
+        "bbox": [
+          337.2000000000001,
+          668.0759999999999,
+          468.5241600000001,
+          676.0759999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Low velocity type injector \u0441\u0430\u0442,",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "Low velocity type injector \u0441\u0430\u0442,",
+        "verified": true,
+        "char_start": 3658,
+        "char_end": 3689,
+        "bbox": [
+          337.2000000000001,
+          677.7249999999999,
+          465.5516800000001,
+          685.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Scribe a line on the crankshaft pulley in line with the end of the pointer.",
+      "source_number": 10,
+      "installs": [
+        "tbe_lubricating_oil_line",
+        "crankshaft_splined_crankshaft_pulley"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 120,
+        "quote": "Scribe a line on the crankshaft pulley in line with the end of the pointer.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 79,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Slowly turn the crankshaft, opposite the direction of rotation, until the indicator hand stops moving.",
+      "source_number": 11,
+      "installs": [
+        "halve_of_the_crankshaft",
+        "solid_stop"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 120,
+        "quote": "Slowly turn the crankshaft, opposite the direction of rotation, until the indicator hand stops moving.",
+        "verified": true,
+        "char_start": 84,
+        "char_end": 186,
+        "bbox": [
+          86.88000000000002,
+          102.08999999999992,
+          325.12260000000003,
+          123.04099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Continue to turn the crankshaft, opposite the direction of rotation, until the indicator starts to move again. Now set the indicator on zero and continue to turn the crankshaft until the indicator reading is 010\".",
+      "source_number": 12,
+      "installs": [],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 120,
+        "quote": "Continue to turn the crankshaft, opposite the direction of rotation, until the indicator starts to move again. Now set the indicator on zero and continue to turn the crankshaft until the indicator reading is 010\".",
+        "verified": true,
+        "char_start": 191,
+        "char_end": 404,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Scribe the second line on the crankshaft pulley in line with the end of the pointer.",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 120,
+        "quote": "Scribe the second line on the crankshaft pulley in line with the end of the pointer.",
+        "verified": true,
+        "char_start": 409,
+        "char_end": 493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Scribe a third line on the pulley half way between the first two lines. This is top dead center. NOTE: If the crankshaft pulley retaining bolt loosened up, tighten it to the torque specified in Section 1.0.",
+      "source_number": 14,
+      "installs": [],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: If the crankshaft pulley retaining bolt loosened up, tighten it to the torque specified in Section 1.",
+      "provenance": {
+        "page": 120,
+        "quote": "Scribe a third line on the pulley half way between the first two lines. This is top dead center. NOTE: If the crankshaft pulley retaining bolt loosened up, tighten it to the torque specified in Section 1.0.",
+        "verified": true,
+        "char_start": 498,
+        "char_end": 704,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the dial indicator and rod from the engine.",
+      "source_number": 15,
+      "installs": [
+        "bearing_pilot_rod"
+      ],
+      "depends_on": [],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 120,
+        "quote": "Remove the dial indicator and rod from the engine.",
+        "verified": true,
+        "char_start": 709,
+        "char_end": 759,
+        "bbox": [
+          87.12000000000003,
+          308.80799999999994,
+          326.79720000000003,
+          328.0899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Install the injector as outlined in Section 2.1 or 2.1.1. Then, refer to Section 14 and adjust the exhaust valve clearance and time the fuel injector.",
+      "source_number": 16,
+      "installs": [
+        "spray_nozzle_outlined",
+        "insert_an_exhaust_valve",
+        "fuel_injector"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 120,
+        "quote": "Install the injector as outlined in Section 2.1 or 2.1.1. Then, refer to Section 14 and adjust the exhaust valve clearance and time the fuel injector.",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 914,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Turn the crankshaft, in the direction of rotation, until the exhaust valves in the cylinder selected are completely open. Reinstall the dial indicator so the indicator spindle rests on the top of the injector follower. Then, set the indicator on zero. Next turn the crankshaft slowly, in the direction of rotation, unul the center mark on the pulley is in line with the pointer.",
+      "source_number": 17,
+      "installs": [
+        "cam_follower",
+        "next"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s04",
+        "s09"
+      ],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 120,
+        "quote": "Turn the crankshaft, in the direction of rotation, until the exhaust valves in the cylinder selected are completely open. Reinstall the dial indicator so the indicator spindle rests on the top of the injector follower. Then, set the indi...",
+        "verified": true,
+        "char_start": 919,
+        "char_end": 1297,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Check the front end of the camshaft for an identification mark. For identification purposes, a letter \u201cV\u201d is stamped on each end of a low velocity camshaft; but a letter \u201c\u0423\u201d is not stamped on a high velocity camshaft. Note the indicator reading and compare it with the dimensions listed in Table 1 for the particular camshaft in the engine.",
+      "source_number": 18,
+      "installs": [
+        "camshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note the indicator reading and compare it with the dimensions listed in Table 1 for the particular camshaft in the engine.",
+      "provenance": {
+        "page": 120,
+        "quote": "Check the front end of the camshaft for an identification mark. For identification purposes, a letter \u201cV\u201d is stamped on each end of a low velocity camshaft; but a letter \u201c\u0423\u201d is not stamped on a high velocity camshaft. Note the indicator ...",
+        "verified": true,
+        "char_start": 1302,
+        "char_end": 1642,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Remove the dial indicator; also remove the pointer attached to the front of the engine.",
+      "source_number": 19,
+      "installs": [
+        "pointer_attached"
+      ],
+      "depends_on": [],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 120,
+        "quote": "Remove the dial indicator; also remove the pointer attached to the front of the engine.",
+        "verified": true,
+        "char_start": 1647,
+        "char_end": 1734,
+        "bbox": [
+          354.24000000000007,
+          287.32899999999995,
+          590.1610400000001,
+          306.33799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Install the valve rocker cover.",
+      "source_number": 20,
+      "installs": [
+        "valve_rocker_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 120,
+        "quote": "Install the valve rocker cover.",
+        "verified": true,
+        "char_start": 1739,
+        "char_end": 1770,
+        "bbox": [
+          370.32,
+          319.25299999999993,
+          493.05888,
+          327.25299999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

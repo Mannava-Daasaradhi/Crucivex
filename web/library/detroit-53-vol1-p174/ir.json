@@ -1,0 +1,1070 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.290 - Disassemble the governor cover: a. Clamp the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retaining_bolt",
+      "name": "Bearing retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retaining_bolt",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "stop_lever_shaft",
+      "name": "Stop lever shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "stop_lever_shaft",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "worn",
+      "name": "Worn",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "stop_shaft",
+      "name": "Stop shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "stop_shaft",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "variable_speed_spring",
+      "name": "Variable speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "variable_speed_spring",
+      "provenance": {
+        "page": 291,
+        "quote": "Disassemble the variable speed spring housing: Loosen the bolt securing the speed control lever to d. the speed control shaft and pull the lever from the shaft. Remove the Woodruff key and flat washer from the speed control shaft. Fig. \u0417...",
+        "verified": true,
+        "char_start": 783,
+        "char_end": 1076,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 291,
+        "quote": "Disassemble the variable speed spring housing: Loosen the bolt securing the speed control lever to d. the speed control shaft and pull the lever from the shaft. Remove the Woodruff key and flat washer from the speed control shaft. Fig. \u0417...",
+        "verified": true,
+        "char_start": 783,
+        "char_end": 1076,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_securing",
+      "name": "Bolt securing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_securing",
+      "provenance": {
+        "page": 291,
+        "quote": "Disassemble the variable speed spring housing: Loosen the bolt securing the speed control lever to d. the speed control shaft and pull the lever from the shaft. Remove the Woodruff key and flat washer from the speed control shaft. Fig. \u0417...",
+        "verified": true,
+        "char_start": 783,
+        "char_end": 1076,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_control_lever",
+      "name": "Speed control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_lever",
+      "provenance": {
+        "page": 291,
+        "quote": "Disassemble the variable speed spring housing: Loosen the bolt securing the speed control lever to d. the speed control shaft and pull the lever from the shaft. Remove the Woodruff key and flat washer from the speed control shaft. Fig. \u0417...",
+        "verified": true,
+        "char_start": 783,
+        "char_end": 1076,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_control_shaft",
+      "name": "Speed control shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_shaft",
+      "provenance": {
+        "page": 291,
+        "quote": "Disassemble the variable speed spring housing: Loosen the bolt securing the speed control lever to d. the speed control shaft and pull the lever from the shaft. Remove the Woodruff key and flat washer from the speed control shaft. Fig. \u0417...",
+        "verified": true,
+        "char_start": 783,
+        "char_end": 1076,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "woodruff_key",
+      "name": "Woodruff key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "woodruff_key",
+      "provenance": {
+        "page": 291,
+        "quote": "Disassemble the variable speed spring housing: Loosen the bolt securing the speed control lever to d. the speed control shaft and pull the lever from the shaft. Remove the Woodruff key and flat washer from the speed control shaft. Fig. \u0417...",
+        "verified": true,
+        "char_start": 783,
+        "char_end": 1076,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 291,
+        "quote": "Disassemble the variable speed spring housing: Loosen the bolt securing the speed control lever to d. the speed control shaft and pull the lever from the shaft. Remove the Woodruff key and flat washer from the speed control shaft. Fig. \u0417...",
+        "verified": true,
+        "char_start": 783,
+        "char_end": 1076,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 291,
+        "quote": "Disassemble the variable speed spring housing: Loosen the bolt securing the speed control lever to d. the speed control shaft and pull the lever from the shaft. Remove the Woodruff key and flat washer from the speed control shaft. Fig. \u0417...",
+        "verified": true,
+        "char_start": 783,
+        "char_end": 1076,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "light_governor_weight",
+      "name": "Light governor weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "light_governor_weight",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_governor",
+      "name": "Of the governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_governor",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_housing",
+      "name": "Governor weight housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_housing",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_bolt",
+      "name": "Of the bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bolt",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_carrier",
+      "name": "Weight carrier",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_carrier",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retainer",
+      "name": "Bearing retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_shaft_bearing",
+      "name": "Weight shaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_shaft_bearing",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_riser_thrust",
+      "name": "Governor riser thrust",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser_thrust",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_linkage",
+      "name": "Governor linkage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_linkage",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor linkage and operating shaft from the governor housing as follows: . Remove the spring\u0427 retainer and plain washer securing the connecting link to the differenual lever and remove the connecung link. . Remove the spring...",
+        "verified": true,
+        "char_start": 2039,
+        "char_end": 2400,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor linkage and operating shaft from the governor housing as follows: . Remove the spring\u0427 retainer and plain washer securing the connecting link to the differenual lever and remove the connecung link. . Remove the spring...",
+        "verified": true,
+        "char_start": 2039,
+        "char_end": 2400,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor linkage and operating shaft from the governor housing as follows: . Remove the spring\u0427 retainer and plain washer securing the connecting link to the differenual lever and remove the connecung link. . Remove the spring...",
+        "verified": true,
+        "char_start": 2039,
+        "char_end": 2400,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_link",
+      "name": "Connecting link",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_link",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor linkage and operating shaft from the governor housing as follows: . Remove the spring\u0427 retainer and plain washer securing the connecting link to the differenual lever and remove the connecung link. . Remove the spring...",
+        "verified": true,
+        "char_start": 2039,
+        "char_end": 2400,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecung_link",
+      "name": "Connecung link",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecung_link",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor linkage and operating shaft from the governor housing as follows: . Remove the spring\u0427 retainer and plain washer securing the connecting link to the differenual lever and remove the connecung link. . Remove the spring...",
+        "verified": true,
+        "char_start": 2039,
+        "char_end": 2400,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor linkage and operating shaft from the governor housing as follows: . Remove the spring\u0427 retainer and plain washer securing the connecting link to the differenual lever and remove the connecung link. . Remove the spring...",
+        "verified": true,
+        "char_start": 2039,
+        "char_end": 2400,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor linkage and operating shaft from the governor housing as follows: . Remove the spring\u0427 retainer and plain washer securing the connecting link to the differenual lever and remove the connecung link. . Remove the spring...",
+        "verified": true,
+        "char_start": 2039,
+        "char_end": 2400,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "operating_shaft_lever",
+      "name": "Operating shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "operating_shaft_lever",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor linkage and operating shaft from the governor housing as follows: . Remove the spring\u0427 retainer and plain washer securing the connecting link to the differenual lever and remove the connecung link. . Remove the spring...",
+        "verified": true,
+        "char_start": 2039,
+        "char_end": 2400,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and remove the two seal ring retainers. d. Pull the stop lever shaft out of the cover and remove the seal ring (on top of the bushing) from the cover. e. At this stage of disassembly, wash the cover assembly thoroughly in clean fuel oil and inspect the bushmg for wear and damage. If the bushing is satisfactory for further use, removal is unnecessary. If worn excessively or damaged, replace the bushing. f. If bushing removal is necessary, support the inner face of the cover over the opening in the bed of an arbor press. Place the remover J 21967 on top of the stop shaft bushing and under the ram of the press, then press the bushing out of the cover (Fig. 3).",
+      "source_number": 1,
+      "installs": [
+        "governor_cover",
+        "breather_tube_clamp",
+        "underside_of_the_cover",
+        "of_the_stop_lever",
+        "bearing_retaining_bolt",
+        "end_of_the_shaft",
+        "external_snap_ring",
+        "of_the_groove",
+        "solid_stop",
+        "seal_ring",
+        "drive_shaft_retainer",
+        "stop_lever_shaft",
+        "crankshaft_front_oil_seal",
+        "bottom_oil_ring",
+        "connecting_rod_bushing",
+        "valve_rocker_cover_clean",
+        "worn",
+        "blower_drive_support",
+        "stop_shaft",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 290,
+        "quote": "Disassemble the governor cover: a. Clamp the cover assembly in a vise equipped with soft Jaws. b. Loosen the stop lever retaining bolt and pull the lever from the shaft. Remove the snap ring from the groove in the stop e lever shaft and ...",
+        "verified": true,
+        "char_start": 2634,
+        "char_end": 3532,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Disassemble the variable speed spring housing: Loosen the bolt securing the speed control lever to d. the speed control shaft and pull the lever from the shaft. Remove the Woodruff key and flat washer from the speed control shaft. Fig. \u0417 - Removing Stop Lever Shaft Bushing from Governor Cover",
+      "source_number": 3,
+      "installs": [
+        "variable_speed_spring",
+        "of_the_flywheel_housing",
+        "bolt_securing",
+        "speed_control_lever",
+        "speed_control_shaft",
+        "woodruff_key",
+        "flat_washer",
+        "engine_speed"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 291,
+        "quote": "Disassemble the variable speed spring housing: Loosen the bolt securing the speed control lever to d. the speed control shaft and pull the lever from the shaft. Remove the Woodruff key and flat washer from the speed control shaft. Fig. \u0417...",
+        "verified": true,
+        "char_start": 783,
+        "char_end": 1076,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the tang on the lock washer away from the head of the bolt. Then, while holding the weight carrier from turning, remove the bearing retaining bolt, flat washer and lock washer. Place a 1/4\" brass rod in the bearing retainer bolt hole in the weight carrier shaft, then tap the shaft out of the weight shaft bearing with a hammer. Catch the shaft and weight carrier assembly by hand to prevent it from falling and being damaged. Slide the governor riser thrust bearing and riser e. from the weight shaft. NOTE: The thrust bearing is specially designed to absorb thrust load; therefore, looseness between the mating parts does not indicate excessive wear. f. Remove the weight shaft bearing from the governor housing. If necessary. use a small brass rod and hammer and tap the bearing out of the housing.",
+      "source_number": 4,
+      "installs": [
+        "light_governor_weight",
+        "drive_shaft_assembly",
+        "disassemble_governor_housing",
+        "flange",
+        "of_the_governor",
+        "governor_weight_housing",
+        "edge_of_the_plug",
+        "head_gasket",
+        "special_lock_washer",
+        "of_the_bolt",
+        "weight_carrier",
+        "another_drive_flange_washer",
+        "bearing_pilot_rod",
+        "bearing_retainer",
+        "bolt_hole",
+        "front_balance_weight",
+        "weight_shaft_bearing",
+        "governor_riser_thrust",
+        "bearing_the_end_bearing",
+        "governor_riser",
+        "governor_weight_shaft"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The thrust bearing is specially designed to absorb thrust load; therefore, looseness between the mating parts does not indicate excessive wear.",
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor weight and shaft assembly from the governor housing as follows: Clamp the flange of the governor housing in a vise a. equipped with soft jaws. Remove the governor weight housing plug and gasket (Fig. 1). . Bend the ta...",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 1454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the governor linkage and operating shaft from the governor housing as follows: . Remove the spring\u0427 retainer and plain washer securing the connecting link to the differenual lever and remove the connecung link. . Remove the spring retainer and plain washer securing the differential lever 10 the operating shaft lever and remove the differential lever. *",
+      "source_number": 6,
+      "installs": [
+        "governor_linkage",
+        "governor_operating_shaft",
+        "plain_washer",
+        "connecting_link",
+        "connecung_link",
+        "high_speed_spring_retainer",
+        "governor_differential_lever",
+        "operating_shaft_lever"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 292,
+        "quote": "Remove the governor linkage and operating shaft from the governor housing as follows: . Remove the spring\u0427 retainer and plain washer securing the connecting link to the differenual lever and remove the connecung link. . Remove the spring...",
+        "verified": true,
+        "char_start": 2039,
+        "char_end": 2400,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,840 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.286 - Slide the bearing shield on the shaft",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "bearing_shield",
+      "name": "Bearing shield",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_shield",
+      "provenance": {
+        "page": 286,
+        "quote": "Slide the bearing shield on the shaft.",
+        "verified": true,
+        "char_start": 2494,
+        "char_end": 2532,
+        "bbox": [
+          366.0,
+          481.2049999999999,
+          523.7130000000001,
+          491.2049999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 286,
+        "quote": "Slide the bearing shield on the shaft.",
+        "verified": true,
+        "char_start": 2494,
+        "char_end": 2532,
+        "bbox": [
+          366.0,
+          481.2049999999999,
+          523.7130000000001,
+          491.2049999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "operating_shaft_lever",
+      "name": "Operating shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "operating_shaft_lever",
+      "provenance": {
+        "page": 286,
+        "quote": "Place the operating shaft lever on the shaft and align the retaining pin holes. Then drive the retaining pin in place to secure the lever to the shaft.",
+        "verified": true,
+        "char_start": 2536,
+        "char_end": 2687,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "retaining_pin_hole",
+      "name": "Retaining pin hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "retaining_pin_hole",
+      "provenance": {
+        "page": 286,
+        "quote": "Place the operating shaft lever on the shaft and align the retaining pin holes. Then drive the retaining pin in place to secure the lever to the shaft.",
+        "verified": true,
+        "char_start": 2536,
+        "char_end": 2687,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 286,
+        "quote": "Place the operating shaft lever on the shaft and align the retaining pin holes. Then drive the retaining pin in place to secure the lever to the shaft.",
+        "verified": true,
+        "char_start": 2536,
+        "char_end": 2687,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 286,
+        "quote": "Place the operating shaft lever on the shaft and align the retaining pin holes. Then drive the retaining pin in place to secure the lever to the shaft.",
+        "verified": true,
+        "char_start": 2536,
+        "char_end": 2687,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 286,
+        "quote": "Place the stop lever on the operating shaft and secure it in place with the washer and retaining ring. Then hook the small spring to the stop lever and operating shaft lever.",
+        "verified": true,
+        "char_start": 2691,
+        "char_end": 2865,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 286,
+        "quote": "Place the stop lever on the operating shaft and secure it in place with the washer and retaining ring. Then hook the small spring to the stop lever and operating shaft lever.",
+        "verified": true,
+        "char_start": 2691,
+        "char_end": 2865,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "follower_retaining_ring",
+      "name": "Follower retaining ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_retaining_ring",
+      "provenance": {
+        "page": 286,
+        "quote": "Place the stop lever on the operating shaft and secure it in place with the washer and retaining ring. Then hook the small spring to the stop lever and operating shaft lever.",
+        "verified": true,
+        "char_start": 2691,
+        "char_end": 2865,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 286,
+        "quote": "Place the stop lever on the operating shaft and secure it in place with the washer and retaining ring. Then hook the small spring to the stop lever and operating shaft lever.",
+        "verified": true,
+        "char_start": 2691,
+        "char_end": 2865,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 286,
+        "quote": "Place the stop lever on the operating shaft and secure it in place with the washer and retaining ring. Then hook the small spring to the stop lever and operating shaft lever.",
+        "verified": true,
+        "char_start": 2691,
+        "char_end": 2865,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft_bearing",
+      "name": "Governor operating shaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft_bearing",
+      "provenance": {
+        "page": 286,
+        "quote": "Install the lower operating shaft bearing. number side out, in the weight housing. Install the snap ring to secure the bearing. Lubricate the bearing with engine oil.",
+        "verified": true,
+        "char_start": 2869,
+        "char_end": 3035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 286,
+        "quote": "Install the lower operating shaft bearing. number side out, in the weight housing. Install the snap ring to secure the bearing. Lubricate the bearing with engine oil.",
+        "verified": true,
+        "char_start": 2869,
+        "char_end": 3035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 286,
+        "quote": "Install the lower operating shaft bearing. number side out, in the weight housing. Install the snap ring to secure the bearing. Lubricate the bearing with engine oil.",
+        "verified": true,
+        "char_start": 2869,
+        "char_end": 3035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 286,
+        "quote": "Install the lower operating shaft bearing. number side out, in the weight housing. Install the snap ring to secure the bearing. Lubricate the bearing with engine oil.",
+        "verified": true,
+        "char_start": 2869,
+        "char_end": 3035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 286,
+        "quote": "Install the lower operating shaft bearing. number side out, in the weight housing. Install the snap ring to secure the bearing. Lubricate the bearing with engine oil.",
+        "verified": true,
+        "char_start": 2869,
+        "char_end": 3035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 286,
+        "quote": "Insert the operating shaft and lever assembly in the control housing. Tap the shaft into the lower bearing and install a snap ring on the end of the shaft.",
+        "verified": true,
+        "char_start": 3039,
+        "char_end": 3194,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_housing",
+      "name": "Control housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_housing",
+      "provenance": {
+        "page": 286,
+        "quote": "Insert the operating shaft and lever assembly in the control housing. Tap the shaft into the lower bearing and install a snap ring on the end of the shaft.",
+        "verified": true,
+        "char_start": 3039,
+        "char_end": 3194,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 286,
+        "quote": "Apply a good quality sealant around the edge of the plug and tap it in place in the weight housing.",
+        "verified": true,
+        "char_start": 3198,
+        "char_end": 3297,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 287,
+        "quote": "Place the fork against the operating shaft, with the two cam faces of the fork facing away from the governor weights. Thread the fork attaching screws in approximately two or three turns. The screws are tightened after the weight and sha...",
+        "verified": true,
+        "char_start": 494,
+        "char_end": 756,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 287,
+        "quote": "Place the fork against the operating shaft, with the two cam faces of the fork facing away from the governor weights. Thread the fork attaching screws in approximately two or three turns. The screws are tightened after the weight and sha...",
+        "verified": true,
+        "char_start": 494,
+        "char_end": 756,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 287,
+        "quote": "Place the fork against the operating shaft, with the two cam faces of the fork facing away from the governor weights. Thread the fork attaching screws in approximately two or three turns. The screws are tightened after the weight and sha...",
+        "verified": true,
+        "char_start": 494,
+        "char_end": 756,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "attaching_screw",
+      "name": "Attaching screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "attaching_screw",
+      "provenance": {
+        "page": 287,
+        "quote": "Place the fork against the operating shaft, with the two cam faces of the fork facing away from the governor weights. Thread the fork attaching screws in approximately two or three turns. The screws are tightened after the weight and sha...",
+        "verified": true,
+        "char_start": 494,
+        "char_end": 756,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 287,
+        "quote": "Place the fork against the operating shaft, with the two cam faces of the fork facing away from the governor weights. Thread the fork attaching screws in approximately two or three turns. The screws are tightened after the weight and sha...",
+        "verified": true,
+        "char_start": 494,
+        "char_end": 756,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 287,
+        "quote": "Place the fork against the operating shaft, with the two cam faces of the fork facing away from the governor weights. Thread the fork attaching screws in approximately two or three turns. The screws are tightened after the weight and sha...",
+        "verified": true,
+        "char_start": 494,
+        "char_end": 756,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 287,
+        "quote": "Install the booster spring bracket.",
+        "verified": true,
+        "char_start": 760,
+        "char_end": 795,
+        "bbox": [
+          78.72,
+          702.967,
+          221.888,
+          712.967
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_control_shaft",
+      "name": "Speed control shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_shaft",
+      "provenance": {
+        "page": 287,
+        "quote": "Slide the speed control shaft assembly in the control housing. Then place the speed control lever on the shaft and tap the pin in place to secure the lever.",
+        "verified": true,
+        "char_start": 800,
+        "char_end": 956,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_control_lever",
+      "name": "Speed control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_lever",
+      "provenance": {
+        "page": 287,
+        "quote": "Slide the speed control shaft assembly in the control housing. Then place the speed control lever on the shaft and tap the pin in place to secure the lever.",
+        "verified": true,
+        "char_start": 800,
+        "char_end": 956,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring",
+      "name": "Booster spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring",
+      "provenance": {
+        "page": 287,
+        "quote": "Install the booster spring and the variable speed spring.",
+        "verified": true,
+        "char_start": 961,
+        "char_end": 1018,
+        "bbox": [
+          335.0400000000001,
+          107.01099999999997,
+          572.4315000000001,
+          127.81499999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "variable_speed_spring",
+      "name": "Variable speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "variable_speed_spring",
+      "provenance": {
+        "page": 287,
+        "quote": "Install the booster spring and the variable speed spring.",
+        "verified": true,
+        "char_start": 961,
+        "char_end": 1018,
+        "bbox": [
+          335.0400000000001,
+          107.01099999999997,
+          572.4315000000001,
+          127.81499999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Slide the bearing shield on the shaft.",
+      "source_number": 2,
+      "installs": [
+        "bearing_shield",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Slide the bearing shield on the shaft.",
+        "verified": true,
+        "char_start": 2494,
+        "char_end": 2532,
+        "bbox": [
+          366.0,
+          481.2049999999999,
+          523.7130000000001,
+          491.2049999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the operating shaft lever on the shaft and align the retaining pin holes. Then drive the retaining pin in place to secure the lever to the shaft.",
+      "source_number": 3,
+      "installs": [
+        "operating_shaft_lever",
+        "retaining_pin_hole",
+        "copper_plated_dowel_pin",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Place the operating shaft lever on the shaft and align the retaining pin holes. Then drive the retaining pin in place to secure the lever to the shaft.",
+        "verified": true,
+        "char_start": 2536,
+        "char_end": 2687,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place the stop lever on the operating shaft and secure it in place with the washer and retaining ring. Then hook the small spring to the stop lever and operating shaft lever.",
+      "source_number": 4,
+      "installs": [
+        "governor_operating_shaft",
+        "another_drive_flange_washer",
+        "follower_retaining_ring",
+        "end_of_the_spring",
+        "solid_stop"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Place the stop lever on the operating shaft and secure it in place with the washer and retaining ring. Then hook the small spring to the stop lever and operating shaft lever.",
+        "verified": true,
+        "char_start": 2691,
+        "char_end": 2865,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the lower operating shaft bearing. number side out, in the weight housing. Install the snap ring to secure the bearing. Lubricate the bearing with engine oil.",
+      "source_number": 5,
+      "installs": [
+        "governor_operating_shaft_bearing",
+        "front_balance_weight",
+        "of_the_flywheel_housing",
+        "external_snap_ring",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Install the lower operating shaft bearing. number side out, in the weight housing. Install the snap ring to secure the bearing. Lubricate the bearing with engine oil.",
+        "verified": true,
+        "char_start": 2869,
+        "char_end": 3035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Insert the operating shaft and lever assembly in the control housing. Tap the shaft into the lower bearing and install a snap ring on the end of the shaft.",
+      "source_number": 6,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "control_housing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Insert the operating shaft and lever assembly in the control housing. Tap the shaft into the lower bearing and install a snap ring on the end of the shaft.",
+        "verified": true,
+        "char_start": 3039,
+        "char_end": 3194,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Apply a good quality sealant around the edge of the plug and tap it in place in the weight housing.",
+      "source_number": 7,
+      "installs": [
+        "edge_of_the_plug"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Apply a good quality sealant around the edge of the plug and tap it in place in the weight housing.",
+        "verified": true,
+        "char_start": 3198,
+        "char_end": 3297,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Place the fork against the operating shaft, with the two cam faces of the fork facing away from the governor weights. Thread the fork attaching screws in approximately two or three turns. The screws are tightened after the weight and shaft assembly is installed.",
+      "source_number": 8,
+      "installs": [
+        "governor_operating_fork",
+        "t_push_rod_cam",
+        "bolt_thread",
+        "attaching_screw",
+        "of_the_buffer_screw",
+        "drive_shaft_assembly"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 287,
+        "quote": "Place the fork against the operating shaft, with the two cam faces of the fork facing away from the governor weights. Thread the fork attaching screws in approximately two or three turns. The screws are tightened after the weight and sha...",
+        "verified": true,
+        "char_start": 494,
+        "char_end": 756,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Install the booster spring bracket.",
+      "source_number": 9,
+      "installs": [
+        "booster_spring_bracket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 287,
+        "quote": "Install the booster spring bracket.",
+        "verified": true,
+        "char_start": 760,
+        "char_end": 795,
+        "bbox": [
+          78.72,
+          702.967,
+          221.888,
+          712.967
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Slide the speed control shaft assembly in the control housing. Then place the speed control lever on the shaft and tap the pin in place to secure the lever.",
+      "source_number": 10,
+      "installs": [
+        "speed_control_shaft",
+        "speed_control_lever"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 287,
+        "quote": "Slide the speed control shaft assembly in the control housing. Then place the speed control lever on the shaft and tap the pin in place to secure the lever.",
+        "verified": true,
+        "char_start": 800,
+        "char_end": 956,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Install the booster spring and the variable speed spring.",
+      "source_number": 11,
+      "installs": [
+        "booster_spring",
+        "variable_speed_spring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 287,
+        "quote": "Install the booster spring and the variable speed spring.",
+        "verified": true,
+        "char_start": 961,
+        "char_end": 1018,
+        "bbox": [
+          335.0400000000001,
+          107.01099999999997,
+          572.4315000000001,
+          127.81499999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Install the buffer screw.",
+      "source_number": 12,
+      "installs": [],
+      "depends_on": [
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 287,
+        "quote": "Install the buffer screw.",
+        "verified": true,
+        "char_start": 1023,
+        "char_end": 1048,
+        "bbox": [
+          350.88,
+          140.692,
+          449.15040000000005,
+          148.692
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

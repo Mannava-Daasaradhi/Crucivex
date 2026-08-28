@@ -1,0 +1,421 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.256 - Slide the rocker shaft and bearing into...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "rocker_shaft",
+      "name": "Rocker shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_shaft",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the rocker shaft and bearing into the governor body.",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 718,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the rocker shaft and bearing into the governor body.",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 718,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the rocker shaft and bearing into the governor body.",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 718,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the rocker shaft and bearing into the governor body.",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 718,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the lever end of the rocker shaft and install the inner bearing (19) in the governor body and on the rocker shaft. Retain the bearing and shaft with a snap ring (18).",
+        "verified": true,
+        "char_start": 722,
+        "char_end": 896,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inner_bearing",
+      "name": "Inner bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner_bearing",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the lever end of the rocker shaft and install the inner bearing (19) in the governor body and on the rocker shaft. Retain the bearing and shaft with a snap ring (18).",
+        "verified": true,
+        "char_start": 722,
+        "char_end": 896,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the lever end of the rocker shaft and install the inner bearing (19) in the governor body and on the rocker shaft. Retain the bearing and shaft with a snap ring (18).",
+        "verified": true,
+        "char_start": 722,
+        "char_end": 896,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the lever end of the rocker shaft and install the inner bearing (19) in the governor body and on the rocker shaft. Retain the bearing and shaft with a snap ring (18).",
+        "verified": true,
+        "char_start": 722,
+        "char_end": 896,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 256,
+        "quote": "Install two new gaskets (51) and the oil retaining plug (17) in the rocker shaft bore.",
+        "verified": true,
+        "char_start": 900,
+        "char_end": 986,
+        "bbox": [
+          90.24000000000004,
+          392.12699999999995,
+          328.1754,
+          413.142
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 256,
+        "quote": "Install two new gaskets (51) and the oil retaining plug (17) in the rocker shaft bore.",
+        "verified": true,
+        "char_start": 900,
+        "char_end": 986,
+        "bbox": [
+          90.24000000000004,
+          392.12699999999995,
+          328.1754,
+          413.142
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the rocker shaft oil seal (22). with the lip of the seal facing the bearing, and the oil seal retainer (23).",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1106,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_seal",
+      "name": "Of the seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_seal",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the rocker shaft oil seal (22). with the lip of the seal facing the bearing, and the oil seal retainer (23).",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1106,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_retainer",
+      "name": "Oil seal retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_retainer",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the rocker shaft oil seal (22). with the lip of the seal facing the bearing, and the oil seal retainer (23).",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1106,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the operating fork (3) and the buffer spring",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1162,
+        "bbox": [
+          102.24000000000001,
+          466.28799999999995,
+          328.7856,
+          476.28799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the operating fork (3) and the buffer spring",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1162,
+        "bbox": [
+          102.24000000000001,
+          466.28799999999995,
+          328.7856,
+          476.28799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Slide the rocker shaft and bearing into the governor body.",
+      "source_number": 2,
+      "installs": [
+        "rocker_shaft",
+        "bearing_the_end_bearing",
+        "blower_the_engine_governor",
+        "breather_body"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the rocker shaft and bearing into the governor body.",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 718,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Support the lever end of the rocker shaft and install the inner bearing (19) in the governor body and on the rocker shaft. Retain the bearing and shaft with a snap ring (18).",
+      "source_number": 3,
+      "installs": [
+        "blower_drive_support",
+        "inner_bearing",
+        "end_of_the_shaft",
+        "external_snap_ring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Support the lever end of the rocker shaft and install the inner bearing (19) in the governor body and on the rocker shaft. Retain the bearing and shaft with a snap ring (18).",
+        "verified": true,
+        "char_start": 722,
+        "char_end": 896,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install two new gaskets (51) and the oil retaining plug (17) in the rocker shaft bore.",
+      "source_number": 4,
+      "installs": [
+        "head_gasket",
+        "edge_of_the_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Install two new gaskets (51) and the oil retaining plug (17) in the rocker shaft bore.",
+        "verified": true,
+        "char_start": 900,
+        "char_end": 986,
+        "bbox": [
+          90.24000000000004,
+          392.12699999999995,
+          328.1754,
+          413.142
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the rocker shaft oil seal (22). with the lip of the seal facing the bearing, and the oil seal retainer (23).",
+      "source_number": 5,
+      "installs": [
+        "crankshaft_front_oil_seal",
+        "of_the_seal",
+        "oil_seal_retainer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Install the rocker shaft oil seal (22). with the lip of the seal facing the bearing, and the oil seal retainer (23).",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1106,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the operating fork (3) and the buffer spring",
+      "source_number": 6,
+      "installs": [
+        "governor_operating_fork",
+        "end_of_the_spring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Install the operating fork (3) and the buffer spring",
+        "verified": true,
+        "char_start": 1110,
+        "char_end": 1162,
+        "bbox": [
+          102.24000000000001,
+          466.28799999999995,
+          328.7856,
+          476.28799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

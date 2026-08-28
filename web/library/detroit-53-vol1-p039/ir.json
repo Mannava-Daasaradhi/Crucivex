@@ -1,0 +1,739 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.78 - Thread two 3/8 \u201d-16 pilot studs approximately...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 78,
+        "quote": "Thread two 3/8 \u201d-16 pilot studs approximately 8 \" long into two diametrically opposite bolt holes in the cylinder block to guide the cover in place (Fig. 3).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 160,
+        "bbox": [
+          318.96000000000004,
+          63.44999999999993,
+          560.1659999999999,
+          95.17899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "pilot_stud",
+      "name": "Pilot stud",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pilot_stud",
+      "provenance": {
+        "page": 78,
+        "quote": "Thread two 3/8 \u201d-16 pilot studs approximately 8 \" long into two diametrically opposite bolt holes in the cylinder block to guide the cover in place (Fig. 3).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 160,
+        "bbox": [
+          318.96000000000004,
+          63.44999999999993,
+          560.1659999999999,
+          95.17899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 78,
+        "quote": "Thread two 3/8 \u201d-16 pilot studs approximately 8 \" long into two diametrically opposite bolt holes in the cylinder block to guide the cover in place (Fig. 3).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 160,
+        "bbox": [
+          318.96000000000004,
+          63.44999999999993,
+          560.1659999999999,
+          95.17899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 78,
+        "quote": "Thread two 3/8 \u201d-16 pilot studs approximately 8 \" long into two diametrically opposite bolt holes in the cylinder block to guide the cover in place (Fig. 3).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 160,
+        "bbox": [
+          318.96000000000004,
+          63.44999999999993,
+          560.1659999999999,
+          95.17899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 78,
+        "quote": "Thread two 3/8 \u201d-16 pilot studs approximately 8 \" long into two diametrically opposite bolt holes in the cylinder block to guide the cover in place (Fig. 3).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 160,
+        "bbox": [
+          318.96000000000004,
+          63.44999999999993,
+          560.1659999999999,
+          95.17899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 78,
+        "quote": "Thread two 3/8 \u201d-16 pilot studs approximately 8 \" long into two diametrically opposite bolt holes in the cylinder block to guide the cover in place (Fig. 3).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 160,
+        "bbox": [
+          318.96000000000004,
+          63.44999999999993,
+          560.1659999999999,
+          95.17899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 78,
+        "quote": "Thread two 3/8 \u201d-16 pilot studs approximately 8 \" long into two diametrically opposite bolt holes in the cylinder block to guide the cover in place (Fig. 3).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 160,
+        "bbox": [
+          318.96000000000004,
+          63.44999999999993,
+          560.1659999999999,
+          95.17899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_seal",
+      "name": "Of the oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_seal",
+      "provenance": {
+        "page": 78,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal. Slide the engine front cover over the oil seal expander and pilot studs as shown in Fig. 3. Push the cover forward until the inner rotor of the oil pump",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 377,
+        "bbox": [
+          318.96000000000004,
+          106.05099999999993,
+          560.7072000000001,
+          148.80999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover",
+      "name": "Engine front cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover",
+      "provenance": {
+        "page": 78,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal. Slide the engine front cover over the oil seal expander and pilot studs as shown in Fig. 3. Push the cover forward until the inner rotor of the oil pump",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 377,
+        "bbox": [
+          318.96000000000004,
+          106.05099999999993,
+          560.7072000000001,
+          148.80999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 78,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal. Slide the engine front cover over the oil seal expander and pilot studs as shown in Fig. 3. Push the cover forward until the inner rotor of the oil pump",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 377,
+        "bbox": [
+          318.96000000000004,
+          106.05099999999993,
+          560.7072000000001,
+          148.80999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 78,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal. Slide the engine front cover over the oil seal expander and pilot studs as shown in Fig. 3. Push the cover forward until the inner rotor of the oil pump",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 377,
+        "bbox": [
+          318.96000000000004,
+          106.05099999999993,
+          560.7072000000001,
+          148.80999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "left_hand_helix_rotor",
+      "name": "Left-hand helix rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "left_hand_helix_rotor",
+      "provenance": {
+        "page": 78,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal. Slide the engine front cover over the oil seal expander and pilot studs as shown in Fig. 3. Push the cover forward until the inner rotor of the oil pump",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 377,
+        "bbox": [
+          318.96000000000004,
+          106.05099999999993,
+          560.7072000000001,
+          148.80999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 78,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal. Slide the engine front cover over the oil seal expander and pilot studs as shown in Fig. 3. Push the cover forward until the inner rotor of the oil pump",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 377,
+        "bbox": [
+          318.96000000000004,
+          106.05099999999993,
+          560.7072000000001,
+          148.80999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 78,
+        "quote": "Refer to Figs. 1 and 2 and install the 3/8 \"'-16 bolts and lock washers. Tighten the bolts to 30-35 Ib-ft torque.",
+        "verified": true,
+        "char_start": 626,
+        "char_end": 739,
+        "bbox": [
+          318.9599999999999,
+          224.2499999999999,
+          559.9954999999999,
+          256.0899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 78,
+        "quote": "Refer to Figs. 1 and 2 and install the 3/8 \"'-16 bolts and lock washers. Tighten the bolts to 30-35 Ib-ft torque.",
+        "verified": true,
+        "char_start": 626,
+        "char_end": 739,
+        "bbox": [
+          318.9599999999999,
+          224.2499999999999,
+          559.9954999999999,
+          256.0899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 78,
+        "quote": "Affix a new seal ring on the end of the lubricating oil pump inlet tube next to the flange on an In-line engine, or a new gasket to the elbow on a 6V-engine. Attach the flange or elbow to the front cover with bolts and lock washers. Tigh...",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 1292,
+        "bbox": [
+          50.16,
+          267.0909999999999,
+          560.4328,
+          385.573
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 78,
+        "quote": "Affix a new seal ring on the end of the lubricating oil pump inlet tube next to the flange on an In-line engine, or a new gasket to the elbow on a 6V-engine. Attach the flange or elbow to the front cover with bolts and lock washers. Tigh...",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 1292,
+        "bbox": [
+          50.16,
+          267.0909999999999,
+          560.4328,
+          385.573
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 78,
+        "quote": "Affix a new seal ring on the end of the lubricating oil pump inlet tube next to the flange on an In-line engine, or a new gasket to the elbow on a 6V-engine. Attach the flange or elbow to the front cover with bolts and lock washers. Tigh...",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 1292,
+        "bbox": [
+          50.16,
+          267.0909999999999,
+          560.4328,
+          385.573
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 78,
+        "quote": "Affix a new seal ring on the end of the lubricating oil pump inlet tube next to the flange on an In-line engine, or a new gasket to the elbow on a 6V-engine. Attach the flange or elbow to the front cover with bolts and lock washers. Tigh...",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 1292,
+        "bbox": [
+          50.16,
+          267.0909999999999,
+          560.4328,
+          385.573
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 78,
+        "quote": "Affix a new seal ring on the end of the lubricating oil pump inlet tube next to the flange on an In-line engine, or a new gasket to the elbow on a 6V-engine. Attach the flange or elbow to the front cover with bolts and lock washers. Tigh...",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 1292,
+        "bbox": [
+          50.16,
+          267.0909999999999,
+          560.4328,
+          385.573
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 78,
+        "quote": "Affix a new seal ring on the end of the lubricating oil pump inlet tube next to the flange on an In-line engine, or a new gasket to the elbow on a 6V-engine. Attach the flange or elbow to the front cover with bolts and lock washers. Tigh...",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 1292,
+        "bbox": [
+          50.16,
+          267.0909999999999,
+          560.4328,
+          385.573
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_pan",
+      "name": "Oil pan",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pan",
+      "provenance": {
+        "page": 78,
+        "quote": "Affix a new seal ring on the end of the lubricating oil pump inlet tube next to the flange on an In-line engine, or a new gasket to the elbow on a 6V-engine. Attach the flange or elbow to the front cover with bolts and lock washers. Tigh...",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 1292,
+        "bbox": [
+          50.16,
+          267.0909999999999,
+          560.4328,
+          385.573
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 78,
+        "quote": "Affix a new seal ring on the end of the lubricating oil pump inlet tube next to the flange on an In-line engine, or a new gasket to the elbow on a 6V-engine. Attach the flange or elbow to the front cover with bolts and lock washers. Tigh...",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 1292,
+        "bbox": [
+          50.16,
+          267.0909999999999,
+          560.4328,
+          385.573
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Thread two 3/8 \u201d-16 pilot studs approximately 8 \" long into two diametrically opposite bolt holes in the cylinder block to guide the cover in place (Fig. 3).",
+      "source_number": 3,
+      "installs": [
+        "bolt_thread",
+        "pilot_stud",
+        "bolt_hole",
+        "of_the_block",
+        "cam_follower_guide",
+        "underside_of_the_cover",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 78,
+        "quote": "Thread two 3/8 \u201d-16 pilot studs approximately 8 \" long into two diametrically opposite bolt holes in the cylinder block to guide the cover in place (Fig. 3).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 160,
+        "bbox": [
+          318.96000000000004,
+          63.44999999999993,
+          560.1659999999999,
+          95.17899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Apply a light coat of cup grease to the lip of the oil seal. Slide the engine front cover over the oil seal expander and pilot studs as shown in Fig. 3. Push the cover forward until the inner rotor of the oil pump",
+      "source_number": 4,
+      "installs": [
+        "of_the_oil_seal",
+        "engine_front_cover",
+        "crankshaft_front_oil_seal",
+        "side_of_the_inner",
+        "left_hand_helix_rotor",
+        "lubricating_oil_pump"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 78,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal. Slide the engine front cover over the oil seal expander and pilot studs as shown in Fig. 3. Push the cover forward until the inner rotor of the oil pump",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 377,
+        "bbox": [
+          318.96000000000004,
+          106.05099999999993,
+          560.7072000000001,
+          148.80999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the oi] seal expander and pilot studs.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 78,
+        "quote": "Remove the oi] seal expander and pilot studs.",
+        "verified": true,
+        "char_start": 577,
+        "char_end": 622,
+        "bbox": [
+          330.24,
+          203.6099999999999,
+          527.5098,
+          213.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Refer to Figs. 1 and 2 and install the 3/8 \"'-16 bolts and lock washers. Tighten the bolts to 30-35 Ib-ft torque.",
+      "source_number": 6,
+      "installs": [
+        "engine_front_cover_bolt",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 40.7,
+      "warning": null,
+      "provenance": {
+        "page": 78,
+        "quote": "Refer to Figs. 1 and 2 and install the 3/8 \"'-16 bolts and lock washers. Tighten the bolts to 30-35 Ib-ft torque.",
+        "verified": true,
+        "char_start": 626,
+        "char_end": 739,
+        "bbox": [
+          318.9599999999999,
+          224.2499999999999,
+          559.9954999999999,
+          256.0899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Affix a new seal ring on the end of the lubricating oil pump inlet tube next to the flange on an In-line engine, or a new gasket to the elbow on a 6V-engine. Attach the flange or elbow to the front cover with bolts and lock washers. Tighten the bolts to 13-17 Ib-ft torque. Fig. 3 - Installing Lower Engine Front Cover -- 8. Affix a new oil pan gasket to the bottom of the In-Line Engine cylinder block, then install and secure the oil pan to the block with bolts and lock washers. Tighten the Install Engine Front Cover bolts to 13-17 Ib-ft torque.",
+      "source_number": 7,
+      "installs": [
+        "seal_ring",
+        "fuel_oil_inlet",
+        "end_of_each_tube",
+        "next",
+        "tbe_lubricating_oil_line",
+        "head_gasket",
+        "oil_pan",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": 17.6,
+      "warning": null,
+      "provenance": {
+        "page": 78,
+        "quote": "Affix a new seal ring on the end of the lubricating oil pump inlet tube next to the flange on an In-line engine, or a new gasket to the elbow on a 6V-engine. Attach the flange or elbow to the front cover with bolts and lock washers. Tigh...",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 1292,
+        "bbox": [
+          50.16,
+          267.0909999999999,
+          560.4328,
+          385.573
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

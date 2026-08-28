@@ -1,0 +1,147 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.174 - Check point (2) Trouble cause (3) Remedy",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "injection_pump",
+      "name": "Injection pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injection_pump",
+      "provenance": {
+        "page": 177,
+        "quote": "ENGINE TURNS OVER BUT DOES NOT START FUEL IS BEING DELIVERED TO THE INJECTION PUMP",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 85,
+        "bbox": [
+          143.04000000000002,
+          71.23329999999999,
+          462.99771599999997,
+          107.51529999999991
+        ],
+        "page_size": [
+          601.44,
+          787.92
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Check point (2) Trouble cause (3) Remedy",
+      "source_number": 1,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 174,
+        "quote": "Check point (2) Trouble cause (3) Remedy",
+        "verified": true,
+        "char_start": 1703,
+        "char_end": 1743,
+        "bbox": [
+          78.95999999999997,
+          607.3949,
+          325.358798,
+          616.9615666666666
+        ],
+        "page_size": [
+          601.44,
+          787.92
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "STARTER OPERATES BUT ENGINE DOES NOT TURN OVER",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 176,
+        "quote": "STARTER OPERATES BUT ENGINE DOES NOT TURN OVER",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 49,
+        "bbox": [
+          144.48,
+          70.76459999999997,
+          474.8740559999999,
+          83.3646
+        ],
+        "page_size": [
+          601.44,
+          787.92
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "ENGINE TURNS OVER BUT DOES NOT START FUEL IS BEING DELIVERED TO THE INJECTION PUMP",
+      "source_number": 3,
+      "installs": [
+        "injection_pump"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 177,
+        "quote": "ENGINE TURNS OVER BUT DOES NOT START FUEL IS BEING DELIVERED TO THE INJECTION PUMP",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 85,
+        "bbox": [
+          143.04000000000002,
+          71.23329999999999,
+          462.99771599999997,
+          107.51529999999991
+        ],
+        "page_size": [
+          601.44,
+          787.92
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "ENGINE TURNS OVER BUT DOES NOT START",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 178,
+        "quote": "ENGINE TURNS OVER BUT DOES NOT START",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 39,
+        "bbox": [
+          180.72000000000003,
+          69.85820000000001,
+          459.58223666666674,
+          83.39153333333343
+        ],
+        "page_size": [
+          601.44,
+          787.92
+        ]
+      }
+    }
+  ]
+}

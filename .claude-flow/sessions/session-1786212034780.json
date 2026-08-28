@@ -1,0 +1,15 @@
+{
+  "id": "session-1786212034780",
+  "startedAt": "2026-08-08T18:00:34.780Z",
+  "cwd": "C:\\Users\\daasa\\Projects\\Crucivex",
+  "context": {},
+  "metrics": {
+    "edits": 161,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "restoredAt": "2026-08-09T15:10:19.808Z",
+  "endedAt": "2026-08-09T17:22:28.924Z",
+  "duration": 84114144
+}

@@ -1,0 +1,1012 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.226 - Thread the spring retainer and spring assembly...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 226,
+        "quote": "Thread the spring retainer and spring assembly into the governor housing and tighten the locknut finger tight until an engine tune-up is performed.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1225,
+        "bbox": [
+          70.07999999999998,
+          475.82199999999995,
+          295.6323,
+          506.854
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 226,
+        "quote": "Thread the spring retainer and spring assembly into the governor housing and tighten the locknut finger tight until an engine tune-up is performed.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1225,
+        "bbox": [
+          70.07999999999998,
+          475.82199999999995,
+          295.6323,
+          506.854
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spring_assembly",
+      "name": "Spring assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_assembly",
+      "provenance": {
+        "page": 226,
+        "quote": "Thread the spring retainer and spring assembly into the governor housing and tighten the locknut finger tight until an engine tune-up is performed.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1225,
+        "bbox": [
+          70.07999999999998,
+          475.82199999999995,
+          295.6323,
+          506.854
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 226,
+        "quote": "Thread the spring retainer and spring assembly into the governor housing and tighten the locknut finger tight until an engine tune-up is performed.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1225,
+        "bbox": [
+          70.07999999999998,
+          475.82199999999995,
+          295.6323,
+          506.854
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 226,
+        "quote": "Thread the spring retainer and spring assembly into the governor housing and tighten the locknut finger tight until an engine tune-up is performed.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1225,
+        "bbox": [
+          70.07999999999998,
+          475.82199999999995,
+          295.6323,
+          506.854
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "vehicle_governor_spring",
+      "name": "Vehicle governor spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "vehicle_governor_spring",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gap_adjusting_screw",
+      "name": "Gap adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gap_adjusting_screw",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "low_speed_spring",
+      "name": "Low speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_spring",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_plunger",
+      "name": "End of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_plunger",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_housing",
+      "name": "Control housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_housing",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retainer_nut",
+      "name": "Bearing retainer nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer_nut",
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 226,
+        "quote": "Thread the spring retainer and spring assembly into the governor; the locknut should be finger tight until an engine tune-up is performed.",
+        "verified": true,
+        "char_start": 1824,
+        "char_end": 1962,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_control_shaft",
+      "name": "Speed control shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_shaft",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_slot",
+      "name": "Tbe slot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_slot",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_rack",
+      "name": "Injector rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_rack",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_stop_lever",
+      "name": "Governor stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_stop_lever",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_rack",
+      "name": "Injector control rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_rack",
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "grease_fitting",
+      "name": "Grease fitting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "grease_fitting",
+      "provenance": {
+        "page": 226,
+        "quote": "Add all purpose grease to the speed control shaft through the grease fitting on top of the shaft. At temperatures above 30\u00b0F (I\u00b0C) use a No. 2 grade grease and a No. 1 grade grease below this temperature.",
+        "verified": true,
+        "char_start": 2779,
+        "char_end": 2983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 226,
+        "quote": "Add all purpose grease to the speed control shaft through the grease fitting on top of the shaft. At temperatures above 30\u00b0F (I\u00b0C) use a No. 2 grade grease and a No. 1 grade grease below this temperature.",
+        "verified": true,
+        "char_start": 2779,
+        "char_end": 2983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_linkage",
+      "name": "Governor linkage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_linkage",
+      "provenance": {
+        "page": 226,
+        "quote": "Connect the linkage to the governor control levers.",
+        "verified": true,
+        "char_start": 2988,
+        "char_end": 3039,
+        "bbox": [
+          343.44,
+          433.46099999999996,
+          556.17423,
+          442.46099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_control",
+      "name": "Governor control",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_control",
+      "provenance": {
+        "page": 226,
+        "quote": "Connect the linkage to the governor control levers.",
+        "verified": true,
+        "char_start": 2988,
+        "char_end": 3039,
+        "bbox": [
+          343.44,
+          433.46099999999996,
+          556.17423,
+          442.46099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 226,
+        "quote": "Install the fuel pump and fuel lines.",
+        "verified": true,
+        "char_start": 3044,
+        "char_end": 3081,
+        "bbox": [
+          343.91999999999996,
+          450.5849999999999,
+          492.17939999999993,
+          460.5849999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_line",
+      "name": "Fuel line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_line",
+      "provenance": {
+        "page": 226,
+        "quote": "Install the fuel pump and fuel lines.",
+        "verified": true,
+        "char_start": 3044,
+        "char_end": 3081,
+        "bbox": [
+          343.91999999999996,
+          450.5849999999999,
+          492.17939999999993,
+          460.5849999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 226,
+        "quote": "Perform an engine tune-up as outlined in Section 14.",
+        "verified": true,
+        "char_start": 3086,
+        "char_end": 3138,
+        "bbox": [
+          343.68,
+          469.58699999999993,
+          564.31758,
+          478.58699999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Thread the spring retainer and spring assembly into the governor housing and tighten the locknut finger tight until an engine tune-up is performed.",
+      "source_number": 10,
+      "installs": [
+        "bolt_thread",
+        "high_speed_spring_retainer",
+        "spring_assembly",
+        "disassemble_governor_housing",
+        "locknut_finger_tight"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 226,
+        "quote": "Thread the spring retainer and spring assembly into the governor housing and tighten the locknut finger tight until an engine tune-up is performed.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1225,
+        "bbox": [
+          70.07999999999998,
+          475.82199999999995,
+          295.6323,
+          506.854
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plunger. Position the retainer over the high speed spring and insert the adjusting screw into the plunger. c. Position the seat and cap on the ends of the low speed spring and insert the assembly into the hollow end of the plunger. d. Insert the spring and plunger assembly into the control housing and tighten the retainer nut with spanner wrench J 5895.",
+      "source_number": 11,
+      "installs": [
+        "vehicle_governor_spring",
+        "gap_adjusting_screw",
+        "of_the_buffer_screw",
+        "rotor_shim",
+        "engine_speed",
+        "end_of_the_spring",
+        "area_of_the_plunger",
+        "drive_shaft_retainer",
+        "exhaust_valve_seat_insert",
+        "insert_remover_valve_seat",
+        "clean_shipping_cap",
+        "low_speed_spring",
+        "end_of_the_plunger",
+        "control_housing",
+        "bearing_retainer_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 226,
+        "quote": "Assemble the vehicle governor spring mechanism as follows: a. Back off the locknut at the outer end of the adjusting screw to within 1/16\" of the slotted end of the screw. b. Slipthe shims, if used, and the high speed spring over the plu...",
+        "verified": true,
+        "char_start": 1230,
+        "char_end": 1819,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Thread the spring retainer and spring assembly into the governor; the locknut should be finger tight until an engine tune-up is performed.",
+      "source_number": 12,
+      "installs": [
+        "blower_the_engine_governor"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 226,
+        "quote": "Thread the spring retainer and spring assembly into the governor; the locknut should be finger tight until an engine tune-up is performed.",
+        "verified": true,
+        "char_start": 1824,
+        "char_end": 1962,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and lock washers. CAUTION: Before starting an engine after an engine speed control adjustment or after removal of the engine governor cover and lever assembly, the technician must determine that the injector racks move to the no-fuel position when the governor stop lever is placed in the stop position. Engine overspeed will result if the injector racks cannot be positioned at no fuel with the governor stop lever.",
+      "source_number": 13,
+      "installs": [
+        "head_gasket",
+        "governor_cover",
+        "of_the_stop_lever",
+        "speed_control_shaft",
+        "copper_plated_dowel_pin",
+        "tbe_slot",
+        "governor_differential_lever",
+        "underside_of_the_cover",
+        "special_lock_washer",
+        "injector_rack",
+        "governor_stop_lever",
+        "solid_stop",
+        "end_of_the_injector",
+        "injector_control_rack"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 226,
+        "quote": "Use a new gasket when installing the governor cover and lever assembly. Be sure the speed control shaft pin engages the slot in the differential lever and the stop lever is in the correct position. Secure the cover with four screws and l...",
+        "verified": true,
+        "char_start": 1967,
+        "char_end": 2615,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Add all purpose grease to the speed control shaft through the grease fitting on top of the shaft. At temperatures above 30\u00b0F (I\u00b0C) use a No. 2 grade grease and a No. 1 grade grease below this temperature.",
+      "source_number": 15,
+      "installs": [
+        "grease_fitting",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 226,
+        "quote": "Add all purpose grease to the speed control shaft through the grease fitting on top of the shaft. At temperatures above 30\u00b0F (I\u00b0C) use a No. 2 grade grease and a No. 1 grade grease below this temperature.",
+        "verified": true,
+        "char_start": 2779,
+        "char_end": 2983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Connect the linkage to the governor control levers.",
+      "source_number": 16,
+      "installs": [
+        "governor_linkage",
+        "governor_control"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 226,
+        "quote": "Connect the linkage to the governor control levers.",
+        "verified": true,
+        "char_start": 2988,
+        "char_end": 3039,
+        "bbox": [
+          343.44,
+          433.46099999999996,
+          556.17423,
+          442.46099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Install the fuel pump and fuel lines.",
+      "source_number": 17,
+      "installs": [
+        "fuel_pump",
+        "fuel_line"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 226,
+        "quote": "Install the fuel pump and fuel lines.",
+        "verified": true,
+        "char_start": 3044,
+        "char_end": 3081,
+        "bbox": [
+          343.91999999999996,
+          450.5849999999999,
+          492.17939999999993,
+          460.5849999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Perform an engine tune-up as outlined in Section 14.",
+      "source_number": 18,
+      "installs": [
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 226,
+        "quote": "Perform an engine tune-up as outlined in Section 14.",
+        "verified": true,
+        "char_start": 3086,
+        "char_end": 3138,
+        "bbox": [
+          343.68,
+          469.58699999999993,
+          564.31758,
+          478.58699999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

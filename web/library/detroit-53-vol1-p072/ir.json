@@ -1,0 +1,456 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.129 - Then, with the camshaft supported in an...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 129,
+        "quote": "Then, with the camshaft supported in an arbor press, place a sleeve on top of the gear and under the ram of the press. Bring the ram of the press down on the sleeve and press the gear tight against the spacer on the shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 23,
+        "char_end": 254,
+        "bbox": [
+          323.9999999999999,
+          93.9319999999999,
+          564.4088999999998,
+          147.6099999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 129,
+        "quote": "Then, with the camshaft supported in an arbor press, place a sleeve on top of the gear and under the ram of the press. Bring the ram of the press down on the sleeve and press the gear tight against the spacer on the shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 23,
+        "char_end": 254,
+        "bbox": [
+          323.9999999999999,
+          93.9319999999999,
+          564.4088999999998,
+          147.6099999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 129,
+        "quote": "Then, with the camshaft supported in an arbor press, place a sleeve on top of the gear and under the ram of the press. Bring the ram of the press down on the sleeve and press the gear tight against the spacer on the shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 23,
+        "char_end": 254,
+        "bbox": [
+          323.9999999999999,
+          93.9319999999999,
+          564.4088999999998,
+          147.6099999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_tight",
+      "name": "Gear tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_tight",
+      "provenance": {
+        "page": 129,
+        "quote": "Then, with the camshaft supported in an arbor press, place a sleeve on top of the gear and under the ram of the press. Bring the ram of the press down on the sleeve and press the gear tight against the spacer on the shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 23,
+        "char_end": 254,
+        "bbox": [
+          323.9999999999999,
+          93.9319999999999,
+          564.4088999999998,
+          147.6099999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 129,
+        "quote": "Then, with the camshaft supported in an arbor press, place a sleeve on top of the gear and under the ram of the press. Bring the ram of the press down on the sleeve and press the gear tight against the spacer on the shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 23,
+        "char_end": 254,
+        "bbox": [
+          323.9999999999999,
+          93.9319999999999,
+          564.4088999999998,
+          147.6099999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 129,
+        "quote": "Then, with the camshaft supported in an arbor press, place a sleeve on top of the gear and under the ram of the press. Bring the ram of the press down on the sleeve and press the gear tight against the spacer on the shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 23,
+        "char_end": 254,
+        "bbox": [
+          323.9999999999999,
+          93.9319999999999,
+          564.4088999999998,
+          147.6099999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 129,
+        "quote": "Measure the clearance between the camshaft thrust washer and the camshaft. This clearance should be 008\" to 015\" when new parts are used. With used parts, a maximum clearance of 021\" is allowable.",
+        "verified": true,
+        "char_start": 258,
+        "char_end": 454,
+        "bbox": [
+          323.76,
+          164.29099999999994,
+          564.6764800000002,
+          206.019
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_retaining_nut",
+      "name": "Gear retaining nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_retaining_nut",
+      "provenance": {
+        "page": 129,
+        "quote": "Install the gear retaining nut on the camshaft by hand. Tighten the nut after the shaft is installed in the cylinder block.",
+        "verified": true,
+        "char_start": 458,
+        "char_end": 581,
+        "bbox": [
+          323.7600000000001,
+          221.37099999999998,
+          565.1446,
+          253.08299999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 129,
+        "quote": "Install the gear retaining nut on the camshaft by hand. Tighten the nut after the shaft is installed in the cylinder block.",
+        "verified": true,
+        "char_start": 458,
+        "char_end": 581,
+        "bbox": [
+          323.7600000000001,
+          221.37099999999998,
+          565.1446,
+          253.08299999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 129,
+        "quote": "Install the gear retaining nut on the camshaft by hand. Tighten the nut after the shaft is installed in the cylinder block.",
+        "verified": true,
+        "char_start": 458,
+        "char_end": 581,
+        "bbox": [
+          323.7600000000001,
+          221.37099999999998,
+          565.1446,
+          253.08299999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 129,
+        "quote": "Install the gear on the balance shaft in a similar manner. No rear spacer is used with the balance shaft gear, since the gear seats against a shoulder on the shaft. Fig. 2 - Installing Camshaft Gear",
+        "verified": true,
+        "char_start": 585,
+        "char_end": 783,
+        "bbox": [
+          107.04,
+          270.812,
+          563.5983000000002,
+          321.96599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 129,
+        "quote": "Install the gear on the balance shaft in a similar manner. No rear spacer is used with the balance shaft gear, since the gear seats against a shoulder on the shaft. Fig. 2 - Installing Camshaft Gear",
+        "verified": true,
+        "char_start": 585,
+        "char_end": 783,
+        "bbox": [
+          107.04,
+          270.812,
+          563.5983000000002,
+          321.96599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 129,
+        "quote": "Install the gear on the balance shaft in a similar manner. No rear spacer is used with the balance shaft gear, since the gear seats against a shoulder on the shaft. Fig. 2 - Installing Camshaft Gear",
+        "verified": true,
+        "char_start": 585,
+        "char_end": 783,
+        "bbox": [
+          107.04,
+          270.812,
+          563.5983000000002,
+          321.96599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Then, with the camshaft supported in an arbor press, place a sleeve on top of the gear and under the ram of the press. Bring the ram of the press down on the sleeve and press the gear tight against the spacer on the shaft (Fig. 2).",
+      "source_number": 5,
+      "installs": [
+        "camshaft",
+        "crankshaft_front_sleeve",
+        "fuel_pump_drive_gear",
+        "gear_tight",
+        "end_of_the_shaft",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 129,
+        "quote": "Then, with the camshaft supported in an arbor press, place a sleeve on top of the gear and under the ram of the press. Bring the ram of the press down on the sleeve and press the gear tight against the spacer on the shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 23,
+        "char_end": 254,
+        "bbox": [
+          323.9999999999999,
+          93.9319999999999,
+          564.4088999999998,
+          147.6099999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Measure the clearance between the camshaft thrust washer and the camshaft. This clearance should be 008\" to 015\" when new parts are used. With used parts, a maximum clearance of 021\" is allowable.",
+      "source_number": 6,
+      "installs": [
+        "crankshaft_thrust_washer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 129,
+        "quote": "Measure the clearance between the camshaft thrust washer and the camshaft. This clearance should be 008\" to 015\" when new parts are used. With used parts, a maximum clearance of 021\" is allowable.",
+        "verified": true,
+        "char_start": 258,
+        "char_end": 454,
+        "bbox": [
+          323.76,
+          164.29099999999994,
+          564.6764800000002,
+          206.019
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the gear retaining nut on the camshaft by hand. Tighten the nut after the shaft is installed in the cylinder block.",
+      "source_number": 7,
+      "installs": [
+        "gear_retaining_nut",
+        "front_balance_weight_nut",
+        "of_the_block"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 129,
+        "quote": "Install the gear retaining nut on the camshaft by hand. Tighten the nut after the shaft is installed in the cylinder block.",
+        "verified": true,
+        "char_start": 458,
+        "char_end": 581,
+        "bbox": [
+          323.7600000000001,
+          221.37099999999998,
+          565.1446,
+          253.08299999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the gear on the balance shaft in a similar manner. No rear spacer is used with the balance shaft gear, since the gear seats against a shoulder on the shaft. Fig. 2 - Installing Camshaft Gear",
+      "source_number": 8,
+      "installs": [
+        "drive_gear_spacer",
+        "insert_remover_valve_seat",
+        "shoulder"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 129,
+        "quote": "Install the gear on the balance shaft in a similar manner. No rear spacer is used with the balance shaft gear, since the gear seats against a shoulder on the shaft. Fig. 2 - Installing Camshaft Gear",
+        "verified": true,
+        "char_start": 585,
+        "char_end": 783,
+        "bbox": [
+          107.04,
+          270.812,
+          563.5983000000002,
+          321.96599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

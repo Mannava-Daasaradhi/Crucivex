@@ -1,0 +1,147 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.174 - Stactet MONS RUNG aisiiiisscidiscsincsacccisvewcnreacecsesecessisesescacesutepnecsacanesscdsvesae 172",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "injection_pump",
+      "name": "Injection pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injection_pump",
+      "provenance": {
+        "page": 174,
+        "quote": "Engine turns over but does not start though fuel is being delivered to the injection PUMP .............scceeeeeeeeeeeeeeeeeeeneeeeeeeteeneeeeeeeeees 174",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 503,
+        "bbox": [
+          86.4,
+          252.1560999999998,
+          554.890144,
+          276.50373333333323
+        ],
+        "page_size": [
+          601.44,
+          787.92
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Stactet MONS RUNG aisiiiisscidiscsincsacccisvewcnreacecsesecessisesescacesutepnecsacanesscdsvesae 172",
+      "source_number": 1,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 174,
+        "quote": "Stactet MONS RUNG aisiiiisscidiscsincsacccisvewcnreacecsesecessisesescacesutepnecsacanesscdsvesae 172",
+        "verified": true,
+        "char_start": 145,
+        "char_end": 246,
+        "bbox": [
+          86.16000000000003,
+          212.47929999999997,
+          554.6502,
+          223.44596666666666
+        ],
+        "page_size": [
+          601.44,
+          787.92
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Starter operates but engine does mot turn OVEF..........cccececeeceeseeeeeeeeenveeeeenensenes 173",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 174,
+        "quote": "Starter operates but engine does mot turn OVEF..........cccececeeceeseeeeeeeeenveeeeenensenes 173",
+        "verified": true,
+        "char_start": 250,
+        "char_end": 347,
+        "bbox": [
+          86.16000000000001,
+          232.39929999999993,
+          554.488332,
+          243.36596666666662
+        ],
+        "page_size": [
+          601.44,
+          787.92
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Engine turns over but does not start though fuel is being delivered to the injection PUMP .............scceeeeeeeeeeeeeeeeeeeneeeeeeeteeneeeeeeeeees 174",
+      "source_number": 3,
+      "installs": [
+        "injection_pump"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 174,
+        "quote": "Engine turns over but does not start though fuel is being delivered to the injection PUMP .............scceeeeeeeeeeeeeeeeeeeneeeeeeeteeneeeeeeeeees 174",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 503,
+        "bbox": [
+          86.4,
+          252.1560999999998,
+          554.890144,
+          276.50373333333323
+        ],
+        "page_size": [
+          601.44,
+          787.92
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Engine turns over but does not start.................seeeeeees Mines Died bala sie raasmrenencale 175 Cite WE HII, coc crcccnssscevavescosstsdpadsabuendbucealckaseadensavisesncatensacwevessresvaceieuss 176 Gag MAREE EEO PEP PT TOC TTT TTT TTL ETL ee eee eT er 179 Exccaasive: fel CONGMMIUON casita cisscccivinccscisccccacsccccusestassxesusnesiacerecercesseosaacewarenens 182 EXGOGRING Ol GONSUTIDTION occcccceveccerconssecceruceuecdecersreceentocceessesrevecsssssecncenencssoovees 184 OQUPPROMN oc rcconcsrecccsesvecsavececcvecsevssscscichessecedcsbnucctsecevecscensbebpessdecavadseeeveeseuns 185 Wh rity exchaust SmOke@ 205.005 .cccccsccsscccccsecsccscssscccccasscsenecndccecevccncsccsscevcnceusescseeeees 187 Barkigl qxciatlet Q1Ok8 si sc ccitsisciiiicccccccudasccssccccesdstcccadiaciavesecnserssessstcasnctsncenscosens 188 Oll pressure GOSS NOt ISS .....ccccccecrcccscsescccccsccccccccccccecensccovcvesesvecescsenesceccesssessues 189 Abnormal engine MOISE .............cccccccreccccccccccccccesecccccccceccccsscvccevccscccceescesecesscoecs 191 Note: Use this section to quickly diagnose and repair engine failures. Each troubleshooting chart has three headings arranged from left to right",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note: Use this section to quickly diagnose and repair engine failures.",
+      "provenance": {
+        "page": 174,
+        "quote": "Engine turns over but does not start.................seeeeeees Mines Died bala sie raasmrenencale 175 Cite WE HII, coc crcccnssscevavescosstsdpadsabuendbucealckaseadensavisesncatensacwevessresvaceieuss 176 Gag MAREE EEO PEP PT TOC TTT TT...",
+        "verified": true,
+        "char_start": 507,
+        "char_end": 1698,
+        "bbox": [
+          58.800000000000125,
+          285.9123999999999,
+          555.5290000000003,
+          600.4488
+        ],
+        "page_size": [
+          601.44,
+          787.92
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.130 - Remove the idler gear outer thrust washer...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 130,
+        "quote": "Remove the idler gear outer thrust washer from the limit of .007 \u201d. idler gear hub (Fig. 3). A thrust washer is provided on both sides of the idler",
+        "verified": true,
+        "char_start": 1315,
+        "char_end": 1462,
+        "bbox": [
+          82.08,
+          314.1309999999999,
+          586.7289000000001,
+          350.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 130,
+        "quote": "Remove the idler gear outer thrust washer from the limit of .007 \u201d. idler gear hub (Fig. 3). A thrust washer is provided on both sides of the idler",
+        "verified": true,
+        "char_start": 1315,
+        "char_end": 1462,
+        "bbox": [
+          82.08,
+          314.1309999999999,
+          586.7289000000001,
+          350.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear_hub",
+      "name": "Idler gear hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_hub",
+      "provenance": {
+        "page": 130,
+        "quote": "Remove the idler gear outer thrust washer from the limit of .007 \u201d. idler gear hub (Fig. 3). A thrust washer is provided on both sides of the idler",
+        "verified": true,
+        "char_start": 1315,
+        "char_end": 1462,
+        "bbox": [
+          82.08,
+          314.1309999999999,
+          586.7289000000001,
+          350.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 130,
+        "quote": "Remove the idler gear outer thrust washer from the limit of .007 \u201d. idler gear hub (Fig. 3). A thrust washer is provided on both sides of the idler",
+        "verified": true,
+        "char_start": 1315,
+        "char_end": 1462,
+        "bbox": [
+          82.08,
+          314.1309999999999,
+          586.7289000000001,
+          350.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 130,
+        "quote": "Remove the idler gear outer thrust washer from the limit of .007 \u201d. idler gear hub (Fig. 3). A thrust washer is provided on both sides of the idler",
+        "verified": true,
+        "char_start": 1315,
+        "char_end": 1462,
+        "bbox": [
+          82.08,
+          314.1309999999999,
+          586.7289000000001,
+          350.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear_straight",
+      "name": "Idler gear straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_straight",
+      "provenance": {
+        "page": 130,
+        "quote": "Slide the idler gear straight back off of the idler gear and bearing assembly. The standard thickness of the idler gear and bearing assembly is 1.233\u201d to gear hub. 1.234 \" and the standard thickness of the two thrust washers is .236 \"' t...",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 2129,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 130,
+        "quote": "Slide the idler gear straight back off of the idler gear and bearing assembly. The standard thickness of the idler gear and bearing assembly is 1.233\u201d to gear hub. 1.234 \" and the standard thickness of the two thrust washers is .236 \"' t...",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 2129,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 130,
+        "quote": "Slide the idler gear straight back off of the idler gear and bearing assembly. The standard thickness of the idler gear and bearing assembly is 1.233\u201d to gear hub. 1.234 \" and the standard thickness of the two thrust washers is .236 \"' t...",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 2129,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "standard",
+      "name": "Standard",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "standard",
+      "provenance": {
+        "page": 130,
+        "quote": "Slide the idler gear straight back off of the idler gear and bearing assembly. The standard thickness of the idler gear and bearing assembly is 1.233\u201d to gear hub. 1.234 \" and the standard thickness of the two thrust washers is .236 \"' t...",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 2129,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 130,
+        "quote": "Slide the idler gear straight back off of the idler gear and bearing assembly. The standard thickness of the idler gear and bearing assembly is 1.233\u201d to gear hub. 1.234 \" and the standard thickness of the two thrust washers is .236 \"' t...",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 2129,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 130,
+        "quote": "Slide the idler gear straight back off of the idler gear and bearing assembly. The standard thickness of the idler gear and bearing assembly is 1.233\u201d to gear hub. 1.234 \" and the standard thickness of the two thrust washers is .236 \"' t...",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 2129,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 130,
+        "quote": "Slide the idler gear straight back off of the idler gear and bearing assembly. The standard thickness of the idler gear and bearing assembly is 1.233\u201d to gear hub. 1.234 \" and the standard thickness of the two thrust washers is .236 \"' t...",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 2129,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 131,
+        "quote": "Insert two 3/8 \"'-16 bolts through the idler gear hub and thread them into the cylinder block, as shown in",
+        "verified": true,
+        "char_start": 311,
+        "char_end": 417,
+        "bbox": [
+          326.6399999999999,
+          351.76599999999996,
+          568.6319400000001,
+          373.4429999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 131,
+        "quote": "Insert two 3/8 \"'-16 bolts through the idler gear hub and thread them into the cylinder block, as shown in",
+        "verified": true,
+        "char_start": 311,
+        "char_end": 417,
+        "bbox": [
+          326.6399999999999,
+          351.76599999999996,
+          568.6319400000001,
+          373.4429999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 131,
+        "quote": "Insert two 3/8 \"'-16 bolts through the idler gear hub and thread them into the cylinder block, as shown in",
+        "verified": true,
+        "char_start": 311,
+        "char_end": 417,
+        "bbox": [
+          326.6399999999999,
+          351.76599999999996,
+          568.6319400000001,
+          373.4429999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 131,
+        "quote": "Insert the 3/8 ''-16x1-3/4 \u201d special bolt through the them with compressed air. Examine the gear teeth and center of the idler gear hub and thread it into the bearing for scoring, pitting and wear. If the gear teeth cylinder block. Tight...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1200,
+        "bbox": [
+          57.599999999999994,
+          406.64399999999995,
+          567.6003,
+          480.248
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "worn",
+      "name": "Worn",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn",
+      "provenance": {
+        "page": 131,
+        "quote": "Insert the 3/8 ''-16x1-3/4 \u201d special bolt through the them with compressed air. Examine the gear teeth and center of the idler gear hub and thread it into the bearing for scoring, pitting and wear. If the gear teeth cylinder block. Tight...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1200,
+        "bbox": [
+          57.599999999999994,
+          406.64399999999995,
+          567.6003,
+          480.248
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "pitted",
+      "name": "Pitted",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pitted",
+      "provenance": {
+        "page": 131,
+        "quote": "Insert the 3/8 ''-16x1-3/4 \u201d special bolt through the them with compressed air. Examine the gear teeth and center of the idler gear hub and thread it into the bearing for scoring, pitting and wear. If the gear teeth cylinder block. Tight...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1200,
+        "bbox": [
+          57.599999999999994,
+          406.64399999999995,
+          567.6003,
+          480.248
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 131,
+        "quote": "Insert the 3/8 ''-16x1-3/4 \u201d special bolt through the them with compressed air. Examine the gear teeth and center of the idler gear hub and thread it into the bearing for scoring, pitting and wear. If the gear teeth cylinder block. Tight...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1200,
+        "bbox": [
+          57.599999999999994,
+          406.64399999999995,
+          567.6003,
+          480.248
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 131,
+        "quote": "Lubricate the idler gear hub and idler gear bearings scored or worn excessively, replace them. liberally with clean engine oil.",
+        "verified": true,
+        "char_start": 1204,
+        "char_end": 1331,
+        "bbox": [
+          57.60000000000002,
+          471.3229999999999,
+          566.432,
+          492.3949999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_gear",
+      "name": "Crankshaft gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_gear",
+      "provenance": {
+        "page": 131,
+        "quote": "Position the crankshaft gear and the camshaft gear An idler gear bearing with two oil grooves has been incorporated in the idler gear and bearing assemblies or balance shaft gear so that their timing marks will beginning with engine seri...",
+        "verified": true,
+        "char_start": 1335,
+        "char_end": 1699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 131,
+        "quote": "Position the crankshaft gear and the camshaft gear An idler gear bearing with two oil grooves has been incorporated in the idler gear and bearing assemblies or balance shaft gear so that their timing marks will beginning with engine seri...",
+        "verified": true,
+        "char_start": 1335,
+        "char_end": 1699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 131,
+        "quote": "Position the crankshaft gear and the camshaft gear An idler gear bearing with two oil grooves has been incorporated in the idler gear and bearing assemblies or balance shaft gear so that their timing marks will beginning with engine seri...",
+        "verified": true,
+        "char_start": 1335,
+        "char_end": 1699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 131,
+        "quote": "Position the crankshaft gear and the camshaft gear An idler gear bearing with two oil grooves has been incorporated in the idler gear and bearing assemblies or balance shaft gear so that their timing marks will beginning with engine seri...",
+        "verified": true,
+        "char_start": 1335,
+        "char_end": 1699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "number",
+      "provenance": {
+        "page": 131,
+        "quote": "Position the crankshaft gear and the camshaft gear An idler gear bearing with two oil grooves has been incorporated in the idler gear and bearing assemblies or balance shaft gear so that their timing marks will beginning with engine seri...",
+        "verified": true,
+        "char_start": 1335,
+        "char_end": 1699,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the idler gear outer thrust washer from the limit of .007 \u201d. idler gear hub (Fig. 3). A thrust washer is provided on both sides of the idler",
+      "source_number": 1,
+      "installs": [
+        "idler_gear_outer",
+        "crankshaft_thrust_washer",
+        "idler_gear_hub",
+        "nut_securing_fig",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 130,
+        "quote": "Remove the idler gear outer thrust washer from the limit of .007 \u201d. idler gear hub (Fig. 3). A thrust washer is provided on both sides of the idler",
+        "verified": true,
+        "char_start": 1315,
+        "char_end": 1462,
+        "bbox": [
+          82.08,
+          314.1309999999999,
+          586.7289000000001,
+          350.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Slide the idler gear straight back off of the idler gear and bearing assembly. The standard thickness of the idler gear and bearing assembly is 1.233\u201d to gear hub. 1.234 \" and the standard thickness of the two thrust washers is .236 \"' to .240 \"^; thus, the clearance between 3. Remove the bolt which secures the idler gear hub to the thrust washers and the idler gear is 006\u201d to 013\", with a maximum allowable wear limit of 017\u201d. \u041e\u043f an In-line engine. the idler gear is positioned on the left-hand side for a right-hand rotating engine and on the right-hand side for a left-hand rotating engine as viewed from the rear. Refer to Fig. 5 under Genera! Description.",
+      "source_number": 2,
+      "installs": [
+        "idler_gear_straight",
+        "idler_gear",
+        "bearing_the_end_bearing",
+        "standard",
+        "fuel_pump_drive_gear",
+        "engine_front_cover_bolt",
+        "tbe_lubricating_oil_line"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 130,
+        "quote": "Slide the idler gear straight back off of the idler gear and bearing assembly. The standard thickness of the idler gear and bearing assembly is 1.233\u201d to gear hub. 1.234 \" and the standard thickness of the two thrust washers is .236 \"' t...",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 2129,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Insert two 3/8 \"'-16 bolts through the idler gear hub and thread them into the cylinder block, as shown in",
+      "source_number": 3,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "bolt_thread",
+        "of_the_block"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 131,
+        "quote": "Insert two 3/8 \"'-16 bolts through the idler gear hub and thread them into the cylinder block, as shown in",
+        "verified": true,
+        "char_start": 311,
+        "char_end": 417,
+        "bbox": [
+          326.6399999999999,
+          351.76599999999996,
+          568.6319400000001,
+          373.4429999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Insert the 3/8 ''-16x1-3/4 \u201d special bolt through the them with compressed air. Examine the gear teeth and center of the idler gear hub and thread it into the bearing for scoring, pitting and wear. If the gear teeth cylinder block. Tighten the bolt to 40-45 lb-ft torque. are worn or the bearing is scored. pitted or worn Then remove the two 3/8 \u201d-16 bolts previously excessively, replace the gear and bearing assembly or installed for alignment of the gear hub. install a new bearing in the gear. Examine the outside diameter of the idler gear hub and thrust washers; if",
+      "source_number": 4,
+      "installs": [
+        "gear_train_teeth",
+        "worn",
+        "pitted",
+        "blower_drive_hub"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": 54.2,
+      "warning": null,
+      "provenance": {
+        "page": 131,
+        "quote": "Insert the 3/8 ''-16x1-3/4 \u201d special bolt through the them with compressed air. Examine the gear teeth and center of the idler gear hub and thread it into the bearing for scoring, pitting and wear. If the gear teeth cylinder block. Tight...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1200,
+        "bbox": [
+          57.599999999999994,
+          406.64399999999995,
+          567.6003,
+          480.248
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Lubricate the idler gear hub and idler gear bearings scored or worn excessively, replace them. liberally with clean engine oil.",
+      "source_number": 5,
+      "installs": [
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 131,
+        "quote": "Lubricate the idler gear hub and idler gear bearings scored or worn excessively, replace them. liberally with clean engine oil.",
+        "verified": true,
+        "char_start": 1204,
+        "char_end": 1331,
+        "bbox": [
+          57.60000000000002,
+          471.3229999999999,
+          566.432,
+          492.3949999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Position the crankshaft gear and the camshaft gear An idler gear bearing with two oil grooves has been incorporated in the idler gear and bearing assemblies or balance shaft gear so that their timing marks will beginning with engine serial numbers 2D-14301. 3D- align with those on the idler gear. Refer to Figs. ] and 2 in Secuon 4.7.1. 6773, 4D-9458 and 6D-3334.",
+      "source_number": 6,
+      "installs": [
+        "crankshaft_gear",
+        "camshaft",
+        "of_the_groove",
+        "end_of_the_shaft",
+        "number"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 131,
+        "quote": "Position the crankshaft gear and the camshaft gear An idler gear bearing with two oil grooves has been incorporated in the idler gear and bearing assemblies or balance shaft gear so that their timing marks will beginning with engine seri...",
+        "verified": true,
+        "char_start": 1335,
+        "char_end": 1699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "With these timing marks in alignment, install the When a new bearing is installed in the idler gear, it idler gear as shown in Fig. 2. must not protrude beyond the gear face on either side.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "must not protrude beyond the gear face on either side.",
+      "provenance": {
+        "page": 131,
+        "quote": "With these timing marks in alignment, install the When a new bearing is installed in the idler gear, it idler gear as shown in Fig. 2. must not protrude beyond the gear face on either side.",
+        "verified": true,
+        "char_start": 1703,
+        "char_end": 1892,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Apply a thin film of cup grease to the inner face (face with the oil grooves) of the outer idler gear Install Idler Gear and Bearing Assembly thrust washer. Then place the thrust washer over the end of the idler gear hub with the oil grooves in the",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 131,
+        "quote": "Apply a thin film of cup grease to the inner face (face with the oil grooves) of the outer idler gear Install Idler Gear and Bearing Assembly thrust washer. Then place the thrust washer over the end of the idler gear hub with the oil gro...",
+        "verified": true,
+        "char_start": 1896,
+        "char_end": 2144,
+        "bbox": [
+          57.6,
+          589.6429999999999,
+          568.0859999999998,
+          632.6439999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

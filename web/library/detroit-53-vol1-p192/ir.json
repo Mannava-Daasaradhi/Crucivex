@@ -1,0 +1,526 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.332 - If the valve seat is chipped at...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 332,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. 8. Replace the seal ring. of the hole. Mount tool J 7174 in a drill motor and place the valve seat on the pilot of the tool, us...",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 1006,
+        "bbox": [
+          89.51999999999998,
+          549.453,
+          450.1570000000001,
+          592.454
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "chipped",
+      "name": "Chipped",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "chipped",
+      "provenance": {
+        "page": 332,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. 8. Replace the seal ring. of the hole. Mount tool J 7174 in a drill motor and place the valve seat on the pilot of the tool, us...",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 1006,
+        "bbox": [
+          89.51999999999998,
+          549.453,
+          450.1570000000001,
+          592.454
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 332,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. 8. Replace the seal ring. of the hole. Mount tool J 7174 in a drill motor and place the valve seat on the pilot of the tool, us...",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 1006,
+        "bbox": [
+          89.51999999999998,
+          549.453,
+          450.1570000000001,
+          592.454
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 332,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. 8. Replace the seal ring. of the hole. Mount tool J 7174 in a drill motor and place the valve seat on the pilot of the tool, us...",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 1006,
+        "bbox": [
+          89.51999999999998,
+          549.453,
+          450.1570000000001,
+          592.454
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 332,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. 8. Replace the seal ring. of the hole. Mount tool J 7174 in a drill motor and place the valve seat on the pilot of the tool, us...",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 1006,
+        "bbox": [
+          89.51999999999998,
+          549.453,
+          450.1570000000001,
+          592.454
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 332,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. 8. Replace the seal ring. of the hole. Mount tool J 7174 in a drill motor and place the valve seat on the pilot of the tool, us...",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 1006,
+        "bbox": [
+          89.51999999999998,
+          549.453,
+          450.1570000000001,
+          592.454
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drill",
+      "name": "Drill",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drill",
+      "provenance": {
+        "page": 332,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. 8. Replace the seal ring. of the hole. Mount tool J 7174 in a drill motor and place the valve seat on the pilot of the tool, us...",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 1006,
+        "bbox": [
+          89.51999999999998,
+          549.453,
+          450.1570000000001,
+          592.454
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 332,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. 8. Replace the seal ring. of the hole. Mount tool J 7174 in a drill motor and place the valve seat on the pilot of the tool, us...",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 1006,
+        "bbox": [
+          89.51999999999998,
+          549.453,
+          450.1570000000001,
+          592.454
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "body_plug",
+      "name": "Body plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "body_plug",
+      "provenance": {
+        "page": 332,
+        "quote": "Install new body plugs. small amount of lapping compound on the lapping surface. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1183,
+        "bbox": [
+          89.99999999999997,
+          587.8499999999999,
+          455.45040000000006,
+          625.574
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 332,
+        "quote": "Install new body plugs. small amount of lapping compound on the lapping surface. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1183,
+        "bbox": [
+          89.99999999999997,
+          587.8499999999999,
+          455.45040000000006,
+          625.574
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "filter_gasket",
+      "name": "Filter gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter_gasket",
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the filter gaskets and tighten the filter caps the point of lap contact after a few seconds. If the to 65 to 75 lb-ft torque. edge of the hole appears sharp and clear, no further lapping is required. Excessive lapping at this poi...",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1585,
+        "bbox": [
+          90.0,
+          619.6489999999999,
+          585.7259999999999,
+          683.545
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "injector_filter_cap",
+      "name": "Injector filter cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_filter_cap",
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the filter gaskets and tighten the filter caps the point of lap contact after a few seconds. If the to 65 to 75 lb-ft torque. edge of the hole appears sharp and clear, no further lapping is required. Excessive lapping at this poi...",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1585,
+        "bbox": [
+          90.0,
+          619.6489999999999,
+          585.7259999999999,
+          683.545
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the filter gaskets and tighten the filter caps the point of lap contact after a few seconds. If the to 65 to 75 lb-ft torque. edge of the hole appears sharp and clear, no further lapping is required. Excessive lapping at this poi...",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1585,
+        "bbox": [
+          90.0,
+          619.6489999999999,
+          585.7259999999999,
+          683.545
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the filter gaskets and tighten the filter caps the point of lap contact after a few seconds. If the to 65 to 75 lb-ft torque. edge of the hole appears sharp and clear, no further lapping is required. Excessive lapping at this poi...",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1585,
+        "bbox": [
+          90.0,
+          619.6489999999999,
+          585.7259999999999,
+          683.545
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the filter gaskets and tighten the filter caps the point of lap contact after a few seconds. If the to 65 to 75 lb-ft torque. edge of the hole appears sharp and clear, no further lapping is required. Excessive lapping at this poi...",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1585,
+        "bbox": [
+          90.0,
+          619.6489999999999,
+          585.7259999999999,
+          683.545
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "filter_valve_opening",
+      "name": "Filter valve opening",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter_valve_opening",
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the filter gaskets and tighten the filter caps the point of lap contact after a few seconds. If the to 65 to 75 lb-ft torque. edge of the hole appears sharp and clear, no further lapping is required. Excessive lapping at this poi...",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1585,
+        "bbox": [
+          90.0,
+          619.6489999999999,
+          585.7259999999999,
+          683.545
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the filter gaskets and tighten the filter caps the point of lap contact after a few seconds. If the to 65 to 75 lb-ft torque. edge of the hole appears sharp and clear, no further lapping is required. Excessive lapping at this poi...",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1585,
+        "bbox": [
+          90.0,
+          619.6489999999999,
+          585.7259999999999,
+          683.545
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. 8. Replace the seal ring. of the hole. Mount tool J 7174 in a drill motor and place the valve seat on the pilot of the tool, using a",
+      "source_number": 4,
+      "installs": [
+        "insert_remover_valve_seat",
+        "chipped",
+        "contact",
+        "engine_front_cover_valve",
+        "seal_ring",
+        "of_the_oil_hole",
+        "drill",
+        "needle_bearing_pilot"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 332,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. 8. Replace the seal ring. of the hole. Mount tool J 7174 in a drill motor and place the valve seat on the pilot of the tool, us...",
+        "verified": true,
+        "char_start": 764,
+        "char_end": 1006,
+        "bbox": [
+          89.51999999999998,
+          549.453,
+          450.1570000000001,
+          592.454
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install new body plugs. small amount of lapping compound on the lapping surface. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check",
+      "source_number": 9,
+      "installs": [
+        "body_plug",
+        "clamping_pressure"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 332,
+        "quote": "Install new body plugs. small amount of lapping compound on the lapping surface. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1183,
+        "bbox": [
+          89.99999999999997,
+          587.8499999999999,
+          455.45040000000006,
+          625.574
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Replace the filter gaskets and tighten the filter caps the point of lap contact after a few seconds. If the to 65 to 75 lb-ft torque. edge of the hole appears sharp and clear, no further lapping is required. Excessive lapping at this point will increase the size of the hole and lower the injector 11. Clean up the sealing surfaces or replace the filter valve opening pressure. caps, if necessary.",
+      "source_number": 10,
+      "installs": [
+        "filter_gasket",
+        "injector_filter_cap",
+        "of_the_required",
+        "end_of_the_injector",
+        "valve_rocker_cover_clean",
+        "filter_valve_opening",
+        "clean_shipping_cap"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 101.7,
+      "warning": null,
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the filter gaskets and tighten the filter caps the point of lap contact after a few seconds. If the to 65 to 75 lb-ft torque. edge of the hole appears sharp and clear, no further lapping is required. Excessive lapping at this poi...",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1585,
+        "bbox": [
+          90.0,
+          619.6489999999999,
+          585.7259999999999,
+          683.545
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

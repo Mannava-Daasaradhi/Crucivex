@@ -1,0 +1,783 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.267 - Place the blower drive support. with the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retainer",
+      "name": "Bearing retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "steel_thrust_washer",
+      "name": "Steel thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "steel_thrust_washer",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the steel thrust washer on the end of the blower drive shaft and secure it in place with a snap ring.",
+        "verified": true,
+        "char_start": 2107,
+        "char_end": 2214,
+        "bbox": [
+          327.6,
+          331.28999999999996,
+          566.4294000000001,
+          363.013
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_shaft",
+      "name": "Blower drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_shaft",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the steel thrust washer on the end of the blower drive shaft and secure it in place with a snap ring.",
+        "verified": true,
+        "char_start": 2107,
+        "char_end": 2214,
+        "bbox": [
+          327.6,
+          331.28999999999996,
+          566.4294000000001,
+          363.013
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the steel thrust washer on the end of the blower drive shaft and secure it in place with a snap ring.",
+        "verified": true,
+        "char_start": 2107,
+        "char_end": 2214,
+        "bbox": [
+          327.6,
+          331.28999999999996,
+          566.4294000000001,
+          363.013
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 267,
+        "quote": "Lubricate the shaft with engine oil and install it in the drive support.",
+        "verified": true,
+        "char_start": 2218,
+        "char_end": 2290,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_key",
+      "name": "Drive key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_key",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_gear",
+      "name": "Blower drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_gear",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "keyway",
+      "name": "Keyway",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "keyway",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "feeler_gage",
+      "name": "Feeler gage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "feeler_gage",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "just",
+      "name": "Just",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "just",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_bearing",
+      "name": "Of the bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bearing",
+      "provenance": {
+        "page": 267,
+        "quote": "Place a support under the inner race of the bearing in the blower drive support and start the weight end of the governor weight shaft into the bearing. Press the shaft in unul the shoulder on the shaft contacts the inner race of the bear...",
+        "verified": true,
+        "char_start": 2655,
+        "char_end": 2957,
+        "bbox": [
+          326.8799999999999,
+          501.56999999999994,
+          566.7217999999999,
+          566.639
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 267,
+        "quote": "Place a support under the inner race of the bearing in the blower drive support and start the weight end of the governor weight shaft into the bearing. Press the shaft in unul the shoulder on the shaft contacts the inner race of the bear...",
+        "verified": true,
+        "char_start": 2655,
+        "char_end": 2957,
+        "bbox": [
+          326.8799999999999,
+          501.56999999999994,
+          566.7217999999999,
+          566.639
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 267,
+        "quote": "Place a support under the inner race of the bearing in the blower drive support and start the weight end of the governor weight shaft into the bearing. Press the shaft in unul the shoulder on the shaft contacts the inner race of the bear...",
+        "verified": true,
+        "char_start": 2655,
+        "char_end": 2957,
+        "bbox": [
+          326.8799999999999,
+          501.56999999999994,
+          566.7217999999999,
+          566.639
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cup_plug",
+      "name": "Cup plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cup_plug",
+      "provenance": {
+        "page": 267,
+        "quote": "Apply a good quality sealant on the edge of the cup plug and press the plug in flush with the blower drive support.",
+        "verified": true,
+        "char_start": 2961,
+        "char_end": 3076,
+        "bbox": [
+          326.4000000000001,
+          584.25,
+          564.5945,
+          616.688
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 267,
+        "quote": "Apply a good quality sealant on the edge of the cup plug and press the plug in flush with the blower drive support.",
+        "verified": true,
+        "char_start": 2961,
+        "char_end": 3076,
+        "bbox": [
+          326.4000000000001,
+          584.25,
+          564.5945,
+          616.688
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "light_governor_weight",
+      "name": "Light governor weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "light_governor_weight",
+      "provenance": {
+        "page": 267,
+        "quote": "Check the clearance between the fully extended governor weights and the blower drive gear. This clearance must not be less than .100\" (Fig. 19).",
+        "verified": true,
+        "char_start": 3080,
+        "char_end": 3224,
+        "bbox": [
+          326.16,
+          635.529,
+          565.1816,
+          666.762
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearing firmly against the shoulder in the bearing bore. Attach the bearing retainer (four- weight governor only) with two bolts, nuts and copper washers.",
+      "source_number": 1,
+      "installs": [
+        "blower_drive_support",
+        "governor_weight_shaft",
+        "bearing_the_end_bearing",
+        "crankshaft_front_sleeve",
+        "bearing_retainer",
+        "front_balance_weight",
+        "blower_the_engine_governor",
+        "engine_front_cover_bolt",
+        "front_balance_weight_nut",
+        "copper_washer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 267,
+        "quote": "Place the blower drive support. with the inner face up. on the bed of an arbor press. Start the governor weight shaft bearing, number side up, in the bearing bore of the support. Place a sleeve against the outer race and press the bearin...",
+        "verified": true,
+        "char_start": 1718,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the steel thrust washer on the end of the blower drive shaft and secure it in place with a snap ring.",
+      "source_number": 2,
+      "installs": [
+        "steel_thrust_washer",
+        "blower_drive_shaft",
+        "external_snap_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 267,
+        "quote": "Place the steel thrust washer on the end of the blower drive shaft and secure it in place with a snap ring.",
+        "verified": true,
+        "char_start": 2107,
+        "char_end": 2214,
+        "bbox": [
+          327.6,
+          331.28999999999996,
+          566.4294000000001,
+          363.013
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Lubricate the shaft with engine oil and install it in the drive support.",
+      "source_number": 3,
+      "installs": [
+        "end_of_the_shaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 267,
+        "quote": "Lubricate the shaft with engine oil and install it in the drive support.",
+        "verified": true,
+        "char_start": 2218,
+        "char_end": 2290,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft. Place a spacer over the gear and press the gear on the shaft until a .005\" feeler gage may Just be withdrawn (Fig. 18).",
+      "source_number": 4,
+      "installs": [
+        "drive_key",
+        "side_of_the_inner",
+        "blower_drive_gear",
+        "press_the_shaft_straight",
+        "keyway",
+        "fuel_pump_drive_gear",
+        "drive_gear_spacer",
+        "feeler_gage",
+        "just",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 267,
+        "quote": "Install the key in the shaft. then place the blower drive support on an arbor press. Lubricate the inner diameter of the blower drive gear and start it straight on the shaft. with the keyway in the gear aligned with the key in the shaft....",
+        "verified": true,
+        "char_start": 2294,
+        "char_end": 2651,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Place a support under the inner race of the bearing in the blower drive support and start the weight end of the governor weight shaft into the bearing. Press the shaft in unul the shoulder on the shaft contacts the inner race of the bearing. Press the shaft in straight to avoid brinelling the bearing.",
+      "source_number": 5,
+      "installs": [
+        "of_the_bearing",
+        "shoulder",
+        "contact"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 267,
+        "quote": "Place a support under the inner race of the bearing in the blower drive support and start the weight end of the governor weight shaft into the bearing. Press the shaft in unul the shoulder on the shaft contacts the inner race of the bear...",
+        "verified": true,
+        "char_start": 2655,
+        "char_end": 2957,
+        "bbox": [
+          326.8799999999999,
+          501.56999999999994,
+          566.7217999999999,
+          566.639
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Apply a good quality sealant on the edge of the cup plug and press the plug in flush with the blower drive support.",
+      "source_number": 6,
+      "installs": [
+        "cup_plug",
+        "edge_of_the_plug"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 267,
+        "quote": "Apply a good quality sealant on the edge of the cup plug and press the plug in flush with the blower drive support.",
+        "verified": true,
+        "char_start": 2961,
+        "char_end": 3076,
+        "bbox": [
+          326.4000000000001,
+          584.25,
+          564.5945,
+          616.688
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Check the clearance between the fully extended governor weights and the blower drive gear. This clearance must not be less than .100\" (Fig. 19).",
+      "source_number": 7,
+      "installs": [
+        "light_governor_weight"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "must not be less than .",
+      "provenance": {
+        "page": 267,
+        "quote": "Check the clearance between the fully extended governor weights and the blower drive gear. This clearance must not be less than .100\" (Fig. 19).",
+        "verified": true,
+        "char_start": 3080,
+        "char_end": 3224,
+        "bbox": [
+          326.16,
+          635.529,
+          565.1816,
+          666.762
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

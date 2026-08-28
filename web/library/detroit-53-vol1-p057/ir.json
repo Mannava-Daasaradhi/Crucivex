@@ -1,0 +1,609 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.105 - Apply clean engine oil to the piston...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 105,
+        "quote": "Apply clean engine oil to the piston pin and bushings.",
+        "verified": true,
+        "char_start": 1180,
+        "char_end": 1234,
+        "bbox": [
+          49.200000000000045,
+          637.53,
+          289.44360000000006,
+          658.2159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "wrist_pin",
+      "name": "Wrist pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wrist_pin",
+      "provenance": {
+        "page": 105,
+        "quote": "Apply clean engine oil to the piston pin and bushings.",
+        "verified": true,
+        "char_start": 1180,
+        "char_end": 1234,
+        "bbox": [
+          49.200000000000045,
+          637.53,
+          289.44360000000006,
+          658.2159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 105,
+        "quote": "Apply clean engine oil to the piston pin and bushings.",
+        "verified": true,
+        "char_start": 1180,
+        "char_end": 1234,
+        "bbox": [
+          49.200000000000045,
+          637.53,
+          289.44360000000006,
+          658.2159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 105,
+        "quote": "Rest the piston in the holding fixture (Fig. 9).",
+        "verified": true,
+        "char_start": 1238,
+        "char_end": 1286,
+        "bbox": [
+          59.76,
+          669.343,
+          262.45980000000003,
+          679.343
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fixture",
+      "name": "Fixture",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fixture",
+      "provenance": {
+        "page": 105,
+        "quote": "Rest the piston in the holding fixture (Fig. 9).",
+        "verified": true,
+        "char_start": 1238,
+        "char_end": 1286,
+        "bbox": [
+          59.76,
+          669.343,
+          262.45980000000003,
+          679.343
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 105,
+        "quote": "Rest the piston in the holding fixture (Fig. 9).",
+        "verified": true,
+        "char_start": 1238,
+        "char_end": 1286,
+        "bbox": [
+          59.76,
+          669.343,
+          262.45980000000003,
+          679.343
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 105,
+        "quote": "Place a new piston pin retainer in the piston; then, place the crowned end of the installer J 4895-01 on the retainer and strike the tool just hard enough to deflect the retainer and seat it evenly. CAUTION: Do not drive too hard on the ...",
+        "verified": true,
+        "char_start": 1290,
+        "char_end": 1618,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 105,
+        "quote": "Place a new piston pin retainer in the piston; then, place the crowned end of the installer J 4895-01 on the retainer and strike the tool just hard enough to deflect the retainer and seat it evenly. CAUTION: Do not drive too hard on the ...",
+        "verified": true,
+        "char_start": 1290,
+        "char_end": 1618,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "just",
+      "name": "Just",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "just",
+      "provenance": {
+        "page": 105,
+        "quote": "Place a new piston pin retainer in the piston; then, place the crowned end of the installer J 4895-01 on the retainer and strike the tool just hard enough to deflect the retainer and seat it evenly. CAUTION: Do not drive too hard on the ...",
+        "verified": true,
+        "char_start": 1290,
+        "char_end": 1618,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 105,
+        "quote": "Place a new piston pin retainer in the piston; then, place the crowned end of the installer J 4895-01 on the retainer and strike the tool just hard enough to deflect the retainer and seat it evenly. CAUTION: Do not drive too hard on the ...",
+        "verified": true,
+        "char_start": 1290,
+        "char_end": 1618,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 105,
+        "quote": "Slide the piston pin into the piston and the upper end of the connecting rod. The piston pin will slip readily into position without forcing it if the clearances are correct.",
+        "verified": true,
+        "char_start": 1622,
+        "char_end": 1796,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_connecting",
+      "name": "End of the connecting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_connecting",
+      "provenance": {
+        "page": 105,
+        "quote": "Slide the piston pin into the piston and the upper end of the connecting rod. The piston pin will slip readily into position without forcing it if the clearances are correct.",
+        "verified": true,
+        "char_start": 1622,
+        "char_end": 1796,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 105,
+        "quote": "Slide the piston pin into the piston and the upper end of the connecting rod. The piston pin will slip readily into position without forcing it if the clearances are correct.",
+        "verified": true,
+        "char_start": 1622,
+        "char_end": 1796,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 105,
+        "quote": "Slide the piston pin into the piston and the upper end of the connecting rod. The piston pin will slip readily into position without forcing it if the clearances are correct.",
+        "verified": true,
+        "char_start": 1622,
+        "char_end": 1796,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 105,
+        "quote": "Install the second piston pin retainer as outlined above.",
+        "verified": true,
+        "char_start": 1800,
+        "char_end": 1857,
+        "bbox": [
+          316.0799999999999,
+          197.36399999999992,
+          555.0168,
+          218.64999999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 105,
+        "quote": "After the piston pin retainers have been installed, check for piston pin end clearance by cocking the connecting rod on the pin and shifting the pin in its bushings.",
+        "verified": true,
+        "char_start": 1861,
+        "char_end": 2026,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_pin_bushing",
+      "name": "Piston pin bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_pin_bushing",
+      "provenance": {
+        "page": 105,
+        "quote": "One important function of the piston pin retainer 1s 10 prevent the oil, which cools the underside of the piston and lubricates the piston pin bushings, from reaching the cylinder walls. Check the retainers for proper sealing as follows:...",
+        "verified": true,
+        "char_start": 2030,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 106,
+        "quote": "Install the piston rings on the piston as outlined in Section 1.6.",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 546,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply clean engine oil to the piston pin and bushings.",
+      "source_number": 1,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "wrist_pin",
+        "connecting_rod_bushing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Apply clean engine oil to the piston pin and bushings.",
+        "verified": true,
+        "char_start": 1180,
+        "char_end": 1234,
+        "bbox": [
+          49.200000000000045,
+          637.53,
+          289.44360000000006,
+          658.2159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Rest the piston in the holding fixture (Fig. 9).",
+      "source_number": 2,
+      "installs": [
+        "of_the_selected_piston",
+        "fixture",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Rest the piston in the holding fixture (Fig. 9).",
+        "verified": true,
+        "char_start": 1238,
+        "char_end": 1286,
+        "bbox": [
+          59.76,
+          669.343,
+          262.45980000000003,
+          679.343
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place a new piston pin retainer in the piston; then, place the crowned end of the installer J 4895-01 on the retainer and strike the tool just hard enough to deflect the retainer and seat it evenly. CAUTION: Do not drive too hard on the retainer or the bushing may be moved inward and result in reduced piston pin end clearance.",
+      "source_number": 3,
+      "installs": [
+        "drive_shaft_retainer",
+        "oil_seal_installer",
+        "just",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Do not drive too hard on the retainer or the bushing may be moved inward and result in reduced piston pin end clearance.",
+      "provenance": {
+        "page": 105,
+        "quote": "Place a new piston pin retainer in the piston; then, place the crowned end of the installer J 4895-01 on the retainer and strike the tool just hard enough to deflect the retainer and seat it evenly. CAUTION: Do not drive too hard on the ...",
+        "verified": true,
+        "char_start": 1290,
+        "char_end": 1618,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Slide the piston pin into the piston and the upper end of the connecting rod. The piston pin will slip readily into position without forcing it if the clearances are correct.",
+      "source_number": 4,
+      "installs": [
+        "hammer_spring_scale_upper",
+        "end_of_the_connecting",
+        "bearing_pilot_rod",
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Slide the piston pin into the piston and the upper end of the connecting rod. The piston pin will slip readily into position without forcing it if the clearances are correct.",
+        "verified": true,
+        "char_start": 1622,
+        "char_end": 1796,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the second piston pin retainer as outlined above.",
+      "source_number": 5,
+      "installs": [
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Install the second piston pin retainer as outlined above.",
+        "verified": true,
+        "char_start": 1800,
+        "char_end": 1857,
+        "bbox": [
+          316.0799999999999,
+          197.36399999999992,
+          555.0168,
+          218.64999999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "After the piston pin retainers have been installed, check for piston pin end clearance by cocking the connecting rod on the pin and shifting the pin in its bushings.",
+      "source_number": 6,
+      "installs": [
+        "connecting_rod"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "After the piston pin retainers have been installed, check for piston pin end clearance by cocking the connecting rod on the pin and shifting the pin in its bushings.",
+        "verified": true,
+        "char_start": 1861,
+        "char_end": 2026,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "One important function of the piston pin retainer 1s 10 prevent the oil, which cools the underside of the piston and lubricates the piston pin bushings, from reaching the cylinder walls. Check the retainers for proper sealing as follows: a. Place the piston and connecting rod assembly upside down on a bench. b. Pour clean fuel oil in the piston to a level above the piston pin bosses. Fig. 9 - installing Piston Pin Retainer with",
+      "source_number": 7,
+      "installs": [
+        "piston_pin_bushing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s04",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "One important function of the piston pin retainer 1s 10 prevent the oil, which cools the underside of the piston and lubricates the piston pin bushings, from reaching the cylinder walls. Check the retainers for proper sealing as follows:...",
+        "verified": true,
+        "char_start": 2030,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Install the piston rings on the piston as outlined in Section 1.6.",
+      "source_number": 8,
+      "installs": [
+        "piston_ring"
+      ],
+      "depends_on": [
+        "s02",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 106,
+        "quote": "Install the piston rings on the piston as outlined in Section 1.6.",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 546,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Install the piston and connecting rod assembly in the engine as outlined in Secuon 1.6.3.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s05",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 106,
+        "quote": "Install the piston and connecting rod assembly in the engine as outlined in Secuon 1.6.3.",
+        "verified": true,
+        "char_start": 550,
+        "char_end": 639,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

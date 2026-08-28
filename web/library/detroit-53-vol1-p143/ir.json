@@ -1,0 +1,809 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.257 - Attach a new governor-to-end plate gasket on...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "governor_to_end_plate",
+      "name": "Governor-to-end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_to_end_plate",
+      "provenance": {
+        "page": 257,
+        "quote": "Attach a new governor-to-end plate gasket on the governor body mounting flange.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 816,
+        "bbox": [
+          324.24,
+          168.56999999999994,
+          563.6043000000001,
+          189.70799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 257,
+        "quote": "Attach a new governor-to-end plate gasket on the governor body mounting flange.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 816,
+        "bbox": [
+          324.24,
+          168.56999999999994,
+          563.6043000000001,
+          189.70799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 257,
+        "quote": "Attach a new governor-to-end plate gasket on the governor body mounting flange.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 816,
+        "bbox": [
+          324.24,
+          168.56999999999994,
+          563.6043000000001,
+          189.70799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 257,
+        "quote": "Attach a new governor-to-end plate gasket on the governor body mounting flange.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 816,
+        "bbox": [
+          324.24,
+          168.56999999999994,
+          563.6043000000001,
+          189.70799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 257,
+        "quote": "Attach a new governor-to-end plate gasket on the governor body mounting flange.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 816,
+        "bbox": [
+          324.24,
+          168.56999999999994,
+          563.6043000000001,
+          189.70799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_drive_gear",
+      "name": "Governor drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_gear",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "pump_drive_coupling",
+      "name": "Pump drive coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pump_drive_coupling",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the fuel pump drive coupling and a new gasket on the fuel pump.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1184,
+        "bbox": [
+          324.48,
+          276.20899999999995,
+          561.6012000000001,
+          297.26099999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the fuel pump drive coupling and a new gasket on the fuel pump.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1184,
+        "bbox": [
+          324.48,
+          276.20899999999995,
+          561.6012000000001,
+          297.26099999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "accessory_drive_coupling",
+      "name": "Accessory drive coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_coupling",
+      "provenance": {
+        "page": 257,
+        "quote": "Mount the fuel pump, coupling and gasket on the governor housing (Fig. 1), turning the pump shaft until the coupling engages the drive end of the governor operating shaft. Secure the pump to the governor with three 5/16\" - 18 x 7/8\" bolts.",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1427,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 257,
+        "quote": "Mount the fuel pump, coupling and gasket on the governor housing (Fig. 1), turning the pump shaft until the coupling engages the drive end of the governor operating shaft. Secure the pump to the governor with three 5/16\" - 18 x 7/8\" bolts.",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1427,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pump_shaft",
+      "name": "Pump shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pump_shaft",
+      "provenance": {
+        "page": 257,
+        "quote": "Mount the fuel pump, coupling and gasket on the governor housing (Fig. 1), turning the pump shaft until the coupling engages the drive end of the governor operating shaft. Secure the pump to the governor with three 5/16\" - 18 x 7/8\" bolts.",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1427,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 257,
+        "quote": "Mount the fuel pump, coupling and gasket on the governor housing (Fig. 1), turning the pump shaft until the coupling engages the drive end of the governor operating shaft. Secure the pump to the governor with three 5/16\" - 18 x 7/8\" bolts.",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1427,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 257,
+        "quote": "Mount the fuel pump, coupling and gasket on the governor housing (Fig. 1), turning the pump shaft until the coupling engages the drive end of the governor operating shaft. Secure the pump to the governor with three 5/16\" - 18 x 7/8\" bolts.",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1427,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_line",
+      "name": "Fuel line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_line",
+      "provenance": {
+        "page": 257,
+        "quote": "Reconnect the fuel lines to the fuel pump.",
+        "verified": true,
+        "char_start": 1431,
+        "char_end": 1473,
+        "bbox": [
+          335.76,
+          372.61599999999993,
+          515.2479999999999,
+          382.61599999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "throttle_rod",
+      "name": "Throttle rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_rod",
+      "provenance": {
+        "page": 257,
+        "quote": "Reconnect the throttle rod assembly to the rocker shaft lever.",
+        "verified": true,
+        "char_start": 1477,
+        "char_end": 1539,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_shaft_lever",
+      "name": "Rocker shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_shaft_lever",
+      "provenance": {
+        "page": 257,
+        "quote": "Reconnect the throttle rod assembly to the rocker shaft lever.",
+        "verified": true,
+        "char_start": 1477,
+        "char_end": 1539,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 257,
+        "quote": "Perform an engine tune-up as outlined in Section 144.1.",
+        "verified": true,
+        "char_start": 1543,
+        "char_end": 1598,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Attach a new governor-to-end plate gasket on the governor body mounting flange.",
+      "source_number": 1,
+      "installs": [
+        "governor_to_end_plate",
+        "head_gasket",
+        "blower_the_engine_governor",
+        "breather_body",
+        "flange"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 257,
+        "quote": "Attach a new governor-to-end plate gasket on the governor body mounting flange.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 816,
+        "bbox": [
+          324.24,
+          168.56999999999994,
+          563.6043000000001,
+          189.70799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts with plain steel washers and lock washers (Fig. 6).",
+      "source_number": 2,
+      "installs": [
+        "assembly_rear_end_plate",
+        "gear_train_teeth",
+        "governor_drive_gear",
+        "end_of_the_shaft",
+        "fuel_pump_drive_gear",
+        "camshaft",
+        "engine_front_cover_bolt",
+        "copper_washer",
+        "another_drive_flange_washer",
+        "special_lock_washer",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 257,
+        "quote": "Install the governor against the engine end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear or camshaft gear. Install and tighten the three bolts with plain copper washers (only) and two bolts...",
+        "verified": true,
+        "char_start": 820,
+        "char_end": 1109,
+        "bbox": [
+          324.0000000000001,
+          200.48899999999992,
+          563.3643000000001,
+          265.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the fuel pump drive coupling and a new gasket on the fuel pump.",
+      "source_number": 3,
+      "installs": [
+        "pump_drive_coupling",
+        "fuel_pump"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 257,
+        "quote": "Install the fuel pump drive coupling and a new gasket on the fuel pump.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1184,
+        "bbox": [
+          324.48,
+          276.20899999999995,
+          561.6012000000001,
+          297.26099999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Mount the fuel pump, coupling and gasket on the governor housing (Fig. 1), turning the pump shaft until the coupling engages the drive end of the governor operating shaft. Secure the pump to the governor with three 5/16\" - 18 x 7/8\" bolts.",
+      "source_number": 4,
+      "installs": [
+        "accessory_drive_coupling",
+        "disassemble_governor_housing",
+        "pump_shaft",
+        "governor_operating_shaft",
+        "lubricating_oil_pump"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 257,
+        "quote": "Mount the fuel pump, coupling and gasket on the governor housing (Fig. 1), turning the pump shaft until the coupling engages the drive end of the governor operating shaft. Secure the pump to the governor with three 5/16\" - 18 x 7/8\" bolts.",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1427,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Reconnect the fuel lines to the fuel pump.",
+      "source_number": 5,
+      "installs": [
+        "fuel_line"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 257,
+        "quote": "Reconnect the fuel lines to the fuel pump.",
+        "verified": true,
+        "char_start": 1431,
+        "char_end": 1473,
+        "bbox": [
+          335.76,
+          372.61599999999993,
+          515.2479999999999,
+          382.61599999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Reconnect the throttle rod assembly to the rocker shaft lever.",
+      "source_number": 6,
+      "installs": [
+        "throttle_rod",
+        "rocker_shaft_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 257,
+        "quote": "Reconnect the throttle rod assembly to the rocker shaft lever.",
+        "verified": true,
+        "char_start": 1477,
+        "char_end": 1539,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Perform an engine tune-up as outlined in Section 144.1.",
+      "source_number": 7,
+      "installs": [
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 257,
+        "quote": "Perform an engine tune-up as outlined in Section 144.1.",
+        "verified": true,
+        "char_start": 1543,
+        "char_end": 1598,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

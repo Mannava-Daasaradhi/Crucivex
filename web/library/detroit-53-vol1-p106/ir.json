@@ -1,0 +1,828 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.210 - Clamp the pump body in a bench...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 210,
+        "quote": "Install the pump drive gear over the end of the drive shaft which is not squared (so the slot in the gear will face the plain end of the shaft). This operation is very important, otherwise fine score marks caused by pressing the gear int...",
+        "verified": true,
+        "char_start": 3066,
+        "char_end": 3542,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_shaft",
+      "name": "Accessory drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_shaft",
+      "provenance": {
+        "page": 210,
+        "quote": "Install the pump drive gear over the end of the drive shaft which is not squared (so the slot in the gear will face the plain end of the shaft). This operation is very important, otherwise fine score marks caused by pressing the gear int...",
+        "verified": true,
+        "char_start": 3066,
+        "char_end": 3542,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_slot",
+      "name": "Tbe slot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_slot",
+      "provenance": {
+        "page": 210,
+        "quote": "Install the pump drive gear over the end of the drive shaft which is not squared (so the slot in the gear will face the plain end of the shaft). This operation is very important, otherwise fine score marks caused by pressing the gear int...",
+        "verified": true,
+        "char_start": 3066,
+        "char_end": 3542,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 210,
+        "quote": "Install the pump drive gear over the end of the drive shaft which is not squared (so the slot in the gear will face the plain end of the shaft). This operation is very important, otherwise fine score marks caused by pressing the gear int...",
+        "verified": true,
+        "char_start": 3066,
+        "char_end": 3542,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_seal",
+      "name": "Of the oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_seal",
+      "provenance": {
+        "page": 210,
+        "quote": "Install the pump drive gear over the end of the drive shaft which is not squared (so the slot in the gear will face the plain end of the shaft). This operation is very important, otherwise fine score marks caused by pressing the gear int...",
+        "verified": true,
+        "char_start": 3066,
+        "char_end": 3542,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_ball",
+      "name": "End of the ball",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_ball",
+      "provenance": {
+        "page": 210,
+        "quote": "Install the pump drive gear over the end of the drive shaft which is not squared (so the slot in the gear will face the plain end of the shaft). This operation is very important, otherwise fine score marks caused by pressing the gear int...",
+        "verified": true,
+        "char_start": 3066,
+        "char_end": 3542,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 210,
+        "quote": "Install the pump drive gear over the end of the drive shaft which is not squared (so the slot in the gear will face the plain end of the shaft). This operation is very important, otherwise fine score marks caused by pressing the gear int...",
+        "verified": true,
+        "char_start": 3066,
+        "char_end": 3542,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pump_shaft",
+      "name": "Pump shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pump_shaft",
+      "provenance": {
+        "page": 210,
+        "quote": "Lubricate the pump shaft and insert the square end of the shaft into the opening at the gear side of the pump body and through the oil seals as shown in Fig. 9. Fig. 5 - Removing Oil Seals Using Tool J 1508-13",
+        "verified": true,
+        "char_start": 3546,
+        "char_end": 3755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 210,
+        "quote": "Lubricate the pump shaft and insert the square end of the shaft into the opening at the gear side of the pump body and through the oil seals as shown in Fig. 9. Fig. 5 - Removing Oil Seals Using Tool J 1508-13",
+        "verified": true,
+        "char_start": 3546,
+        "char_end": 3755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 210,
+        "quote": "Lubricate the pump shaft and insert the square end of the shaft into the opening at the gear side of the pump body and through the oil seals as shown in Fig. 9. Fig. 5 - Removing Oil Seals Using Tool J 1508-13",
+        "verified": true,
+        "char_start": 3546,
+        "char_end": 3755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_driven_shaft",
+      "name": "Governor driven shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_driven_shaft",
+      "provenance": {
+        "page": 211,
+        "quote": "Place the driven shaft and gear assembly in the pump body. NOTICE: The driven gear must be centered on the shaft to give proper end clearance. Also, the chamfered end of the gear teeth of the production gear must face the pump body. If a...",
+        "verified": true,
+        "char_start": 257,
+        "char_end": 582,
+        "bbox": [
+          101.04000000000005,
+          445.93299999999994,
+          325.14155999999997,
+          537.2869999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "driven_gear_assembly",
+      "name": "Driven gear assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "driven_gear_assembly",
+      "provenance": {
+        "page": 211,
+        "quote": "Place the driven shaft and gear assembly in the pump body. NOTICE: The driven gear must be centered on the shaft to give proper end clearance. Also, the chamfered end of the gear teeth of the production gear must face the pump body. If a...",
+        "verified": true,
+        "char_start": 257,
+        "char_end": 582,
+        "bbox": [
+          101.04000000000005,
+          445.93299999999994,
+          325.14155999999997,
+          537.2869999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "driven_gear",
+      "name": "Driven gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "driven_gear",
+      "provenance": {
+        "page": 211,
+        "quote": "Place the driven shaft and gear assembly in the pump body. NOTICE: The driven gear must be centered on the shaft to give proper end clearance. Also, the chamfered end of the gear teeth of the production gear must face the pump body. If a...",
+        "verified": true,
+        "char_start": 257,
+        "char_end": 582,
+        "bbox": [
+          101.04000000000005,
+          445.93299999999994,
+          325.14155999999997,
+          537.2869999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "centered",
+      "name": "Centered",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "centered",
+      "provenance": {
+        "page": 211,
+        "quote": "Place the driven shaft and gear assembly in the pump body. NOTICE: The driven gear must be centered on the shaft to give proper end clearance. Also, the chamfered end of the gear teeth of the production gear must face the pump body. If a...",
+        "verified": true,
+        "char_start": 257,
+        "char_end": 582,
+        "bbox": [
+          101.04000000000005,
+          445.93299999999994,
+          325.14155999999997,
+          537.2869999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 211,
+        "quote": "Place the driven shaft and gear assembly in the pump body. NOTICE: The driven gear must be centered on the shaft to give proper end clearance. Also, the chamfered end of the gear teeth of the production gear must face the pump body. If a...",
+        "verified": true,
+        "char_start": 257,
+        "char_end": 582,
+        "bbox": [
+          101.04000000000005,
+          445.93299999999994,
+          325.14155999999997,
+          537.2869999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 211,
+        "quote": "Lubricate the gears and shafts with clean engine oil.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 639,
+        "bbox": [
+          101.52,
+          545.4879999999999,
+          323.4592,
+          555.4879999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "pump_cover",
+      "name": "Pump cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pump_cover",
+      "provenance": {
+        "page": 211,
+        "quote": "Apply a thin coat of quality sealant on the face of the pump cover outside of the gear pocket area. Then place the cover against the pump body with the two dowel pins in the cover entering the holes in the pump body. The cover can be ins...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1324,
+        "bbox": [
+          100.79999999999976,
+          565.693,
+          585.9595800000001,
+          729.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 211,
+        "quote": "Apply a thin coat of quality sealant on the face of the pump cover outside of the gear pocket area. Then place the cover against the pump body with the two dowel pins in the cover entering the holes in the pump body. The cover can be ins...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1324,
+        "bbox": [
+          100.79999999999976,
+          565.693,
+          585.9595800000001,
+          729.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 211,
+        "quote": "Apply a thin coat of quality sealant on the face of the pump cover outside of the gear pocket area. Then place the cover against the pump body with the two dowel pins in the cover entering the holes in the pump body. The cover can be ins...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1324,
+        "bbox": [
+          100.79999999999976,
+          565.693,
+          585.9595800000001,
+          729.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "coating",
+      "name": "Coating",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "coating",
+      "provenance": {
+        "page": 211,
+        "quote": "Apply a thin coat of quality sealant on the face of the pump cover outside of the gear pocket area. Then place the cover against the pump body with the two dowel pins in the cover entering the holes in the pump body. The cover can be ins...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1324,
+        "bbox": [
+          100.79999999999976,
+          565.693,
+          585.9595800000001,
+          729.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "too",
+      "name": "Too",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "too",
+      "provenance": {
+        "page": 211,
+        "quote": "Apply a thin coat of quality sealant on the face of the pump cover outside of the gear pocket area. Then place the cover against the pump body with the two dowel pins in the cover entering the holes in the pump body. The cover can be ins...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1324,
+        "bbox": [
+          100.79999999999976,
+          565.693,
+          585.9595800000001,
+          729.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "inner_oil_seal",
+      "name": "Inner oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner_oil_seal",
+      "provenance": {
+        "page": 211,
+        "quote": "Apply a thin coat of quality sealant on the face of the pump cover outside of the gear pocket area. Then place the cover against the pump body with the two dowel pins in the cover entering the holes in the pump body. The cover can be ins...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1324,
+        "bbox": [
+          100.79999999999976,
+          565.693,
+          585.9595800000001,
+          729.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin inside of the spring. With a new gasket in place next to the head of the valve plug, place the plug over the spring and thread it into the pump body. Tighten the 1/2\"\u201420 plug to 18-22 Ib-ft (24-30 N-m) torque.",
+      "source_number": 2,
+      "installs": [
+        "breather_tube_clamp",
+        "lubricating_oil_pump",
+        "breather_body",
+        "engine_front_cover_valve",
+        "exhaust_valve_seat_insert",
+        "end_of_the_spring",
+        "copper_plated_dowel_pin",
+        "head_gasket",
+        "next",
+        "edge_of_the_plug",
+        "bolt_thread"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 24.4,
+      "warning": null,
+      "provenance": {
+        "page": 210,
+        "quote": "Clamp the pump body in a bench vise (equipped with soft jaws) with the valve cavity up. Lubricate the outside diameter of the valve and place it in the cavity with the hollow end up. Insert the spring inside of the valve and the pin insi...",
+        "verified": true,
+        "char_start": 2620,
+        "char_end": 3062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the pump drive gear over the end of the drive shaft which is not squared (so the slot in the gear will face the plain end of the shaft). This operation is very important, otherwise fine score marks caused by pressing the gear into position from the square end of the shaft may cause rapid wear of the oil seals. Press the gear beyond the gear retaining ball detent. Then place the ball in the detent and press the gear back until the end of the slot contacts the ball.",
+      "source_number": 3,
+      "installs": [
+        "fuel_pump_drive_gear",
+        "accessory_drive_shaft",
+        "tbe_slot",
+        "end_of_the_shaft",
+        "of_the_oil_seal",
+        "end_of_the_ball",
+        "contact"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 210,
+        "quote": "Install the pump drive gear over the end of the drive shaft which is not squared (so the slot in the gear will face the plain end of the shaft). This operation is very important, otherwise fine score marks caused by pressing the gear int...",
+        "verified": true,
+        "char_start": 3066,
+        "char_end": 3542,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Lubricate the pump shaft and insert the square end of the shaft into the opening at the gear side of the pump body and through the oil seals as shown in Fig. 9. Fig. 5 - Removing Oil Seals Using Tool J 1508-13",
+      "source_number": 4,
+      "installs": [
+        "pump_shaft",
+        "crankshaft_front_oil_seal",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 210,
+        "quote": "Lubricate the pump shaft and insert the square end of the shaft into the opening at the gear side of the pump body and through the oil seals as shown in Fig. 9. Fig. 5 - Removing Oil Seals Using Tool J 1508-13",
+        "verified": true,
+        "char_start": 3546,
+        "char_end": 3755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Place the driven shaft and gear assembly in the pump body. NOTICE: The driven gear must be centered on the shaft to give proper end clearance. Also, the chamfered end of the gear teeth of the production gear must face the pump body. If a service replacement gear with a slot is used, the slot must face toward the pump cover.",
+      "source_number": 5,
+      "installs": [
+        "governor_driven_shaft",
+        "driven_gear_assembly",
+        "driven_gear",
+        "centered",
+        "gear_train_teeth"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 211,
+        "quote": "Place the driven shaft and gear assembly in the pump body. NOTICE: The driven gear must be centered on the shaft to give proper end clearance. Also, the chamfered end of the gear teeth of the production gear must face the pump body. If a...",
+        "verified": true,
+        "char_start": 257,
+        "char_end": 582,
+        "bbox": [
+          101.04000000000005,
+          445.93299999999994,
+          325.14155999999997,
+          537.2869999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Lubricate the gears and shafts with clean engine oil.",
+      "source_number": 6,
+      "installs": [
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 211,
+        "quote": "Lubricate the gears and shafts with clean engine oil.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 639,
+        "bbox": [
+          101.52,
+          545.4879999999999,
+          323.4592,
+          555.4879999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Apply a thin coat of quality sealant on the face of the pump cover outside of the gear pocket area. Then place the cover against the pump body with the two dowel pins in the cover entering the holes in the pump body. The cover can be installed in only one position over the two shafts. NOTICE: The coating of sealant must be extremely thin since the pump clearances have been set up on the basis of metal-to-metal contact. Too much sealant could increase the clearances and affect the efficiency of the pump. Use care that sealant is not squeezed into the Fig. 7 - Installing Inner Oil Seal Using Tool J 1508-8 gear compartment, otherwise damage to the gears and shafts may result.",
+      "source_number": 7,
+      "installs": [
+        "pump_cover",
+        "underside_of_the_cover",
+        "of_the_oil_hole",
+        "coating",
+        "too",
+        "inner_oil_seal"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 211,
+        "quote": "Apply a thin coat of quality sealant on the face of the pump cover outside of the gear pocket area. Then place the cover against the pump body with the two dowel pins in the cover entering the holes in the pump body. The cover can be ins...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1324,
+        "bbox": [
+          100.79999999999976,
+          565.693,
+          585.9595800000001,
+          729.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

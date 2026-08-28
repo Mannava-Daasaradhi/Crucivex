@@ -1,0 +1,1169 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.228 - Remove the seven attaching screws and lock...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "attaching_screw",
+      "name": "Attaching screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "attaching_screw",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the seven attaching screws and lock washers and detach the governor cover and lever assembly from the governor housing. Remove the cover gasket.",
+        "verified": true,
+        "char_start": 1859,
+        "char_end": 2010,
+        "bbox": [
+          323.03999999999996,
+          291.3299999999999,
+          559.8383999999999,
+          323.17299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the seven attaching screws and lock washers and detach the governor cover and lever assembly from the governor housing. Remove the cover gasket.",
+        "verified": true,
+        "char_start": 1859,
+        "char_end": 2010,
+        "bbox": [
+          323.03999999999996,
+          291.3299999999999,
+          559.8383999999999,
+          323.17299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the seven attaching screws and lock washers and detach the governor cover and lever assembly from the governor housing. Remove the cover gasket.",
+        "verified": true,
+        "char_start": 1859,
+        "char_end": 2010,
+        "bbox": [
+          323.03999999999996,
+          291.3299999999999,
+          559.8383999999999,
+          323.17299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the seven attaching screws and lock washers and detach the governor cover and lever assembly from the governor housing. Remove the cover gasket.",
+        "verified": true,
+        "char_start": 1859,
+        "char_end": 2010,
+        "bbox": [
+          323.03999999999996,
+          291.3299999999999,
+          559.8383999999999,
+          323.17299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the seven attaching screws and lock washers and detach the governor cover and lever assembly from the governor housing. Remove the cover gasket.",
+        "verified": true,
+        "char_start": 1859,
+        "char_end": 2010,
+        "bbox": [
+          323.03999999999996,
+          291.3299999999999,
+          559.8383999999999,
+          323.17299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cover_gasket",
+      "name": "Cover gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cover_gasket",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the seven attaching screws and lock washers and detach the governor cover and lever assembly from the governor housing. Remove the cover gasket.",
+        "verified": true,
+        "char_start": 1859,
+        "char_end": 2010,
+        "bbox": [
+          323.03999999999996,
+          291.3299999999999,
+          559.8383999999999,
+          323.17299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 228,
+        "quote": "Take out the two bolts and copper washers and remove the spring housing (or cover) and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 2014,
+        "char_end": 2134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 228,
+        "quote": "Take out the two bolts and copper washers and remove the spring housing (or cover) and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 2014,
+        "char_end": 2134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_spring_housing",
+      "name": "Governor spring housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_spring_housing",
+      "provenance": {
+        "page": 228,
+        "quote": "Take out the two bolts and copper washers and remove the spring housing (or cover) and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 2014,
+        "char_end": 2134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 228,
+        "quote": "Take out the two bolts and copper washers and remove the spring housing (or cover) and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 2014,
+        "char_end": 2134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 228,
+        "quote": "Take out the two bolts and copper washers and remove the spring housing (or cover) and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 2014,
+        "char_end": 2134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idle",
+      "name": "Idle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idle",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_screw",
+      "name": "Speed adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_screw",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_plunger",
+      "name": "High speed spring plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_plunger",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "low_speed_spring",
+      "name": "Low speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_spring",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "low_speed_spring_cap",
+      "name": "Low-speed spring cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_spring_cap",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_assembly",
+      "name": "Spring assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_assembly",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the hose clamps and slide the hoses back on ihe fuel rod covers.",
+        "verified": true,
+        "char_start": 2563,
+        "char_end": 2634,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_rod_cover",
+      "name": "Fuel rod cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_rod_cover",
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the hose clamps and slide the hoses back on ihe fuel rod covers.",
+        "verified": true,
+        "char_start": 2563,
+        "char_end": 2634,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the valve rocker covers from the cylinder heads.",
+        "verified": true,
+        "char_start": 2638,
+        "char_end": 2693,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the valve rocker covers from the cylinder heads.",
+        "verified": true,
+        "char_start": 2638,
+        "char_end": 2693,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lower_fuel_rod",
+      "name": "Lower fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_fuel_rod",
+      "provenance": {
+        "page": 228,
+        "quote": "Disconnect the lower fuel rods from the injector control tube levers and from the lower (threaded) ends of the upper fuel rods.",
+        "verified": true,
+        "char_start": 2697,
+        "char_end": 2824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 228,
+        "quote": "Disconnect the lower fuel rods from the injector control tube levers and from the lower (threaded) ends of the upper fuel rods.",
+        "verified": true,
+        "char_start": 2697,
+        "char_end": 2824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "upper_fuel_rod",
+      "name": "Upper fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_fuel_rod",
+      "provenance": {
+        "page": 228,
+        "quote": "Disconnect the lower fuel rods from the injector control tube levers and from the lower (threaded) ends of the upper fuel rods.",
+        "verified": true,
+        "char_start": 2697,
+        "char_end": 2824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "threaded_pin",
+      "name": "Threaded pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "threaded_pin",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the threaded pins that connect the fuel rods to the control link lever and remove the upper fuel rods.",
+        "verified": true,
+        "char_start": 2828,
+        "char_end": 2937,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the threaded pins that connect the fuel rods to the control link lever and remove the upper fuel rods.",
+        "verified": true,
+        "char_start": 2828,
+        "char_end": 2937,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_link_lever",
+      "name": "Control link lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_lever",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the threaded pins that connect the fuel rods to the control link lever and remove the upper fuel rods.",
+        "verified": true,
+        "char_start": 2828,
+        "char_end": 2937,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the blower drive support (Fig. 3) as outlined in Section 3.4. The governor weight and shaft assembly will be removed with the blower drive support.",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the blower drive support (Fig. 3) as outlined in Section 3.4. The governor weight and shaft assembly will be removed with the blower drive support.",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "light_governor_weight",
+      "name": "Light governor weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "light_governor_weight",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the blower drive support (Fig. 3) as outlined in Section 3.4. The governor weight and shaft assembly will be removed with the blower drive support.",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the blower drive support (Fig. 3) as outlined in Section 3.4. The governor weight and shaft assembly will be removed with the blower drive support.",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the blower drive support (Fig. 3) as outlined in Section 3.4. The governor weight and shaft assembly will be removed with the blower drive support.",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 228,
+        "quote": "Check the clearance between the gear and each of the fully extended weights (Fig. 18). If this clearance",
+        "verified": true,
+        "char_start": 3100,
+        "char_end": 3204,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 228,
+        "quote": "Check the clearance between the gear and each of the fully extended weights (Fig. 18). If this clearance",
+        "verified": true,
+        "char_start": 3100,
+        "char_end": 3204,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 229,
+        "quote": "Remove the governor weight shaft and carrier assembly from the blower drive support. using pry bars if necessary.",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 465,
+        "bbox": [
+          87.6,
+          174.56999999999994,
+          326.64144000000005,
+          207.1479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "weight_carrier",
+      "name": "Weight carrier",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_carrier",
+      "provenance": {
+        "page": 229,
+        "quote": "Remove the governor weight shaft and carrier assembly from the blower drive support. using pry bars if necessary.",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 465,
+        "bbox": [
+          87.6,
+          174.56999999999994,
+          326.64144000000005,
+          207.1479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "pry",
+      "name": "Pry",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pry",
+      "provenance": {
+        "page": 229,
+        "quote": "Remove the governor weight shaft and carrier assembly from the blower drive support. using pry bars if necessary.",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 465,
+        "bbox": [
+          87.6,
+          174.56999999999994,
+          326.64144000000005,
+          207.1479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flywheel_attaching_bolt",
+      "name": "Flywheel attaching bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_attaching_bolt",
+      "provenance": {
+        "page": 229,
+        "quote": "Remove the six attaching bolts and lock washers and detach the governor housing from the blower rear end plate. Remove the gasket.",
+        "verified": true,
+        "char_start": 550,
+        "char_end": 680,
+        "bbox": [
+          87.84000000000003,
+          248.32899999999995,
+          326.69792,
+          278.496
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 229,
+        "quote": "Remove the six attaching bolts and lock washers and detach the governor housing from the blower rear end plate. Remove the gasket.",
+        "verified": true,
+        "char_start": 550,
+        "char_end": 680,
+        "bbox": [
+          87.84000000000003,
+          248.32899999999995,
+          326.69792,
+          278.496
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the seven attaching screws and lock washers and detach the governor cover and lever assembly from the governor housing. Remove the cover gasket.",
+      "source_number": 2,
+      "installs": [
+        "attaching_screw",
+        "special_lock_washer",
+        "governor_cover",
+        "of_the_stop_lever",
+        "disassemble_governor_housing",
+        "cover_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the seven attaching screws and lock washers and detach the governor cover and lever assembly from the governor housing. Remove the cover gasket.",
+        "verified": true,
+        "char_start": 1859,
+        "char_end": 2010,
+        "bbox": [
+          323.03999999999996,
+          291.3299999999999,
+          559.8383999999999,
+          323.17299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Take out the two bolts and copper washers and remove the spring housing (or cover) and gasket from the governor housing.",
+      "source_number": 3,
+      "installs": [
+        "engine_front_cover_bolt",
+        "copper_washer",
+        "governor_spring_housing",
+        "underside_of_the_cover",
+        "head_gasket"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 228,
+        "quote": "Take out the two bolts and copper washers and remove the spring housing (or cover) and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 2014,
+        "char_end": 2134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed spring. spring seat and spring cap as a unit. On engines equipped with the type \"B\" governor (Fig. 6) remove the spring retainer with spanner wrench J 5895 and withdraw the spring assembly.",
+      "source_number": 4,
+      "installs": [
+        "engine_speed",
+        "high_speed_spring_retainer",
+        "bearing_lock_nut",
+        "blower_the_engine_governor",
+        "nut_securing_fig",
+        "end_of_the_spring",
+        "drive_shaft_retainer",
+        "idle",
+        "speed_adjusting_screw",
+        "high_speed_spring_plunger",
+        "low_speed_spring",
+        "drive_spring_seat",
+        "low_speed_spring_cap",
+        "spring_assembly"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the high speed spring retainer lock nut (type \u201cA\u201d governor, Fig. 6) with \u00e0 spanner wrench. Remove the spring retainer and withdraw the spring retainer. idle speed adjusting screw. high speed spring, spring plunger. low speed sprin...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Loosen the hose clamps and slide the hoses back on ihe fuel rod covers.",
+      "source_number": 5,
+      "installs": [
+        "hose_clamp",
+        "fuel_rod_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 228,
+        "quote": "Loosen the hose clamps and slide the hoses back on ihe fuel rod covers.",
+        "verified": true,
+        "char_start": 2563,
+        "char_end": 2634,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the valve rocker covers from the cylinder heads.",
+      "source_number": 6,
+      "installs": [
+        "valve_rocker_cover",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the valve rocker covers from the cylinder heads.",
+        "verified": true,
+        "char_start": 2638,
+        "char_end": 2693,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Disconnect the lower fuel rods from the injector control tube levers and from the lower (threaded) ends of the upper fuel rods.",
+      "source_number": 7,
+      "installs": [
+        "lower_fuel_rod",
+        "injector_control_tube",
+        "upper_fuel_rod"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 228,
+        "quote": "Disconnect the lower fuel rods from the injector control tube levers and from the lower (threaded) ends of the upper fuel rods.",
+        "verified": true,
+        "char_start": 2697,
+        "char_end": 2824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the threaded pins that connect the fuel rods to the control link lever and remove the upper fuel rods.",
+      "source_number": 8,
+      "installs": [
+        "threaded_pin",
+        "governor_fuel_rod",
+        "control_link_lever"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the threaded pins that connect the fuel rods to the control link lever and remove the upper fuel rods.",
+        "verified": true,
+        "char_start": 2828,
+        "char_end": 2937,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the blower drive support (Fig. 3) as outlined in Section 3.4. The governor weight and shaft assembly will be removed with the blower drive support.",
+      "source_number": 9,
+      "installs": [
+        "blower_drive_support",
+        "spray_nozzle_outlined",
+        "light_governor_weight",
+        "drive_shaft_assembly",
+        "assembly_examine_the_blower"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 228,
+        "quote": "Remove the blower drive support (Fig. 3) as outlined in Section 3.4. The governor weight and shaft assembly will be removed with the blower drive support.",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Check the clearance between the gear and each of the fully extended weights (Fig. 18). If this clearance",
+      "source_number": 10,
+      "installs": [
+        "fuel_pump_drive_gear",
+        "front_balance_weight"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 228,
+        "quote": "Check the clearance between the gear and each of the fully extended weights (Fig. 18). If this clearance",
+        "verified": true,
+        "char_start": 3100,
+        "char_end": 3204,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Remove the governor weight shaft and carrier assembly from the blower drive support. using pry bars if necessary.",
+      "source_number": 11,
+      "installs": [
+        "governor_weight_shaft",
+        "weight_carrier",
+        "pry"
+      ],
+      "depends_on": [
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 229,
+        "quote": "Remove the governor weight shaft and carrier assembly from the blower drive support. using pry bars if necessary.",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 465,
+        "bbox": [
+          87.6,
+          174.56999999999994,
+          326.64144000000005,
+          207.1479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Remove the six attaching bolts and lock washers and detach the governor housing from the blower rear end plate. Remove the gasket.",
+      "source_number": 13,
+      "installs": [
+        "flywheel_attaching_bolt",
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 229,
+        "quote": "Remove the six attaching bolts and lock washers and detach the governor housing from the blower rear end plate. Remove the gasket.",
+        "verified": true,
+        "char_start": 550,
+        "char_end": 680,
+        "bbox": [
+          87.84000000000003,
+          248.32899999999995,
+          326.69792,
+          278.496
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

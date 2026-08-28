@@ -1,0 +1,330 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.103 - Install an arch gasket to both the...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "arch_gasket",
+      "name": "Arch gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "arch_gasket",
+      "provenance": {
+        "page": 103,
+        "quote": "Install an arch gasket to both the No. 1 @ and the lee] No. 5 (@) crankshaft bearing caps. Apply liquid gasket to the inside surface of the arch gasket. Use your fingers to push the arch gasket into the bearing cap groove. Take care not ...",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 689,
+        "bbox": [
+          253.20000000000002,
+          346.0228000000001,
+          556.392144,
+          452.1695666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 103,
+        "quote": "Install an arch gasket to both the No. 1 @ and the lee] No. 5 (@) crankshaft bearing caps. Apply liquid gasket to the inside surface of the arch gasket. Use your fingers to push the arch gasket into the bearing cap groove. Take care not ...",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 689,
+        "bbox": [
+          253.20000000000002,
+          346.0228000000001,
+          556.392144,
+          452.1695666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap",
+      "name": "Bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap",
+      "provenance": {
+        "page": 103,
+        "quote": "Install an arch gasket to both the No. 1 @ and the lee] No. 5 (@) crankshaft bearing caps. Apply liquid gasket to the inside surface of the arch gasket. Use your fingers to push the arch gasket into the bearing cap groove. Take care not ...",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 689,
+        "bbox": [
+          253.20000000000002,
+          346.0228000000001,
+          556.392144,
+          452.1695666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 103,
+        "quote": "Install an arch gasket to both the No. 1 @ and the lee] No. 5 (@) crankshaft bearing caps. Apply liquid gasket to the inside surface of the arch gasket. Use your fingers to push the arch gasket into the bearing cap groove. Take care not ...",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 689,
+        "bbox": [
+          253.20000000000002,
+          346.0228000000001,
+          556.392144,
+          452.1695666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "water_pump_bearing",
+      "name": "Water pump bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_pump_bearing",
+      "provenance": {
+        "page": 103,
+        "quote": "Install an arch gasket to both the No. 1 @ and the lee] No. 5 (@) crankshaft bearing caps. Apply liquid gasket to the inside surface of the arch gasket. Use your fingers to push the arch gasket into the bearing cap groove. Take care not ...",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 689,
+        "bbox": [
+          253.20000000000002,
+          346.0228000000001,
+          556.392144,
+          452.1695666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_body",
+      "name": "Cylinder body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_body",
+      "provenance": {
+        "page": 103,
+        "quote": "Apply a coat of silicon adhesive to the cylinder body fitting surfaces of the No. 1 @ and the No. 5 @ crankshaft bearing caps.",
+        "verified": true,
+        "char_start": 864,
+        "char_end": 990,
+        "bbox": [
+          310.32,
+          614.676,
+          555.343872,
+          647.7698
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "case_oil_seal",
+      "name": "Case oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "case_oil_seal",
+      "provenance": {
+        "page": 104,
+        "quote": "Check to see that the crankshaft turns smoothly by rotating it manually. A Crankshaft Rear Oil Seal and Spacer Apply engine oil to the oil seal lip circumference and",
+        "verified": true,
+        "char_start": 382,
+        "char_end": 547,
+        "bbox": [
+          286.56,
+          282.7558,
+          551.673352,
+          354.2425666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "spacer",
+      "name": "Spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spacer",
+      "provenance": {
+        "page": 104,
+        "quote": "Check to see that the crankshaft turns smoothly by rotating it manually. A Crankshaft Rear Oil Seal and Spacer Apply engine oil to the oil seal lip circumference and",
+        "verified": true,
+        "char_start": 382,
+        "char_end": 547,
+        "bbox": [
+          286.56,
+          282.7558,
+          551.673352,
+          354.2425666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install an arch gasket to both the No. 1 @ and the lee] No. 5 (@) crankshaft bearing caps. Apply liquid gasket to the inside surface of the arch gasket. Use your fingers to push the arch gasket into the bearing cap groove. Take care not to scratch the outer surface of the arch gasket.",
+      "source_number": 1,
+      "installs": [
+        "arch_gasket",
+        "crankshaft",
+        "bearing_cap",
+        "head_gasket",
+        "water_pump_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 103,
+        "quote": "Install an arch gasket to both the No. 1 @ and the lee] No. 5 (@) crankshaft bearing caps. Apply liquid gasket to the inside surface of the arch gasket. Use your fingers to push the arch gasket into the bearing cap groove. Take care not ...",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 689,
+        "bbox": [
+          253.20000000000002,
+          346.0228000000001,
+          556.392144,
+          452.1695666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Check the arch gasket projection.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 103,
+        "quote": "Check the arch gasket projection.",
+        "verified": true,
+        "char_start": 693,
+        "char_end": 726,
+        "bbox": [
+          310.56,
+          472.3629,
+          463.5744066666666,
+          481.9295666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Apply a coat of silicon adhesive to the cylinder body fitting surfaces of the No. 1 @ and the No. 5 @ crankshaft bearing caps.",
+      "source_number": 3,
+      "installs": [
+        "cylinder_body"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 103,
+        "quote": "Apply a coat of silicon adhesive to the cylinder body fitting surfaces of the No. 1 @ and the No. 5 @ crankshaft bearing caps.",
+        "verified": true,
+        "char_start": 864,
+        "char_end": 990,
+        "bbox": [
+          310.32,
+          614.676,
+          555.343872,
+          647.7698
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check to see that the crankshaft turns smoothly by rotating it manually. A Crankshaft Rear Oil Seal and Spacer Apply engine oil to the oil seal lip circumference and",
+      "source_number": 7,
+      "installs": [
+        "case_oil_seal",
+        "spacer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 104,
+        "quote": "Check to see that the crankshaft turns smoothly by rotating it manually. A Crankshaft Rear Oil Seal and Spacer Apply engine oil to the oil seal lip circumference and",
+        "verified": true,
+        "char_start": 382,
+        "char_end": 547,
+        "bbox": [
+          286.56,
+          282.7558,
+          551.673352,
+          354.2425666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

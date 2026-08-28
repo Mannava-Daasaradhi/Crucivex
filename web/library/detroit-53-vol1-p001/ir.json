@@ -1,0 +1,452 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.12 - Consider the hazards of the job and...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 12,
+        "quote": "Consider the hazards of the job and wear protective Make sure the mechanism provided at the gear such as safety glasses, safety shoes, hard hat, etc. governor for stopping the engine is in the stop 1o provide adequate protection.",
+        "verified": true,
+        "char_start": 3524,
+        "char_end": 3753,
+        "bbox": [
+          68.88000000000002,
+          689.491,
+          563.9379999999999,
+          721.083
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 12,
+        "quote": "Consider the hazards of the job and wear protective Make sure the mechanism provided at the gear such as safety glasses, safety shoes, hard hat, etc. governor for stopping the engine is in the stop 1o provide adequate protection.",
+        "verified": true,
+        "char_start": 3524,
+        "char_end": 3753,
+        "bbox": [
+          68.88000000000002,
+          689.491,
+          563.9379999999999,
+          721.083
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 12,
+        "quote": "Consider the hazards of the job and wear protective Make sure the mechanism provided at the gear such as safety glasses, safety shoes, hard hat, etc. governor for stopping the engine is in the stop 1o provide adequate protection.",
+        "verified": true,
+        "char_start": 3524,
+        "char_end": 3753,
+        "bbox": [
+          68.88000000000002,
+          689.491,
+          563.9379999999999,
+          721.083
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 13,
+        "quote": "When using compressed air to clean a component, such as flushing a radiator or cleaning an air cleaner element, use a safe amount of air. Recommendations regarding the use of air are indicated throughout the manual. Too much air can rupt...",
+        "verified": true,
+        "char_start": 208,
+        "char_end": 555,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "radiator",
+      "name": "Radiator",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "radiator",
+      "provenance": {
+        "page": 13,
+        "quote": "When using compressed air to clean a component, such as flushing a radiator or cleaning an air cleaner element, use a safe amount of air. Recommendations regarding the use of air are indicated throughout the manual. Too much air can rupt...",
+        "verified": true,
+        "char_start": 208,
+        "char_end": 555,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_cleaner_element",
+      "name": "Air cleaner element",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_cleaner_element",
+      "provenance": {
+        "page": 13,
+        "quote": "When using compressed air to clean a component, such as flushing a radiator or cleaning an air cleaner element, use a safe amount of air. Recommendations regarding the use of air are indicated throughout the manual. Too much air can rupt...",
+        "verified": true,
+        "char_start": 208,
+        "char_end": 555,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "too",
+      "name": "Too",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "too",
+      "provenance": {
+        "page": 13,
+        "quote": "When using compressed air to clean a component, such as flushing a radiator or cleaning an air cleaner element, use a safe amount of air. Recommendations regarding the use of air are indicated throughout the manual. Too much air can rupt...",
+        "verified": true,
+        "char_start": 208,
+        "char_end": 555,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "only_the_carbon",
+      "name": "Only the carbon",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "only_the_carbon",
+      "provenance": {
+        "page": 13,
+        "quote": "Avoid the use of carbon tetrachloride as a cleaning agent because of the harmful vapors that it releases. Use perchlorethylene or trichlorethylene. However, while less toxic than other chlorinated solvents, use these cleaning agents with...",
+        "verified": true,
+        "char_start": 559,
+        "char_end": 1013,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "wooden_container",
+      "name": "Wooden container",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wooden_container",
+      "provenance": {
+        "page": 13,
+        "quote": "Avoid excessive injection of ether into the engine during start attempts. Follow the instructions on the container or by the manufacturer of the starting aid.",
+        "verified": true,
+        "char_start": 1151,
+        "char_end": 1309,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 13,
+        "quote": "When working on an engine that is running, accidental contact with the hot exhaust manifold can cause severe burns. Remain alert to the location of the rotating fan, pulleys and belts. Avoid making contact across the two terminals of a b...",
+        "verified": true,
+        "char_start": 1313,
+        "char_end": 1591,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_manifold",
+      "name": "Exhaust manifold",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_manifold",
+      "provenance": {
+        "page": 13,
+        "quote": "When working on an engine that is running, accidental contact with the hot exhaust manifold can cause severe burns. Remain alert to the location of the rotating fan, pulleys and belts. Avoid making contact across the two terminals of a b...",
+        "verified": true,
+        "char_start": 1313,
+        "char_end": 1591,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 13,
+        "quote": "When working on an engine that is running, accidental contact with the hot exhaust manifold can cause severe burns. Remain alert to the location of the rotating fan, pulleys and belts. Avoid making contact across the two terminals of a b...",
+        "verified": true,
+        "char_start": 1313,
+        "char_end": 1591,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "generator_drive_belt",
+      "name": "Generator drive belt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "generator_drive_belt",
+      "provenance": {
+        "page": 13,
+        "quote": "When working on an engine that is running, accidental contact with the hot exhaust manifold can cause severe burns. Remain alert to the location of the rotating fan, pulleys and belts. Avoid making contact across the two terminals of a b...",
+        "verified": true,
+        "char_start": 1313,
+        "char_end": 1591,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_terminal",
+      "name": "Edge of the terminal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_terminal",
+      "provenance": {
+        "page": 13,
+        "quote": "When working on an engine that is running, accidental contact with the hot exhaust manifold can cause severe burns. Remain alert to the location of the rotating fan, pulleys and belts. Avoid making contact across the two terminals of a b...",
+        "verified": true,
+        "char_start": 1313,
+        "char_end": 1591,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Consider the hazards of the job and wear protective Make sure the mechanism provided at the gear such as safety glasses, safety shoes, hard hat, etc. governor for stopping the engine is in the stop 1o provide adequate protection.",
+      "source_number": 1,
+      "installs": [
+        "fuel_pump_drive_gear",
+        "blower_the_engine_governor",
+        "solid_stop"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 12,
+        "quote": "Consider the hazards of the job and wear protective Make sure the mechanism provided at the gear such as safety glasses, safety shoes, hard hat, etc. governor for stopping the engine is in the stop 1o provide adequate protection.",
+        "verified": true,
+        "char_start": 3524,
+        "char_end": 3753,
+        "bbox": [
+          68.88000000000002,
+          689.491,
+          563.9379999999999,
+          721.083
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "When lifting an engine, make sure the lifting device is fastened securely. Be sure the item to be lifted does not exceed the capacity of the lif\u00fcng device.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 13,
+        "quote": "When lifting an engine, make sure the lifting device is fastened securely. Be sure the item to be lifted does not exceed the capacity of the lif\u00fcng device.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Always use caution when using power tools.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "caution when using power tools.",
+      "provenance": {
+        "page": 13,
+        "quote": "Always use caution when using power tools.",
+        "verified": true,
+        "char_start": 162,
+        "char_end": 204,
+        "bbox": [
+          98.64,
+          114.92699999999991,
+          286.85586000000006,
+          123.92699999999991
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "When using compressed air to clean a component, such as flushing a radiator or cleaning an air cleaner element, use a safe amount of air. Recommendations regarding the use of air are indicated throughout the manual. Too much air can rupture or in some other way damage a component and create a hazardous situation that can lead to personal injury.",
+      "source_number": 4,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "radiator",
+        "air_cleaner_element",
+        "too"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 13,
+        "quote": "When using compressed air to clean a component, such as flushing a radiator or cleaning an air cleaner element, use a safe amount of air. Recommendations regarding the use of air are indicated throughout the manual. Too much air can rupt...",
+        "verified": true,
+        "char_start": 208,
+        "char_end": 555,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Avoid the use of carbon tetrachloride as a cleaning agent because of the harmful vapors that it releases. Use perchlorethylene or trichlorethylene. However, while less toxic than other chlorinated solvents, use these cleaning agents with caution. Be sure the work area is adequately ventilated and use protective gloves, goggles or face shield, and apron. Exercise caution against burns when using oxalic acid to clean the cooling passages of the engine.",
+      "source_number": 5,
+      "installs": [
+        "only_the_carbon"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "caution. Be sure the work area is adequately ventilated and use protective gloves, goggles or face shield, and apron.",
+      "provenance": {
+        "page": 13,
+        "quote": "Avoid the use of carbon tetrachloride as a cleaning agent because of the harmful vapors that it releases. Use perchlorethylene or trichlorethylene. However, while less toxic than other chlorinated solvents, use these cleaning agents with...",
+        "verified": true,
+        "char_start": 559,
+        "char_end": 1013,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Use caution when welding on or near the fuel tank. Possible explosion could result if heat build-up inside the tank 1s sufficient.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "caution when welding on or near the fuel tank.",
+      "provenance": {
+        "page": 13,
+        "quote": "Use caution when welding on or near the fuel tank. Possible explosion could result if heat build-up inside the tank 1s sufficient.",
+        "verified": true,
+        "char_start": 1017,
+        "char_end": 1147,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Avoid excessive injection of ether into the engine during start attempts. Follow the instructions on the container or by the manufacturer of the starting aid.",
+      "source_number": 7,
+      "installs": [
+        "wooden_container"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 13,
+        "quote": "Avoid excessive injection of ether into the engine during start attempts. Follow the instructions on the container or by the manufacturer of the starting aid.",
+        "verified": true,
+        "char_start": 1151,
+        "char_end": 1309,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "When working on an engine that is running, accidental contact with the hot exhaust manifold can cause severe burns. Remain alert to the location of the rotating fan, pulleys and belts. Avoid making contact across the two terminals of a battery which can result in severe arcing.",
+      "source_number": 8,
+      "installs": [
+        "contact",
+        "exhaust_manifold",
+        "crankshaft_splined_crankshaft_pulley",
+        "generator_drive_belt",
+        "edge_of_the_terminal"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 13,
+        "quote": "When working on an engine that is running, accidental contact with the hot exhaust manifold can cause severe burns. Remain alert to the location of the rotating fan, pulleys and belts. Avoid making contact across the two terminals of a b...",
+        "verified": true,
+        "char_start": 1313,
+        "char_end": 1591,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

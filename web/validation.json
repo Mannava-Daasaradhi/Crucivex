@@ -1,0 +1,48 @@
+{
+  "assembly_title": "Test manual - short block assembly",
+  "ok": true,
+  "checks": [
+    {
+      "code": "P1",
+      "name": "acyclic assembly order",
+      "status": "PASS",
+      "detail": "18 steps sorted"
+    },
+    {
+      "code": "P2",
+      "name": "referential integrity",
+      "status": "PASS",
+      "detail": "35 references resolved"
+    },
+    {
+      "code": "P3",
+      "name": "no orphan parts",
+      "status": "PASS",
+      "detail": "all 18 parts installed"
+    },
+    {
+      "code": "P4",
+      "name": "recovered branches",
+      "status": "PASS",
+      "detail": "2 independent branches, largest 15 steps"
+    },
+    {
+      "code": "P5",
+      "name": "provenance coverage",
+      "status": "PASS",
+      "detail": "36/36 spans verified verbatim (100%)"
+    },
+    {
+      "code": "P6",
+      "name": "torque plausibility",
+      "status": "PASS",
+      "detail": "4 specs in range"
+    },
+    {
+      "code": "P7",
+      "name": "identifier uniqueness",
+      "status": "PASS",
+      "detail": "36 unique ids"
+    }
+  ]
+}

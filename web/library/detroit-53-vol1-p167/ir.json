@@ -1,0 +1,278 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.283 - Attach a new gasket to the governor...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 283,
+        "quote": "Attach a new gasket to the governor mounting flange.",
+        "verified": true,
+        "char_start": 2380,
+        "char_end": 2432,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 283,
+        "quote": "Attach a new gasket to the governor mounting flange.",
+        "verified": true,
+        "char_start": 2380,
+        "char_end": 2432,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 283,
+        "quote": "Attach a new gasket to the governor mounting flange.",
+        "verified": true,
+        "char_start": 2380,
+        "char_end": 2432,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the governor against the end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear. Install the two governor attaching bolts and lock washers. Tighten the 3/8\" -24 bolt to 35-39 lb-ft torque...",
+        "verified": true,
+        "char_start": 2436,
+        "char_end": 2720,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_gear",
+      "name": "Governor drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_gear",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the governor against the end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear. Install the two governor attaching bolts and lock washers. Tighten the 3/8\" -24 bolt to 35-39 lb-ft torque...",
+        "verified": true,
+        "char_start": 2436,
+        "char_end": 2720,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the governor against the end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear. Install the two governor attaching bolts and lock washers. Tighten the 3/8\" -24 bolt to 35-39 lb-ft torque...",
+        "verified": true,
+        "char_start": 2436,
+        "char_end": 2720,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the governor against the end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear. Install the two governor attaching bolts and lock washers. Tighten the 3/8\" -24 bolt to 35-39 lb-ft torque...",
+        "verified": true,
+        "char_start": 2436,
+        "char_end": 2720,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_attaching",
+      "name": "Governor attaching",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_attaching",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the governor against the end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear. Install the two governor attaching bolts and lock washers. Tighten the 3/8\" -24 bolt to 35-39 lb-ft torque...",
+        "verified": true,
+        "char_start": 2436,
+        "char_end": 2720,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the governor against the end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear. Install the two governor attaching bolts and lock washers. Tighten the 3/8\" -24 bolt to 35-39 lb-ft torque...",
+        "verified": true,
+        "char_start": 2436,
+        "char_end": 2720,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the governor against the end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear. Install the two governor attaching bolts and lock washers. Tighten the 3/8\" -24 bolt to 35-39 lb-ft torque...",
+        "verified": true,
+        "char_start": 2436,
+        "char_end": 2720,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle_rod",
+      "name": "Throttle rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_rod",
+      "provenance": {
+        "page": 283,
+        "quote": "Connect the throttle rod to the rocker shaft lever. engine tune-up as",
+        "verified": true,
+        "char_start": 2724,
+        "char_end": 2793,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_shaft_lever",
+      "name": "Rocker shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_shaft_lever",
+      "provenance": {
+        "page": 283,
+        "quote": "Connect the throttle rod to the rocker shaft lever. engine tune-up as",
+        "verified": true,
+        "char_start": 2724,
+        "char_end": 2793,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Attach a new gasket to the governor mounting flange.",
+      "source_number": 1,
+      "installs": [
+        "head_gasket",
+        "blower_the_engine_governor",
+        "flange"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 283,
+        "quote": "Attach a new gasket to the governor mounting flange.",
+        "verified": true,
+        "char_start": 2380,
+        "char_end": 2432,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the governor against the end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear. Install the two governor attaching bolts and lock washers. Tighten the 3/8\" -24 bolt to 35-39 lb-ft torque and the 7/16\" -14 bolt to 46- 50 Ib-ft torque.",
+      "source_number": 2,
+      "installs": [
+        "gear_train_teeth",
+        "governor_drive_gear",
+        "end_of_the_shaft",
+        "fuel_pump_drive_gear",
+        "governor_attaching",
+        "engine_front_cover_bolt",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 47.5,
+      "warning": null,
+      "provenance": {
+        "page": 283,
+        "quote": "Install the governor against the end plate, so the teeth of the governor drive gear mesh with the teeth of the balance shaft gear. Install the two governor attaching bolts and lock washers. Tighten the 3/8\" -24 bolt to 35-39 lb-ft torque...",
+        "verified": true,
+        "char_start": 2436,
+        "char_end": 2720,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Connect the throttle rod to the rocker shaft lever. engine tune-up as",
+      "source_number": 3,
+      "installs": [
+        "throttle_rod",
+        "rocker_shaft_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 283,
+        "quote": "Connect the throttle rod to the rocker shaft lever. engine tune-up as",
+        "verified": true,
+        "char_start": 2724,
+        "char_end": 2793,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.78 - Remove the crankshaft pulley as outlined in...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 78,
+        "quote": "Remove the crankshaft pulley as outlined in 6. Check the oil pressure regulator and oil cooler by- Section 1.3.7. pass valves as outlined in Section 4.1.1.",
+        "verified": true,
+        "char_start": 2323,
+        "char_end": 2478,
+        "bbox": [
+          49.43999999999997,
+          659.367,
+          563.0043,
+          680.41
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 78,
+        "quote": "Remove the crankshaft pulley as outlined in 6. Check the oil pressure regulator and oil cooler by- Section 1.3.7. pass valves as outlined in Section 4.1.1.",
+        "verified": true,
+        "char_start": 2323,
+        "char_end": 2478,
+        "bbox": [
+          49.43999999999997,
+          659.367,
+          563.0043,
+          680.41
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 78,
+        "quote": "Remove the crankshaft pulley as outlined in 6. Check the oil pressure regulator and oil cooler by- Section 1.3.7. pass valves as outlined in Section 4.1.1.",
+        "verified": true,
+        "char_start": 2323,
+        "char_end": 2478,
+        "bbox": [
+          49.43999999999997,
+          659.367,
+          563.0043,
+          680.41
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_cooler_the_cooler",
+      "name": "Fuel cooler the cooler",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_cooler_the_cooler",
+      "provenance": {
+        "page": 78,
+        "quote": "Remove the crankshaft pulley as outlined in 6. Check the oil pressure regulator and oil cooler by- Section 1.3.7. pass valves as outlined in Section 4.1.1.",
+        "verified": true,
+        "char_start": 2323,
+        "char_end": 2478,
+        "bbox": [
+          49.43999999999997,
+          659.367,
+          563.0043,
+          680.41
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 78,
+        "quote": "Remove the crankshaft pulley as outlined in 6. Check the oil pressure regulator and oil cooler by- Section 1.3.7. pass valves as outlined in Section 4.1.1.",
+        "verified": true,
+        "char_start": 2323,
+        "char_end": 2478,
+        "bbox": [
+          49.43999999999997,
+          659.367,
+          563.0043,
+          680.41
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cover_gasket",
+      "name": "Cover gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cover_gasket",
+      "provenance": {
+        "page": 79,
+        "quote": "Affix new front cover gaskets to the cylinder block.",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 313,
+        "bbox": [
+          354.24,
+          425.96599999999995,
+          572.784,
+          435.96599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 79,
+        "quote": "Affix new front cover gaskets to the cylinder block.",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 313,
+        "bbox": [
+          354.24,
+          425.96599999999995,
+          572.784,
+          435.96599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "pilot_stud",
+      "name": "Pilot stud",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pilot_stud",
+      "provenance": {
+        "page": 79,
+        "quote": "Install two pilot studs (Fig. 4) into diametrically opposite bolt holes in the cylinder block to guide the engine front cover in place.",
+        "verified": true,
+        "char_start": 317,
+        "char_end": 452,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 79,
+        "quote": "Install two pilot studs (Fig. 4) into diametrically opposite bolt holes in the cylinder block to guide the engine front cover in place.",
+        "verified": true,
+        "char_start": 317,
+        "char_end": 452,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 79,
+        "quote": "Install two pilot studs (Fig. 4) into diametrically opposite bolt holes in the cylinder block to guide the engine front cover in place.",
+        "verified": true,
+        "char_start": 317,
+        "char_end": 452,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 79,
+        "quote": "Install two pilot studs (Fig. 4) into diametrically opposite bolt holes in the cylinder block to guide the engine front cover in place.",
+        "verified": true,
+        "char_start": 317,
+        "char_end": 452,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover",
+      "name": "Engine front cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover",
+      "provenance": {
+        "page": 79,
+        "quote": "Install two pilot studs (Fig. 4) into diametrically opposite bolt holes in the cylinder block to guide the engine front cover in place.",
+        "verified": true,
+        "char_start": 317,
+        "char_end": 452,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_cover_attaching",
+      "name": "Front cover attaching",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_cover_attaching",
+      "provenance": {
+        "page": 79,
+        "quote": "Remove the pilot studs and install the front cover attaching bolts and lock washers. Tighten the bolts to 30-35 Ib-ft torque.",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 628,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 79,
+        "quote": "Remove the pilot studs and install the front cover attaching bolts and lock washers. Tighten the bolts to 30-35 Ib-ft torque.",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 628,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 79,
+        "quote": "Remove the pilot studs and install the front cover attaching bolts and lock washers. Tighten the bolts to 30-35 Ib-ft torque.",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 628,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "outboard_bearing_support",
+      "name": "Outboard bearing support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outboard_bearing_support",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the outboard bearing support on the engine front cover as follows: a. Install oil seal expander J 21898 (Fig. 4) over the end of the crankshaft. Then apply a light coat of cup grease to the lip of the oil seal and install the out...",
+        "verified": true,
+        "char_start": 632,
+        "char_end": 1423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the outboard bearing support on the engine front cover as follows: a. Install oil seal expander J 21898 (Fig. 4) over the end of the crankshaft. Then apply a light coat of cup grease to the lip of the oil seal and install the out...",
+        "verified": true,
+        "char_start": 632,
+        "char_end": 1423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the outboard bearing support on the engine front cover as follows: a. Install oil seal expander J 21898 (Fig. 4) over the end of the crankshaft. Then apply a light coat of cup grease to the lip of the oil seal and install the out...",
+        "verified": true,
+        "char_start": 632,
+        "char_end": 1423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_seal",
+      "name": "Of the oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_seal",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the outboard bearing support on the engine front cover as follows: a. Install oil seal expander J 21898 (Fig. 4) over the end of the crankshaft. Then apply a light coat of cup grease to the lip of the oil seal and install the out...",
+        "verified": true,
+        "char_start": 632,
+        "char_end": 1423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the outboard bearing support on the engine front cover as follows: a. Install oil seal expander J 21898 (Fig. 4) over the end of the crankshaft. Then apply a light coat of cup grease to the lip of the oil seal and install the out...",
+        "verified": true,
+        "char_start": 632,
+        "char_end": 1423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the outboard bearing support on the engine front cover as follows: a. Install oil seal expander J 21898 (Fig. 4) over the end of the crankshaft. Then apply a light coat of cup grease to the lip of the oil seal and install the out...",
+        "verified": true,
+        "char_start": 632,
+        "char_end": 1423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flywheel_attaching_bolt",
+      "name": "Flywheel attaching bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_attaching_bolt",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the outboard bearing support on the engine front cover as follows: a. Install oil seal expander J 21898 (Fig. 4) over the end of the crankshaft. Then apply a light coat of cup grease to the lip of the oil seal and install the out...",
+        "verified": true,
+        "char_start": 632,
+        "char_end": 1423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "feeler_gage",
+      "name": "Feeler gage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "feeler_gage",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the outboard bearing support on the engine front cover as follows: a. Install oil seal expander J 21898 (Fig. 4) over the end of the crankshaft. Then apply a light coat of cup grease to the lip of the oil seal and install the out...",
+        "verified": true,
+        "char_start": 632,
+        "char_end": 1423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the crankshaft front sleeve, if used.",
+        "verified": true,
+        "char_start": 1427,
+        "char_end": 1472,
+        "bbox": [
+          355.4400000000001,
+          237.96399999999994,
+          537.3732,
+          245.96399999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "camshaft_pulley",
+      "name": "Camshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft_pulley",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the camshaft pulleys as outlined in Section 1.7. FORMER ENGINES (prior to 8D-149):",
+        "verified": true,
+        "char_start": 1539,
+        "char_end": 1629,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the camshaft pulleys as outlined in Section 1.7. FORMER ENGINES (prior to 8D-149):",
+        "verified": true,
+        "char_start": 1539,
+        "char_end": 1629,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the crankshaft pulley as outlined in 6. Check the oil pressure regulator and oil cooler by- Section 1.3.7. pass valves as outlined in Section 4.1.1.",
+      "source_number": 1,
+      "installs": [
+        "crankshaft_splined_crankshaft_pulley",
+        "spray_nozzle_outlined",
+        "clamping_pressure",
+        "fuel_cooler_the_cooler",
+        "engine_front_cover_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 78,
+        "quote": "Remove the crankshaft pulley as outlined in 6. Check the oil pressure regulator and oil cooler by- Section 1.3.7. pass valves as outlined in Section 4.1.1.",
+        "verified": true,
+        "char_start": 2323,
+        "char_end": 2478,
+        "bbox": [
+          49.43999999999997,
+          659.367,
+          563.0043,
+          680.41
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Affix new front cover gaskets to the cylinder block.",
+      "source_number": 2,
+      "installs": [
+        "cover_gasket",
+        "of_the_block"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Affix new front cover gaskets to the cylinder block.",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 313,
+        "bbox": [
+          354.24,
+          425.96599999999995,
+          572.784,
+          435.96599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install two pilot studs (Fig. 4) into diametrically opposite bolt holes in the cylinder block to guide the engine front cover in place.",
+      "source_number": 3,
+      "installs": [
+        "pilot_stud",
+        "nut_securing_fig",
+        "bolt_hole",
+        "cam_follower_guide",
+        "engine_front_cover"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install two pilot studs (Fig. 4) into diametrically opposite bolt holes in the cylinder block to guide the engine front cover in place.",
+        "verified": true,
+        "char_start": 317,
+        "char_end": 452,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Slide the front cover over the pilot studs.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Slide the front cover over the pilot studs.",
+        "verified": true,
+        "char_start": 456,
+        "char_end": 499,
+        "bbox": [
+          84.24000000000001,
+          528.5039999999999,
+          261.70128000000005,
+          536.5039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the pilot studs and install the front cover attaching bolts and lock washers. Tighten the bolts to 30-35 Ib-ft torque.",
+      "source_number": 5,
+      "installs": [
+        "front_cover_attaching",
+        "engine_front_cover_bolt",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": 40.7,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Remove the pilot studs and install the front cover attaching bolts and lock washers. Tighten the bolts to 30-35 Ib-ft torque.",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 628,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install the outboard bearing support on the engine front cover as follows: a. Install oil seal expander J 21898 (Fig. 4) over the end of the crankshaft. Then apply a light coat of cup grease to the lip of the oil seal and install the outboard bearing support over the oil seal expander and against the engine front cover. Remove the seal expander. b. Install the six attaching bolts. Hold the outboard bearing support in a downward position with light hand pressure when tightening the bolts. First snug all the bolts, then tighten them to 75-85 lb-ft torque. c. Check the outboard bearing-to-crankshaft clear- ance with a feeler gage. The clearance must not be less than .0035 \"' or more than .008 \u201d with the bearing support in the downward position. d. Install the front trunnion, if used.",
+      "source_number": 6,
+      "installs": [
+        "outboard_bearing_support",
+        "crankshaft_front_oil_seal",
+        "halve_of_the_crankshaft",
+        "of_the_oil_seal",
+        "bearing_the_end_bearing",
+        "blower_drive_support",
+        "flywheel_attaching_bolt",
+        "feeler_gage"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": 101.7,
+      "warning": "must not be less than .",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the outboard bearing support on the engine front cover as follows: a. Install oil seal expander J 21898 (Fig. 4) over the end of the crankshaft. Then apply a light coat of cup grease to the lip of the oil seal and install the out...",
+        "verified": true,
+        "char_start": 632,
+        "char_end": 1423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Install the crankshaft front sleeve, if used.",
+      "source_number": 7,
+      "installs": [
+        "crankshaft_front_sleeve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install the crankshaft front sleeve, if used.",
+        "verified": true,
+        "char_start": 1427,
+        "char_end": 1472,
+        "bbox": [
+          355.4400000000001,
+          237.96399999999994,
+          537.3732,
+          245.96399999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Install the crankshaft pulley as outlined in Section 1.3.7.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install the crankshaft pulley as outlined in Section 1.3.7.",
+        "verified": true,
+        "char_start": 1476,
+        "char_end": 1535,
+        "bbox": [
+          343.91999999999996,
+          257.131,
+          584.4719999999999,
+          277.571
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Install the camshaft pulleys as outlined in Section 1.7. FORMER ENGINES (prior to 8D-149):",
+      "source_number": 9,
+      "installs": [
+        "camshaft_pulley",
+        "of_the_former"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install the camshaft pulleys as outlined in Section 1.7. FORMER ENGINES (prior to 8D-149):",
+        "verified": true,
+        "char_start": 1539,
+        "char_end": 1629,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

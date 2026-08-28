@@ -1,0 +1,486 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.193 - Inspect the following injector parts for external...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 193,
+        "quote": "Inspect the following injector parts for external wear, rust and corrosion.",
+        "verified": true,
+        "char_start": 774,
+        "char_end": 849,
+        "bbox": [
+          373.2000000000001,
+          88.45499999999993,
+          594.2562000000001,
+          108.36899999999991
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "injector_control_rack",
+      "name": "Injector control rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_rack",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pr...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 1641,
+        "bbox": [
+          372.2399999999999,
+          257.85799999999983,
+          595.8966,
+          395.05499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pr...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 1641,
+        "bbox": [
+          372.2399999999999,
+          257.85799999999983,
+          595.8966,
+          395.05499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pr...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 1641,
+        "bbox": [
+          372.2399999999999,
+          257.85799999999983,
+          595.8966,
+          395.05499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pr...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 1641,
+        "bbox": [
+          372.2399999999999,
+          257.85799999999983,
+          595.8966,
+          395.05499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pr...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 1641,
+        "bbox": [
+          372.2399999999999,
+          257.85799999999983,
+          595.8966,
+          395.05499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pr...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 1641,
+        "bbox": [
+          372.2399999999999,
+          257.85799999999983,
+          595.8966,
+          395.05499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pr...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 1641,
+        "bbox": [
+          372.2399999999999,
+          257.85799999999983,
+          595.8966,
+          395.05499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pr...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 1641,
+        "bbox": [
+          372.2399999999999,
+          257.85799999999983,
+          595.8966,
+          395.05499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head_due",
+      "name": "Cylinder head due",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_due",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pr...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 1641,
+        "bbox": [
+          372.2399999999999,
+          257.85799999999983,
+          595.8966,
+          395.05499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the injector for leaks using Tester J 23010-A as outlined in Section 2.0 - Shop Notes.",
+        "verified": true,
+        "char_start": 1645,
+        "char_end": 1737,
+        "bbox": [
+          372.48000000000013,
+          401.893,
+          594.1945800000002,
+          421.92699999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 193,
+        "quote": "Check the spray pattern, atomization and valve opening pressure using Tester J 23010\u2014A as outlined in Section 2.0 - Shop Notes.",
+        "verified": true,
+        "char_start": 1741,
+        "char_end": 1868,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "helix",
+      "name": "Helix",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "helix",
+      "provenance": {
+        "page": 193,
+        "quote": "Perform injector fuel output test using Calibrator J 22410-A as outlined in Section 2.0 \u2013 Shop Notes. If the injector passes the above tests, it can be reused. If the results of the above tests reveal marginal performance, removal of the...",
+        "verified": true,
+        "char_start": 1872,
+        "char_end": 2336,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Inspect the following injector parts for external wear, rust and corrosion.",
+      "source_number": 1,
+      "installs": [
+        "end_of_the_injector"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 193,
+        "quote": "Inspect the following injector parts for external wear, rust and corrosion.",
+        "verified": true,
+        "char_start": 774,
+        "char_end": 849,
+        "bbox": [
+          373.2000000000001,
+          88.45499999999993,
+          594.2562000000001,
+          108.36899999999991
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Inspect the following parts for wear or abrasion deterioration.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 193,
+        "quote": "Inspect the following parts for wear or abrasion deterioration.",
+        "verified": true,
+        "char_start": 928,
+        "char_end": 991,
+        "bbox": [
+          372.72,
+          185.1769999999999,
+          593.69976,
+          204.85699999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pressure on the handle while moving the control rack up and down until the follower reaches the top of its travel (Fig. 7). If the rack falls freely, the injector passes the test. If the injector fails the rack freeness test, either the plunger is scored or there is a misalignment of the body, bushing or nut due to irregular or dirty parts.",
+      "source_number": 3,
+      "installs": [
+        "injector_control_rack",
+        "area_of_the_plunger",
+        "cam_follower",
+        "clamping_pressure",
+        "nut_securing_fig",
+        "breather_body",
+        "connecting_rod_bushing",
+        "front_balance_weight_nut",
+        "cylinder_head_due"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 193,
+        "quote": "Check the rack for freeness and the plunger movement in Tester J 29584. With the injector control rack held in the no-fuel position, operate the handle to depress the follower to the bottom of its stroke. Then, very slowly release the pr...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 1641,
+        "bbox": [
+          372.2399999999999,
+          257.85799999999983,
+          595.8966,
+          395.05499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check the injector for leaks using Tester J 23010-A as outlined in Section 2.0 - Shop Notes.",
+      "source_number": 4,
+      "installs": [
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 193,
+        "quote": "Check the injector for leaks using Tester J 23010-A as outlined in Section 2.0 - Shop Notes.",
+        "verified": true,
+        "char_start": 1645,
+        "char_end": 1737,
+        "bbox": [
+          372.48000000000013,
+          401.893,
+          594.1945800000002,
+          421.92699999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Check the spray pattern, atomization and valve opening pressure using Tester J 23010\u2014A as outlined in Section 2.0 - Shop Notes.",
+      "source_number": 5,
+      "installs": [
+        "engine_front_cover_valve"
+      ],
+      "depends_on": [
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 193,
+        "quote": "Check the spray pattern, atomization and valve opening pressure using Tester J 23010\u2014A as outlined in Section 2.0 - Shop Notes.",
+        "verified": true,
+        "char_start": 1741,
+        "char_end": 1868,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Perform injector fuel output test using Calibrator J 22410-A as outlined in Section 2.0 \u2013 Shop Notes. If the injector passes the above tests, it can be reused. If the results of the above tests reveal marginal performance, removal of the plunger may assist with further diagnosis of internal injector problems. Plungers that reveal scratches, score marks, abnormal wear, helix chipping or other obvious damage would indicate that the injector should not be reused.",
+      "source_number": 6,
+      "installs": [
+        "helix"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 193,
+        "quote": "Perform injector fuel output test using Calibrator J 22410-A as outlined in Section 2.0 \u2013 Shop Notes. If the injector passes the above tests, it can be reused. If the results of the above tests reveal marginal performance, removal of the...",
+        "verified": true,
+        "char_start": 1872,
+        "char_end": 2336,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

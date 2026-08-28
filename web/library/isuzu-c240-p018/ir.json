@@ -1,0 +1,144 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.80 - Apply engine oil to the bolt and...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 80,
+        "quote": "Apply engine oil to the bolt and threads.",
+        "verified": true,
+        "char_start": 615,
+        "char_end": 656,
+        "bbox": [
+          296.88,
+          521.1798,
+          484.047648,
+          530.9798000000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "camshaft_gear",
+      "name": "Camshaft gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft_gear",
+      "provenance": {
+        "page": 80,
+        "quote": "Install the camshaft gear. [Ql Camshaft Gear Bolt Torque kg-m (Ib.ft/N-m) 10.0 - 12.0 (72.3 - 86.7/98.1 - 117.7)",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 772,
+        "bbox": [
+          239.52,
+          537.7469000000001,
+          540.4649290000001,
+          581.4470333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "replace_the_camshaft",
+      "name": "Replace the camshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "replace_the_camshaft",
+      "provenance": {
+        "page": 80,
+        "quote": "Install the camshaft gear. [Ql Camshaft Gear Bolt Torque kg-m (Ib.ft/N-m) 10.0 - 12.0 (72.3 - 86.7/98.1 - 117.7)",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 772,
+        "bbox": [
+          239.52,
+          537.7469000000001,
+          540.4649290000001,
+          581.4470333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply engine oil to the bolt and threads.",
+      "source_number": 2,
+      "installs": [
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 80,
+        "quote": "Apply engine oil to the bolt and threads.",
+        "verified": true,
+        "char_start": 615,
+        "char_end": 656,
+        "bbox": [
+          296.88,
+          521.1798,
+          484.047648,
+          530.9798000000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the camshaft gear. [Ql Camshaft Gear Bolt Torque kg-m (Ib.ft/N-m) 10.0 - 12.0 (72.3 - 86.7/98.1 - 117.7)",
+      "source_number": 3,
+      "installs": [
+        "camshaft_gear",
+        "replace_the_camshaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 98.1,
+      "warning": null,
+      "provenance": {
+        "page": 80,
+        "quote": "Install the camshaft gear. [Ql Camshaft Gear Bolt Torque kg-m (Ib.ft/N-m) 10.0 - 12.0 (72.3 - 86.7/98.1 - 117.7)",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 772,
+        "bbox": [
+          239.52,
+          537.7469000000001,
+          540.4649290000001,
+          581.4470333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

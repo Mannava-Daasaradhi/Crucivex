@@ -1,0 +1,592 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.29 - Mount the block on the overhaul stand",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 29,
+        "quote": "Mount the block on the overhaul stand.",
+        "verified": true,
+        "char_start": 1827,
+        "char_end": 1865,
+        "bbox": [
+          371.28,
+          99.67700000000002,
+          540.1305600000001,
+          107.67700000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "number",
+      "provenance": {
+        "page": 29,
+        "quote": "If a new service replacement block is used, stamp the engine serial number and model number on the upper rear corner of the In-Line block or the top right-hand corner of the V-type block. Also stamp the position numbers on the main beari...",
+        "verified": true,
+        "char_start": 1869,
+        "char_end": 2206,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 29,
+        "quote": "If a new service replacement block is used, stamp the engine serial number and model number on the upper rear corner of the In-Line block or the top right-hand corner of the V-type block. Also stamp the position numbers on the main beari...",
+        "verified": true,
+        "char_start": 1869,
+        "char_end": 2206,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 29,
+        "quote": "If a new service replacement block is used, stamp the engine serial number and model number on the upper rear corner of the In-Line block or the top right-hand corner of the V-type block. Also stamp the position numbers on the main beari...",
+        "verified": true,
+        "char_start": 1869,
+        "char_end": 2206,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "main_bearing_cap",
+      "name": "Main bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main_bearing_cap",
+      "provenance": {
+        "page": 29,
+        "quote": "If a new service replacement block is used, stamp the engine serial number and model number on the upper rear corner of the In-Line block or the top right-hand corner of the V-type block. Also stamp the position numbers on the main beari...",
+        "verified": true,
+        "char_start": 1869,
+        "char_end": 2206,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 29,
+        "quote": "If a new service replacement block is used, stamp the engine serial number and model number on the upper rear corner of the In-Line block or the top right-hand corner of the V-type block. Also stamp the position numbers on the main beari...",
+        "verified": true,
+        "char_start": 1869,
+        "char_end": 2206,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 29,
+        "quote": "If a new service replacement block is used, stamp the engine serial number and model number on the upper rear corner of the In-Line block or the top right-hand corner of the V-type block. Also stamp the position numbers on the main beari...",
+        "verified": true,
+        "char_start": 1869,
+        "char_end": 2206,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_pan",
+      "name": "Oil pan",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pan",
+      "provenance": {
+        "page": 29,
+        "quote": "If a new service replacement block is used, stamp the engine serial number and model number on the upper rear corner of the In-Line block or the top right-hand corner of the V-type block. Also stamp the position numbers on the main beari...",
+        "verified": true,
+        "char_start": 1869,
+        "char_end": 2206,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 29,
+        "quote": "If a new service replacement block is used, stamp the engine serial number and model number on the upper rear corner of the In-Line block or the top right-hand corner of the V-type block. Also stamp the position numbers on the main beari...",
+        "verified": true,
+        "char_start": 1869,
+        "char_end": 2206,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 29,
+        "quote": "Install all of the required plugs and drain cocks. Use a good grade of sealing compound on the threads of the plugs and drain cocks. If a new service replacement block is used, make sure the top surface is plugged correctly to prevent lo...",
+        "verified": true,
+        "char_start": 2210,
+        "char_end": 2845,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 29,
+        "quote": "Install all of the required plugs and drain cocks. Use a good grade of sealing compound on the threads of the plugs and drain cocks. If a new service replacement block is used, make sure the top surface is plugged correctly to prevent lo...",
+        "verified": true,
+        "char_start": 2210,
+        "char_end": 2845,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 29,
+        "quote": "Install all of the required plugs and drain cocks. Use a good grade of sealing compound on the threads of the plugs and drain cocks. If a new service replacement block is used, make sure the top surface is plugged correctly to prevent lo...",
+        "verified": true,
+        "char_start": 2210,
+        "char_end": 2845,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 29,
+        "quote": "Install all of the required plugs and drain cocks. Use a good grade of sealing compound on the threads of the plugs and drain cocks. If a new service replacement block is used, make sure the top surface is plugged correctly to prevent lo...",
+        "verified": true,
+        "char_start": 2210,
+        "char_end": 2845,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accumulation",
+      "name": "Accumulation",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accumulation",
+      "provenance": {
+        "page": 29,
+        "quote": "Install all of the required plugs and drain cocks. Use a good grade of sealing compound on the threads of the plugs and drain cocks. If a new service replacement block is used, make sure the top surface is plugged correctly to prevent lo...",
+        "verified": true,
+        "char_start": 2210,
+        "char_end": 2845,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 29,
+        "quote": "Install all of the required plugs and drain cocks. Use a good grade of sealing compound on the threads of the plugs and drain cocks. If a new service replacement block is used, make sure the top surface is plugged correctly to prevent lo...",
+        "verified": true,
+        "char_start": 2210,
+        "char_end": 2845,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 29,
+        "quote": "Install all of the required plugs and drain cocks. Use a good grade of sealing compound on the threads of the plugs and drain cocks. If a new service replacement block is used, make sure the top surface is plugged correctly to prevent lo...",
+        "verified": true,
+        "char_start": 2210,
+        "char_end": 2845,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 29,
+        "quote": "Install all of the required plugs and drain cocks. Use a good grade of sealing compound on the threads of the plugs and drain cocks. If a new service replacement block is used, make sure the top surface is plugged correctly to prevent lo...",
+        "verified": true,
+        "char_start": 2210,
+        "char_end": 2845,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "chain_hoist",
+      "name": "Chain hoist",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "chain_hoist",
+      "provenance": {
+        "page": 29,
+        "quote": "Use a chain hoist and suitable sling to transfer the engine to a dynamometer test stand.",
+        "verified": true,
+        "char_start": 2849,
+        "char_end": 2937,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_box_cover",
+      "name": "Air box cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_box_cover",
+      "provenance": {
+        "page": 29,
+        "quote": "Install! the air box covers and tighten the bolts. On In-Line engines, tighten the bolts to 12-16 Ib-ft torque. On 6V engines when 1/4 \u201d thick air box cover clamps are used, tighten the bolts to 8-10 lb-ft torque and when 3/8 \u201d thick cla...",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3288,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 29,
+        "quote": "Install! the air box covers and tighten the bolts. On In-Line engines, tighten the bolts to 12-16 Ib-ft torque. On 6V engines when 1/4 \u201d thick air box cover clamps are used, tighten the bolts to 8-10 lb-ft torque and when 3/8 \u201d thick cla...",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3288,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 29,
+        "quote": "Install! the air box covers and tighten the bolts. On In-Line engines, tighten the bolts to 12-16 Ib-ft torque. On 6V engines when 1/4 \u201d thick air box cover clamps are used, tighten the bolts to 8-10 lb-ft torque and when 3/8 \u201d thick cla...",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3288,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 29,
+        "quote": "Install! the air box covers and tighten the bolts. On In-Line engines, tighten the bolts to 12-16 Ib-ft torque. On 6V engines when 1/4 \u201d thick air box cover clamps are used, tighten the bolts to 8-10 lb-ft torque and when 3/8 \u201d thick cla...",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3288,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "loose_connection",
+      "name": "Loose connection",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "loose_connection",
+      "provenance": {
+        "page": 29,
+        "quote": "Complete the engine build-up by installing. all remaining accessories, f'uel lines, electrical connections, controls etc.",
+        "verified": true,
+        "char_start": 3292,
+        "char_end": 3413,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Mount the block on the overhaul stand.",
+      "source_number": 1,
+      "installs": [
+        "of_the_block"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "Mount the block on the overhaul stand.",
+        "verified": true,
+        "char_start": 1827,
+        "char_end": 1865,
+        "bbox": [
+          371.28,
+          99.67700000000002,
+          540.1305600000001,
+          107.67700000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "If a new service replacement block is used, stamp the engine serial number and model number on the upper rear corner of the In-Line block or the top right-hand corner of the V-type block. Also stamp the position numbers on the main bearing caps (Fig. 14) and the position of the No. | bearing on the oil pan mounting flange of the block.",
+      "source_number": 2,
+      "installs": [
+        "number",
+        "hammer_spring_scale_upper",
+        "tbe_lubricating_oil_line",
+        "main_bearing_cap",
+        "nut_securing_fig",
+        "bearing_the_end_bearing",
+        "oil_pan",
+        "flange"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "If a new service replacement block is used, stamp the engine serial number and model number on the upper rear corner of the In-Line block or the top right-hand corner of the V-type block. Also stamp the position numbers on the main beari...",
+        "verified": true,
+        "char_start": 1869,
+        "char_end": 2206,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install all of the required plugs and drain cocks. Use a good grade of sealing compound on the threads of the plugs and drain cocks. If a new service replacement block is used, make sure the top surface is plugged correctly to prevent low oil pressure or the accumulation of abnormal quantities of oil in the cylinder head. 4, Clean and inspect all of the engine parts and sub- assemblies and, using new parts as required, install them on the cylinder block by reversing the sequence of disassembly. The procedures for inspecting and instalhng the various parts and sub-assemblies are outlined in the following sections of this manual.",
+      "source_number": 3,
+      "installs": [
+        "of_the_required",
+        "edge_of_the_plug",
+        "bolt_thread",
+        "clamping_pressure",
+        "accumulation",
+        "cylinder_head",
+        "valve_rocker_cover_clean",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "Install all of the required plugs and drain cocks. Use a good grade of sealing compound on the threads of the plugs and drain cocks. If a new service replacement block is used, make sure the top surface is plugged correctly to prevent lo...",
+        "verified": true,
+        "char_start": 2210,
+        "char_end": 2845,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Use a chain hoist and suitable sling to transfer the engine to a dynamometer test stand.",
+      "source_number": 5,
+      "installs": [
+        "chain_hoist"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "Use a chain hoist and suitable sling to transfer the engine to a dynamometer test stand.",
+        "verified": true,
+        "char_start": 2849,
+        "char_end": 2937,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install! the air box covers and tighten the bolts. On In-Line engines, tighten the bolts to 12-16 Ib-ft torque. On 6V engines when 1/4 \u201d thick air box cover clamps are used, tighten the bolts to 8-10 lb-ft torque and when 3/8 \u201d thick clamps are used, tighten the bolts to 10-15 Ib-ft torque. On 8V engines, tighten the bolts to 13-17 lb-ft torque.",
+      "source_number": 6,
+      "installs": [
+        "air_box_cover",
+        "engine_front_cover_bolt",
+        "underside_of_the_cover",
+        "breather_tube_clamp"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 16.3,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "Install! the air box covers and tighten the bolts. On In-Line engines, tighten the bolts to 12-16 Ib-ft torque. On 6V engines when 1/4 \u201d thick air box cover clamps are used, tighten the bolts to 8-10 lb-ft torque and when 3/8 \u201d thick cla...",
+        "verified": true,
+        "char_start": 2941,
+        "char_end": 3288,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Complete the engine build-up by installing. all remaining accessories, f'uel lines, electrical connections, controls etc.",
+      "source_number": 7,
+      "installs": [
+        "loose_connection"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "Complete the engine build-up by installing. all remaining accessories, f'uel lines, electrical connections, controls etc.",
+        "verified": true,
+        "char_start": 3292,
+        "char_end": 3413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Operate the engine on a dynamometer, following the RUN-IN procedure outlined in Section 13.2.1.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "Operate the engine on a dynamometer, following the RUN-IN procedure outlined in Section 13.2.1.",
+        "verified": true,
+        "char_start": 3417,
+        "char_end": 3512,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Reinstall the engine in the equipment which it powers.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "Reinstall the engine in the equipment which it powers.",
+        "verified": true,
+        "char_start": 3516,
+        "char_end": 3570,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

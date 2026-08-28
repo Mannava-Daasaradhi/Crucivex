@@ -1,0 +1,950 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.256 - Install the buffer screw (50) and the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the buffer screw (50) and the lock nut.",
+        "verified": true,
+        "char_start": 1352,
+        "char_end": 1399,
+        "bbox": [
+          101.28,
+          541.603,
+          293.79828,
+          550.603
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the buffer screw (50) and the lock nut.",
+        "verified": true,
+        "char_start": 1352,
+        "char_end": 1399,
+        "bbox": [
+          101.28,
+          541.603,
+          293.79828,
+          550.603
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_speed_control",
+      "name": "Governor speed control",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_speed_control",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the governor speed control lever (49) on the speed adjusting shaft (32) and secure it with a roll pin (25).",
+        "verified": true,
+        "char_start": 1403,
+        "char_end": 1518,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the governor speed control lever (49) on the speed adjusting shaft (32) and secure it with a roll pin (25).",
+        "verified": true,
+        "char_start": 1403,
+        "char_end": 1518,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_shaft",
+      "name": "Speed adjusting shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_shaft",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the governor speed control lever (49) on the speed adjusting shaft (32) and secure it with a roll pin (25).",
+        "verified": true,
+        "char_start": 1403,
+        "char_end": 1518,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "roll_pin",
+      "name": "Roll pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "roll_pin",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the governor speed control lever (49) on the speed adjusting shaft (32) and secure it with a roll pin (25).",
+        "verified": true,
+        "char_start": 1403,
+        "char_end": 1518,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a ...",
+        "verified": true,
+        "char_start": 1523,
+        "char_end": 1813,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a ...",
+        "verified": true,
+        "char_start": 1523,
+        "char_end": 1813,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a ...",
+        "verified": true,
+        "char_start": 1523,
+        "char_end": 1813,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a ...",
+        "verified": true,
+        "char_start": 1523,
+        "char_end": 1813,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a ...",
+        "verified": true,
+        "char_start": 1523,
+        "char_end": 1813,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a ...",
+        "verified": true,
+        "char_start": 1523,
+        "char_end": 1813,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a ...",
+        "verified": true,
+        "char_start": 1523,
+        "char_end": 1813,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a ...",
+        "verified": true,
+        "char_start": 1523,
+        "char_end": 1813,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a ...",
+        "verified": true,
+        "char_start": 1523,
+        "char_end": 1813,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_bracket",
+      "name": "Speed adjusting bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_bracket",
+      "provenance": {
+        "page": 256,
+        "quote": "Position the speed adjusting bracket (30) on the speed adjusting shaft (32) and secure it with a roll pin (25). \u0423 SHAFT ASSY.",
+        "verified": true,
+        "char_start": 1818,
+        "char_end": 1943,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusung_spring",
+      "name": "Speed adjusung spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusung_spring",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the speed adjusung spring (39) on the rocker shaft lever (27) and then. using evebolt (35). attach the spring to the governor speed control lever (49).",
+        "verified": true,
+        "char_start": 2026,
+        "char_end": 2185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_shaft_lever",
+      "name": "Rocker shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_shaft_lever",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the speed adjusung spring (39) on the rocker shaft lever (27) and then. using evebolt (35). attach the spring to the governor speed control lever (49).",
+        "verified": true,
+        "char_start": 2026,
+        "char_end": 2185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the speed adjusung spring (39) on the rocker shaft lever (27) and then. using evebolt (35). attach the spring to the governor speed control lever (49).",
+        "verified": true,
+        "char_start": 2026,
+        "char_end": 2185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idle",
+      "name": "Idle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idle",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the idle (36) and maximum (37) speed adjusting screws and lock nuts.",
+        "verified": true,
+        "char_start": 2190,
+        "char_end": 2266,
+        "bbox": [
+          355.68,
+          377.73599999999993,
+          589.985,
+          398.86499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_adjusting_screw",
+      "name": "Speed adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_screw",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the idle (36) and maximum (37) speed adjusting screws and lock nuts.",
+        "verified": true,
+        "char_start": 2190,
+        "char_end": 2266,
+        "bbox": [
+          355.68,
+          377.73599999999993,
+          589.985,
+          398.86499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spider",
+      "provenance": {
+        "page": 256,
+        "quote": "If the spider was removed from the weight shaft. press the spider on the shaft so as to allow a clearance of .001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+        "verified": true,
+        "char_start": 2271,
+        "char_end": 2454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 256,
+        "quote": "If the spider was removed from the weight shaft. press the spider on the shaft so as to allow a clearance of .001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+        "verified": true,
+        "char_start": 2271,
+        "char_end": 2454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 256,
+        "quote": "If the spider was removed from the weight shaft. press the spider on the shaft so as to allow a clearance of .001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+        "verified": true,
+        "char_start": 2271,
+        "char_end": 2454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the shaft bearing (12) on an arbor press. Then press the gear end of the spider and shaft assembly (10) through the bearing until the bearing seats on the shoulder of the shaft.",
+        "verified": true,
+        "char_start": 2459,
+        "char_end": 2662,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the shaft bearing (12) on an arbor press. Then press the gear end of the spider and shaft assembly (10) through the bearing until the bearing seats on the shoulder of the shaft.",
+        "verified": true,
+        "char_start": 2459,
+        "char_end": 2662,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the shaft bearing (12) on an arbor press. Then press the gear end of the spider and shaft assembly (10) through the bearing until the bearing seats on the shoulder of the shaft.",
+        "verified": true,
+        "char_start": 2459,
+        "char_end": 2662,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the shaft bearing (12) on an arbor press. Then press the gear end of the spider and shaft assembly (10) through the bearing until the bearing seats on the shoulder of the shaft.",
+        "verified": true,
+        "char_start": 2459,
+        "char_end": 2662,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the shaft bearing (12) on an arbor press. Then press the gear end of the spider and shaft assembly (10) through the bearing until the bearing seats on the shoulder of the shaft.",
+        "verified": true,
+        "char_start": 2459,
+        "char_end": 2662,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_housing",
+      "name": "Bearing housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_housing",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the bearing housing (43) on the bearing (12) and retain it with an internal snap ring (11).",
+        "verified": true,
+        "char_start": 2667,
+        "char_end": 2766,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "internal_snap_ring",
+      "name": "Internal snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "internal_snap_ring",
+      "provenance": {
+        "page": 256,
+        "quote": "Install the bearing housing (43) on the bearing (12) and retain it with an internal snap ring (11).",
+        "verified": true,
+        "char_start": 2667,
+        "char_end": 2766,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_gear",
+      "name": "Governor drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_gear",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the governor drive gear on an arbor press. Then, with the drive gear spacer (45) on the shaft and the key (52) installed in the keyway. press the spider and shaft assembly (10) into the gear (46) until the gear bottoms against th...",
+        "verified": true,
+        "char_start": 2771,
+        "char_end": 3091,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the governor drive gear on an arbor press. Then, with the drive gear spacer (45) on the shaft and the key (52) installed in the keyway. press the spider and shaft assembly (10) into the gear (46) until the gear bottoms against th...",
+        "verified": true,
+        "char_start": 2771,
+        "char_end": 3091,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_key",
+      "name": "Drive key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_key",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the governor drive gear on an arbor press. Then, with the drive gear spacer (45) on the shaft and the key (52) installed in the keyway. press the spider and shaft assembly (10) into the gear (46) until the gear bottoms against th...",
+        "verified": true,
+        "char_start": 2771,
+        "char_end": 3091,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "keyway",
+      "name": "Keyway",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "keyway",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the governor drive gear on an arbor press. Then, with the drive gear spacer (45) on the shaft and the key (52) installed in the keyway. press the spider and shaft assembly (10) into the gear (46) until the gear bottoms against th...",
+        "verified": true,
+        "char_start": 2771,
+        "char_end": 3091,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the governor drive gear on an arbor press. Then, with the drive gear spacer (45) on the shaft and the key (52) installed in the keyway. press the spider and shaft assembly (10) into the gear (46) until the gear bottoms against th...",
+        "verified": true,
+        "char_start": 2771,
+        "char_end": 3091,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the governor drive gear on an arbor press. Then, with the drive gear spacer (45) on the shaft and the key (52) installed in the keyway. press the spider and shaft assembly (10) into the gear (46) until the gear bottoms against th...",
+        "verified": true,
+        "char_start": 2771,
+        "char_end": 3091,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_retaining",
+      "name": "Drive gear retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_retaining",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the governor drive gear on an arbor press. Then, with the drive gear spacer (45) on the shaft and the key (52) installed in the keyway. press the spider and shaft assembly (10) into the gear (46) until the gear bottoms against th...",
+        "verified": true,
+        "char_start": 2771,
+        "char_end": 3091,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the governor drive gear on an arbor press. Then, with the drive gear spacer (45) on the shaft and the key (52) installed in the keyway. press the spider and shaft assembly (10) into the gear (46) until the gear bottoms against th...",
+        "verified": true,
+        "char_start": 2771,
+        "char_end": 3091,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the buffer screw (50) and the lock nut.",
+      "source_number": 8,
+      "installs": [
+        "of_the_buffer_screw",
+        "bearing_lock_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Install the buffer screw (50) and the lock nut.",
+        "verified": true,
+        "char_start": 1352,
+        "char_end": 1399,
+        "bbox": [
+          101.28,
+          541.603,
+          293.79828,
+          550.603
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the governor speed control lever (49) on the speed adjusting shaft (32) and secure it with a roll pin (25).",
+      "source_number": 9,
+      "installs": [
+        "governor_speed_control",
+        "of_the_stop_lever",
+        "speed_adjusting_shaft",
+        "roll_pin"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Install the governor speed control lever (49) on the speed adjusting shaft (32) and secure it with a roll pin (25).",
+        "verified": true,
+        "char_start": 1403,
+        "char_end": 1518,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a snap ring (18) inserted into the groove in the shaft.",
+      "source_number": 10,
+      "installs": [
+        "blower_the_engine_governor",
+        "breather_body",
+        "connecting_rod_bushing",
+        "engine_speed",
+        "booster_spring_bracket",
+        "end_of_the_shaft",
+        "flat_washer",
+        "external_snap_ring",
+        "of_the_groove"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Slide the speed adjusting shaft (32) through one governor body bushing and the speed adjusung bracket (30), and then through the opposite body bushing. The shaft is secured to the governor body. after installing a flat washer (29), by a ...",
+        "verified": true,
+        "char_start": 1523,
+        "char_end": 1813,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Position the speed adjusting bracket (30) on the speed adjusting shaft (32) and secure it with a roll pin (25). \u0423 SHAFT ASSY.",
+      "source_number": 11,
+      "installs": [
+        "speed_adjusting_bracket"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Position the speed adjusting bracket (30) on the speed adjusting shaft (32) and secure it with a roll pin (25). \u0423 SHAFT ASSY.",
+        "verified": true,
+        "char_start": 1818,
+        "char_end": 1943,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the speed adjusung spring (39) on the rocker shaft lever (27) and then. using evebolt (35). attach the spring to the governor speed control lever (49).",
+      "source_number": 12,
+      "installs": [
+        "speed_adjusung_spring",
+        "rocker_shaft_lever",
+        "end_of_the_spring"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Install the speed adjusung spring (39) on the rocker shaft lever (27) and then. using evebolt (35). attach the spring to the governor speed control lever (49).",
+        "verified": true,
+        "char_start": 2026,
+        "char_end": 2185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install the idle (36) and maximum (37) speed adjusting screws and lock nuts.",
+      "source_number": 13,
+      "installs": [
+        "idle",
+        "speed_adjusting_screw"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Install the idle (36) and maximum (37) speed adjusting screws and lock nuts.",
+        "verified": true,
+        "char_start": 2190,
+        "char_end": 2266,
+        "bbox": [
+          355.68,
+          377.73599999999993,
+          589.985,
+          398.86499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "If the spider was removed from the weight shaft. press the spider on the shaft so as to allow a clearance of .001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+      "source_number": 14,
+      "installs": [
+        "spider",
+        "governor_weight_shaft",
+        "shoulder"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "If the spider was removed from the weight shaft. press the spider on the shaft so as to allow a clearance of .001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+        "verified": true,
+        "char_start": 2271,
+        "char_end": 2454,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Support the inner race of the shaft bearing (12) on an arbor press. Then press the gear end of the spider and shaft assembly (10) through the bearing until the bearing seats on the shoulder of the shaft.",
+      "source_number": 15,
+      "installs": [
+        "blower_drive_support",
+        "side_of_the_inner",
+        "bearing_the_end_bearing",
+        "drive_shaft_assembly",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s03",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the shaft bearing (12) on an arbor press. Then press the gear end of the spider and shaft assembly (10) through the bearing until the bearing seats on the shoulder of the shaft.",
+        "verified": true,
+        "char_start": 2459,
+        "char_end": 2662,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Install the bearing housing (43) on the bearing (12) and retain it with an internal snap ring (11).",
+      "source_number": 16,
+      "installs": [
+        "bearing_housing",
+        "internal_snap_ring"
+      ],
+      "depends_on": [
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Install the bearing housing (43) on the bearing (12) and retain it with an internal snap ring (11).",
+        "verified": true,
+        "char_start": 2667,
+        "char_end": 2766,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Support the governor drive gear on an arbor press. Then, with the drive gear spacer (45) on the shaft and the key (52) installed in the keyway. press the spider and shaft assembly (10) into the gear (46) until the gear bottoms against the spacer and bearing (12), as shown in Fig. 5. Install the drive gear retaining nut",
+      "source_number": 17,
+      "installs": [
+        "governor_drive_gear",
+        "drive_gear_spacer",
+        "drive_key",
+        "keyway",
+        "fuel_pump_drive_gear",
+        "nut_securing_fig",
+        "drive_gear_retaining",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [
+        "s03",
+        "s07",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Support the governor drive gear on an arbor press. Then, with the drive gear spacer (45) on the shaft and the key (52) installed in the keyway. press the spider and shaft assembly (10) into the gear (46) until the gear bottoms against th...",
+        "verified": true,
+        "char_start": 2771,
+        "char_end": 3091,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

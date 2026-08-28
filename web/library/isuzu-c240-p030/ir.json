@@ -1,0 +1,378 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.107 - Move the piston to TDC",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "related_part_piston",
+      "name": "Related part piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "related_part_piston",
+      "provenance": {
+        "page": 107,
+        "quote": "Move the piston to TDC.",
+        "verified": true,
+        "char_start": 1133,
+        "char_end": 1156,
+        "bbox": [
+          311.28,
+          624.3948,
+          423.405824,
+          634.1948
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oiling_jet_knock",
+      "name": "Oiling jet knock",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oiling_jet_knock",
+      "provenance": {
+        "page": 107,
+        "quote": "Align the oiling jet knock pin hole with the cylinder body knock pin @.",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1231,
+        "bbox": [
+          311.04,
+          640.1018,
+          556.3039200000001,
+          662.0388
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "pin",
+      "name": "Pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pin",
+      "provenance": {
+        "page": 107,
+        "quote": "Align the oiling jet knock pin hole with the cylinder body knock pin @.",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1231,
+        "bbox": [
+          311.04,
+          640.1018,
+          556.3039200000001,
+          662.0388
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_body",
+      "name": "Cylinder body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_body",
+      "provenance": {
+        "page": 107,
+        "quote": "Align the oiling jet knock pin hole with the cylinder body knock pin @.",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1231,
+        "bbox": [
+          311.04,
+          640.1018,
+          556.3039200000001,
+          662.0388
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oiling_jet",
+      "name": "Oiling jet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oiling_jet",
+      "provenance": {
+        "page": 107,
+        "quote": "Install the oiling jet @.",
+        "verified": true,
+        "char_start": 1235,
+        "char_end": 1260,
+        "bbox": [
+          311.52000000000004,
+          668.3238,
+          416.08492,
+          678.1238000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oiling_jet_pipe",
+      "name": "Oiling jet pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oiling_jet_pipe",
+      "provenance": {
+        "page": 108,
+        "quote": "Tighten the oiling jet pipe relief valve and the oiling By jet pipe bolt to the specified torque. Relief Valve Torque kg-m (Ib.ft/N-m) 2.5 \u2014 3.5 (18.1 \u2014 25.3/24.5 \u2014 34.3) Oiling Jet Pipe Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17....",
+        "verified": true,
+        "char_start": 344,
+        "char_end": 714,
+        "bbox": [
+          252.24,
+          283.2567,
+          552.0039499999999,
+          425.64256666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "relief_valve",
+      "name": "Relief valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "relief_valve",
+      "provenance": {
+        "page": 108,
+        "quote": "Tighten the oiling jet pipe relief valve and the oiling By jet pipe bolt to the specified torque. Relief Valve Torque kg-m (Ib.ft/N-m) 2.5 \u2014 3.5 (18.1 \u2014 25.3/24.5 \u2014 34.3) Oiling Jet Pipe Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17....",
+        "verified": true,
+        "char_start": 344,
+        "char_end": 714,
+        "bbox": [
+          252.24,
+          283.2567,
+          552.0039499999999,
+          425.64256666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 108,
+        "quote": "Tighten the oiling jet pipe relief valve and the oiling By jet pipe bolt to the specified torque. Relief Valve Torque kg-m (Ib.ft/N-m) 2.5 \u2014 3.5 (18.1 \u2014 25.3/24.5 \u2014 34.3) Oiling Jet Pipe Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17....",
+        "verified": true,
+        "char_start": 344,
+        "char_end": 714,
+        "bbox": [
+          252.24,
+          283.2567,
+          552.0039499999999,
+          425.64256666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "turbocharger_assembly_valve",
+      "name": "Turbocharger assembly valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbocharger_assembly_valve",
+      "provenance": {
+        "page": 108,
+        "quote": "Tighten the oiling jet pipe relief valve and the oiling By jet pipe bolt to the specified torque. Relief Valve Torque kg-m (Ib.ft/N-m) 2.5 \u2014 3.5 (18.1 \u2014 25.3/24.5 \u2014 34.3) Oiling Jet Pipe Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17....",
+        "verified": true,
+        "char_start": 344,
+        "char_end": 714,
+        "bbox": [
+          252.24,
+          283.2567,
+          552.0039499999999,
+          425.64256666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 108,
+        "quote": "Tighten the oiling jet pipe relief valve and the oiling By jet pipe bolt to the specified torque. Relief Valve Torque kg-m (Ib.ft/N-m) 2.5 \u2014 3.5 (18.1 \u2014 25.3/24.5 \u2014 34.3) Oiling Jet Pipe Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17....",
+        "verified": true,
+        "char_start": 344,
+        "char_end": 714,
+        "bbox": [
+          252.24,
+          283.2567,
+          552.0039499999999,
+          425.64256666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Move the piston to TDC.",
+      "source_number": 1,
+      "installs": [
+        "related_part_piston"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 107,
+        "quote": "Move the piston to TDC.",
+        "verified": true,
+        "char_start": 1133,
+        "char_end": 1156,
+        "bbox": [
+          311.28,
+          624.3948,
+          423.405824,
+          634.1948
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Align the oiling jet knock pin hole with the cylinder body knock pin @.",
+      "source_number": 2,
+      "installs": [
+        "oiling_jet_knock",
+        "pin",
+        "cylinder_body"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 107,
+        "quote": "Align the oiling jet knock pin hole with the cylinder body knock pin @.",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1231,
+        "bbox": [
+          311.04,
+          640.1018,
+          556.3039200000001,
+          662.0388
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the oiling jet @.",
+      "source_number": 3,
+      "installs": [
+        "oiling_jet"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 107,
+        "quote": "Install the oiling jet @.",
+        "verified": true,
+        "char_start": 1235,
+        "char_end": 1260,
+        "bbox": [
+          311.52000000000004,
+          668.3238,
+          416.08492,
+          678.1238000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Tighten the oiling jet pipe relief valve and the oiling By jet pipe bolt to the specified torque. Relief Valve Torque kg-m (Ib.ft/N-m) 2.5 \u2014 3.5 (18.1 \u2014 25.3/24.5 \u2014 34.3) Oiling Jet Pipe Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17.3/13.7 \u2014 23.5) e 8) Check that there is no interference between the piston and the oiling jet pipe by slowly rotating the crankshaft.",
+      "source_number": 7,
+      "installs": [
+        "oiling_jet_pipe",
+        "relief_valve",
+        "bearing_cap_bolt",
+        "turbocharger_assembly_valve",
+        "crankshaft"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": 24.5,
+      "warning": null,
+      "provenance": {
+        "page": 108,
+        "quote": "Tighten the oiling jet pipe relief valve and the oiling By jet pipe bolt to the specified torque. Relief Valve Torque kg-m (Ib.ft/N-m) 2.5 \u2014 3.5 (18.1 \u2014 25.3/24.5 \u2014 34.3) Oiling Jet Pipe Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17....",
+        "verified": true,
+        "char_start": 344,
+        "char_end": 714,
+        "bbox": [
+          252.24,
+          283.2567,
+          552.0039499999999,
+          425.64256666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

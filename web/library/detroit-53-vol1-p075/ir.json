@@ -1,0 +1,464 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.134 - Lay the outer spacer ring on the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "outer_spacer_ring",
+      "name": "Outer spacer ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outer_spacer_ring",
+      "provenance": {
+        "page": 134,
+        "quote": "Lay the outer spacer ring on the face of the bearing 1. Support the idler gear, shoulder side down, on an cup. arbor press and start the outer bearing cone squarely into the bore of the gear. Then press the bearing cone \u00fcght against the ...",
+        "verified": true,
+        "char_start": 1461,
+        "char_end": 1733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_bearing",
+      "name": "Of the bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bearing",
+      "provenance": {
+        "page": 134,
+        "quote": "Lay the outer spacer ring on the face of the bearing 1. Support the idler gear, shoulder side down, on an cup. arbor press and start the outer bearing cone squarely into the bore of the gear. Then press the bearing cone \u00fcght against the ...",
+        "verified": true,
+        "char_start": 1461,
+        "char_end": 1733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 134,
+        "quote": "Lay the outer spacer ring on the face of the bearing 1. Support the idler gear, shoulder side down, on an cup. arbor press and start the outer bearing cone squarely into the bore of the gear. Then press the bearing cone \u00fcght against the ...",
+        "verified": true,
+        "char_start": 1461,
+        "char_end": 1733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 134,
+        "quote": "Lay the outer spacer ring on the face of the bearing 1. Support the idler gear, shoulder side down, on an cup. arbor press and start the outer bearing cone squarely into the bore of the gear. Then press the bearing cone \u00fcght against the ...",
+        "verified": true,
+        "char_start": 1461,
+        "char_end": 1733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "outer_bearing",
+      "name": "Outer bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outer_bearing",
+      "provenance": {
+        "page": 134,
+        "quote": "Lay the outer spacer ring on the face of the bearing 1. Support the idler gear, shoulder side down, on an cup. arbor press and start the outer bearing cone squarely into the bore of the gear. Then press the bearing cone \u00fcght against the ...",
+        "verified": true,
+        "char_start": 1461,
+        "char_end": 1733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 134,
+        "quote": "Lay the outer spacer ring on the face of the bearing 1. Support the idler gear, shoulder side down, on an cup. arbor press and start the outer bearing cone squarely into the bore of the gear. Then press the bearing cone \u00fcght against the ...",
+        "verified": true,
+        "char_start": 1461,
+        "char_end": 1733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_cone",
+      "name": "Bearing cone",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cone",
+      "provenance": {
+        "page": 134,
+        "quote": "Lay the outer spacer ring on the face of the bearing 1. Support the idler gear, shoulder side down, on an cup. arbor press and start the outer bearing cone squarely into the bore of the gear. Then press the bearing cone \u00fcght against the ...",
+        "verified": true,
+        "char_start": 1461,
+        "char_end": 1733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 134,
+        "quote": "Start the other bearing cup, numbered side down, plate between the ram of the press and the bearing squarely into the bore of the gear. Then press the cup ught against the spacer ring. Use a flat round steel cone. plate (pre-load test pl...",
+        "verified": true,
+        "char_start": 1737,
+        "char_end": 2133,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 134,
+        "quote": "Start the other bearing cup, numbered side down, plate between the ram of the press and the bearing squarely into the bore of the gear. Then press the cup ught against the spacer ring. Use a flat round steel cone. plate (pre-load test pl...",
+        "verified": true,
+        "char_start": 1737,
+        "char_end": 2133,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 134,
+        "quote": "Start the other bearing cup, numbered side down, plate between the ram of the press and the bearing squarely into the bore of the gear. Then press the cup ught against the spacer ring. Use a flat round steel cone. plate (pre-load test pl...",
+        "verified": true,
+        "char_start": 1737,
+        "char_end": 2133,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inner_bearing",
+      "name": "Inner bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner_bearing",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the inner bearing cone (numbered side up) on cup assembly down over the bearing cone. the idler gear hub, flush with the inner hub mounting face. Use the pre-load test plate (with the large center 3. Place the spacer ring on the fa...",
+        "verified": true,
+        "char_start": 2137,
+        "char_end": 2449,
+        "bbox": [
+          83.99999999999994,
+          636.9569999999999,
+          589.4659999999999,
+          681.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear_hub",
+      "name": "Idler gear hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_hub",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the inner bearing cone (numbered side up) on cup assembly down over the bearing cone. the idler gear hub, flush with the inner hub mounting face. Use the pre-load test plate (with the large center 3. Place the spacer ring on the fa...",
+        "verified": true,
+        "char_start": 2137,
+        "char_end": 2449,
+        "bbox": [
+          83.99999999999994,
+          636.9569999999999,
+          589.4659999999999,
+          681.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the inner bearing cone (numbered side up) on cup assembly down over the bearing cone. the idler gear hub, flush with the inner hub mounting face. Use the pre-load test plate (with the large center 3. Place the spacer ring on the fa...",
+        "verified": true,
+        "char_start": 2137,
+        "char_end": 2449,
+        "bbox": [
+          83.99999999999994,
+          636.9569999999999,
+          589.4659999999999,
+          681.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the inner bearing cone (numbered side up) on cup assembly down over the bearing cone. the idler gear hub, flush with the inner hub mounting face. Use the pre-load test plate (with the large center 3. Place the spacer ring on the fa...",
+        "verified": true,
+        "char_start": 2137,
+        "char_end": 2449,
+        "bbox": [
+          83.99999999999994,
+          636.9569999999999,
+          589.4659999999999,
+          681.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "inner_spacer_ring",
+      "name": "Inner spacer ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner_spacer_ring",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the inner bearing cone (numbered side up) on cup assembly down over the bearing cone. the idler gear hub, flush with the inner hub mounting face. Use the pre-load test plate (with the large center 3. Place the spacer ring on the fa...",
+        "verified": true,
+        "char_start": 2137,
+        "char_end": 2449,
+        "bbox": [
+          83.99999999999994,
+          636.9569999999999,
+          589.4659999999999,
+          681.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the inner bearing cone (numbered side up) on cup assembly down over the bearing cone. the idler gear hub, flush with the inner hub mounting face. Use the pre-load test plate (with the large center 3. Place the spacer ring on the fa...",
+        "verified": true,
+        "char_start": 2137,
+        "char_end": 2449,
+        "bbox": [
+          83.99999999999994,
+          636.9569999999999,
+          589.4659999999999,
+          681.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 134,
+        "quote": "Install the inner spacer ring on the idler gear hub so 4. Place the second bearing cone, numbered side up, in that the oil hole in the hub is 180 \u00b0 from the gap in the the idler gear and bearing cup assembly and against the spacer ring. ...",
+        "verified": true,
+        "char_start": 2453,
+        "char_end": 2708,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 134,
+        "quote": "Install the inner spacer ring on the idler gear hub so 4. Place the second bearing cone, numbered side up, in that the oil hole in the hub is 180 \u00b0 from the gap in the the idler gear and bearing cup assembly and against the spacer ring. ...",
+        "verified": true,
+        "char_start": 2453,
+        "char_end": 2708,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Lay the outer spacer ring on the face of the bearing 1. Support the idler gear, shoulder side down, on an cup. arbor press and start the outer bearing cone squarely into the bore of the gear. Then press the bearing cone \u00fcght against the shoulder of the gear, using a steel",
+      "source_number": 2,
+      "installs": [
+        "outer_spacer_ring",
+        "of_the_bearing",
+        "blower_drive_support",
+        "idler_gear",
+        "outer_bearing",
+        "fuel_pump_drive_gear",
+        "bearing_cone"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 134,
+        "quote": "Lay the outer spacer ring on the face of the bearing 1. Support the idler gear, shoulder side down, on an cup. arbor press and start the outer bearing cone squarely into the bore of the gear. Then press the bearing cone \u00fcght against the ...",
+        "verified": true,
+        "char_start": 1461,
+        "char_end": 1733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Start the other bearing cup, numbered side down, plate between the ram of the press and the bearing squarely into the bore of the gear. Then press the cup ught against the spacer ring. Use a flat round steel cone. plate (pre-load test plate) between the ram of the press and the bearing cup. 2. Support one bearing cone, numbered side down, on the arbor press and lower the idler gear and bearing",
+      "source_number": 3,
+      "installs": [
+        "bearing_the_end_bearing",
+        "assembly_rear_end_plate",
+        "flat"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 134,
+        "quote": "Start the other bearing cup, numbered side down, plate between the ram of the press and the bearing squarely into the bore of the gear. Then press the cup ught against the spacer ring. Use a flat round steel cone. plate (pre-load test pl...",
+        "verified": true,
+        "char_start": 1737,
+        "char_end": 2133,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Press the inner bearing cone (numbered side up) on cup assembly down over the bearing cone. the idler gear hub, flush with the inner hub mounting face. Use the pre-load test plate (with the large center 3. Place the spacer ring on the face of the bearing hole) between the ram of the press and the bearing. cone.",
+      "source_number": 4,
+      "installs": [
+        "inner_bearing",
+        "idler_gear_hub",
+        "side_of_the_inner",
+        "blower_drive_hub",
+        "inner_spacer_ring",
+        "of_the_oil_hole"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 134,
+        "quote": "Press the inner bearing cone (numbered side up) on cup assembly down over the bearing cone. the idler gear hub, flush with the inner hub mounting face. Use the pre-load test plate (with the large center 3. Place the spacer ring on the fa...",
+        "verified": true,
+        "char_start": 2137,
+        "char_end": 2449,
+        "bbox": [
+          83.99999999999994,
+          636.9569999999999,
+          589.4659999999999,
+          681.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the inner spacer ring on the idler gear hub so 4. Place the second bearing cone, numbered side up, in that the oil hole in the hub is 180 \u00b0 from the gap in the the idler gear and bearing cup assembly and against the spacer ring. inner spacer ring.",
+      "source_number": 5,
+      "installs": [
+        "drive_gear_spacer",
+        "bottom_oil_ring"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 134,
+        "quote": "Install the inner spacer ring on the idler gear hub so 4. Place the second bearing cone, numbered side up, in that the oil hole in the hub is 180 \u00b0 from the gap in the the idler gear and bearing cup assembly and against the spacer ring. ...",
+        "verified": true,
+        "char_start": 2453,
+        "char_end": 2708,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

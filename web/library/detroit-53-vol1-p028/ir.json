@@ -1,0 +1,365 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.53 - Clean the valve seat insert counterbores in...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 53,
+        "quote": "Clean the valve seat insert counterbores in the head with trichloroethylene or other suitable solvent. Also wash the valve seat inserts with the same solvent. Dry the counterbores and the inserts with compressed air.",
+        "verified": true,
+        "char_start": 742,
+        "char_end": 958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 53,
+        "quote": "Clean the valve seat insert counterbores in the head with trichloroethylene or other suitable solvent. Also wash the valve seat inserts with the same solvent. Dry the counterbores and the inserts with compressed air.",
+        "verified": true,
+        "char_start": 742,
+        "char_end": 958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 53,
+        "quote": "Clean the valve seat insert counterbores in the head with trichloroethylene or other suitable solvent. Also wash the valve seat inserts with the same solvent. Dry the counterbores and the inserts with compressed air.",
+        "verified": true,
+        "char_start": 742,
+        "char_end": 958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 53,
+        "quote": "Clean the valve seat insert counterbores in the head with trichloroethylene or other suitable solvent. Also wash the valve seat inserts with the same solvent. Dry the counterbores and the inserts with compressed air.",
+        "verified": true,
+        "char_start": 742,
+        "char_end": 958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 53,
+        "quote": "Clean the valve seat insert counterbores in the head with trichloroethylene or other suitable solvent. Also wash the valve seat inserts with the same solvent. Dry the counterbores and the inserts with compressed air.",
+        "verified": true,
+        "char_start": 742,
+        "char_end": 958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 53,
+        "quote": "Inspect the counterbores for cleanliness, concentric- ity, flatness and cracks. The counterbores in a two valve head have a diameter of 1.439 \u201d to 1.440\" and a depth of .294 \" to .306 \". The counterbores in a four valve head have a diame...",
+        "verified": true,
+        "char_start": 962,
+        "char_end": 1466,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "e_cylinder_insert_head",
+      "name": "E cylinder insert head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "e_cylinder_insert_head",
+      "provenance": {
+        "page": 53,
+        "quote": "Inspect the counterbores for cleanliness, concentric- ity, flatness and cracks. The counterbores in a two valve head have a diameter of 1.439 \u201d to 1.440\" and a depth of .294 \" to .306 \". The counterbores in a four valve head have a diame...",
+        "verified": true,
+        "char_start": 962,
+        "char_end": 1466,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 53,
+        "quote": "Inspect the counterbores for cleanliness, concentric- ity, flatness and cracks. The counterbores in a two valve head have a diameter of 1.439 \u201d to 1.440\" and a depth of .294 \" to .306 \". The counterbores in a four valve head have a diame...",
+        "verified": true,
+        "char_start": 962,
+        "char_end": 1466,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 53,
+        "quote": "Inspect the counterbores for cleanliness, concentric- ity, flatness and cracks. The counterbores in a two valve head have a diameter of 1.439 \u201d to 1.440\" and a depth of .294 \" to .306 \". The counterbores in a four valve head have a diame...",
+        "verified": true,
+        "char_start": 962,
+        "char_end": 1466,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 53,
+        "quote": "Drive the insert in place with installer J 6976 (two valve head) or J 7790 (four valve head) as shown in Fig. 8 until it seats solidly in the cylinder head.",
+        "verified": true,
+        "char_start": 1925,
+        "char_end": 2081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 53,
+        "quote": "Drive the insert in place with installer J 6976 (two valve head) or J 7790 (four valve head) as shown in Fig. 8 until it seats solidly in the cylinder head.",
+        "verified": true,
+        "char_start": 1925,
+        "char_end": 2081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_guide",
+      "name": "Exhaust valve guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_guide",
+      "provenance": {
+        "page": 53,
+        "quote": "Grind the valve seat insert and check it for concentricity in relation to the valve guide as outlined below.",
+        "verified": true,
+        "char_start": 2085,
+        "char_end": 2193,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 53,
+        "quote": "Grind the valve seat insert and check it for concentricity in relation to the valve guide as outlined below.",
+        "verified": true,
+        "char_start": 2085,
+        "char_end": 2193,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clean the valve seat insert counterbores in the head with trichloroethylene or other suitable solvent. Also wash the valve seat inserts with the same solvent. Dry the counterbores and the inserts with compressed air.",
+      "source_number": 1,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "insert_remover_valve_seat",
+        "insert_counterbore",
+        "cylinder_head",
+        "exhaust_valve_seat_insert"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 53,
+        "quote": "Clean the valve seat insert counterbores in the head with trichloroethylene or other suitable solvent. Also wash the valve seat inserts with the same solvent. Dry the counterbores and the inserts with compressed air.",
+        "verified": true,
+        "char_start": 742,
+        "char_end": 958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Inspect the counterbores for cleanliness, concentric- ity, flatness and cracks. The counterbores in a two valve head have a diameter of 1.439 \u201d to 1.440\" and a depth of .294 \" to .306 \". The counterbores in a four valve head have a diameter of 1.159 \u201d to 1.160 \" and a depth of .294 \" to .306 \" on former engines and a depth of .300 \"' to .312 \" on current engines. NOTE: Valve seat inserts which are O10\u201d Fig. 8 - Installing Valve Seat Insert oversize on the outside diameter are available, if required.",
+      "source_number": 2,
+      "installs": [
+        "engine_front_cover_valve",
+        "e_cylinder_insert_head",
+        "of_the_former",
+        "engine_front_cover_current"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: Valve seat inserts which are O10\u201d Fig.",
+      "provenance": {
+        "page": 53,
+        "quote": "Inspect the counterbores for cleanliness, concentric- ity, flatness and cracks. The counterbores in a two valve head have a diameter of 1.439 \u201d to 1.440\" and a depth of .294 \" to .306 \". The counterbores in a four valve head have a diame...",
+        "verified": true,
+        "char_start": 962,
+        "char_end": 1466,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Immerse the cylinder head for at least 30 minutes in water heated to 180 \u00b0F. to 200 \u201c\u0415.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 53,
+        "quote": "Immerse the cylinder head for at least 30 minutes in water heated to 180 \u00b0F. to 200 \u201c\u0415.",
+        "verified": true,
+        "char_start": 1470,
+        "char_end": 1557,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Rest the cylinder head, bottom side up, on a bench and place an insert in the counterbore--valve seat side up. This must be done quickly while the cylinder head is still hot and the insert is cold (room temperature). If the temperature of the two parts is allowed to become nearly the same, installation may become difficult and damage to the parts may result.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 53,
+        "quote": "Rest the cylinder head, bottom side up, on a bench and place an insert in the counterbore--valve seat side up. This must be done quickly while the cylinder head is still hot and the insert is cold (room temperature). If the temperature o...",
+        "verified": true,
+        "char_start": 1561,
+        "char_end": 1921,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Drive the insert in place with installer J 6976 (two valve head) or J 7790 (four valve head) as shown in Fig. 8 until it seats solidly in the cylinder head.",
+      "source_number": 5,
+      "installs": [
+        "oil_seal_installer",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 53,
+        "quote": "Drive the insert in place with installer J 6976 (two valve head) or J 7790 (four valve head) as shown in Fig. 8 until it seats solidly in the cylinder head.",
+        "verified": true,
+        "char_start": 1925,
+        "char_end": 2081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Grind the valve seat insert and check it for concentricity in relation to the valve guide as outlined below.",
+      "source_number": 6,
+      "installs": [
+        "exhaust_valve_guide",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 53,
+        "quote": "Grind the valve seat insert and check it for concentricity in relation to the valve guide as outlined below.",
+        "verified": true,
+        "char_start": 2085,
+        "char_end": 2193,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1062 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.268 - Install the blower and governor assembly on...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 268,
+        "quote": "Install the blower and governor assembly on the engine as outlined in Section 3.4.",
+        "verified": true,
+        "char_start": 182,
+        "char_end": 264,
+        "bbox": [
+          91.19999999999996,
+          129.44999999999993,
+          330.39719999999994,
+          150.03199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_assembly",
+      "name": "Governor assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_assembly",
+      "provenance": {
+        "page": 268,
+        "quote": "Install the blower and governor assembly on the engine as outlined in Section 3.4.",
+        "verified": true,
+        "char_start": 182,
+        "char_end": 264,
+        "bbox": [
+          91.19999999999996,
+          129.44999999999993,
+          330.39719999999994,
+          150.03199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 268,
+        "quote": "Install the blower and governor assembly on the engine as outlined in Section 3.4.",
+        "verified": true,
+        "char_start": 182,
+        "char_end": 264,
+        "bbox": [
+          91.19999999999996,
+          129.44999999999993,
+          330.39719999999994,
+          150.03199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support_assembly",
+      "name": "Blower drive support assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support_assembly",
+      "provenance": {
+        "page": 268,
+        "quote": "Install the blower drive support assembly as outlined in Section 3.4 under Install Blower on 6V Engine.",
+        "verified": true,
+        "char_start": 268,
+        "char_end": 371,
+        "bbox": [
+          91.44,
+          162.00900000000001,
+          328.6044,
+          181.822
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 268,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 538,
+        "bbox": [
+          90.95999999999995,
+          193.56899999999996,
+          330.07070999999996,
+          235.20899999999983
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "upper_fuel_rod",
+      "name": "Upper fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_fuel_rod",
+      "provenance": {
+        "page": 268,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 538,
+        "bbox": [
+          90.95999999999995,
+          193.56899999999996,
+          330.07070999999996,
+          235.20899999999983
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_rod_cover",
+      "name": "Fuel rod cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_rod_cover",
+      "provenance": {
+        "page": 268,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 538,
+        "bbox": [
+          90.95999999999995,
+          193.56899999999996,
+          330.07070999999996,
+          235.20899999999983
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 268,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 538,
+        "bbox": [
+          90.95999999999995,
+          193.56899999999996,
+          330.07070999999996,
+          235.20899999999983
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 268,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 538,
+        "bbox": [
+          90.95999999999995,
+          193.56899999999996,
+          330.07070999999996,
+          235.20899999999983
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "control_link_lever",
+      "name": "Control link lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_lever",
+      "provenance": {
+        "page": 268,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 538,
+        "bbox": [
+          90.95999999999995,
+          193.56899999999996,
+          330.07070999999996,
+          235.20899999999983
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "link_pin",
+      "name": "Link pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "link_pin",
+      "provenance": {
+        "page": 268,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 538,
+        "bbox": [
+          90.95999999999995,
+          193.56899999999996,
+          330.07070999999996,
+          235.20899999999983
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 268,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 538,
+        "bbox": [
+          90.95999999999995,
+          193.56899999999996,
+          330.07070999999996,
+          235.20899999999983
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 268,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 538,
+        "bbox": [
+          90.95999999999995,
+          193.56899999999996,
+          330.07070999999996,
+          235.20899999999983
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lower_fuel_rod",
+      "name": "Lower fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_fuel_rod",
+      "provenance": {
+        "page": 268,
+        "quote": "Attach the lower fuel rods to the injector control tube levers and to the upper fuel rods.",
+        "verified": true,
+        "char_start": 542,
+        "char_end": 632,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 268,
+        "quote": "Attach the lower fuel rods to the injector control tube levers and to the upper fuel rods.",
+        "verified": true,
+        "char_start": 542,
+        "char_end": 632,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 268,
+        "quote": "Slide the fuel rod cover hoses in place and secure them with hose clamps.",
+        "verified": true,
+        "char_start": 636,
+        "char_end": 709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "variable_speed_spring",
+      "name": "Variable speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "variable_speed_spring",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_housing_cover",
+      "name": "Spring housing cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_housing_cover",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_spring_housing",
+      "name": "Governor spring housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_spring_housing",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_plunger_guide",
+      "name": "Spring plunger guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_plunger_guide",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_plunger",
+      "name": "High speed spring plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_plunger",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "split_stop",
+      "name": "Split stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "split_stop",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 268,
+        "quote": "Place a new gasket on the governor. then install the governor cover and lever assembly. Be sure the governor contro] lever assembly enters the slot in the _ 100\u00b0 MINIMUM WITH",
+        "verified": true,
+        "char_start": 2612,
+        "char_end": 2786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_contro",
+      "name": "Speed contro",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_contro",
+      "provenance": {
+        "page": 268,
+        "quote": "Place a new gasket on the governor. then install the governor cover and lever assembly. Be sure the governor contro] lever assembly enters the slot in the _ 100\u00b0 MINIMUM WITH",
+        "verified": true,
+        "char_start": 2612,
+        "char_end": 2786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_slot",
+      "name": "Tbe slot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_slot",
+      "provenance": {
+        "page": 268,
+        "quote": "Place a new gasket on the governor. then install the governor cover and lever assembly. Be sure the governor contro] lever assembly enters the slot in the _ 100\u00b0 MINIMUM WITH",
+        "verified": true,
+        "char_start": 2612,
+        "char_end": 2786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 269,
+        "quote": "Hook the stop lever spring to the lever and to the spring retaining bracket or the special cover screw.",
+        "verified": true,
+        "char_start": 326,
+        "char_end": 429,
+        "bbox": [
+          325.6800000000001,
+          105.9319999999999,
+          565.7706000000002,
+          126.7299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_cover_screw",
+      "name": "Valve cover screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_cover_screw",
+      "provenance": {
+        "page": 269,
+        "quote": "Hook the stop lever spring to the lever and to the spring retaining bracket or the special cover screw.",
+        "verified": true,
+        "char_start": 326,
+        "char_end": 429,
+        "bbox": [
+          325.6800000000001,
+          105.9319999999999,
+          565.7706000000002,
+          126.7299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the blower and governor assembly on the engine as outlined in Section 3.4.",
+      "source_number": 2,
+      "installs": [
+        "assembly_examine_the_blower",
+        "governor_assembly",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 268,
+        "quote": "Install the blower and governor assembly on the engine as outlined in Section 3.4.",
+        "verified": true,
+        "char_start": 182,
+        "char_end": 264,
+        "bbox": [
+          91.19999999999996,
+          129.44999999999993,
+          330.39719999999994,
+          150.03199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the blower drive support assembly as outlined in Section 3.4 under Install Blower on 6V Engine.",
+      "source_number": 3,
+      "installs": [
+        "blower_drive_support_assembly"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 268,
+        "quote": "Install the blower drive support assembly as outlined in Section 3.4 under Install Blower on 6V Engine.",
+        "verified": true,
+        "char_start": 268,
+        "char_end": 371,
+        "bbox": [
+          91.44,
+          162.00900000000001,
+          328.6044,
+          181.822
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+      "source_number": 4,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "upper_fuel_rod",
+        "fuel_rod_cover",
+        "bearing_pilot_rod",
+        "blower_the_engine_governor",
+        "control_link_lever",
+        "link_pin",
+        "bolt_thread",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 268,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and hoses and attach the rods to the governor control link lever with link pins which thread into the lever.",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 538,
+        "bbox": [
+          90.95999999999995,
+          193.56899999999996,
+          330.07070999999996,
+          235.20899999999983
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Attach the lower fuel rods to the injector control tube levers and to the upper fuel rods.",
+      "source_number": 5,
+      "installs": [
+        "lower_fuel_rod",
+        "injector_control_tube"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 268,
+        "quote": "Attach the lower fuel rods to the injector control tube levers and to the upper fuel rods.",
+        "verified": true,
+        "char_start": 542,
+        "char_end": 632,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Slide the fuel rod cover hoses in place and secure them with hose clamps.",
+      "source_number": 6,
+      "installs": [
+        "hose_clamp"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 268,
+        "quote": "Slide the fuel rod cover hoses in place and secure them with hose clamps.",
+        "verified": true,
+        "char_start": 636,
+        "char_end": 709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install the spring plunger guide in the governor housing. c. Insert the spring plunger in the plunger guide. d. Insert the solid stop in the governor housing. e. Place the spring retainer in the spring housing. with the closed end of the retainer against the spring lever. If shims were used. place them inside of the spring retainer. Insert the split stop in the housing and against the spring retainer. NOTE: Be sure to use shims with a .343\" inside diameter and a spring retainer with three bleed holes when a two-spring assembly is used. On the one-spring assembly, either spring retainer may be used with shims which -have a .750\" LD. However. do not use the 343\" LD. shims with a spring retainer which has only one air bleed hole. f. Insert the variable speed spring in the spring retainer with the tightly wound end of the spring against the shims. If a two-spring assembly is used, insert the inner spring inside of the outer spring. g. On former governors. insert two bolts with lock",
+      "source_number": 7,
+      "installs": [
+        "nut_securing_fig",
+        "variable_speed_spring",
+        "of_the_flywheel_housing",
+        "engine_front_cover_current",
+        "head_gasket",
+        "spring_housing_cover",
+        "governor_spring_housing",
+        "of_the_buffer_screw",
+        "special_lock_washer",
+        "spring_plunger_guide",
+        "disassemble_governor_housing",
+        "high_speed_spring_plunger",
+        "area_of_the_plunger",
+        "cam_follower_guide",
+        "solid_stop",
+        "high_speed_spring_retainer",
+        "end_of_the_spring",
+        "drive_shaft_retainer",
+        "rotor_shim",
+        "split_stop"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: Be sure to use shims with a .",
+      "provenance": {
+        "page": 268,
+        "quote": "Refer to Fig. 6 and install the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and lock washer. b. Install th...",
+        "verified": true,
+        "char_start": 713,
+        "char_end": 1932,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Place a new gasket on the governor. then install the governor cover and lever assembly. Be sure the governor contro] lever assembly enters the slot in the _ 100\u00b0 MINIMUM WITH",
+      "source_number": 8,
+      "installs": [
+        "governor_cover",
+        "speed_contro",
+        "tbe_slot"
+      ],
+      "depends_on": [
+        "s03",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 268,
+        "quote": "Place a new gasket on the governor. then install the governor cover and lever assembly. Be sure the governor contro] lever assembly enters the slot in the _ 100\u00b0 MINIMUM WITH",
+        "verified": true,
+        "char_start": 2612,
+        "char_end": 2786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Hook the stop lever spring to the lever and to the spring retaining bracket or the special cover screw.",
+      "source_number": 9,
+      "installs": [
+        "booster_spring_bracket",
+        "valve_cover_screw"
+      ],
+      "depends_on": [
+        "s03",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 269,
+        "quote": "Hook the stop lever spring to the lever and to the spring retaining bracket or the special cover screw.",
+        "verified": true,
+        "char_start": 326,
+        "char_end": 429,
+        "bbox": [
+          325.6800000000001,
+          105.9319999999999,
+          565.7706000000002,
+          126.7299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Perform \u0430\u043f engine tune-up as outlined in Section 14.",
+      "source_number": 10,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 269,
+        "quote": "Perform \u0430\u043f engine tune-up as outlined in Section 14.",
+        "verified": true,
+        "char_start": 434,
+        "char_end": 486,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

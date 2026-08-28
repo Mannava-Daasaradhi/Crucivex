@@ -1,0 +1,568 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.247 - Remove the two bolts and lock washers...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the two bolts and lock washers securing the spring housing to the governor housing and withdraw the spring housing and gasket.",
+        "verified": true,
+        "char_start": 398,
+        "char_end": 531,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the two bolts and lock washers securing the spring housing to the governor housing and withdraw the spring housing and gasket.",
+        "verified": true,
+        "char_start": 398,
+        "char_end": 531,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_spring_housing",
+      "name": "Governor spring housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_spring_housing",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the two bolts and lock washers securing the spring housing to the governor housing and withdraw the spring housing and gasket.",
+        "verified": true,
+        "char_start": 398,
+        "char_end": 531,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the two bolts and lock washers securing the spring housing to the governor housing and withdraw the spring housing and gasket.",
+        "verified": true,
+        "char_start": 398,
+        "char_end": 531,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the two bolts and lock washers securing the spring housing to the governor housing and withdraw the spring housing and gasket.",
+        "verified": true,
+        "char_start": 398,
+        "char_end": 531,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the two bolts and lock washers securing the spring housing to the governor housing and withdraw the spring housing and gasket.",
+        "verified": true,
+        "char_start": 398,
+        "char_end": 531,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the two bolts and lock washers securing the spring housing to the governor housing and withdraw the spring housing and gasket.",
+        "verified": true,
+        "char_start": 398,
+        "char_end": 531,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "adjusting_coupling",
+      "name": "Adjusting coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "adjusting_coupling",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the adjusting coupling from the adjusting shaft.",
+        "verified": true,
+        "char_start": 535,
+        "char_end": 590,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_shaft",
+      "name": "Speed adjusting shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_shaft",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the adjusting coupling from the adjusting shaft.",
+        "verified": true,
+        "char_start": 535,
+        "char_end": 590,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 247,
+        "quote": "Hold the adjusting lock nut with a wrench and back off the retainer and adjusting shaft.",
+        "verified": true,
+        "char_start": 594,
+        "char_end": 682,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 247,
+        "quote": "Hold the adjusting lock nut with a wrench and back off the retainer and adjusting shaft.",
+        "verified": true,
+        "char_start": 594,
+        "char_end": 682,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idle",
+      "name": "Idle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idle",
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the idle adjusting lock nut from the end of the high-speed spring plunger.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 818,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_high_speed",
+      "name": "End of the high-speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_high_speed",
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the idle adjusting lock nut from the end of the high-speed spring plunger.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 818,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_plunger",
+      "name": "High speed spring plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_plunger",
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the idle adjusting lock nut from the end of the high-speed spring plunger.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 818,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the high-speed spring retainer lock nut and remove the high-speed spring retainer, plunger and spring along with the low-speed spring plunger, inner and outer springs and low-speed spring cap as an assembly from the governor hous...",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 1063,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring",
+      "name": "High-speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring",
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the high-speed spring retainer lock nut and remove the high-speed spring retainer, plunger and spring along with the low-speed spring plunger, inner and outer springs and low-speed spring cap as an assembly from the governor hous...",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 1063,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the high-speed spring retainer lock nut and remove the high-speed spring retainer, plunger and spring along with the low-speed spring plunger, inner and outer springs and low-speed spring cap as an assembly from the governor hous...",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 1063,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "low_speed_spring_plunger",
+      "name": "Low-speed spring plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_spring_plunger",
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the high-speed spring retainer lock nut and remove the high-speed spring retainer, plunger and spring along with the low-speed spring plunger, inner and outer springs and low-speed spring cap as an assembly from the governor hous...",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 1063,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the high-speed spring retainer lock nut and remove the high-speed spring retainer, plunger and spring along with the low-speed spring plunger, inner and outer springs and low-speed spring cap as an assembly from the governor hous...",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 1063,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the high-speed spring retainer lock nut and remove the high-speed spring retainer, plunger and spring along with the low-speed spring plunger, inner and outer springs and low-speed spring cap as an assembly from the governor hous...",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 1063,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "low_speed_spring_cap",
+      "name": "Low-speed spring cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_spring_cap",
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the high-speed spring retainer lock nut and remove the high-speed spring retainer, plunger and spring along with the low-speed spring plunger, inner and outer springs and low-speed spring cap as an assembly from the governor hous...",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 1063,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the high-speed spring retainer and spacer assembly and spring from the high-speed spring plunger. Remove the low-speed spring cap from the opposite end of the high-speed spring plunger and remove the low-speed spring plunger along...",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1523,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the high-speed spring retainer and spacer assembly and spring from the high-speed spring plunger. Remove the low-speed spring cap from the opposite end of the high-speed spring plunger and remove the low-speed spring plunger along...",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1523,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the two bolts and lock washers securing the spring housing to the governor housing and withdraw the spring housing and gasket.",
+      "source_number": 2,
+      "installs": [
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "governor_spring_housing",
+        "disassemble_governor_housing",
+        "end_of_the_spring",
+        "of_the_flywheel_housing",
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the two bolts and lock washers securing the spring housing to the governor housing and withdraw the spring housing and gasket.",
+        "verified": true,
+        "char_start": 398,
+        "char_end": 531,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the adjusting coupling from the adjusting shaft.",
+      "source_number": 3,
+      "installs": [
+        "adjusting_coupling",
+        "speed_adjusting_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the adjusting coupling from the adjusting shaft.",
+        "verified": true,
+        "char_start": 535,
+        "char_end": 590,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Hold the adjusting lock nut with a wrench and back off the retainer and adjusting shaft.",
+      "source_number": 4,
+      "installs": [
+        "bearing_lock_nut",
+        "drive_shaft_retainer"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 247,
+        "quote": "Hold the adjusting lock nut with a wrench and back off the retainer and adjusting shaft.",
+        "verified": true,
+        "char_start": 594,
+        "char_end": 682,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Unscrew the adjusting shaft from the retainer.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the adjusting shaft from the retainer.",
+        "verified": true,
+        "char_start": 686,
+        "char_end": 732,
+        "bbox": [
+          69.36,
+          309.621,
+          271.17789,
+          318.621
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Unscrew the idle adjusting lock nut from the end of the high-speed spring plunger.",
+      "source_number": 6,
+      "installs": [
+        "idle",
+        "end_of_the_high_speed",
+        "high_speed_spring_plunger"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the idle adjusting lock nut from the end of the high-speed spring plunger.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 818,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Unscrew the high-speed spring retainer lock nut and remove the high-speed spring retainer, plunger and spring along with the low-speed spring plunger, inner and outer springs and low-speed spring cap as an assembly from the governor housing.",
+      "source_number": 7,
+      "installs": [
+        "high_speed_spring_retainer",
+        "high_speed_spring",
+        "area_of_the_plunger",
+        "low_speed_spring_plunger",
+        "side_of_the_inner",
+        "idler_gear_outer",
+        "low_speed_spring_cap"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 247,
+        "quote": "Unscrew the high-speed spring retainer lock nut and remove the high-speed spring retainer, plunger and spring along with the low-speed spring plunger, inner and outer springs and low-speed spring cap as an assembly from the governor hous...",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 1063,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the high-speed spring retainer and spacer assembly and spring from the high-speed spring plunger. Remove the low-speed spring cap from the opposite end of the high-speed spring plunger and remove the low-speed spring plunger along with the inner and outer low-speed springs. NOTE: The high-speed spring retainer on early engines did not include a spacer. If the shaft sticks in the retainer. replace it with the current retainer and spacer assembly.",
+      "source_number": 8,
+      "installs": [
+        "drive_gear_spacer",
+        "engine_speed"
+      ],
+      "depends_on": [
+        "s01",
+        "s05",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The high-speed spring retainer on early engines did not include a spacer.",
+      "provenance": {
+        "page": 247,
+        "quote": "Remove the high-speed spring retainer and spacer assembly and spring from the high-speed spring plunger. Remove the low-speed spring cap from the opposite end of the high-speed spring plunger and remove the low-speed spring plunger along...",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1523,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

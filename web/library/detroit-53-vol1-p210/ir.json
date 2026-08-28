@@ -1,0 +1,556 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.367 - Remove the six bolts, lock washers, plain...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support housing to the blower rear end plate.",
+        "verified": true,
+        "char_start": 2741,
+        "char_end": 2887,
+        "bbox": [
+          331.19999999999993,
+          585.125,
+          572.7544999999999,
+          616.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support housing to the blower rear end plate.",
+        "verified": true,
+        "char_start": 2741,
+        "char_end": 2887,
+        "bbox": [
+          331.19999999999993,
+          585.125,
+          572.7544999999999,
+          616.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support housing to the blower rear end plate.",
+        "verified": true,
+        "char_start": 2741,
+        "char_end": 2887,
+        "bbox": [
+          331.19999999999993,
+          585.125,
+          572.7544999999999,
+          616.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "socket_head_bolt",
+      "name": "Socket head bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "socket_head_bolt",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support housing to the blower rear end plate.",
+        "verified": true,
+        "char_start": 2741,
+        "char_end": 2887,
+        "bbox": [
+          331.19999999999993,
+          585.125,
+          572.7544999999999,
+          616.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support housing to the blower rear end plate.",
+        "verified": true,
+        "char_start": 2741,
+        "char_end": 2887,
+        "bbox": [
+          331.19999999999993,
+          585.125,
+          572.7544999999999,
+          616.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support housing to the blower rear end plate.",
+        "verified": true,
+        "char_start": 2741,
+        "char_end": 2887,
+        "bbox": [
+          331.19999999999993,
+          585.125,
+          572.7544999999999,
+          616.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support housing to the blower rear end plate.",
+        "verified": true,
+        "char_start": 2741,
+        "char_end": 2887,
+        "bbox": [
+          331.19999999999993,
+          585.125,
+          572.7544999999999,
+          616.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support housing to the blower rear end plate.",
+        "verified": true,
+        "char_start": 2741,
+        "char_end": 2887,
+        "bbox": [
+          331.19999999999993,
+          585.125,
+          572.7544999999999,
+          616.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 367,
+        "quote": "Tap each end of the blower drive support housing with \u00e0 plastic hammer to loosen it from the gasket and dowel pins. Then remove the drive support assembly and gasket.",
+        "verified": true,
+        "char_start": 2891,
+        "char_end": 3057,
+        "bbox": [
+          330.96,
+          628.2879999999999,
+          572.6361,
+          671.6469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 367,
+        "quote": "Tap each end of the blower drive support housing with \u00e0 plastic hammer to loosen it from the gasket and dowel pins. Then remove the drive support assembly and gasket.",
+        "verified": true,
+        "char_start": 2891,
+        "char_end": 3057,
+        "bbox": [
+          330.96,
+          628.2879999999999,
+          572.6361,
+          671.6469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support_assembly",
+      "name": "Blower drive support assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support_assembly",
+      "provenance": {
+        "page": 367,
+        "quote": "Tap each end of the blower drive support housing with \u00e0 plastic hammer to loosen it from the gasket and dowel pins. Then remove the drive support assembly and gasket.",
+        "verified": true,
+        "char_start": 2891,
+        "char_end": 3057,
+        "bbox": [
+          330.96,
+          628.2879999999999,
+          572.6361,
+          671.6469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the seven bolts and lock washers securing the breather body to the governor housing. Remove the breather body and gasket.",
+        "verified": true,
+        "char_start": 91,
+        "char_end": 219,
+        "bbox": [
+          82.55999999999992,
+          277.655,
+          322.8536,
+          309.2569999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the seven bolts and lock washers securing the breather body to the governor housing. Remove the breather body and gasket.",
+        "verified": true,
+        "char_start": 91,
+        "char_end": 219,
+        "bbox": [
+          82.55999999999992,
+          277.655,
+          322.8536,
+          309.2569999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the seven bolts and copper washers, two inside and five outside, securing the governor assembly to the blower front end plate.",
+        "verified": true,
+        "char_start": 223,
+        "char_end": 356,
+        "bbox": [
+          82.55999999999997,
+          322.9719999999999,
+          322.78319999999997,
+          352.4549999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_assembly",
+      "name": "Governor assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_assembly",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the seven bolts and copper washers, two inside and five outside, securing the governor assembly to the blower front end plate.",
+        "verified": true,
+        "char_start": 223,
+        "char_end": 356,
+        "bbox": [
+          82.55999999999997,
+          322.9719999999999,
+          322.78319999999997,
+          352.4549999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_end_plate",
+      "name": "Front end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_end_plate",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the seven bolts and copper washers, two inside and five outside, securing the governor assembly to the blower front end plate.",
+        "verified": true,
+        "char_start": 223,
+        "char_end": 356,
+        "bbox": [
+          82.55999999999997,
+          322.9719999999999,
+          322.78319999999997,
+          352.4549999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support housing to the blower rear end plate.",
+      "source_number": 1,
+      "installs": [
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "plain_washer",
+        "socket_head_bolt",
+        "blower_drive_support",
+        "of_the_flywheel_housing",
+        "assembly_examine_the_blower",
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support housing to the blower rear end plate.",
+        "verified": true,
+        "char_start": 2741,
+        "char_end": 2887,
+        "bbox": [
+          331.19999999999993,
+          585.125,
+          572.7544999999999,
+          616.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Tap each end of the blower drive support housing with \u00e0 plastic hammer to loosen it from the gasket and dowel pins. Then remove the drive support assembly and gasket.",
+      "source_number": 2,
+      "installs": [
+        "head_gasket",
+        "copper_plated_dowel_pin",
+        "blower_drive_support_assembly"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Tap each end of the blower drive support housing with \u00e0 plastic hammer to loosen it from the gasket and dowel pins. Then remove the drive support assembly and gasket.",
+        "verified": true,
+        "char_start": 2891,
+        "char_end": 3057,
+        "bbox": [
+          330.96,
+          628.2879999999999,
+          572.6361,
+          671.6469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the seven bolts and lock washers securing the breather body to the governor housing. Remove the breather body and gasket.",
+      "source_number": 4,
+      "installs": [
+        "breather_body",
+        "disassemble_governor_housing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the seven bolts and lock washers securing the breather body to the governor housing. Remove the breather body and gasket.",
+        "verified": true,
+        "char_start": 91,
+        "char_end": 219,
+        "bbox": [
+          82.55999999999992,
+          277.655,
+          322.8536,
+          309.2569999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the seven bolts and copper washers, two inside and five outside, securing the governor assembly to the blower front end plate.",
+      "source_number": 5,
+      "installs": [
+        "copper_washer",
+        "governor_assembly",
+        "front_end_plate"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the seven bolts and copper washers, two inside and five outside, securing the governor assembly to the blower front end plate.",
+        "verified": true,
+        "char_start": 223,
+        "char_end": 356,
+        "bbox": [
+          82.55999999999997,
+          322.9719999999999,
+          322.78319999999997,
+          352.4549999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Tap the governor housing with a plastic hammer to loosen it from the gasket and dowel pins. Then remove the governor assembly and gasket.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 368,
+        "quote": "Tap the governor housing with a plastic hammer to loosen it from the gasket and dowel pins. Then remove the governor assembly and gasket.",
+        "verified": true,
+        "char_start": 360,
+        "char_end": 497,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

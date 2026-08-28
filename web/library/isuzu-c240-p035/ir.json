@@ -1,0 +1,144 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.113 - Install the thermostat housing",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "thermostat_housing",
+      "name": "Thermostat housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thermostat_housing",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the thermostat housing.",
+        "verified": true,
+        "char_start": 892,
+        "char_end": 923,
+        "bbox": [
+          309.11999999999995,
+          626.9248,
+          449.9469919999999,
+          636.7248000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "thermostat_housing_bolt",
+      "name": "Thermostat housing bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thermostat_housing_bolt",
+      "provenance": {
+        "page": 113,
+        "quote": "Tighten the thermostat housing bolts to the speci- fied torque. Thermostat Housing Bolt Torque kg-m (Ib.ft/N-m) 1.4 \u2014 2.4 (10.1 \u2014 17.3/13.7 \u2014 23.5)",
+        "verified": true,
+        "char_start": 927,
+        "char_end": 1074,
+        "bbox": [
+          289.2,
+          642.6157000000001,
+          554.455112,
+          699.2682666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 113,
+        "quote": "Tighten the thermostat housing bolts to the speci- fied torque. Thermostat Housing Bolt Torque kg-m (Ib.ft/N-m) 1.4 \u2014 2.4 (10.1 \u2014 17.3/13.7 \u2014 23.5)",
+        "verified": true,
+        "char_start": 927,
+        "char_end": 1074,
+        "bbox": [
+          289.2,
+          642.6157000000001,
+          554.455112,
+          699.2682666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the thermostat housing.",
+      "source_number": 1,
+      "installs": [
+        "thermostat_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Install the thermostat housing.",
+        "verified": true,
+        "char_start": 892,
+        "char_end": 923,
+        "bbox": [
+          309.11999999999995,
+          626.9248,
+          449.9469919999999,
+          636.7248000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Tighten the thermostat housing bolts to the speci- fied torque. Thermostat Housing Bolt Torque kg-m (Ib.ft/N-m) 1.4 \u2014 2.4 (10.1 \u2014 17.3/13.7 \u2014 23.5)",
+      "source_number": 2,
+      "installs": [
+        "thermostat_housing_bolt",
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 13.7,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Tighten the thermostat housing bolts to the speci- fied torque. Thermostat Housing Bolt Torque kg-m (Ib.ft/N-m) 1.4 \u2014 2.4 (10.1 \u2014 17.3/13.7 \u2014 23.5)",
+        "verified": true,
+        "char_start": 927,
+        "char_end": 1074,
+        "bbox": [
+          289.2,
+          642.6157000000001,
+          554.455112,
+          699.2682666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

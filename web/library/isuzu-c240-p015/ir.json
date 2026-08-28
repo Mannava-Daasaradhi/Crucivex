@@ -1,0 +1,295 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.63 - Remove the carbon from the valve seat...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "carbon",
+      "name": "Carbon",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "carbon",
+      "provenance": {
+        "page": 63,
+        "quote": "Remove the carbon from the valve seat insert surface.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 56,
+        "bbox": [
+          295.43999999999994,
+          64.63580000000002,
+          540.27792,
+          86.40980000000013
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "replacement_valve_seat_insert",
+      "name": "Replacement valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "replacement_valve_seat_insert",
+      "provenance": {
+        "page": 63,
+        "quote": "Remove the carbon from the valve seat insert surface.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 56,
+        "bbox": [
+          295.43999999999994,
+          64.63580000000002,
+          540.27792,
+          86.40980000000013
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "turbocharger_assembly_valve",
+      "name": "Turbocharger assembly valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbocharger_assembly_valve",
+      "provenance": {
+        "page": 63,
+        "quote": "Use a valve cutter (15\u00b0, 45\u00b0, and 75\u00b0 blades) to",
+        "verified": true,
+        "char_start": 60,
+        "char_end": 108,
+        "bbox": [
+          295.92,
+          92.71680000000003,
+          541.552272,
+          102.5168000000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the carbon from the valve seat insert surface.",
+      "source_number": 1,
+      "installs": [
+        "carbon",
+        "replacement_valve_seat_insert"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 63,
+        "quote": "Remove the carbon from the valve seat insert surface.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 56,
+        "bbox": [
+          295.43999999999994,
+          64.63580000000002,
+          540.27792,
+          86.40980000000013
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Use a valve cutter (15\u00b0, 45\u00b0, and 75\u00b0 blades) to",
+      "source_number": 2,
+      "installs": [
+        "turbocharger_assembly_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 63,
+        "quote": "Use a valve cutter (15\u00b0, 45\u00b0, and 75\u00b0 blades) to",
+        "verified": true,
+        "char_start": 60,
+        "char_end": 108,
+        "bbox": [
+          295.92,
+          92.71680000000003,
+          541.552272,
+          102.5168000000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Apply abrasive compound to the valve seat insert surface.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 63,
+        "quote": "Apply abrasive compound to the valve seat insert surface.",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 560,
+        "bbox": [
+          295.67999999999995,
+          331.0098,
+          540.0815279999999,
+          352.81003333333337
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Insert the valve into the valve guide.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 63,
+        "quote": "Insert the valve into the valve guide.",
+        "verified": true,
+        "char_start": 564,
+        "char_end": 602,
+        "bbox": [
+          296.16,
+          359.04179999999997,
+          465.94076400000006,
+          368.8418
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Turn the valve while tapping it to fit the valve seat insert.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 63,
+        "quote": "Turn the valve while tapping it to fit the valve seat insert.",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 667,
+        "bbox": [
+          295.44,
+          375.1968,
+          540.1309599999998,
+          396.8555666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Check that the valve contact width is correct.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 63,
+        "quote": "Check that the valve contact width is correct.",
+        "verified": true,
+        "char_start": 671,
+        "char_end": 717,
+        "bbox": [
+          295.92,
+          403.2418,
+          504.88793599999997,
+          413.0418
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Check that the valve seat insert surface is in contact with the entire circumference of the valve.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 63,
+        "quote": "Check that the valve seat insert surface is in contact with the entire circumference of the valve.",
+        "verified": true,
+        "char_start": 721,
+        "char_end": 819,
+        "bbox": [
+          295.68,
+          419.35679999999996,
+          539.304162,
+          441.2291
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

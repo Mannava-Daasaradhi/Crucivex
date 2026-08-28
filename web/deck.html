@@ -1,0 +1,441 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crucivex — Engineering Notes</title>
+<style>
+  :root {
+    --bg:#0a0c10; --panel:#11141a; --line:#222833;
+    --text:#dfe5ee; --dim:#8992a0; --ok:#3ddc97; --warn:#f0a500; --hi:#00d4ff;
+    --bad:#ff7b73;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  html, body { height:100%; overflow:hidden; }
+  body {
+    background:var(--bg); color:var(--text); font-family:var(--sans);
+    display:grid; place-items:center;
+  }
+
+  .slide {
+    display:none; width:min(1120px, 92vw); max-height:88vh; overflow-y:auto;
+    padding:8px 4px;
+  }
+  .slide.on { display:block; }
+
+  .kicker {
+    font-family:var(--mono); font-size:11px; letter-spacing:.2em; color:var(--hi);
+    margin-bottom:18px;
+  }
+  h1 { font-size:clamp(30px, 4.4vw, 54px); line-height:1.1; letter-spacing:-.02em; font-weight:650; }
+  h1 .quiet { color:var(--dim); font-weight:400; }
+  h2 { font-size:clamp(24px, 3.1vw, 38px); line-height:1.18; letter-spacing:-.015em; font-weight:620; }
+  .sub { font-size:clamp(15px, 1.5vw, 19px); color:var(--dim); margin-top:20px; line-height:1.6; max-width:74ch; }
+  p.body { font-size:clamp(15px, 1.45vw, 18px); line-height:1.65; margin-top:20px; max-width:74ch; }
+  em { color:var(--hi); font-style:normal; }
+  strong { font-weight:640; }
+
+  ul { margin-top:26px; list-style:none; max-width:78ch; }
+  li { font-size:clamp(15px, 1.45vw, 18px); line-height:1.55; padding:11px 0 11px 26px; position:relative; }
+  li::before {
+    content:""; position:absolute; left:2px; top:20px;
+    width:7px; height:7px; border:1px solid var(--hi); border-radius:1px;
+  }
+  li .note { display:block; color:var(--dim); font-size:.86em; margin-top:5px; line-height:1.55; }
+
+  .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:26px; margin-top:30px; }
+  .card {
+    border:1px solid var(--line); border-radius:8px; padding:20px 22px; background:var(--panel);
+  }
+  .card h3 { font-family:var(--mono); font-size:10.5px; letter-spacing:.16em; color:var(--dim); font-weight:600; }
+  .card p { margin-top:11px; font-size:15px; line-height:1.6; }
+
+  .stats { display:flex; gap:44px; margin-top:34px; flex-wrap:wrap; }
+  .stats div span { display:block; font-family:var(--mono); font-size:10.5px; letter-spacing:.14em; color:var(--dim); }
+  .stats div b { font-size:clamp(28px, 3.6vw, 46px); font-weight:650; letter-spacing:-.02em; }
+  .stats div b.ok { color:var(--ok); }
+  .stats div b.bad { color:var(--bad); }
+
+  table { width:100%; border-collapse:collapse; margin-top:26px; font-size:15px; }
+  th, td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { font-family:var(--mono); font-size:10px; letter-spacing:.14em; color:var(--dim); font-weight:600; }
+  td.yes { color:var(--ok); } td.no { color:var(--bad); }
+
+  .quote {
+    margin-top:30px; padding:20px 24px; border-left:2px solid var(--hi); background:var(--panel);
+    font-size:clamp(16px, 1.7vw, 21px); line-height:1.55; border-radius:0 6px 6px 0;
+  }
+  .quote.bad { border-left-color:var(--bad); }
+
+  /* Real terminal output, shown verbatim. Nothing here is retyped for effect;
+     if a number is on screen it came off a run. */
+  .term {
+    margin-top:24px; background:#070910; border:1px solid var(--line); border-radius:6px;
+    padding:16px 18px; font-family:var(--mono); font-size:clamp(11px, 1.15vw, 13.5px);
+    line-height:1.75; color:#c3ccd9; overflow-x:auto; white-space:pre;
+  }
+  .term .g { color:var(--ok); }
+  .term .r { color:var(--bad); }
+  .term .y { color:var(--warn); }
+  .term .d { color:var(--dim); }
+  code {
+    font-family:var(--mono); font-size:.88em; background:#171c24;
+    border:1px solid var(--line); border-radius:3px; padding:1px 5px;
+  }
+
+  /* chrome */
+  footer {
+    position:fixed; left:0; right:0; bottom:0; display:flex; align-items:center;
+    gap:16px; padding:14px 26px; font-family:var(--mono); font-size:10.5px; color:var(--dim);
+  }
+  .brand { font-weight:700; letter-spacing:.22em; color:var(--text); }
+  .brand span { color:var(--hi); }
+  footer .right { margin-left:auto; }
+  /* Scaled rather than resized: transform is compositor-only, so advancing a
+     slide never costs a layout pass. */
+  .bar {
+    position:fixed; top:0; left:0; width:100%; height:2px; background:var(--hi);
+    transform:scaleX(0); transform-origin:left; transition:transform .25s;
+  }
+  kbd {
+    font-family:var(--mono); font-size:10px; border:1px solid var(--line);
+    border-radius:3px; padding:1px 5px; color:var(--dim);
+  }
+
+  /* Projectors and older laptops are routinely 768px tall. At that height the
+     denser slides spill past 88vh and start scrolling, which on stage reads as
+     a broken slide. Tighten the vertical rhythm rather than cut the content:
+     the argument is what it is, and the presenter cannot scroll and talk. */
+  @media (max-height: 820px) {
+    .slide { max-height: 91vh; }
+    .sub, p.body { margin-top:14px; }
+    ul { margin-top:18px; }
+    li { padding-top:8px; padding-bottom:8px; }
+    table { margin-top:18px; }
+    th, td { padding:9px 14px; }
+    .quote { margin-top:20px; padding:15px 22px; }
+    .grid2, .stats { margin-top:20px; }
+    .term { margin-top:16px; padding:12px 14px; line-height:1.6; }
+  }
+
+  /* Short windows — a laptop with a dock and a browser toolbar can leave well
+     under 600px of page. The dense slides still have to fit without scrolling. */
+  @media (max-height: 640px) {
+    .slide { max-height: 94vh; }
+    h1 { font-size:clamp(24px, 3.4vw, 38px); }
+    h2 { font-size:clamp(19px, 2.4vw, 27px); }
+    .sub, p.body { margin-top:11px; font-size:clamp(13px, 1.25vw, 15.5px); line-height:1.5; }
+    .quote { margin-top:14px; padding:11px 18px; font-size:clamp(14px, 1.4vw, 17px); }
+    .term { margin-top:12px; padding:10px 12px; line-height:1.5; font-size:clamp(10px, 1vw, 12px); }
+    table { margin-top:14px; font-size:13px; }
+    th, td { padding:7px 12px; }
+    .stats { margin-top:16px; gap:32px; }
+    .stats div b { font-size:clamp(22px, 2.8vw, 34px); }
+    .grid2 { margin-top:16px; gap:18px; }
+    .card { padding:14px 16px; }
+    ul { margin-top:14px; }
+    li { padding-top:6px; padding-bottom:6px; font-size:clamp(13px, 1.25vw, 15.5px); }
+  }
+</style>
+</head>
+<body>
+
+<div class="bar" id="bar"></div>
+
+<!-- 1 -->
+<section class="slide">
+  <div class="kicker">CRUCIVEX &middot; ENGINEERING NOTES</div>
+  <h1>A service manual is a machine<br><span class="quiet">someone flattened into paper.</span></h1>
+  <p class="sub">That is a claim, not a product. It is either true enough to decompile or it is not,
+  so I built the thing that would find out, and ran it against real manufacturer documentation.</p>
+  <p class="sub">These are the notes from that. <strong>The interesting part is not that it works.
+  It is the point where it told me it worked and was lying.</strong></p>
+  <div class="stats">
+    <div><span>REAL OEM MANUALS</span><b>2</b></div>
+    <div><span>PROCEDURES DECODED</span><b>271</b></div>
+    <div><span>MODEL CALLS IN THE DECODE</span><b class="ok">0</b></div>
+  </div>
+</section>
+
+<!-- 2 -->
+<section class="slide">
+  <div class="kicker">CONSTRAINT</div>
+  <h2>No model in the decode path. Not for purity — for reproducibility.</h2>
+  <p class="body">A torque figure is a safety claim. If the same document can yield a different answer
+  on Tuesday, the output is not evidence and nobody should act on it near a machine. So the extraction
+  spine is regex, a discovered lexicon and unit-aware parsing, and the whole thing is checkable:</p>
+  <div class="term">$ <span class="d"># delete every output, sever all sockets, run again</span>
+$ python airgap.py data/oem/isuzu_c240.pdf
+
+<span class="y">airgap engaged: outbound connections raise</span>
+      211 pages, tiers used: tier 1=200, tier 2=11
+      47 procedures, 210 steps in total
+      <span class="g">43/47 procedures ADMISSIBLE</span>
+
+networked run : <span class="d">03c8ecb52329c840256cd773929c31936c5fe263</span>
+airgapped run : <span class="d">03c8ecb52329c840256cd773929c31936c5fe263</span>
+  -> <span class="g">IDENTICAL, regenerated from scratch with no network</span></div>
+  <p class="body">Byte-identical output with the network severed. That is a property a language
+  model cannot have, and it is the whole reason for the constraint.</p>
+</section>
+
+<!-- 3 -->
+<section class="slide">
+  <div class="kicker">DESIGN</div>
+  <h2>The output is an IR, so it can be checked before it is believed.</h2>
+  <p class="body">The renderer is downstream. What matters is an intermediate representation with
+  properties a physically buildable procedure must satisfy — because the failure mode of any
+  extraction system is confident, plausible, wrong.</p>
+  <table>
+    <tr><th>PROPERTY</th><th>WHAT IT RULES OUT</th></tr>
+    <tr><td>P1 &nbsp;acyclic assembly order</td><td>A machine that cannot be built</td></tr>
+    <tr><td>P2 &nbsp;referential integrity</td><td>Steps citing parts that were never declared</td></tr>
+    <tr><td>P3 &nbsp;no orphan parts</td><td>Parts that appear but are never installed</td></tr>
+    <tr><td>P5 &nbsp;provenance coverage</td><td>Assertions with no span in the source</td></tr>
+    <tr><td>P6 &nbsp;torque plausibility</td><td>Lost decimal points, confused units</td></tr>
+  </table>
+  <p class="body">Provenance is <em>verified, not asserted</em>: every span is re-located
+  character-for-character in the page text and boxed on the rendered page. A model can claim a
+  citation. This can be checked.</p>
+</section>
+
+<!-- 4 -->
+<section class="slide">
+  <div class="kicker">THE TEST THAT MATTERED</div>
+  <h2>Fixtures I wrote passed. So I ran documents I didn't write.</h2>
+  <p class="body">A 395-page <strong>Detroit Diesel Series 53</strong> and a 211-page
+  <strong>Isuzu C240</strong> workshop manual. Public domain, genuine manufacturer documentation,
+  1970s–90s scans with OCR text layers. Nothing authored for this project.</p>
+  <p class="body">Three hand-made fixtures had been passing 7/7 for days. Here is what the real
+  documents returned on the first run:</p>
+  <div class="term">CRUCIVEX IR VALIDATION - Isuzu C240 workshop manual
+--------------------------------------------------------------
+  <span class="g">PASS</span>   P1   acyclic assembly order       402 steps sorted
+  <span class="g">PASS</span>   P2   referential integrity        636 references resolved
+  <span class="g">PASS</span>   P3   no orphan parts              all 131 parts installed
+  <span class="g">PASS</span>   P5   provenance coverage          533/533 verbatim (100%)
+  <span class="g">PASS</span>   P6   torque plausibility          no torque specs to check
+--------------------------------------------------------------
+  <span class="g">ADMISSIBLE: 7/7 checks passed</span></div>
+</section>
+
+<!-- 5 -->
+<section class="slide">
+  <div class="kicker">THE POINT OF ALL THIS</div>
+  <h2>That result is worthless, and it took looking at the artifact to see it.</h2>
+  <p class="body">Every property genuinely held. The graph really was acyclic. Every reference
+  really did resolve. Every span really was verbatim. And the artifact was a single
+  <strong>402-step "procedure"</strong> — on the Detroit manual, <strong>2,120 steps</strong> — which
+  no technician performs, because a service manual is not one job. It is two hundred jobs bound
+  together, and I was reading the whole book as one.</p>
+  <div class="quote bad">
+    A suite that only tests the properties you already thought of<br>
+    will pass the failure you didn't.
+  </div>
+  <p class="body">Note also <code>P6: no torque specs to check</code> — passing <em>vacuously</em> on a
+  document containing dozens of them. A green check for work not done. Both of these are the same
+  bug class: <strong>the score agreed with me, so I nearly stopped reading.</strong></p>
+</section>
+
+<!-- 6 -->
+<section class="slide">
+  <div class="kicker">WHAT REAL DOCUMENTS BROKE</div>
+  <h2>Four bugs no fixture I wrote would ever have found.</h2>
+  <table>
+    <tr><th>DEFECT</th><th>WHY MY FIXTURES MISSED IT</th></tr>
+    <tr><td><strong>Two-column layout</strong><br>
+      <span style="color:var(--dim)">Lines rebuilt by y-position zipped the columns together, so a
+      step held half of an unrelated instruction and torques bound to the wrong step.</span></td>
+      <td>I had written single-column fixtures. Real manuals are set in two.</td></tr>
+    <tr><td><strong>kgf·m torque units</strong><br>
+      <span style="color:var(--dim)">The parser knew N·m and lb-ft. Isuzu states every torque in kg-m
+      — so it found zero.</span></td>
+      <td>I wrote my fixtures in the units my parser knew.</td></tr>
+    <tr><td><strong>Tabular torque form</strong><br>
+      <span style="color:var(--dim)">Real manuals print the unit as a column header with the value
+      on the next line, as a range.</span></td>
+      <td>Scanning for "number then unit" never sees it.</td></tr>
+    <tr><td><strong><code>HEADING_RE</code> eating the values</strong><br>
+      <span style="color:var(--dim)">A value row <code>2.7 - 3.3</code> is shaped exactly like section
+      number <code>4.3</code>, so the step was cut at the torque table.</span></td>
+      <td>Every figure in the manual severed from the label naming it.</td></tr>
+  </table>
+</section>
+
+<!-- 7 -->
+<section class="slide">
+  <div class="kicker">A SMALLER ONE, WORTH SAYING</div>
+  <h2>I made the regex OCR-tolerant and forgot the converter.</h2>
+  <p class="body">These are scans, and OCR reads <code>lb</code> as <code>Ib</code> constantly. So I
+  widened the unit pattern to accept it — and left the conversion function matching on
+  <code>lb</code> only.</p>
+  <div class="term">extract_torque("bolts to 12-15 Ib-ft torque")
+  before:  <span class="r">12.0 N·m</span>   <span class="d"># matched, then fell through unconverted</span>
+  after:   <span class="g">16.3 N·m</span>   <span class="d"># 12 lb-ft, correctly converted</span></div>
+  <p class="body">The half-fix was worse than no fix. A missing torque is a visible gap; a
+  <em>wrong</em> torque is a number a technician acts on. I only caught it because I wrote the
+  assertion table with hand-computed expected values instead of blessing whatever came out.</p>
+  <div class="quote">
+    Widening a matcher without widening what consumes it<br>
+    converts a silent miss into a confident error.
+  </div>
+</section>
+
+<!-- 8 -->
+<section class="slide">
+  <div class="kicker">THE FIX, IN THAT ORDER</div>
+  <h2>Write the check that catches it. Then fix the cause.</h2>
+  <ul>
+    <li><strong>First: P8, "single procedure".</strong>
+      <span class="note">A manual restarts numbering at 1 for every job, so a run of ascending numbers is one procedure and a number going backwards begins the next. More than two restarts and the document is not one procedure. Detroit restarts <strong>407 times</strong>.</span></li>
+    <li><strong>Then: segment on that same signal.</strong>
+      <span class="note">Split the document into its constituent procedures, each decoded, checked and rendered on its own. Vocabulary stays document-wide — part names belong to the machine — but installs and dependencies scope to the procedure.</span></li>
+  </ul>
+  <p class="body">The order is deliberate. If I had only fixed the segmentation, the suite would still
+  have been unable to detect the bug, and the next variant of it would have shipped green. The check
+  is the part that lasts.</p>
+</section>
+
+<!-- 9 -->
+<section class="slide">
+  <div class="kicker">THE FIX HAD A COST</div>
+  <h2>Segmentation silently threw away 60% of the torque specifications.</h2>
+  <p class="body">To keep spec tables and numbered notes out, I required a procedure to have at least
+  four steps. That is a reasonable-sounding threshold and it was quietly destructive: real jobs are
+  often two or three steps.</p>
+  <div class="term"><span class="d">Isuzu C240, torque specifications:</span>
+  in the raw steps       20
+  surviving segmentation  <span class="r">8</span>   <span class="d"># 12 lost to runs shorter than 4 steps</span>
+
+<span class="d">a sample of what was being discarded (torque stated later in the run):</span>
+  [3 steps] <span class="y">Install the thrust plate</span>                     <span class="d">-> 10.0 kg-m</span>
+  [2 steps] <span class="y">Apply engine oil to the bolt and threads</span>     <span class="d">-> 10.0 kg-m</span>
+  [3 steps] <span class="y">Apply a coat of engine oil to the flywheel</span>   <span class="d">-> 11.0 kg-m</span></div>
+  <p class="body">I only found it because I was checking the numbers on these slides against the
+  library rather than copying them forward from the previous run. <strong>A torque figure is the
+  strongest evidence a run describes real work</strong>, so it now buys a procedure its place at a
+  lower step count. Isuzu recovers all 20.</p>
+  <div class="quote">The fix for one bug is a good place to look for the next one.</div>
+</section>
+
+<!-- 10 -->
+<section class="slide">
+  <div class="kicker">RESULT</div>
+  <h2>Two manufacturer manuals, decoded and individually verified.</h2>
+  <table>
+    <tr><th></th><th>DETROIT DIESEL 53</th><th>ISUZU C240</th></tr>
+    <tr><td>Pages</td><td>395</td><td>211</td></tr>
+    <tr><td>Procedures recovered</td><td>224</td><td>47</td></tr>
+    <tr><td>Torque specs</td><td>92</td><td>20 <span style="color:var(--dim)">(was 0)</span></td></tr>
+    <tr><td>Spans verified verbatim</td><td class="yes">100%</td><td class="yes">100%</td></tr>
+    <tr><td>Admissible</td><td class="yes">220 / 224</td><td class="yes">43 / 47</td></tr>
+  </table>
+  <p class="body">All eight rejects fail the same check — <strong>P4, no ordering recovered</strong> —
+  and every one is a <em>correct refusal</em>: two fault-finding charts, a page of OCR damage, a
+  safety-notice list, and checklists whose items genuinely have no ordering between them. None are
+  procedures. I would rather the system refuse those than render them.</p>
+</section>
+
+<!-- 11 -->
+<section class="slide">
+  <div class="kicker">AND THEN THE TEST WAS WRONG TOO</div>
+  <h2>My first proof that it runs offline was invalid, and it passed.</h2>
+  <p class="body">To prove nothing reaches a model I replaced <code>socket.socket</code> with a
+  function that raises. That breaks the <code>ssl</code> module at import — <code>SSLSocket</code>
+  subclasses it — so the pipeline never ran at all. The hash still matched, because the previous
+  run's files were sitting on disk.</p>
+  <div class="term"><span class="r">TypeError: function() argument 'code' must be code, not str</span>
+networked run : e4f68d6c...123b59
+airgapped run : e4f68d6c...123b59
+  -> <span class="r">"IDENTICAL"</span>   <span class="d"># comparing a run that never happened</span></div>
+  <p class="body">Corrected: import first, sever <code>connect()</code> rather than the class, assert
+  the airgap actually raises <em>before</em> trusting the run, and delete every output first so a
+  stale file cannot fake the match. Same failure I had just found in the validator, one level up.</p>
+  <div class="quote">A passing test proves the test passed.</div>
+</section>
+
+<!-- 12 -->
+<section class="slide">
+  <div class="kicker">WHAT IS STILL WRONG WITH IT</div>
+  <h2>Known limits, stated before you find them.</h2>
+  <div class="grid2">
+    <div class="card">
+      <h3>WORKS</h3>
+      <p>Tiered extraction with OCR fallback · two-column recovery · vocabulary discovered per
+      document · dependency graph from linear prose · torque across N·m, lb-ft, kgf·m · verbatim
+      provenance with page highlighting · eight property checks · procedure segmentation · assessed
+      task mode with an ordering and torque record</p>
+    </div>
+    <div class="card">
+      <h3>DOES NOT</h3>
+      <p>Procedure <em>names</em> come from the first instruction, not the section heading — I do not
+      track heading hierarchy, and inventing a plausible title is the exact unsourced assertion this
+      system exists to prevent · disassembly reads as assembly · pictorial-only manuals yield little ·
+      geometry is parametric, not customer CAD</p>
+    </div>
+  </div>
+  <p class="body">Every one of those is a thing I know is broken. The list I care about more is the
+  one I don't have — which is why the interesting work was running documents I did not author.</p>
+</section>
+
+<!-- 13 -->
+<section class="slide">
+  <div class="kicker">WHAT I ACTUALLY LEARNED</div>
+  <h2>The engineering question is answered. The other one isn't, and I won't pretend it is.</h2>
+  <p class="body"><strong>Answered:</strong> a manual does carry enough structure to recover a
+  dependency graph, torque specifications and per-procedure boundaries deterministically, with every
+  assertion traceable to a span of the source — and it survives contact with documents written
+  decades before the code.</p>
+  <p class="body"><strong>Not answered:</strong> whether anyone needs this. I have no users, no
+  customer conversations and no evidence of demand. I could construct a market argument, but it would
+  be reasoning I have not tested, presented next to results I have — and I would rather you could
+  tell the difference between the two.</p>
+  <div class="quote">
+    The part of this I would defend is not the renderer.<br>
+    It is that the system now refuses work it cannot justify.
+  </div>
+</section>
+
+<footer>
+  <span class="brand">CRUCI<span>VEX</span></span>
+  <span id="title"></span>
+  <span class="right"><kbd>&larr;</kbd> <kbd>&rarr;</kbd> navigate &middot; <kbd>F</kbd> full screen &middot; <span id="count"></span></span>
+</footer>
+
+<script>
+  const slides = [...document.querySelectorAll('.slide')];
+  const titles = slides.map(s => s.querySelector('.kicker')?.textContent || '');
+  let i = 0;
+
+  function show(n) {
+    i = Math.max(0, Math.min(n, slides.length - 1));
+    slides.forEach((s, k) => s.classList.toggle('on', k === i));
+    document.getElementById('count').textContent = `${i + 1} / ${slides.length}`;
+    document.getElementById('title').textContent = titles[i];
+    document.getElementById('bar').style.transform = `scaleX(${(i + 1) / slides.length})`;
+    location.hash = String(i + 1);
+  }
+
+  addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight' || e.key === 'PageDown' || e.key === ' ') { e.preventDefault(); show(i + 1); }
+    if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); show(i - 1); }
+    if (e.key === 'Home') show(0);
+    if (e.key === 'End') show(slides.length - 1);
+    if (e.key.toLowerCase() === 'f') {
+      document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen();
+    }
+  });
+
+  // Back/forward and pasted #n links are same-document navigations, so without
+  // this the deck silently stays put — an unpleasant surprise mid-presentation.
+  addEventListener('hashchange', () => {
+    const n = (parseInt(location.hash.slice(1), 10) || 1) - 1;
+    if (n !== i) show(n);
+  });
+
+  show(Math.max(0, (parseInt(location.hash.slice(1), 10) || 1) - 1));
+</script>
+</body>
+</html>

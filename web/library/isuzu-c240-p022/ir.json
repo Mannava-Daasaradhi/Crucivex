@@ -1,0 +1,207 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.98 - Use a piston heater to heat the...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "related_part_piston",
+      "name": "Related part piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "related_part_piston",
+      "provenance": {
+        "page": 98,
+        "quote": "Use a piston heater to heat the piston to approxi- mately 80\u00b0C (176\u00b0F).",
+        "verified": true,
+        "char_start": 396,
+        "char_end": 467,
+        "bbox": [
+          308.64,
+          372.98490000000004,
+          551.457264,
+          395.05580000000003
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "pin",
+      "name": "Pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pin",
+      "provenance": {
+        "page": 98,
+        "quote": "Apply a coat of engine oil to the piston pin. rFLEoE) Use your fingers to force the piston pin into the 3) piston until it makes contact with the snap ring.",
+        "verified": true,
+        "char_start": 471,
+        "char_end": 627,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "other_snap_ring",
+      "name": "Other snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "other_snap_ring",
+      "provenance": {
+        "page": 98,
+        "quote": "Apply a coat of engine oil to the piston pin. rFLEoE) Use your fingers to force the piston pin into the 3) piston until it makes contact with the snap ring.",
+        "verified": true,
+        "char_start": 471,
+        "char_end": 627,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 98,
+        "quote": "Check that the connecting rod moves smoothly on the piston pin.",
+        "verified": true,
+        "char_start": 697,
+        "char_end": 760,
+        "bbox": [
+          308.87999999999994,
+          473.0649,
+          552.3815706666667,
+          495.1335666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Use a piston heater to heat the piston to approxi- mately 80\u00b0C (176\u00b0F).",
+      "source_number": 1,
+      "installs": [
+        "related_part_piston"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 98,
+        "quote": "Use a piston heater to heat the piston to approxi- mately 80\u00b0C (176\u00b0F).",
+        "verified": true,
+        "char_start": 396,
+        "char_end": 467,
+        "bbox": [
+          308.64,
+          372.98490000000004,
+          551.457264,
+          395.05580000000003
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Apply a coat of engine oil to the piston pin. rFLEoE) Use your fingers to force the piston pin into the 3) piston until it makes contact with the snap ring.",
+      "source_number": 2,
+      "installs": [
+        "pin",
+        "other_snap_ring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 98,
+        "quote": "Apply a coat of engine oil to the piston pin. rFLEoE) Use your fingers to force the piston pin into the 3) piston until it makes contact with the snap ring.",
+        "verified": true,
+        "char_start": 471,
+        "char_end": 627,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Use a pair of snap ring pliers to install the other snap ring.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 98,
+        "quote": "Use a pair of snap ring pliers to install the other snap ring.",
+        "verified": true,
+        "char_start": 631,
+        "char_end": 693,
+        "bbox": [
+          309.1199999999999,
+          445.22490000000005,
+          552.5496883333332,
+          467.2985666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check that the connecting rod moves smoothly on the piston pin.",
+      "source_number": 5,
+      "installs": [
+        "connecting_rod"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 98,
+        "quote": "Check that the connecting rod moves smoothly on the piston pin.",
+        "verified": true,
+        "char_start": 697,
+        "char_end": 760,
+        "bbox": [
+          308.87999999999994,
+          473.0649,
+          552.3815706666667,
+          495.1335666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

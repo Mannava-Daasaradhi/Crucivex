@@ -1,0 +1,261 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.22 - Use a wrench to remove the injection...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "injection_nozzle_holder",
+      "name": "Injection nozzle holder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injection_nozzle_holder",
+      "provenance": {
+        "page": 22,
+        "quote": "Use a wrench to remove the injection nozzle holder cap.",
+        "verified": true,
+        "char_start": 993,
+        "char_end": 1048,
+        "bbox": [
+          297.84,
+          593.8569,
+          541.665126,
+          615.8530333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cap_nut",
+      "name": "Cap nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cap_nut",
+      "provenance": {
+        "page": 23,
+        "quote": "Temporarily tighten the cap nut (lock nut).",
+        "verified": true,
+        "char_start": 398,
+        "char_end": 441,
+        "bbox": [
+          299.99999999999994,
+          280.2667,
+          498.16594666666674,
+          290.3000333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Use a wrench to remove the injection nozzle holder cap.",
+      "source_number": 2,
+      "installs": [
+        "injection_nozzle_holder"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 22,
+        "quote": "Use a wrench to remove the injection nozzle holder cap.",
+        "verified": true,
+        "char_start": 993,
+        "char_end": 1048,
+        "bbox": [
+          297.84,
+          593.8569,
+          541.665126,
+          615.8530333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Loosen the adjusting screw lock nut (if so equipped).",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 22,
+        "quote": "Loosen the adjusting screw lock nut (if so equipped).",
+        "verified": true,
+        "char_start": 1052,
+        "char_end": 1105,
+        "bbox": [
+          298.32,
+          621.2317,
+          541.2135400000001,
+          631.2650333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Adjust the injection starting pressure and the spray condition by turning the adjusting screw while oper- ating the injection nozzle tester.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Adjust the injection starting pressure and the spray condition by turning the adjusting screw while oper- ating the injection nozzle tester.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 143,
+        "bbox": [
+          299.52,
+          74.07579999999996,
+          544.0902700000001,
+          108.01003333333335
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Refer to the illustration for different spray con- ditions. @ Correct @) Incorrect (Restrictions in orifice) @ Incorrect (Restrictions in orifice) @ Incorrect (Dripping)",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Refer to the illustration for different spray con- ditions. @ Correct @) Incorrect (Restrictions in orifice) @ Incorrect (Restrictions in orifice) @ Incorrect (Dripping)",
+        "verified": true,
+        "char_start": 225,
+        "char_end": 394,
+        "bbox": [
+          299.76,
+          188.30989999999997,
+          543.6289826666667,
+          274.5468
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Temporarily tighten the cap nut (lock nut).",
+      "source_number": 8,
+      "installs": [
+        "cap_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Temporarily tighten the cap nut (lock nut).",
+        "verified": true,
+        "char_start": 398,
+        "char_end": 441,
+        "bbox": [
+          299.99999999999994,
+          280.2667,
+          498.16594666666674,
+          290.3000333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Clamp the injection nozzle holder in a vise.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Clamp the injection nozzle holder in a vise.",
+        "verified": true,
+        "char_start": 445,
+        "char_end": 489,
+        "bbox": [
+          300.24000000000007,
+          296.4737,
+          501.24982666666665,
+          306.50703333333337
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Tighten the cap nut (lock nut) to the specified torque. Cap Nut Torque kg-m(Ib.ft/N-m) 3.0 \u2014 4.0 (21.7 -\u2014 28.9 / 29.4 \u2014 39.2) WARNING: TEST FLUID FROM THE INJECTION NOZZLE TESTER WILL SPRAY OUT UNDER GREAT PRESSURE. IT CAN EASILY PUNCTURE A PERSON'S SKIN. KEEP YOUR HANDS AWAY FROM THE INJECTION NOZZLE HOLDER TIP AT ALL TIMES.",
+      "source_number": 10,
+      "installs": [],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": 29.4,
+      "warning": "WARNING: TEST FLUID FROM THE INJECTION NOZZLE TESTER WILL SPRAY OUT UNDER GREAT PRESSURE.",
+      "provenance": {
+        "page": 23,
+        "quote": "Tighten the cap nut (lock nut) to the specified torque. Cap Nut Torque kg-m(Ib.ft/N-m) 3.0 \u2014 4.0 (21.7 -\u2014 28.9 / 29.4 \u2014 39.2) WARNING: TEST FLUID FROM THE INJECTION NOZZLE TESTER WILL SPRAY OUT UNDER GREAT PRESSURE. IT CAN EASILY PUNCTUR...",
+        "verified": true,
+        "char_start": 494,
+        "char_end": 821,
+        "bbox": [
+          280.56,
+          330.2648,
+          543.953604,
+          480.73073333333343
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

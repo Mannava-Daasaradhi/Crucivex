@@ -1,0 +1,450 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.34 - Gasket ; drain plug",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; drain plug",
+        "verified": true,
+        "char_start": 423,
+        "char_end": 442,
+        "bbox": [
+          125.9882588,
+          636.151235232,
+          211.8601868,
+          646.4661140000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "drain_plug",
+      "name": "Drain plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drain_plug",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; drain plug",
+        "verified": true,
+        "char_start": 423,
+        "char_end": 442,
+        "bbox": [
+          125.9882588,
+          636.151235232,
+          211.8601868,
+          646.4661140000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_pan",
+      "name": "Oil pan",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pan",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; oil pan to case 22. Gasket",
+        "verified": true,
+        "char_start": 446,
+        "char_end": 481,
+        "bbox": [
+          126.0,
+          648.2248,
+          377.710644,
+          658.0248
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap",
+      "name": "Bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; oil pan to bearing cap 23. Washer ; nozzle holder",
+        "verified": true,
+        "char_start": 485,
+        "char_end": 543,
+        "bbox": [
+          126.24,
+          660.1319,
+          453.762122,
+          669.6985666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "injection_nozzle_holder",
+      "name": "Injection nozzle holder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injection_nozzle_holder",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; oil pan to bearing cap 23. Washer ; nozzle holder",
+        "verified": true,
+        "char_start": 485,
+        "char_end": 543,
+        "bbox": [
+          126.24,
+          660.1319,
+          453.762122,
+          669.6985666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head_cover",
+      "name": "Cylinder head cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_cover",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; tappet cover 24. Washer ; corrugated",
+        "verified": true,
+        "char_start": 548,
+        "char_end": 593,
+        "bbox": [
+          126.23999999999998,
+          672.0878,
+          441.77502,
+          681.8878
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "fuel_filter_bracket",
+      "name": "Fuel filter bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_filter_bracket",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; gear case 25. Gasket ; bracket to front plate",
+        "verified": true,
+        "char_start": 598,
+        "char_end": 652,
+        "bbox": [
+          126.23999999999998,
+          683.5727,
+          487.74489499999993,
+          693.6060333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; gear case 27. Gasket ; head cover bolt",
+        "verified": true,
+        "char_start": 683,
+        "char_end": 730,
+        "bbox": [
+          126.4799999999999,
+          707.8688,
+          462.741688,
+          717.6688
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; gear case 27. Gasket ; head cover bolt",
+        "verified": true,
+        "char_start": 683,
+        "char_end": 730,
+        "bbox": [
+          126.4799999999999,
+          707.8688,
+          462.741688,
+          717.6688
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Gasket ; drain plug",
+      "source_number": 7,
+      "installs": [
+        "head_gasket",
+        "drain_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; drain plug",
+        "verified": true,
+        "char_start": 423,
+        "char_end": 442,
+        "bbox": [
+          125.9882588,
+          636.151235232,
+          211.8601868,
+          646.4661140000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Gasket ; oil pan to case 22. Gasket",
+      "source_number": 8,
+      "installs": [
+        "oil_pan"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; oil pan to case 22. Gasket",
+        "verified": true,
+        "char_start": 446,
+        "char_end": 481,
+        "bbox": [
+          126.0,
+          648.2248,
+          377.710644,
+          658.0248
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Gasket ; oil pan to bearing cap 23. Washer ; nozzle holder",
+      "source_number": 9,
+      "installs": [
+        "bearing_cap",
+        "injection_nozzle_holder"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; oil pan to bearing cap 23. Washer ; nozzle holder",
+        "verified": true,
+        "char_start": 485,
+        "char_end": 543,
+        "bbox": [
+          126.24,
+          660.1319,
+          453.762122,
+          669.6985666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Gasket ; tappet cover 24. Washer ; corrugated",
+      "source_number": 10,
+      "installs": [
+        "cylinder_head_cover"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; tappet cover 24. Washer ; corrugated",
+        "verified": true,
+        "char_start": 548,
+        "char_end": 593,
+        "bbox": [
+          126.23999999999998,
+          672.0878,
+          441.77502,
+          681.8878
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Gasket ; gear case 25. Gasket ; bracket to front plate",
+      "source_number": 12,
+      "installs": [
+        "fuel_filter_bracket"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; gear case 25. Gasket ; bracket to front plate",
+        "verified": true,
+        "char_start": 598,
+        "char_end": 652,
+        "bbox": [
+          126.23999999999998,
+          683.5727,
+          487.74489499999993,
+          693.6060333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Seal ; oil 26. Gasket",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Seal ; oil 26. Gasket",
+        "verified": true,
+        "char_start": 657,
+        "char_end": 678,
+        "bbox": [
+          126.47999999999992,
+          695.8807,
+          378.0012959999999,
+          705.9140333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Gasket ; gear case 27. Gasket ; head cover bolt",
+      "source_number": 14,
+      "installs": [
+        "cylinder_head",
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; gear case 27. Gasket ; head cover bolt",
+        "verified": true,
+        "char_start": 683,
+        "char_end": 730,
+        "bbox": [
+          126.4799999999999,
+          707.8688,
+          462.741688,
+          717.6688
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

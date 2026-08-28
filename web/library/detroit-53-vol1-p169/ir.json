@@ -1,0 +1,639 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.285 - Remove the governor drive gear retaining nut...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the governor drive gear retaining nut. Then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 795,
+        "char_end": 893,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_retaining",
+      "name": "Drive gear retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_retaining",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the governor drive gear retaining nut. Then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 795,
+        "char_end": 893,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the governor drive gear retaining nut. Then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 795,
+        "char_end": 893,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the governor drive gear retaining nut. Then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 795,
+        "char_end": 893,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_key",
+      "name": "Drive key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_key",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the governor drive gear retaining nut. Then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 795,
+        "char_end": 893,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the governor drive gear retaining nut. Then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 795,
+        "char_end": 893,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the governor drive gear retaining nut. Then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 795,
+        "char_end": 893,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "small_flat_head",
+      "name": "Small flat head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "small_flat_head",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the small flat head screw (Fig. 3) which holds the bearing retainer in place.",
+        "verified": true,
+        "char_start": 897,
+        "char_end": 981,
+        "bbox": [
+          56.160000000000025,
+          597.334,
+          295.146,
+          618.162
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the small flat head screw (Fig. 3) which holds the bearing retainer in place.",
+        "verified": true,
+        "char_start": 897,
+        "char_end": 981,
+        "bbox": [
+          56.160000000000025,
+          597.334,
+          295.146,
+          618.162
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the small flat head screw (Fig. 3) which holds the bearing retainer in place.",
+        "verified": true,
+        "char_start": 897,
+        "char_end": 981,
+        "bbox": [
+          56.160000000000025,
+          597.334,
+          295.146,
+          618.162
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_retainer",
+      "name": "Bearing retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the small flat head screw (Fig. 3) which holds the bearing retainer in place.",
+        "verified": true,
+        "char_start": 897,
+        "char_end": 981,
+        "bbox": [
+          56.160000000000025,
+          597.334,
+          295.146,
+          618.162
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "centered",
+      "name": "Centered",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "centered",
+      "provenance": {
+        "page": 285,
+        "quote": "Turn the bearing retainer until the large opening is centered over the fork on the governor operaung shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 985,
+        "char_end": 1101,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 285,
+        "quote": "Turn the bearing retainer until the large opening is centered over the fork on the governor operaung shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 985,
+        "char_end": 1101,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "upper_operaung_shaft",
+      "name": "Upper operaung shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_operaung_shaft",
+      "provenance": {
+        "page": 285,
+        "quote": "Turn the bearing retainer until the large opening is centered over the fork on the governor operaung shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 985,
+        "char_end": 1101,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 285,
+        "quote": "Lift up on the weight shaft to provide clearance for a 5/16\" electrician's socket wrench. Then remove the two retaining screws and washers and withdraw the governor operating fork.",
+        "verified": true,
+        "char_start": 1105,
+        "char_end": 1285,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "retaining_screw",
+      "name": "Retaining screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "retaining_screw",
+      "provenance": {
+        "page": 285,
+        "quote": "Lift up on the weight shaft to provide clearance for a 5/16\" electrician's socket wrench. Then remove the two retaining screws and washers and withdraw the governor operating fork.",
+        "verified": true,
+        "char_start": 1105,
+        "char_end": 1285,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 285,
+        "quote": "Lift up on the weight shaft to provide clearance for a 5/16\" electrician's socket wrench. Then remove the two retaining screws and washers and withdraw the governor operating fork.",
+        "verified": true,
+        "char_start": 1105,
+        "char_end": 1285,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the shaft and weight assembly from the governor weight housing.",
+        "verified": true,
+        "char_start": 1289,
+        "char_end": 1359,
+        "bbox": [
+          324.2400000000001,
+          65.12999999999988,
+          563.2089000000001,
+          85.92999999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_weight_housing",
+      "name": "Governor weight housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_housing",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the shaft and weight assembly from the governor weight housing.",
+        "verified": true,
+        "char_start": 1289,
+        "char_end": 1359,
+        "bbox": [
+          324.2400000000001,
+          65.12999999999988,
+          563.2089000000001,
+          85.92999999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 285,
+        "quote": "Inspect the bushing in the weight housing. If the bushing is worn or pitted, press it out of the housing and install a new bushing.",
+        "verified": true,
+        "char_start": 1363,
+        "char_end": 1494,
+        "bbox": [
+          324.48,
+          96.92999999999995,
+          562.8783000000001,
+          128.88999999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 285,
+        "quote": "Inspect the bushing in the weight housing. If the bushing is worn or pitted, press it out of the housing and install a new bushing.",
+        "verified": true,
+        "char_start": 1363,
+        "char_end": 1494,
+        "bbox": [
+          324.48,
+          96.92999999999995,
+          562.8783000000001,
+          128.88999999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "worn",
+      "name": "Worn",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn",
+      "provenance": {
+        "page": 285,
+        "quote": "Inspect the bushing in the weight housing. If the bushing is worn or pitted, press it out of the housing and install a new bushing.",
+        "verified": true,
+        "char_start": 1363,
+        "char_end": 1494,
+        "bbox": [
+          324.48,
+          96.92999999999995,
+          562.8783000000001,
+          128.88999999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "pitted",
+      "name": "Pitted",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pitted",
+      "provenance": {
+        "page": 285,
+        "quote": "Inspect the bushing in the weight housing. If the bushing is worn or pitted, press it out of the housing and install a new bushing.",
+        "verified": true,
+        "char_start": 1363,
+        "char_end": 1494,
+        "bbox": [
+          324.48,
+          96.92999999999995,
+          562.8783000000001,
+          128.88999999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the governor drive gear retaining nut. Then remove the gear, key and spacer from the shaft.",
+      "source_number": 1,
+      "installs": [
+        "blower_the_engine_governor",
+        "drive_gear_retaining",
+        "front_balance_weight_nut",
+        "fuel_pump_drive_gear",
+        "drive_key",
+        "drive_gear_spacer",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the governor drive gear retaining nut. Then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 795,
+        "char_end": 893,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the small flat head screw (Fig. 3) which holds the bearing retainer in place.",
+      "source_number": 2,
+      "installs": [
+        "small_flat_head",
+        "of_the_buffer_screw",
+        "nut_securing_fig",
+        "bearing_retainer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the small flat head screw (Fig. 3) which holds the bearing retainer in place.",
+        "verified": true,
+        "char_start": 897,
+        "char_end": 981,
+        "bbox": [
+          56.160000000000025,
+          597.334,
+          295.146,
+          618.162
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Turn the bearing retainer until the large opening is centered over the fork on the governor operaung shaft (Fig. 2).",
+      "source_number": 3,
+      "installs": [
+        "centered",
+        "governor_operating_fork",
+        "upper_operaung_shaft"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 285,
+        "quote": "Turn the bearing retainer until the large opening is centered over the fork on the governor operaung shaft (Fig. 2).",
+        "verified": true,
+        "char_start": 985,
+        "char_end": 1101,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Lift up on the weight shaft to provide clearance for a 5/16\" electrician's socket wrench. Then remove the two retaining screws and washers and withdraw the governor operating fork.",
+      "source_number": 4,
+      "installs": [
+        "governor_weight_shaft",
+        "retaining_screw",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 285,
+        "quote": "Lift up on the weight shaft to provide clearance for a 5/16\" electrician's socket wrench. Then remove the two retaining screws and washers and withdraw the governor operating fork.",
+        "verified": true,
+        "char_start": 1105,
+        "char_end": 1285,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the shaft and weight assembly from the governor weight housing.",
+      "source_number": 5,
+      "installs": [
+        "front_balance_weight",
+        "governor_weight_housing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the shaft and weight assembly from the governor weight housing.",
+        "verified": true,
+        "char_start": 1289,
+        "char_end": 1359,
+        "bbox": [
+          324.2400000000001,
+          65.12999999999988,
+          563.2089000000001,
+          85.92999999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Inspect the bushing in the weight housing. If the bushing is worn or pitted, press it out of the housing and install a new bushing.",
+      "source_number": 6,
+      "installs": [
+        "connecting_rod_bushing",
+        "of_the_flywheel_housing",
+        "worn",
+        "pitted"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 285,
+        "quote": "Inspect the bushing in the weight housing. If the bushing is worn or pitted, press it out of the housing and install a new bushing.",
+        "verified": true,
+        "char_start": 1363,
+        "char_end": 1494,
+        "bbox": [
+          324.48,
+          96.92999999999995,
+          562.8783000000001,
+          128.88999999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.65 - Use either a vernier caliper or a...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "rocker_arm_bushing",
+      "name": "Rocker arm bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm_bushing",
+      "provenance": {
+        "page": 65,
+        "quote": "Use either a vernier caliper or a dial indicator to measure the rocker arm bushing inside diameter. Rocker Arm Bushing Inside Diameter mm (in) 19.036 \u2014 19.060 (0.752) 19.10 (0.749 - 0.750) diameter.",
+        "verified": true,
+        "char_start": 772,
+        "char_end": 970,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "either_the_rocker_arm",
+      "name": "Either the rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "either_the_rocker_arm",
+      "provenance": {
+        "page": 65,
+        "quote": "Use either a vernier caliper or a dial indicator to measure the rocker arm bushing inside diameter. Rocker Arm Bushing Inside Diameter mm (in) 19.036 \u2014 19.060 (0.752) 19.10 (0.749 - 0.750) diameter.",
+        "verified": true,
+        "char_start": 772,
+        "char_end": 970,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 67,
+        "quote": "Remove the cylinder liner (If so equipped). Refer to \u201cCylinder Liner Replacement\u201d.",
+        "verified": true,
+        "char_start": 70,
+        "char_end": 152,
+        "bbox": [
+          292.32,
+          96.47579999999994,
+          489.97288000000003,
+          122.42880000000002
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_body",
+      "name": "Cylinder body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_body",
+      "provenance": {
+        "page": 67,
+        "quote": "Use a straight edge @ and a feeler gauge @) to measure the four sides and the two diagonals of the cylinder body upper face.",
+        "verified": true,
+        "char_start": 156,
+        "char_end": 280,
+        "bbox": [
+          292.32,
+          128.37670000000003,
+          538.0482093333334,
+          162.8505666666665
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "face_warpage",
+      "name": "Face warpage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "face_warpage",
+      "provenance": {
+        "page": 67,
+        "quote": "Regrind the cylinder body upper face if the measured values are greater than the specified limit but less than the maximum grinding allowance. If the measured values exceed the maximum grind- ing allowance, the cylinder body must be repl...",
+        "verified": true,
+        "char_start": 284,
+        "char_end": 567,
+        "bbox": [
+          274.08,
+          168.8179,
+          538.9366986666666,
+          306.9175666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_barrel",
+      "name": "Cylinder barrel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_barrel",
+      "provenance": {
+        "page": 67,
+        "quote": "Reinstall the cylinder liner (If so equipped). Refer to \u201cCylinder Body Bore Measurement\u201d.",
+        "verified": true,
+        "char_start": 814,
+        "char_end": 903,
+        "bbox": [
+          294.96,
+          467.64279999999997,
+          503.8075993333333,
+          493.3165666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_body_dowel",
+      "name": "Cylinder body dowel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_body_dowel",
+      "provenance": {
+        "page": 67,
+        "quote": "Reinstall the cylinder body dowel.",
+        "verified": true,
+        "char_start": 907,
+        "char_end": 941,
+        "bbox": [
+          295.2,
+          500.2069,
+          451.073498,
+          509.7735666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Use either a vernier caliper or a dial indicator to measure the rocker arm bushing inside diameter. Rocker Arm Bushing Inside Diameter mm (in) 19.036 \u2014 19.060 (0.752) 19.10 (0.749 - 0.750) diameter.",
+      "source_number": 1,
+      "installs": [
+        "rocker_arm_bushing",
+        "either_the_rocker_arm"
+      ],
+      "depends_on": [],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 65,
+        "quote": "Use either a vernier caliper or a dial indicator to measure the rocker arm bushing inside diameter. Rocker Arm Bushing Inside Diameter mm (in) 19.036 \u2014 19.060 (0.752) 19.10 (0.749 - 0.750) diameter.",
+        "verified": true,
+        "char_start": 772,
+        "char_end": 970,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the cylinder liner (If so equipped). Refer to \u201cCylinder Liner Replacement\u201d.",
+      "source_number": 2,
+      "installs": [
+        "cylinder_liner"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 67,
+        "quote": "Remove the cylinder liner (If so equipped). Refer to \u201cCylinder Liner Replacement\u201d.",
+        "verified": true,
+        "char_start": 70,
+        "char_end": 152,
+        "bbox": [
+          292.32,
+          96.47579999999994,
+          489.97288000000003,
+          122.42880000000002
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Use a straight edge @ and a feeler gauge @) to measure the four sides and the two diagonals of the cylinder body upper face.",
+      "source_number": 3,
+      "installs": [
+        "cylinder_body"
+      ],
+      "depends_on": [],
+      "tool": "feeler gauge",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 67,
+        "quote": "Use a straight edge @ and a feeler gauge @) to measure the four sides and the two diagonals of the cylinder body upper face.",
+        "verified": true,
+        "char_start": 156,
+        "char_end": 280,
+        "bbox": [
+          292.32,
+          128.37670000000003,
+          538.0482093333334,
+          162.8505666666665
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Regrind the cylinder body upper face if the measured values are greater than the specified limit but less than the maximum grinding allowance. If the measured values exceed the maximum grind- ing allowance, the cylinder body must be replaced. Cylinder Body Upper Face Warpage mm (in)",
+      "source_number": 4,
+      "installs": [
+        "face_warpage"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 67,
+        "quote": "Regrind the cylinder body upper face if the measured values are greater than the specified limit but less than the maximum grinding allowance. If the measured values exceed the maximum grind- ing allowance, the cylinder body must be repl...",
+        "verified": true,
+        "char_start": 284,
+        "char_end": 567,
+        "bbox": [
+          274.08,
+          168.8179,
+          538.9366986666666,
+          306.9175666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Reinstall the cylinder liner (If so equipped). Refer to \u201cCylinder Body Bore Measurement\u201d.",
+      "source_number": 5,
+      "installs": [
+        "cylinder_barrel"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 67,
+        "quote": "Reinstall the cylinder liner (If so equipped). Refer to \u201cCylinder Body Bore Measurement\u201d.",
+        "verified": true,
+        "char_start": 814,
+        "char_end": 903,
+        "bbox": [
+          294.96,
+          467.64279999999997,
+          503.8075993333333,
+          493.3165666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Reinstall the cylinder body dowel.",
+      "source_number": 6,
+      "installs": [
+        "cylinder_body_dowel"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 67,
+        "quote": "Reinstall the cylinder body dowel.",
+        "verified": true,
+        "char_start": 907,
+        "char_end": 941,
+        "bbox": [
+          295.2,
+          500.2069,
+          451.073498,
+          509.7735666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

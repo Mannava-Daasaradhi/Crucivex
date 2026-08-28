@@ -1,0 +1,633 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.244 - Install the high speed weights in a...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "high_speed_weight",
+      "name": "High speed weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_weight",
+      "provenance": {
+        "page": 244,
+        "quote": "Install the high speed weights in a similar manner.",
+        "verified": true,
+        "char_start": 2623,
+        "char_end": 2674,
+        "bbox": [
+          339.59999999999997,
+          552.655,
+          557.18624,
+          560.655
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 244,
+        "quote": "Lubricate the weight shaft with clean engine oil and slide the riser tube on the shaft.",
+        "verified": true,
+        "char_start": 2678,
+        "char_end": 2765,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 244,
+        "quote": "Lubricate the weight shaft with clean engine oil and slide the riser tube on the shaft.",
+        "verified": true,
+        "char_start": 2678,
+        "char_end": 2765,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "riser_tube",
+      "name": "Riser tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "riser_tube",
+      "provenance": {
+        "page": 244,
+        "quote": "Lubricate the weight shaft with clean engine oil and slide the riser tube on the shaft.",
+        "verified": true,
+        "char_start": 2678,
+        "char_end": 2765,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 244,
+        "quote": "Lubricate the weight shaft with clean engine oil and slide the riser tube on the shaft.",
+        "verified": true,
+        "char_start": 2678,
+        "char_end": 2765,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "riser_thrust_bearing",
+      "name": "Riser thrust bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "riser_thrust_bearing",
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the riser thrust bearing with grease. Then assemble the bearing on the weight shaft, with the bearing race having the smaller inside diameter against the riser.",
+        "verified": true,
+        "char_start": 2769,
+        "char_end": 2934,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the riser thrust bearing with grease. Then assemble the bearing on the weight shaft, with the bearing race having the smaller inside diameter against the riser.",
+        "verified": true,
+        "char_start": 2769,
+        "char_end": 2934,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the shaft, weight and riser assembly in the governor housing.",
+        "verified": true,
+        "char_start": 2938,
+        "char_end": 3006,
+        "bbox": [
+          328.8,
+          658.41,
+          568.8294000000001,
+          678.9639999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the shaft, weight and riser assembly in the governor housing.",
+        "verified": true,
+        "char_start": 2938,
+        "char_end": 3006,
+        "bbox": [
+          328.8,
+          658.41,
+          568.8294000000001,
+          678.9639999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "riser_assembly",
+      "name": "Riser assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "riser_assembly",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the shaft, weight and riser assembly in the governor housing.",
+        "verified": true,
+        "char_start": 2938,
+        "char_end": 3006,
+        "bbox": [
+          328.8,
+          658.41,
+          568.8294000000001,
+          678.9639999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the shaft, weight and riser assembly in the governor housing.",
+        "verified": true,
+        "char_start": 2938,
+        "char_end": 3006,
+        "bbox": [
+          328.8,
+          658.41,
+          568.8294000000001,
+          678.9639999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 244,
+        "quote": "Support the splined end of the shaft on the bed of an arbor press. Start the weight shaft bearing in the governor housing and over the end of the shaft. Place",
+        "verified": true,
+        "char_start": 3010,
+        "char_end": 3168,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_shaft_bearing",
+      "name": "Weight shaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_shaft_bearing",
+      "provenance": {
+        "page": 244,
+        "quote": "Support the splined end of the shaft on the bed of an arbor press. Start the weight shaft bearing in the governor housing and over the end of the shaft. Place",
+        "verified": true,
+        "char_start": 3010,
+        "char_end": 3168,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a flat washer and lock washer over the bearing retainer bolt. Thread the bolt into the tapped end of the shaft and tighten it. Bend the tang on the lock washer against the flat on the head of the bolt.",
+        "verified": true,
+        "char_start": 111,
+        "char_end": 318,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a flat washer and lock washer over the bearing retainer bolt. Thread the bolt into the tapped end of the shaft and tighten it. Bend the tang on the lock washer against the flat on the head of the bolt.",
+        "verified": true,
+        "char_start": 111,
+        "char_end": 318,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retainer",
+      "name": "Bearing retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a flat washer and lock washer over the bearing retainer bolt. Thread the bolt into the tapped end of the shaft and tighten it. Bend the tang on the lock washer against the flat on the head of the bolt.",
+        "verified": true,
+        "char_start": 111,
+        "char_end": 318,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a flat washer and lock washer over the bearing retainer bolt. Thread the bolt into the tapped end of the shaft and tighten it. Bend the tang on the lock washer against the flat on the head of the bolt.",
+        "verified": true,
+        "char_start": 111,
+        "char_end": 318,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a flat washer and lock washer over the bearing retainer bolt. Thread the bolt into the tapped end of the shaft and tighten it. Bend the tang on the lock washer against the flat on the head of the bolt.",
+        "verified": true,
+        "char_start": 111,
+        "char_end": 318,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a flat washer and lock washer over the bearing retainer bolt. Thread the bolt into the tapped end of the shaft and tighten it. Bend the tang on the lock washer against the flat on the head of the bolt.",
+        "verified": true,
+        "char_start": 111,
+        "char_end": 318,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a flat washer and lock washer over the bearing retainer bolt. Thread the bolt into the tapped end of the shaft and tighten it. Bend the tang on the lock washer against the flat on the head of the bolt.",
+        "verified": true,
+        "char_start": 111,
+        "char_end": 318,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_bolt",
+      "name": "Of the bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bolt",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a flat washer and lock washer over the bearing retainer bolt. Thread the bolt into the tapped end of the shaft and tighten it. Bend the tang on the lock washer against the flat on the head of the bolt.",
+        "verified": true,
+        "char_start": 111,
+        "char_end": 318,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a gasket against the weight shaft bearing. Apply a sealant such as Loctite grade \u041d. HV or \u041d\u0423\u041c, or equivalent on the threads of the governor housing and the plug and thread the plug into the housing. Clean the plug with solvent to r...",
+        "verified": true,
+        "char_start": 322,
+        "char_end": 648,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a gasket against the weight shaft bearing. Apply a sealant such as Loctite grade \u041d. HV or \u041d\u0423\u041c, or equivalent on the threads of the governor housing and the plug and thread the plug into the housing. Clean the plug with solvent to r...",
+        "verified": true,
+        "char_start": 322,
+        "char_end": 648,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 245,
+        "quote": "Place a gasket against the weight shaft bearing. Apply a sealant such as Loctite grade \u041d. HV or \u041d\u0423\u041c, or equivalent on the threads of the governor housing and the plug and thread the plug into the housing. Clean the plug with solvent to r...",
+        "verified": true,
+        "char_start": 322,
+        "char_end": 648,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the high speed weights in a similar manner.",
+      "source_number": 2,
+      "installs": [
+        "high_speed_weight"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Install the high speed weights in a similar manner.",
+        "verified": true,
+        "char_start": 2623,
+        "char_end": 2674,
+        "bbox": [
+          339.59999999999997,
+          552.655,
+          557.18624,
+          560.655
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Lubricate the weight shaft with clean engine oil and slide the riser tube on the shaft.",
+      "source_number": 3,
+      "installs": [
+        "governor_weight_shaft",
+        "valve_rocker_cover_clean",
+        "riser_tube",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Lubricate the weight shaft with clean engine oil and slide the riser tube on the shaft.",
+        "verified": true,
+        "char_start": 2678,
+        "char_end": 2765,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Pack the riser thrust bearing with grease. Then assemble the bearing on the weight shaft, with the bearing race having the smaller inside diameter against the riser.",
+      "source_number": 4,
+      "installs": [
+        "riser_thrust_bearing",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the riser thrust bearing with grease. Then assemble the bearing on the weight shaft, with the bearing race having the smaller inside diameter against the riser.",
+        "verified": true,
+        "char_start": 2769,
+        "char_end": 2934,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Insert the shaft, weight and riser assembly in the governor housing.",
+      "source_number": 5,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "front_balance_weight",
+        "riser_assembly",
+        "disassemble_governor_housing"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the shaft, weight and riser assembly in the governor housing.",
+        "verified": true,
+        "char_start": 2938,
+        "char_end": 3006,
+        "bbox": [
+          328.8,
+          658.41,
+          568.8294000000001,
+          678.9639999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Support the splined end of the shaft on the bed of an arbor press. Start the weight shaft bearing in the governor housing and over the end of the shaft. Place",
+      "source_number": 6,
+      "installs": [
+        "blower_drive_support",
+        "weight_shaft_bearing"
+      ],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Support the splined end of the shaft on the bed of an arbor press. Start the weight shaft bearing in the governor housing and over the end of the shaft. Place",
+        "verified": true,
+        "char_start": 3010,
+        "char_end": 3168,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Place a flat washer and lock washer over the bearing retainer bolt. Thread the bolt into the tapped end of the shaft and tighten it. Bend the tang on the lock washer against the flat on the head of the bolt.",
+      "source_number": 7,
+      "installs": [
+        "flat_washer",
+        "special_lock_washer",
+        "bearing_retainer",
+        "engine_front_cover_bolt",
+        "bolt_thread",
+        "another_drive_flange_washer",
+        "cylinder_head",
+        "of_the_bolt"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 245,
+        "quote": "Place a flat washer and lock washer over the bearing retainer bolt. Thread the bolt into the tapped end of the shaft and tighten it. Bend the tang on the lock washer against the flat on the head of the bolt.",
+        "verified": true,
+        "char_start": 111,
+        "char_end": 318,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Place a gasket against the weight shaft bearing. Apply a sealant such as Loctite grade \u041d. HV or \u041d\u0423\u041c, or equivalent on the threads of the governor housing and the plug and thread the plug into the housing. Clean the plug with solvent to remove any oil or grease before applying the sealant. Tighten the plug to 45 Ib-ft torque.",
+      "source_number": 8,
+      "installs": [
+        "head_gasket",
+        "edge_of_the_plug",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s02",
+        "s04",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": 61.0,
+      "warning": null,
+      "provenance": {
+        "page": 245,
+        "quote": "Place a gasket against the weight shaft bearing. Apply a sealant such as Loctite grade \u041d. HV or \u041d\u0423\u041c, or equivalent on the threads of the governor housing and the plug and thread the plug into the housing. Clean the plug with solvent to r...",
+        "verified": true,
+        "char_start": 322,
+        "char_end": 648,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

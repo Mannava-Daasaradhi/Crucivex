@@ -1,0 +1,563 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.216 - With the engine stopped, place a container...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "wooden_container",
+      "name": "Wooden container",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wooden_container",
+      "provenance": {
+        "page": 216,
+        "quote": "With the engine stopped, place a container under the strainer or filter and open the drain cock. Loosen the cover nut or bolt just enough to allow the fuel oil to drain out freely. Then close the drain cock. NOTICE: The wiring harness, s...",
+        "verified": true,
+        "char_start": 848,
+        "char_end": 1236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "filter",
+      "name": "Filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter",
+      "provenance": {
+        "page": 216,
+        "quote": "With the engine stopped, place a container under the strainer or filter and open the drain cock. Loosen the cover nut or bolt just enough to allow the fuel oil to drain out freely. Then close the drain cock. NOTICE: The wiring harness, s...",
+        "verified": true,
+        "char_start": 848,
+        "char_end": 1236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 216,
+        "quote": "With the engine stopped, place a container under the strainer or filter and open the drain cock. Loosen the cover nut or bolt just enough to allow the fuel oil to drain out freely. Then close the drain cock. NOTICE: The wiring harness, s...",
+        "verified": true,
+        "char_start": 848,
+        "char_end": 1236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 216,
+        "quote": "With the engine stopped, place a container under the strainer or filter and open the drain cock. Loosen the cover nut or bolt just enough to allow the fuel oil to drain out freely. Then close the drain cock. NOTICE: The wiring harness, s...",
+        "verified": true,
+        "char_start": 848,
+        "char_end": 1236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 216,
+        "quote": "With the engine stopped, place a container under the strainer or filter and open the drain cock. Loosen the cover nut or bolt just enough to allow the fuel oil to drain out freely. Then close the drain cock. NOTICE: The wiring harness, s...",
+        "verified": true,
+        "char_start": 848,
+        "char_end": 1236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "just",
+      "name": "Just",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "just",
+      "provenance": {
+        "page": 216,
+        "quote": "With the engine stopped, place a container under the strainer or filter and open the drain cock. Loosen the cover nut or bolt just enough to allow the fuel oil to drain out freely. Then close the drain cock. NOTICE: The wiring harness, s...",
+        "verified": true,
+        "char_start": 848,
+        "char_end": 1236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "starting_motor",
+      "name": "Starting motor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "starting_motor",
+      "provenance": {
+        "page": 216,
+        "quote": "With the engine stopped, place a container under the strainer or filter and open the drain cock. Loosen the cover nut or bolt just enough to allow the fuel oil to drain out freely. Then close the drain cock. NOTICE: The wiring harness, s...",
+        "verified": true,
+        "char_start": 848,
+        "char_end": 1236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bearing_shell",
+      "name": "Connecting rod bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing_shell",
+      "provenance": {
+        "page": 216,
+        "quote": "While supporting the shell, unscrew the cover nut or \u0435 j bolt and remove the shell and element. Also remove and discard the cover nut retaining ring, if used.",
+        "verified": true,
+        "char_start": 1240,
+        "char_end": 1398,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_cleaner_element",
+      "name": "Air cleaner element",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_cleaner_element",
+      "provenance": {
+        "page": 216,
+        "quote": "While supporting the shell, unscrew the cover nut or \u0435 j bolt and remove the shell and element. Also remove and discard the cover nut retaining ring, if used.",
+        "verified": true,
+        "char_start": 1240,
+        "char_end": 1398,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "follower_retaining_ring",
+      "name": "Follower retaining ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_retaining_ring",
+      "provenance": {
+        "page": 216,
+        "quote": "While supporting the shell, unscrew the cover nut or \u0435 j bolt and remove the shell and element. Also remove and discard the cover nut retaining ring, if used.",
+        "verified": true,
+        "char_start": 1240,
+        "char_end": 1398,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_filter_element",
+      "name": "Air filter element",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_filter_element",
+      "provenance": {
+        "page": 217,
+        "quote": "Removeand discard the filter element and shell gasket, The current strainer and filter elements include the the cover nut or bolt gasket, and, if used, the cover bolt element, the cover gasket and cover bolt gasket. The snap ring. strain...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 359,
+        "bbox": [
+          101.51999999999998,
+          85.08899999999994,
+          596.8921800000002,
+          142.08899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "shell_gasket",
+      "name": "Shell gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shell_gasket",
+      "provenance": {
+        "page": 217,
+        "quote": "Removeand discard the filter element and shell gasket, The current strainer and filter elements include the the cover nut or bolt gasket, and, if used, the cover bolt element, the cover gasket and cover bolt gasket. The snap ring. strain...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 359,
+        "bbox": [
+          101.51999999999998,
+          85.08899999999994,
+          596.8921800000002,
+          142.08899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 217,
+        "quote": "Removeand discard the filter element and shell gasket, The current strainer and filter elements include the the cover nut or bolt gasket, and, if used, the cover bolt element, the cover gasket and cover bolt gasket. The snap ring. strain...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 359,
+        "bbox": [
+          101.51999999999998,
+          85.08899999999994,
+          596.8921800000002,
+          142.08899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 217,
+        "quote": "Removeand discard the filter element and shell gasket, The current strainer and filter elements include the the cover nut or bolt gasket, and, if used, the cover bolt element, the cover gasket and cover bolt gasket. The snap ring. strain...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 359,
+        "bbox": [
+          101.51999999999998,
+          85.08899999999994,
+          596.8921800000002,
+          142.08899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cover_gasket",
+      "name": "Cover gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cover_gasket",
+      "provenance": {
+        "page": 217,
+        "quote": "Removeand discard the filter element and shell gasket, The current strainer and filter elements include the the cover nut or bolt gasket, and, if used, the cover bolt element, the cover gasket and cover bolt gasket. The snap ring. strain...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 359,
+        "bbox": [
+          101.51999999999998,
+          85.08899999999994,
+          596.8921800000002,
+          142.08899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 217,
+        "quote": "Removeand discard the filter element and shell gasket, The current strainer and filter elements include the the cover nut or bolt gasket, and, if used, the cover bolt element, the cover gasket and cover bolt gasket. The snap ring. strain...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 359,
+        "bbox": [
+          101.51999999999998,
+          85.08899999999994,
+          596.8921800000002,
+          142.08899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 217,
+        "quote": "Removeand discard the filter element and shell gasket, The current strainer and filter elements include the the cover nut or bolt gasket, and, if used, the cover bolt element, the cover gasket and cover bolt gasket. The snap ring. strain...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 359,
+        "bbox": [
+          101.51999999999998,
+          85.08899999999994,
+          596.8921800000002,
+          142.08899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 217,
+        "quote": "Placea new element over the center stud and push it cover bolt snap ring. This was eliminated to facilitate down against the element seat. Make sure the drain replacement of the bolt gasket with each element cock is closed, then fill the...",
+        "verified": true,
+        "char_start": 363,
+        "char_end": 662,
+        "bbox": [
+          101.51999999999987,
+          139.69099999999992,
+          598.467,
+          182.04599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_bolt",
+      "name": "Of the bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bolt",
+      "provenance": {
+        "page": 217,
+        "quote": "Placea new element over the center stud and push it cover bolt snap ring. This was eliminated to facilitate down against the element seat. Make sure the drain replacement of the bolt gasket with each element cock is closed, then fill the...",
+        "verified": true,
+        "char_start": 363,
+        "char_end": 662,
+        "bbox": [
+          101.51999999999987,
+          139.69099999999992,
+          598.467,
+          182.04599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_about",
+      "name": "Crankshaft about",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_about",
+      "provenance": {
+        "page": 217,
+        "quote": "Placea new element over the center stud and push it cover bolt snap ring. This was eliminated to facilitate down against the element seat. Make sure the drain replacement of the bolt gasket with each element cock is closed, then fill the...",
+        "verified": true,
+        "char_start": 363,
+        "char_end": 662,
+        "bbox": [
+          101.51999999999987,
+          139.69099999999992,
+          598.467,
+          182.04599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 217,
+        "quote": "Placea new element over the center stud and push it cover bolt snap ring. This was eliminated to facilitate down against the element seat. Make sure the drain replacement of the bolt gasket with each element cock is closed, then fill the...",
+        "verified": true,
+        "char_start": 363,
+        "char_end": 662,
+        "bbox": [
+          101.51999999999987,
+          139.69099999999992,
+          598.467,
+          182.04599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "With the engine stopped, place a container under the strainer or filter and open the drain cock. Loosen the cover nut or bolt just enough to allow the fuel oil to drain out freely. Then close the drain cock. NOTICE: The wiring harness, starting motor or other electrical equipment must be shielded change, since fuel oil can during the filter permanently damage the electrical insulation.",
+      "source_number": 1,
+      "installs": [
+        "wooden_container",
+        "filter",
+        "underside_of_the_cover",
+        "front_balance_weight_nut",
+        "engine_front_cover_bolt",
+        "just",
+        "starting_motor"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 216,
+        "quote": "With the engine stopped, place a container under the strainer or filter and open the drain cock. Loosen the cover nut or bolt just enough to allow the fuel oil to drain out freely. Then close the drain cock. NOTICE: The wiring harness, s...",
+        "verified": true,
+        "char_start": 848,
+        "char_end": 1236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "While supporting the shell, unscrew the cover nut or \u0435 j bolt and remove the shell and element. Also remove and discard the cover nut retaining ring, if used.",
+      "source_number": 2,
+      "installs": [
+        "connecting_rod_bearing_shell",
+        "air_cleaner_element",
+        "follower_retaining_ring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 216,
+        "quote": "While supporting the shell, unscrew the cover nut or \u0435 j bolt and remove the shell and element. Also remove and discard the cover nut retaining ring, if used.",
+        "verified": true,
+        "char_start": 1240,
+        "char_end": 1398,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Removeand discard the filter element and shell gasket, The current strainer and filter elements include the the cover nut or bolt gasket, and, if used, the cover bolt element, the cover gasket and cover bolt gasket. The snap ring. strainer element also includes both the former and current bolt gaskets. Current strainers and filters do not incorporate the",
+      "source_number": 3,
+      "installs": [
+        "air_filter_element",
+        "shell_gasket",
+        "engine_front_cover_current",
+        "head_gasket",
+        "cover_gasket",
+        "external_snap_ring",
+        "of_the_former"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "do not incorporate the",
+      "provenance": {
+        "page": 217,
+        "quote": "Removeand discard the filter element and shell gasket, The current strainer and filter elements include the the cover nut or bolt gasket, and, if used, the cover bolt element, the cover gasket and cover bolt gasket. The snap ring. strain...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 359,
+        "bbox": [
+          101.51999999999998,
+          85.08899999999994,
+          596.8921800000002,
+          142.08899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Placea new element over the center stud and push it cover bolt snap ring. This was eliminated to facilitate down against the element seat. Make sure the drain replacement of the bolt gasket with each element cock is closed, then fill the shell about two-thirds full replacement. with clean fuel oil.",
+      "source_number": 6,
+      "installs": [
+        "insert_remover_valve_seat",
+        "of_the_bolt",
+        "crankshaft_about",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 217,
+        "quote": "Placea new element over the center stud and push it cover bolt snap ring. This was eliminated to facilitate down against the element seat. Make sure the drain replacement of the bolt gasket with each element cock is closed, then fill the...",
+        "verified": true,
+        "char_start": 363,
+        "char_end": 662,
+        "bbox": [
+          101.51999999999987,
+          139.69099999999992,
+          598.467,
+          182.04599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

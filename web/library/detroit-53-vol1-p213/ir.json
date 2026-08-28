@@ -1,0 +1,314 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.376 - Install the 3/8 \"-24 x 2\" bolt...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 376,
+        "quote": "Install the 3/8 \"-24 x 2\" bolt with special flat washers in the right-hand helix rotor shaft at the front end of the blower. Tighten the bolt to 50-55 lb-ft torque.",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 897,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 376,
+        "quote": "Install the 3/8 \"-24 x 2\" bolt with special flat washers in the right-hand helix rotor shaft at the front end of the blower. Tighten the bolt to 50-55 lb-ft torque.",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 897,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "helix",
+      "name": "Helix",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "helix",
+      "provenance": {
+        "page": 376,
+        "quote": "Install the 3/8 \"-24 x 2\" bolt with special flat washers in the right-hand helix rotor shaft at the front end of the blower. Tighten the bolt to 50-55 lb-ft torque.",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 897,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "left_hand_helix_rotor",
+      "name": "Left-hand helix rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "left_hand_helix_rotor",
+      "provenance": {
+        "page": 376,
+        "quote": "Install the 3/8 \"-24 x 2\" bolt with special flat washers in the right-hand helix rotor shaft at the front end of the blower. Tighten the bolt to 50-55 lb-ft torque.",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 897,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 376,
+        "quote": "Install the 3/8 \"-24 x 2\" bolt with special flat washers in the right-hand helix rotor shaft at the front end of the blower. Tighten the bolt to 50-55 lb-ft torque.",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 897,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 376,
+        "quote": "Install the 3/8 \"-24 x 2\" bolt with special flat washers in the right-hand helix rotor shaft at the front end of the blower. Tighten the bolt to 50-55 lb-ft torque.",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 897,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retainer_nut",
+      "name": "Bearing retainer nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer_nut",
+      "provenance": {
+        "page": 376,
+        "quote": "Place the bearing retainer nut lock washer over the end of the left-hand rotor shaft with the tang in the inner diameter of the washer in the notch in the shaft. Then thread the bearing lock nut on the shaft. Tighten the lock nut to 50-6...",
+        "verified": true,
+        "char_start": 902,
+        "char_end": 1185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 376,
+        "quote": "Place the bearing retainer nut lock washer over the end of the left-hand rotor shaft with the tang in the inner diameter of the washer in the notch in the shaft. Then thread the bearing lock nut on the shaft. Tighten the lock nut to 50-6...",
+        "verified": true,
+        "char_start": 902,
+        "char_end": 1185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 376,
+        "quote": "Place the bearing retainer nut lock washer over the end of the left-hand rotor shaft with the tang in the inner diameter of the washer in the notch in the shaft. Then thread the bearing lock nut on the shaft. Tighten the lock nut to 50-6...",
+        "verified": true,
+        "char_start": 902,
+        "char_end": 1185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 376,
+        "quote": "Place the bearing retainer nut lock washer over the end of the left-hand rotor shaft with the tang in the inner diameter of the washer in the notch in the shaft. Then thread the bearing lock nut on the shaft. Tighten the lock nut to 50-6...",
+        "verified": true,
+        "char_start": 902,
+        "char_end": 1185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "notch",
+      "name": "Notch",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "notch",
+      "provenance": {
+        "page": 376,
+        "quote": "Place the bearing retainer nut lock washer over the end of the left-hand rotor shaft with the tang in the inner diameter of the washer in the notch in the shaft. Then thread the bearing lock nut on the shaft. Tighten the lock nut to 50-6...",
+        "verified": true,
+        "char_start": 902,
+        "char_end": 1185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 376,
+        "quote": "Place the bearing retainer nut lock washer over the end of the left-hand rotor shaft with the tang in the inner diameter of the washer in the notch in the shaft. Then thread the bearing lock nut on the shaft. Tighten the lock nut to 50-6...",
+        "verified": true,
+        "char_start": 902,
+        "char_end": 1185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 376,
+        "quote": "Place the bearing retainer nut lock washer over the end of the left-hand rotor shaft with the tang in the inner diameter of the washer in the notch in the shaft. Then thread the bearing lock nut on the shaft. Tighten the lock nut to 50-6...",
+        "verified": true,
+        "char_start": 902,
+        "char_end": 1185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 376,
+        "quote": "Bend the tang of the lock washer over the notch of the bearing retainer nut. Fig. 21 - Measuring End Clearance Between",
+        "verified": true,
+        "char_start": 1190,
+        "char_end": 1308,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the 3/8 \"-24 x 2\" bolt with special flat washers in the right-hand helix rotor shaft at the front end of the blower. Tighten the bolt to 50-55 lb-ft torque.",
+      "source_number": 13,
+      "installs": [
+        "engine_front_cover_bolt",
+        "flat_washer",
+        "helix",
+        "left_hand_helix_rotor",
+        "end_of_the_shaft",
+        "assembly_examine_the_blower"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 67.8,
+      "warning": null,
+      "provenance": {
+        "page": 376,
+        "quote": "Install the 3/8 \"-24 x 2\" bolt with special flat washers in the right-hand helix rotor shaft at the front end of the blower. Tighten the bolt to 50-55 lb-ft torque.",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 897,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the bearing retainer nut lock washer over the end of the left-hand rotor shaft with the tang in the inner diameter of the washer in the notch in the shaft. Then thread the bearing lock nut on the shaft. Tighten the lock nut to 50-60 lb-ft torque with spanner wrench J 21672-17.",
+      "source_number": 14,
+      "installs": [
+        "bearing_retainer_nut",
+        "special_lock_washer",
+        "side_of_the_inner",
+        "another_drive_flange_washer",
+        "notch",
+        "bolt_thread",
+        "bearing_lock_nut"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 67.8,
+      "warning": null,
+      "provenance": {
+        "page": 376,
+        "quote": "Place the bearing retainer nut lock washer over the end of the left-hand rotor shaft with the tang in the inner diameter of the washer in the notch in the shaft. Then thread the bearing lock nut on the shaft. Tighten the lock nut to 50-6...",
+        "verified": true,
+        "char_start": 902,
+        "char_end": 1185,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Bend the tang of the lock washer over the notch of the bearing retainer nut. Fig. 21 - Measuring End Clearance Between",
+      "source_number": 15,
+      "installs": [
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 376,
+        "quote": "Bend the tang of the lock washer over the notch of the bearing retainer nut. Fig. 21 - Measuring End Clearance Between",
+        "verified": true,
+        "char_start": 1190,
+        "char_end": 1308,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

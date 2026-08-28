@@ -1,0 +1,486 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.64 - If one or more main or connecting...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "more",
+      "name": "More",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "more",
+      "provenance": {
+        "page": 64,
+        "quote": "If one or more main or connecting rod journals require grinding. then grind all of the main journals or all of the connecung rod journals to the same required size. Bearing Conn. Rod Main Bearing Size Journal Dia. Joumal Dia.",
+        "verified": true,
+        "char_start": 1147,
+        "char_end": 1372,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "main",
+      "name": "Main",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main",
+      "provenance": {
+        "page": 64,
+        "quote": "If one or more main or connecting rod journals require grinding. then grind all of the main journals or all of the connecung rod journals to the same required size. Bearing Conn. Rod Main Bearing Size Journal Dia. Joumal Dia.",
+        "verified": true,
+        "char_start": 1147,
+        "char_end": 1372,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 64,
+        "quote": "If one or more main or connecting rod journals require grinding. then grind all of the main journals or all of the connecung rod journals to the same required size. Bearing Conn. Rod Main Bearing Size Journal Dia. Joumal Dia.",
+        "verified": true,
+        "char_start": 1147,
+        "char_end": 1372,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 64,
+        "quote": "If one or more main or connecting rod journals require grinding. then grind all of the main journals or all of the connecung rod journals to the same required size. Bearing Conn. Rod Main Bearing Size Journal Dia. Joumal Dia.",
+        "verified": true,
+        "char_start": 1147,
+        "char_end": 1372,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 64,
+        "quote": "If one or more main or connecting rod journals require grinding. then grind all of the main journals or all of the connecung rod journals to the same required size. Bearing Conn. Rod Main Bearing Size Journal Dia. Joumal Dia.",
+        "verified": true,
+        "char_start": 1147,
+        "char_end": 1372,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 64,
+        "quote": "If one or more main or connecting rod journals require grinding. then grind all of the main journals or all of the connecung rod journals to the same required size. Bearing Conn. Rod Main Bearing Size Journal Dia. Joumal Dia.",
+        "verified": true,
+        "char_start": 1147,
+        "char_end": 1372,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 64,
+        "quote": "All journal fillets on the In-line crankshafts must have a .130 \" to .160 \" radius and on the 6V and 8V crankshafts, a .100 \" to .130\" radius between the crank cheek and the journal, and must not have any sharp grind marks (Fig. 9). The ...",
+        "verified": true,
+        "char_start": 1696,
+        "char_end": 2074,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 64,
+        "quote": "All journal fillets on the In-line crankshafts must have a .130 \" to .160 \" radius and on the 6V and 8V crankshafts, a .100 \" to .130\" radius between the crank cheek and the journal, and must not have any sharp grind marks (Fig. 9). The ...",
+        "verified": true,
+        "char_start": 1696,
+        "char_end": 2074,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "worn",
+      "name": "Worn",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn",
+      "provenance": {
+        "page": 64,
+        "quote": "If the thrust surfaces of the crankshaft are worn or grooved excessively, they must be reground and polished. Care must be taken to leave \u0430 130\u201d to .160 \u201d radius on the In-line crankshaft and 100\u201d to .130 \u201d radius on the 6V and 8V engine...",
+        "verified": true,
+        "char_start": 2410,
+        "char_end": 2710,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 64,
+        "quote": "If the thrust surfaces of the crankshaft are worn or grooved excessively, they must be reground and polished. Care must be taken to leave \u0430 130\u201d to .160 \u201d radius on the In-line crankshaft and 100\u201d to .130 \u201d radius on the 6V and 8V engine...",
+        "verified": true,
+        "char_start": 2410,
+        "char_end": 2710,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 64,
+        "quote": "Stone the edge of all oil holes in the journal surfaces smooth to provide a radius of approximately 3/32 \u201d.",
+        "verified": true,
+        "char_start": 2714,
+        "char_end": 2821,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "dirt_particle",
+      "name": "Dirt particle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dirt_particle",
+      "provenance": {
+        "page": 64,
+        "quote": "After grinding has been completed, inspect the crankshaft by the magnetic particle method to determine whether cracks have originated due to the grinding operation.",
+        "verified": true,
+        "char_start": 2825,
+        "char_end": 2989,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head_due",
+      "name": "Cylinder head due",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_due",
+      "provenance": {
+        "page": 64,
+        "quote": "After grinding has been completed, inspect the crankshaft by the magnetic particle method to determine whether cracks have originated due to the grinding operation.",
+        "verified": true,
+        "char_start": 2825,
+        "char_end": 2989,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 64,
+        "quote": "Remove the plugs and clean the crankshaft and oil passages thoroughly with fuel oil. Dry the shaft with compressed air and reinstall the plugs.",
+        "verified": true,
+        "char_start": 3024,
+        "char_end": 3167,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 64,
+        "quote": "Remove the plugs and clean the crankshaft and oil passages thoroughly with fuel oil. Dry the shaft with compressed air and reinstall the plugs.",
+        "verified": true,
+        "char_start": 3024,
+        "char_end": 3167,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 64,
+        "quote": "Remove the plugs and clean the crankshaft and oil passages thoroughly with fuel oil. Dry the shaft with compressed air and reinstall the plugs.",
+        "verified": true,
+        "char_start": 3024,
+        "char_end": 3167,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "If one or more main or connecting rod journals require grinding. then grind all of the main journals or all of the connecung rod journals to the same required size. Bearing Conn. Rod Main Bearing Size Journal Dia. Joumal Dia.",
+      "source_number": 2,
+      "installs": [
+        "more",
+        "main",
+        "connecting_rod",
+        "bearing_pilot_rod",
+        "of_the_required",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 64,
+        "quote": "If one or more main or connecting rod journals require grinding. then grind all of the main journals or all of the connecung rod journals to the same required size. Bearing Conn. Rod Main Bearing Size Journal Dia. Joumal Dia.",
+        "verified": true,
+        "char_start": 1147,
+        "char_end": 1372,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "All journal fillets on the In-line crankshafts must have a .130 \" to .160 \" radius and on the 6V and 8V crankshafts, a .100 \" to .130\" radius between the crank cheek and the journal, and must not have any sharp grind marks (Fig. 9). The fillet must blend smoothly into the journal and the crank cheek, and must be free of scratches. The radius may be checked with a fillet gage.",
+      "source_number": 3,
+      "installs": [
+        "tbe_lubricating_oil_line",
+        "halve_of_the_crankshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "must not have any sharp grind marks (Fig.",
+      "provenance": {
+        "page": 64,
+        "quote": "All journal fillets on the In-line crankshafts must have a .130 \" to .160 \" radius and on the 6V and 8V crankshafts, a .100 \" to .130\" radius between the crank cheek and the journal, and must not have any sharp grind marks (Fig. 9). The ...",
+        "verified": true,
+        "char_start": 1696,
+        "char_end": 2074,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Care must be taken to avoid localized heating which often produces grinding cracks. Cool the crankshaft while grinding, using coolant generously. Do not crowd the grinding wheel into the work.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not crowd the grinding wheel into the work.",
+      "provenance": {
+        "page": 64,
+        "quote": "Care must be taken to avoid localized heating which often produces grinding cracks. Cool the crankshaft while grinding, using coolant generously. Do not crowd the grinding wheel into the work.",
+        "verified": true,
+        "char_start": 2078,
+        "char_end": 2270,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Polish the ground surfaces to an 8-12 R.M.S. finish. The reground journals will be subject to excessive wear unless polished smooth.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 64,
+        "quote": "Polish the ground surfaces to an 8-12 R.M.S. finish. The reground journals will be subject to excessive wear unless polished smooth.",
+        "verified": true,
+        "char_start": 2274,
+        "char_end": 2406,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "If the thrust surfaces of the crankshaft are worn or grooved excessively, they must be reground and polished. Care must be taken to leave \u0430 130\u201d to .160 \u201d radius on the In-line crankshaft and 100\u201d to .130 \u201d radius on the 6V and 8V engines between each thrust surface and the bearing journal (Fig. 9).",
+      "source_number": 6,
+      "installs": [
+        "worn",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 64,
+        "quote": "If the thrust surfaces of the crankshaft are worn or grooved excessively, they must be reground and polished. Care must be taken to leave \u0430 130\u201d to .160 \u201d radius on the In-line crankshaft and 100\u201d to .130 \u201d radius on the 6V and 8V engine...",
+        "verified": true,
+        "char_start": 2410,
+        "char_end": 2710,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Stone the edge of all oil holes in the journal surfaces smooth to provide a radius of approximately 3/32 \u201d.",
+      "source_number": 7,
+      "installs": [
+        "of_the_oil_hole"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 64,
+        "quote": "Stone the edge of all oil holes in the journal surfaces smooth to provide a radius of approximately 3/32 \u201d.",
+        "verified": true,
+        "char_start": 2714,
+        "char_end": 2821,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "After grinding has been completed, inspect the crankshaft by the magnetic particle method to determine whether cracks have originated due to the grinding operation.",
+      "source_number": 8,
+      "installs": [
+        "dirt_particle",
+        "cylinder_head_due"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 64,
+        "quote": "After grinding has been completed, inspect the crankshaft by the magnetic particle method to determine whether cracks have originated due to the grinding operation.",
+        "verified": true,
+        "char_start": 2825,
+        "char_end": 2989,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Demagneuze the crankshaft.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 64,
+        "quote": "Demagneuze the crankshaft.",
+        "verified": true,
+        "char_start": 2993,
+        "char_end": 3019,
+        "bbox": [
+          326.88,
+          425.47299999999996,
+          449.12199999999996,
+          435.47299999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the plugs and clean the crankshaft and oil passages thoroughly with fuel oil. Dry the shaft with compressed air and reinstall the plugs.",
+      "source_number": 10,
+      "installs": [
+        "edge_of_the_plug",
+        "valve_rocker_cover_clean",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 64,
+        "quote": "Remove the plugs and clean the crankshaft and oil passages thoroughly with fuel oil. Dry the shaft with compressed air and reinstall the plugs.",
+        "verified": true,
+        "char_start": 3024,
+        "char_end": 3167,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

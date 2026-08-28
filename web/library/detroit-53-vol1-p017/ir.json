@@ -1,0 +1,497 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.42 - Clean and remove the valve rocker cover",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 42,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 516,
+        "char_end": 556,
+        "bbox": [
+          60.48,
+          508.9679999999999,
+          240.83039999999997,
+          516.9679999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 42,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 516,
+        "char_end": 556,
+        "bbox": [
+          60.48,
+          508.9679999999999,
+          240.83039999999997,
+          516.9679999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "leaking_fuel_pipe",
+      "name": "Leaking fuel pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "leaking_fuel_pipe",
+      "provenance": {
+        "page": 42,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors. CAUTION: immediately after removing the fuel pipes. cover each injector opening with a shipping cap to prevent dirt or other foreign matter from entering the injector.",
+        "verified": true,
+        "char_start": 560,
+        "char_end": 792,
+        "bbox": [
+          49.67999999999992,
+          530.372,
+          292.4771999999999,
+          607.2099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 42,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors. CAUTION: immediately after removing the fuel pipes. cover each injector opening with a shipping cap to prevent dirt or other foreign matter from entering the injector.",
+        "verified": true,
+        "char_start": 560,
+        "char_end": 792,
+        "bbox": [
+          49.67999999999992,
+          530.372,
+          292.4771999999999,
+          607.2099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_connector",
+      "name": "Fuel connector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_connector",
+      "provenance": {
+        "page": 42,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors. CAUTION: immediately after removing the fuel pipes. cover each injector opening with a shipping cap to prevent dirt or other foreign matter from entering the injector.",
+        "verified": true,
+        "char_start": 560,
+        "char_end": 792,
+        "bbox": [
+          49.67999999999992,
+          530.372,
+          292.4771999999999,
+          607.2099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "starting_motor",
+      "name": "Starting motor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "starting_motor",
+      "provenance": {
+        "page": 42,
+        "quote": "Bar the engine over in the direction of engine rotation or crank the engine with the starting motor to bring the push rod ends -- the outer ends -- of the injector and valve rocker arms in line horizontally. CAUTION: Left-hand turning en...",
+        "verified": true,
+        "char_start": 796,
+        "char_end": 1212,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 42,
+        "quote": "Bar the engine over in the direction of engine rotation or crank the engine with the starting motor to bring the push rod ends -- the outer ends -- of the injector and valve rocker arms in line horizontally. CAUTION: Left-hand turning en...",
+        "verified": true,
+        "char_start": 796,
+        "char_end": 1212,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 42,
+        "quote": "Bar the engine over in the direction of engine rotation or crank the engine with the starting motor to bring the push rod ends -- the outer ends -- of the injector and valve rocker arms in line horizontally. CAUTION: Left-hand turning en...",
+        "verified": true,
+        "char_start": 796,
+        "char_end": 1212,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 42,
+        "quote": "Bar the engine over in the direction of engine rotation or crank the engine with the starting motor to bring the push rod ends -- the outer ends -- of the injector and valve rocker arms in line horizontally. CAUTION: Left-hand turning en...",
+        "verified": true,
+        "char_start": 796,
+        "char_end": 1212,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 42,
+        "quote": "Bar the engine over in the direction of engine rotation or crank the engine with the starting motor to bring the push rod ends -- the outer ends -- of the injector and valve rocker arms in line horizontally. CAUTION: Left-hand turning en...",
+        "verified": true,
+        "char_start": 796,
+        "char_end": 1212,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 42,
+        "quote": "Bar the engine over in the direction of engine rotation or crank the engine with the starting motor to bring the push rod ends -- the outer ends -- of the injector and valve rocker arms in line horizontally. CAUTION: Left-hand turning en...",
+        "verified": true,
+        "char_start": 796,
+        "char_end": 1212,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 42,
+        "quote": "Remove the two bolts which hold the rocker arm shaft brackets to the cylinder head. Remove the brackets and the shaft.",
+        "verified": true,
+        "char_start": 1216,
+        "char_end": 1334,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm_shaft",
+      "name": "Rocker arm shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm_shaft",
+      "provenance": {
+        "page": 42,
+        "quote": "Remove the two bolts which hold the rocker arm shaft brackets to the cylinder head. Remove the brackets and the shaft.",
+        "verified": true,
+        "char_start": 1216,
+        "char_end": 1334,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 42,
+        "quote": "Remove the two bolts which hold the rocker arm shaft brackets to the cylinder head. Remove the brackets and the shaft.",
+        "verified": true,
+        "char_start": 1216,
+        "char_end": 1334,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 42,
+        "quote": "Remove the two bolts which hold the rocker arm shaft brackets to the cylinder head. Remove the brackets and the shaft.",
+        "verified": true,
+        "char_start": 1216,
+        "char_end": 1334,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 42,
+        "quote": "Remove the two bolts which hold the rocker arm shaft brackets to the cylinder head. Remove the brackets and the shaft.",
+        "verified": true,
+        "char_start": 1216,
+        "char_end": 1334,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 42,
+        "quote": "Loosen the lock nut at the upper end of the push rod. next to the clevis. and unscrew the rocker arm from the push rod. ycr = 010\" TOTAL \u043c\u0430\u0445) | 015\" TO 023\" TOTAL| DIAMETRIC \u2014 7| SIDE \u0438!",
+        "verified": true,
+        "char_start": 1338,
+        "char_end": 1524,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 42,
+        "quote": "Loosen the lock nut at the upper end of the push rod. next to the clevis. and unscrew the rocker arm from the push rod. ycr = 010\" TOTAL \u043c\u0430\u0445) | 015\" TO 023\" TOTAL| DIAMETRIC \u2014 7| SIDE \u0438!",
+        "verified": true,
+        "char_start": 1338,
+        "char_end": 1524,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 42,
+        "quote": "Loosen the lock nut at the upper end of the push rod. next to the clevis. and unscrew the rocker arm from the push rod. ycr = 010\" TOTAL \u043c\u0430\u0445) | 015\" TO 023\" TOTAL| DIAMETRIC \u2014 7| SIDE \u0438!",
+        "verified": true,
+        "char_start": 1338,
+        "char_end": 1524,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clean and remove the valve rocker cover.",
+      "source_number": 1,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "valve_rocker_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 42,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 516,
+        "char_end": 556,
+        "bbox": [
+          60.48,
+          508.9679999999999,
+          240.83039999999997,
+          516.9679999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the fuel pipes from the injector and the fuel connectors. CAUTION: immediately after removing the fuel pipes. cover each injector opening with a shipping cap to prevent dirt or other foreign matter from entering the injector.",
+      "source_number": 2,
+      "installs": [
+        "leaking_fuel_pipe",
+        "end_of_the_injector",
+        "fuel_connector"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: immediately after removing the fuel pipes.",
+      "provenance": {
+        "page": 42,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors. CAUTION: immediately after removing the fuel pipes. cover each injector opening with a shipping cap to prevent dirt or other foreign matter from entering the injector.",
+        "verified": true,
+        "char_start": 560,
+        "char_end": 792,
+        "bbox": [
+          49.67999999999992,
+          530.372,
+          292.4771999999999,
+          607.2099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Bar the engine over in the direction of engine rotation or crank the engine with the starting motor to bring the push rod ends -- the outer ends -- of the injector and valve rocker arms in line horizontally. CAUTION: Left-hand turning engines should not be barred in the direction of rotation by use of a wrench on the crankshaft bolt, to avoid the possibility of loosening the bolt. Fig. 4 - Testing Push Rod Spring",
+      "source_number": 3,
+      "installs": [
+        "starting_motor",
+        "push_rod",
+        "idler_gear_outer",
+        "engine_front_cover_valve",
+        "rocker_arm",
+        "tbe_lubricating_oil_line"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Left-hand turning engines should not be barred in the direction of rotation by use of a wrench on the crankshaft bolt, to avoid the possibility of loosening the bolt.",
+      "provenance": {
+        "page": 42,
+        "quote": "Bar the engine over in the direction of engine rotation or crank the engine with the starting motor to bring the push rod ends -- the outer ends -- of the injector and valve rocker arms in line horizontally. CAUTION: Left-hand turning en...",
+        "verified": true,
+        "char_start": 796,
+        "char_end": 1212,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the two bolts which hold the rocker arm shaft brackets to the cylinder head. Remove the brackets and the shaft.",
+      "source_number": 4,
+      "installs": [
+        "engine_front_cover_bolt",
+        "rocker_arm_shaft",
+        "booster_spring_bracket",
+        "cylinder_head",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 42,
+        "quote": "Remove the two bolts which hold the rocker arm shaft brackets to the cylinder head. Remove the brackets and the shaft.",
+        "verified": true,
+        "char_start": 1216,
+        "char_end": 1334,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Loosen the lock nut at the upper end of the push rod. next to the clevis. and unscrew the rocker arm from the push rod. ycr = 010\" TOTAL \u043c\u0430\u0445) | 015\" TO 023\" TOTAL| DIAMETRIC \u2014 7| SIDE \u0438!",
+      "source_number": 5,
+      "installs": [
+        "bearing_lock_nut",
+        "next",
+        "bearing_pilot_rod"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 42,
+        "quote": "Loosen the lock nut at the upper end of the push rod. next to the clevis. and unscrew the rocker arm from the push rod. ycr = 010\" TOTAL \u043c\u0430\u0445) | 015\" TO 023\" TOTAL| DIAMETRIC \u2014 7| SIDE \u0438!",
+        "verified": true,
+        "char_start": 1338,
+        "char_end": 1524,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

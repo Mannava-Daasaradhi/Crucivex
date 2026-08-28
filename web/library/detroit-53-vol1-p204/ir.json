@@ -1,0 +1,701 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.354 - Wedge a clean cloth between the rotors...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 354,
+        "quote": "Wedge a clean cloth between the rotors to prevent their turning. Then remove the blower gear retaining bolts and washers.",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1794,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cloth",
+      "name": "Cloth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cloth",
+      "provenance": {
+        "page": 354,
+        "quote": "Wedge a clean cloth between the rotors to prevent their turning. Then remove the blower gear retaining bolts and washers.",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1794,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "left_hand_helix_rotor",
+      "name": "Left-hand helix rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "left_hand_helix_rotor",
+      "provenance": {
+        "page": 354,
+        "quote": "Wedge a clean cloth between the rotors to prevent their turning. Then remove the blower gear retaining bolts and washers.",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1794,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_gear_retaining",
+      "name": "Blower gear retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_gear_retaining",
+      "provenance": {
+        "page": 354,
+        "quote": "Wedge a clean cloth between the rotors to prevent their turning. Then remove the blower gear retaining bolts and washers.",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1794,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 354,
+        "quote": "Wedge a clean cloth between the rotors to prevent their turning. Then remove the blower gear retaining bolts and washers.",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1794,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 354,
+        "quote": "Wedge a clean cloth between the rotors to prevent their turning. Then remove the blower gear retaining bolts and washers.",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1794,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "helix",
+      "name": "Helix",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "helix",
+      "provenance": {
+        "page": 354,
+        "quote": "For identification, mark the R.H. helix gear. Then remove the gears with pullers J 5825-01 as follows: a. With the pullers in place under the gears (Fig. 5), place a brass bar, approximately 1\u201d long and 5/8 \" diameter, between the point ...",
+        "verified": true,
+        "char_start": 1798,
+        "char_end": 2271,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 354,
+        "quote": "For identification, mark the R.H. helix gear. Then remove the gears with pullers J 5825-01 as follows: a. With the pullers in place under the gears (Fig. 5), place a brass bar, approximately 1\u201d long and 5/8 \" diameter, between the point ...",
+        "verified": true,
+        "char_start": 1798,
+        "char_end": 2271,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 354,
+        "quote": "For identification, mark the R.H. helix gear. Then remove the gears with pullers J 5825-01 as follows: a. With the pullers in place under the gears (Fig. 5), place a brass bar, approximately 1\u201d long and 5/8 \" diameter, between the point ...",
+        "verified": true,
+        "char_start": 1798,
+        "char_end": 2271,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "brass_bar",
+      "name": "Brass bar",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "brass_bar",
+      "provenance": {
+        "page": 354,
+        "quote": "For identification, mark the R.H. helix gear. Then remove the gears with pullers J 5825-01 as follows: a. With the pullers in place under the gears (Fig. 5), place a brass bar, approximately 1\u201d long and 5/8 \" diameter, between the point ...",
+        "verified": true,
+        "char_start": 1798,
+        "char_end": 2271,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_rotor",
+      "name": "Blower rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_rotor",
+      "provenance": {
+        "page": 354,
+        "quote": "For identification, mark the R.H. helix gear. Then remove the gears with pullers J 5825-01 as follows: a. With the pullers in place under the gears (Fig. 5), place a brass bar, approximately 1\u201d long and 5/8 \" diameter, between the point ...",
+        "verified": true,
+        "char_start": 1798,
+        "char_end": 2271,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 354,
+        "quote": "For identification, mark the R.H. helix gear. Then remove the gears with pullers J 5825-01 as follows: a. With the pullers in place under the gears (Fig. 5), place a brass bar, approximately 1\u201d long and 5/8 \" diameter, between the point ...",
+        "verified": true,
+        "char_start": 1798,
+        "char_end": 2271,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the rotor shims and the gear spacers and place them with their respective gears to ensure correct re-assembly.",
+        "verified": true,
+        "char_start": 2275,
+        "char_end": 2392,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the rotor shims and the gear spacers and place them with their respective gears to ensure correct re-assembly.",
+        "verified": true,
+        "char_start": 2275,
+        "char_end": 2392,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 354,
+        "quote": "At the other end of the blower. remove the three thrust plate bolts. the thrust plate and three spacers from the front end plate. Remove the bolts and thrust washers (refer to Fig. 7).",
+        "verified": true,
+        "char_start": 2396,
+        "char_end": 2580,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "thrust_plate",
+      "name": "Thrust plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thrust_plate",
+      "provenance": {
+        "page": 354,
+        "quote": "At the other end of the blower. remove the three thrust plate bolts. the thrust plate and three spacers from the front end plate. Remove the bolts and thrust washers (refer to Fig. 7).",
+        "verified": true,
+        "char_start": 2396,
+        "char_end": 2580,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 354,
+        "quote": "At the other end of the blower. remove the three thrust plate bolts. the thrust plate and three spacers from the front end plate. Remove the bolts and thrust washers (refer to Fig. 7).",
+        "verified": true,
+        "char_start": 2396,
+        "char_end": 2580,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_end_plate",
+      "name": "Front end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_end_plate",
+      "provenance": {
+        "page": 354,
+        "quote": "At the other end of the blower. remove the three thrust plate bolts. the thrust plate and three spacers from the front end plate. Remove the bolts and thrust washers (refer to Fig. 7).",
+        "verified": true,
+        "char_start": 2396,
+        "char_end": 2580,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 354,
+        "quote": "At the other end of the blower. remove the three thrust plate bolts. the thrust plate and three spacers from the front end plate. Remove the bolts and thrust washers (refer to Fig. 7).",
+        "verified": true,
+        "char_start": 2396,
+        "char_end": 2580,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two screws that retain the end plate to the blower housing. Tap the end plate off of the dowel pins and housing with a soft (plastic) hammer, being careful not to damage the mating surfaces of the end plate and the housing.",
+        "verified": true,
+        "char_start": 2584,
+        "char_end": 2818,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shaft_blower_housing",
+      "name": "Rotor shaft blower housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shaft_blower_housing",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two screws that retain the end plate to the blower housing. Tap the end plate off of the dowel pins and housing with a soft (plastic) hammer, being careful not to damage the mating surfaces of the end plate and the housing.",
+        "verified": true,
+        "char_start": 2584,
+        "char_end": 2818,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two screws that retain the end plate to the blower housing. Tap the end plate off of the dowel pins and housing with a soft (plastic) hammer, being careful not to damage the mating surfaces of the end plate and the housing.",
+        "verified": true,
+        "char_start": 2584,
+        "char_end": 2818,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two screws that retain the end plate to the blower housing. Tap the end plate off of the dowel pins and housing with a soft (plastic) hammer, being careful not to damage the mating surfaces of the end plate and the housing.",
+        "verified": true,
+        "char_start": 2584,
+        "char_end": 2818,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "retaining_screw",
+      "name": "Retaining screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "retaining_screw",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the rotors from the blower housing. 7, Remove the retaining screws and remove the rear end plate as in Step 5.",
+        "verified": true,
+        "char_start": 2822,
+        "char_end": 2939,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove and discard the lip type oil seals from the end plates on current blowers. Remove the seal washer, *O\" ring. retainer and retainer spring from each rotor shaft on former blowers. 4-53 and 6V-53 ENGINE BLOWERS",
+        "verified": true,
+        "char_start": 2943,
+        "char_end": 3158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove and discard the lip type oil seals from the end plates on current blowers. Remove the seal washer, *O\" ring. retainer and retainer spring from each rotor shaft on former blowers. 4-53 and 6V-53 ENGINE BLOWERS",
+        "verified": true,
+        "char_start": 2943,
+        "char_end": 3158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_washer",
+      "name": "Seal washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_washer",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove and discard the lip type oil seals from the end plates on current blowers. Remove the seal washer, *O\" ring. retainer and retainer spring from each rotor shaft on former blowers. 4-53 and 6V-53 ENGINE BLOWERS",
+        "verified": true,
+        "char_start": 2943,
+        "char_end": 3158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove and discard the lip type oil seals from the end plates on current blowers. Remove the seal washer, *O\" ring. retainer and retainer spring from each rotor shaft on former blowers. 4-53 and 6V-53 ENGINE BLOWERS",
+        "verified": true,
+        "char_start": 2943,
+        "char_end": 3158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove and discard the lip type oil seals from the end plates on current blowers. Remove the seal washer, *O\" ring. retainer and retainer spring from each rotor shaft on former blowers. 4-53 and 6V-53 ENGINE BLOWERS",
+        "verified": true,
+        "char_start": 2943,
+        "char_end": 3158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "retainer_spring",
+      "name": "Retainer spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "retainer_spring",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove and discard the lip type oil seals from the end plates on current blowers. Remove the seal washer, *O\" ring. retainer and retainer spring from each rotor shaft on former blowers. 4-53 and 6V-53 ENGINE BLOWERS",
+        "verified": true,
+        "char_start": 2943,
+        "char_end": 3158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove and discard the lip type oil seals from the end plates on current blowers. Remove the seal washer, *O\" ring. retainer and retainer spring from each rotor shaft on former blowers. 4-53 and 6V-53 ENGINE BLOWERS",
+        "verified": true,
+        "char_start": 2943,
+        "char_end": 3158,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Wedge a clean cloth between the rotors to prevent their turning. Then remove the blower gear retaining bolts and washers.",
+      "source_number": 1,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "cloth",
+        "left_hand_helix_rotor",
+        "blower_gear_retaining",
+        "engine_front_cover_bolt",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Wedge a clean cloth between the rotors to prevent their turning. Then remove the blower gear retaining bolts and washers.",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1794,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "For identification, mark the R.H. helix gear. Then remove the gears with pullers J 5825-01 as follows: a. With the pullers in place under the gears (Fig. 5), place a brass bar, approximately 1\u201d long and 5/8 \" diameter, between the point of each puller bolt and blower rotor shaft. CAUTION: If the brass bar is larger than 5/8 \" diameter. the serrations in the blower drive gear may be damaged. b. Alternately turn the bolt in each puller until the gears are off the shafts.",
+      "source_number": 2,
+      "installs": [
+        "helix",
+        "fuel_pump_drive_gear",
+        "nut_securing_fig",
+        "brass_bar",
+        "blower_rotor",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: If the brass bar is larger than 5/8 \" diameter.",
+      "provenance": {
+        "page": 354,
+        "quote": "For identification, mark the R.H. helix gear. Then remove the gears with pullers J 5825-01 as follows: a. With the pullers in place under the gears (Fig. 5), place a brass bar, approximately 1\u201d long and 5/8 \" diameter, between the point ...",
+        "verified": true,
+        "char_start": 1798,
+        "char_end": 2271,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the rotor shims and the gear spacers and place them with their respective gears to ensure correct re-assembly.",
+      "source_number": 3,
+      "installs": [
+        "rotor_shim",
+        "drive_gear_spacer"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the rotor shims and the gear spacers and place them with their respective gears to ensure correct re-assembly.",
+        "verified": true,
+        "char_start": 2275,
+        "char_end": 2392,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "At the other end of the blower. remove the three thrust plate bolts. the thrust plate and three spacers from the front end plate. Remove the bolts and thrust washers (refer to Fig. 7).",
+      "source_number": 4,
+      "installs": [
+        "assembly_examine_the_blower",
+        "thrust_plate",
+        "assembly_rear_end_plate",
+        "front_end_plate",
+        "crankshaft_thrust_washer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "At the other end of the blower. remove the three thrust plate bolts. the thrust plate and three spacers from the front end plate. Remove the bolts and thrust washers (refer to Fig. 7).",
+        "verified": true,
+        "char_start": 2396,
+        "char_end": 2580,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the two screws that retain the end plate to the blower housing. Tap the end plate off of the dowel pins and housing with a soft (plastic) hammer, being careful not to damage the mating surfaces of the end plate and the housing.",
+      "source_number": 5,
+      "installs": [
+        "of_the_buffer_screw",
+        "rotor_shaft_blower_housing",
+        "copper_plated_dowel_pin",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two screws that retain the end plate to the blower housing. Tap the end plate off of the dowel pins and housing with a soft (plastic) hammer, being careful not to damage the mating surfaces of the end plate and the housing.",
+        "verified": true,
+        "char_start": 2584,
+        "char_end": 2818,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the rotors from the blower housing. 7, Remove the retaining screws and remove the rear end plate as in Step 5.",
+      "source_number": 6,
+      "installs": [
+        "retaining_screw"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the rotors from the blower housing. 7, Remove the retaining screws and remove the rear end plate as in Step 5.",
+        "verified": true,
+        "char_start": 2822,
+        "char_end": 2939,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove and discard the lip type oil seals from the end plates on current blowers. Remove the seal washer, *O\" ring. retainer and retainer spring from each rotor shaft on former blowers. 4-53 and 6V-53 ENGINE BLOWERS",
+      "source_number": 8,
+      "installs": [
+        "crankshaft_front_oil_seal",
+        "engine_front_cover_current",
+        "seal_washer",
+        "bottom_oil_ring",
+        "drive_shaft_retainer",
+        "retainer_spring",
+        "of_the_former"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Remove and discard the lip type oil seals from the end plates on current blowers. Remove the seal washer, *O\" ring. retainer and retainer spring from each rotor shaft on former blowers. 4-53 and 6V-53 ENGINE BLOWERS",
+        "verified": true,
+        "char_start": 2943,
+        "char_end": 3158,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

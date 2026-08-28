@@ -1,0 +1,554 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.122 - Remove the gear from the shaft. Refer...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the gear from the shaft. Refer to Section 1.7.3.",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 1672,
+        "bbox": [
+          324.9599999999999,
+          362.72999999999996,
+          565.0083999999998,
+          383.77
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the gear from the shaft. Refer to Section 1.7.3.",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 1672,
+        "bbox": [
+          324.9599999999999,
+          362.72999999999996,
+          565.0083999999998,
+          383.77
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_plug",
+      "name": "End plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_plug",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "foreign_material",
+      "name": "Foreign material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "foreign_material",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_lobe",
+      "name": "Blower the lobe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_lobe",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drill",
+      "name": "Drill",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drill",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "steel_rod",
+      "name": "Steel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "steel_rod",
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 124,
+        "quote": "Then, with the unthreaded end of the shaft J 7593-1 started through the pilot. push the shaft through the block bore until the end of the shaft snaps into the remover J 7593-5.",
+        "verified": true,
+        "char_start": 1124,
+        "char_end": 1300,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 124,
+        "quote": "Now drive the end bearing out of the cylinder block. The nearest intermediate and/or center bearings can be removed now in the same manner. The large diameter end of pilot J 7593-2 will fit into",
+        "verified": true,
+        "char_start": 1304,
+        "char_end": 1498,
+        "bbox": [
+          56.39999999999995,
+          475.48999999999995,
+          298.8336,
+          516.25
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 124,
+        "quote": "Now drive the end bearing out of the cylinder block. The nearest intermediate and/or center bearings can be removed now in the same manner. The large diameter end of pilot J 7593-2 will fit into",
+        "verified": true,
+        "char_start": 1304,
+        "char_end": 1498,
+        "bbox": [
+          56.39999999999995,
+          475.48999999999995,
+          298.8336,
+          516.25
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "intermediate",
+      "name": "Intermediate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "intermediate",
+      "provenance": {
+        "page": 124,
+        "quote": "Now drive the end bearing out of the cylinder block. The nearest intermediate and/or center bearings can be removed now in the same manner. The large diameter end of pilot J 7593-2 will fit into",
+        "verified": true,
+        "char_start": 1304,
+        "char_end": 1498,
+        "bbox": [
+          56.39999999999995,
+          475.48999999999995,
+          298.8336,
+          516.25
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "center_bearing",
+      "name": "Center bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_bearing",
+      "provenance": {
+        "page": 124,
+        "quote": "Now drive the end bearing out of the cylinder block. The nearest intermediate and/or center bearings can be removed now in the same manner. The large diameter end of pilot J 7593-2 will fit into",
+        "verified": true,
+        "char_start": 1304,
+        "char_end": 1498,
+        "bbox": [
+          56.39999999999995,
+          475.48999999999995,
+          298.8336,
+          516.25
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the gear from the shaft. Refer to Section 1.7.3.",
+      "source_number": 1,
+      "installs": [
+        "fuel_pump_drive_gear",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the gear from the shaft. Refer to Section 1.7.3.",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 1672,
+        "bbox": [
+          324.9599999999999,
+          362.72999999999996,
+          565.0083999999998,
+          383.77
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined surfaces of the shaft. b. Make an indentation in the center of the camshaft end plug with a 31/64 \u201d drill (carboloy up). c. Punch a hole as deeply as possible with a center punch to aid in breaking through the hardened surface of the plug. d. Then, drill a hole straight through the center of the plug with a 1/4 \u201d drill (carboloy tip). e, Use the 1/4 \" drilled hole as a guide and redrill the plug with a 5/16 \u201d drill (carboloy tip). f. Tap the drilled hole with a 3/8 \"-16 tap. g. Thread a 3/8 \"-16 adaptor J 8183 into the plug. Then, attach a slide hammer J 6471-1 to the adaptor and remove the plug by striking the weight against the handle. h. Insert a length of 3/8 \" steel rod in the camshaft oil gallery and drive the remaining plug out.",
+      "source_number": 2,
+      "installs": [
+        "end_plug",
+        "camshaft",
+        "foreign_material",
+        "edge_of_the_plug",
+        "breather_tube_clamp",
+        "t_push_rod_cam",
+        "blower_the_lobe",
+        "drill",
+        "of_the_oil_hole",
+        "press_the_shaft_straight",
+        "indicate_the_spray_tip",
+        "cam_follower_guide",
+        "bolt_thread",
+        "front_balance_weight",
+        "exhaust_valve_seat_insert",
+        "steel_rod"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 122,
+        "quote": "Remove the end plugs from the camshaft, to facilitate the removal of any foreign material lodged behind the plugs, as follows: a. Clamp the camshaft in a vise equipped with soft jaws, being careful not to damage the cam lobes or machined...",
+        "verified": true,
+        "char_start": 1676,
+        "char_end": 2659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Then, with the unthreaded end of the shaft J 7593-1 started through the pilot. push the shaft through the block bore until the end of the shaft snaps into the remover J 7593-5.",
+      "source_number": 3,
+      "installs": [
+        "needle_bearing_pilot"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 124,
+        "quote": "Then, with the unthreaded end of the shaft J 7593-1 started through the pilot. push the shaft through the block bore until the end of the shaft snaps into the remover J 7593-5.",
+        "verified": true,
+        "char_start": 1124,
+        "char_end": 1300,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Now drive the end bearing out of the cylinder block. The nearest intermediate and/or center bearings can be removed now in the same manner. The large diameter end of pilot J 7593-2 will fit into",
+      "source_number": 4,
+      "installs": [
+        "bearing_the_end_bearing",
+        "of_the_block",
+        "intermediate",
+        "center_bearing"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 124,
+        "quote": "Now drive the end bearing out of the cylinder block. The nearest intermediate and/or center bearings can be removed now in the same manner. The large diameter end of pilot J 7593-2 will fit into",
+        "verified": true,
+        "char_start": 1304,
+        "char_end": 1498,
+        "bbox": [
+          56.39999999999995,
+          475.48999999999995,
+          298.8336,
+          516.25
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

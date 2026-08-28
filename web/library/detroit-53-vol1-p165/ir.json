@@ -1,0 +1,305 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.283 - Install the speed adjusting screws (36) and...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "speed_adjusting_screw",
+      "name": "Speed adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_screw",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the speed adjusting screws (36) and (37) and lock nuts.",
+        "verified": true,
+        "char_start": 378,
+        "char_end": 441,
+        "bbox": [
+          86.16000000000003,
+          186.92899999999997,
+          325.1274,
+          209.17099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the speed adjusting screws (36) and (37) and lock nuts.",
+        "verified": true,
+        "char_start": 378,
+        "char_end": 441,
+        "bbox": [
+          86.16000000000003,
+          186.92899999999997,
+          325.1274,
+          209.17099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the bearing (12) in the bearing housing (43). Press against the outer race only. Secure the bearing in place with a snap ring (11).",
+        "verified": true,
+        "char_start": 446,
+        "char_end": 585,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_housing",
+      "name": "Bearing housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_housing",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the bearing (12) in the bearing housing (43). Press against the outer race only. Secure the bearing in place with a snap ring (11).",
+        "verified": true,
+        "char_start": 446,
+        "char_end": 585,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the bearing (12) in the bearing housing (43). Press against the outer race only. Secure the bearing in place with a snap ring (11).",
+        "verified": true,
+        "char_start": 446,
+        "char_end": 585,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spider",
+      "provenance": {
+        "page": 283,
+        "quote": "If the spider was removed from the weight shaft, press the spider on the shaft so as to allow a clearance of 001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+        "verified": true,
+        "char_start": 590,
+        "char_end": 772,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 283,
+        "quote": "If the spider was removed from the weight shaft, press the spider on the shaft so as to allow a clearance of 001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+        "verified": true,
+        "char_start": 590,
+        "char_end": 772,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 283,
+        "quote": "If the spider was removed from the weight shaft, press the spider on the shaft so as to allow a clearance of 001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+        "verified": true,
+        "char_start": 590,
+        "char_end": 772,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 283,
+        "quote": "If the spider was removed from the weight shaft, press the spider on the shaft so as to allow a clearance of 001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+        "verified": true,
+        "char_start": 590,
+        "char_end": 772,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 283,
+        "quote": "Slide the spacer (55), bearing (12) and gear spacer",
+        "verified": true,
+        "char_start": 777,
+        "char_end": 828,
+        "bbox": [
+          101.28,
+          316.76899999999995,
+          325.75620000000004,
+          326.76899999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the speed adjusting screws (36) and (37) and lock nuts.",
+      "source_number": 10,
+      "installs": [
+        "speed_adjusting_screw",
+        "bearing_lock_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 283,
+        "quote": "Install the speed adjusting screws (36) and (37) and lock nuts.",
+        "verified": true,
+        "char_start": 378,
+        "char_end": 441,
+        "bbox": [
+          86.16000000000003,
+          186.92899999999997,
+          325.1274,
+          209.17099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the bearing (12) in the bearing housing (43). Press against the outer race only. Secure the bearing in place with a snap ring (11).",
+      "source_number": 11,
+      "installs": [
+        "bearing_the_end_bearing",
+        "bearing_housing",
+        "external_snap_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 283,
+        "quote": "Install the bearing (12) in the bearing housing (43). Press against the outer race only. Secure the bearing in place with a snap ring (11).",
+        "verified": true,
+        "char_start": 446,
+        "char_end": 585,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "If the spider was removed from the weight shaft, press the spider on the shaft so as to allow a clearance of 001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+      "source_number": 12,
+      "installs": [
+        "spider",
+        "governor_weight_shaft",
+        "end_of_the_shaft",
+        "shoulder"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 283,
+        "quote": "If the spider was removed from the weight shaft, press the spider on the shaft so as to allow a clearance of 001\" to .006\" between the shaft shoulder and the rear face of the spider.",
+        "verified": true,
+        "char_start": 590,
+        "char_end": 772,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Slide the spacer (55), bearing (12) and gear spacer",
+      "source_number": 13,
+      "installs": [
+        "drive_gear_spacer"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 283,
+        "quote": "Slide the spacer (55), bearing (12) and gear spacer",
+        "verified": true,
+        "char_start": 777,
+        "char_end": 828,
+        "bbox": [
+          101.28,
+          316.76899999999995,
+          325.75620000000004,
+          326.76899999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

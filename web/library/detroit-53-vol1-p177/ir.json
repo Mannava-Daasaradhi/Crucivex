@@ -1,0 +1,444 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.307 - Remove the throttle control terminal lever retracting...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "throttle_control_terminal",
+      "name": "Throttle control terminal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_control_terminal",
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the throttle control terminal lever retracting spring from the terminal lever.",
+        "verified": true,
+        "char_start": 628,
+        "char_end": 713,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lever_retracting_spring",
+      "name": "Lever retracting spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lever_retracting_spring",
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the throttle control terminal lever retracting spring from the terminal lever.",
+        "verified": true,
+        "char_start": 628,
+        "char_end": 713,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "terminal_lever",
+      "name": "Terminal lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "terminal_lever",
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the throttle control terminal lever retracting spring from the terminal lever.",
+        "verified": true,
+        "char_start": 628,
+        "char_end": 713,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 307,
+        "quote": "Disconnect the fuel rod from the throttle control terminal lever.",
+        "verified": true,
+        "char_start": 717,
+        "char_end": 782,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 307,
+        "quote": "Disconnect the fuel rod from the throttle control terminal lever.",
+        "verified": true,
+        "char_start": 717,
+        "char_end": 782,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the nut and lock washer securing the 1 \u0449 Lu] \u0447",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 839,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the nut and lock washer securing the 1 \u0449 Lu] \u0447",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 839,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_inlet_tube",
+      "name": "Oil inlet tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_inlet_tube",
+      "provenance": {
+        "page": 307,
+        "quote": "Disconnect the oil inlet tube assembly from the governor oil inlet plug.",
+        "verified": true,
+        "char_start": 1037,
+        "char_end": 1109,
+        "bbox": [
+          328.08,
+          476.16799999999995,
+          567.5950799999999,
+          496.0809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_oil_inlet",
+      "name": "Governor oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_oil_inlet",
+      "provenance": {
+        "page": 307,
+        "quote": "Disconnect the oil inlet tube assembly from the governor oil inlet plug.",
+        "verified": true,
+        "char_start": 1037,
+        "char_end": 1109,
+        "bbox": [
+          328.08,
+          476.16799999999995,
+          567.5950799999999,
+          496.0809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 307,
+        "quote": "Disconnect the oil inlet tube assembly from the governor oil inlet plug.",
+        "verified": true,
+        "char_start": 1037,
+        "char_end": 1109,
+        "bbox": [
+          328.08,
+          476.16799999999995,
+          567.5950799999999,
+          496.0809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 307,
+        "quote": "On a governor equipped with a synchronizing motor, tag and disconnect the wires from the motor.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1208,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 307,
+        "quote": "On a governor equipped with a synchronizing motor, tag and disconnect the wires from the motor.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1208,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the four bolts and lock washers securing the governor assembly to the governor drive housing and remove the governor assembly and gasket.",
+        "verified": true,
+        "char_start": 1212,
+        "char_end": 1356,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_assembly",
+      "name": "Governor assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_assembly",
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the four bolts and lock washers securing the governor assembly to the governor drive housing and remove the governor assembly and gasket.",
+        "verified": true,
+        "char_start": 1212,
+        "char_end": 1356,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_housing",
+      "name": "Governor drive housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_housing",
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the four bolts and lock washers securing the governor assembly to the governor drive housing and remove the governor assembly and gasket.",
+        "verified": true,
+        "char_start": 1212,
+        "char_end": 1356,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the four bolts and lock washers securing the governor assembly to the governor drive housing and remove the governor assembly and gasket.",
+        "verified": true,
+        "char_start": 1212,
+        "char_end": 1356,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the throttle control terminal lever retracting spring from the terminal lever.",
+      "source_number": 1,
+      "installs": [
+        "throttle_control_terminal",
+        "lever_retracting_spring",
+        "terminal_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the throttle control terminal lever retracting spring from the terminal lever.",
+        "verified": true,
+        "char_start": 628,
+        "char_end": 713,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Disconnect the fuel rod from the throttle control terminal lever.",
+      "source_number": 2,
+      "installs": [
+        "governor_fuel_rod",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 307,
+        "quote": "Disconnect the fuel rod from the throttle control terminal lever.",
+        "verified": true,
+        "char_start": 717,
+        "char_end": 782,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the nut and lock washer securing the 1 \u0449 Lu] \u0447",
+      "source_number": 3,
+      "installs": [
+        "front_balance_weight_nut",
+        "special_lock_washer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the nut and lock washer securing the 1 \u0449 Lu] \u0447",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 839,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Disconnect the oil inlet tube assembly from the governor oil inlet plug.",
+      "source_number": 4,
+      "installs": [
+        "oil_inlet_tube",
+        "governor_oil_inlet",
+        "edge_of_the_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 307,
+        "quote": "Disconnect the oil inlet tube assembly from the governor oil inlet plug.",
+        "verified": true,
+        "char_start": 1037,
+        "char_end": 1109,
+        "bbox": [
+          328.08,
+          476.16799999999995,
+          567.5950799999999,
+          496.0809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "On a governor equipped with a synchronizing motor, tag and disconnect the wires from the motor.",
+      "source_number": 5,
+      "installs": [
+        "blower_the_engine_governor",
+        "lock_wire"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 307,
+        "quote": "On a governor equipped with a synchronizing motor, tag and disconnect the wires from the motor.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1208,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the four bolts and lock washers securing the governor assembly to the governor drive housing and remove the governor assembly and gasket.",
+      "source_number": 6,
+      "installs": [
+        "engine_front_cover_bolt",
+        "governor_assembly",
+        "governor_drive_housing",
+        "head_gasket"
+      ],
+      "depends_on": [
+        "s03",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 307,
+        "quote": "Remove the four bolts and lock washers securing the governor assembly to the governor drive housing and remove the governor assembly and gasket.",
+        "verified": true,
+        "char_start": 1212,
+        "char_end": 1356,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

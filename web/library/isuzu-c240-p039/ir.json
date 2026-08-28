@@ -1,0 +1,548 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.122 - Fill the engine with the specified oil...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "electrical_wiring",
+      "name": "Electrical wiring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "electrical_wiring",
+      "provenance": {
+        "page": 122,
+        "quote": "Connect the electrical wiring. Refer to the wiring diagram. Connect the air intake line to the air cleaner. Connect the exhaust pipe.",
+        "verified": true,
+        "char_start": 350,
+        "char_end": 483,
+        "bbox": [
+          309.12,
+          609.9798000000001,
+          515.6135466666668,
+          667.9205666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "air_intake_line",
+      "name": "Air intake line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_intake_line",
+      "provenance": {
+        "page": 122,
+        "quote": "Connect the electrical wiring. Refer to the wiring diagram. Connect the air intake line to the air cleaner. Connect the exhaust pipe.",
+        "verified": true,
+        "char_start": 350,
+        "char_end": 483,
+        "bbox": [
+          309.12,
+          609.9798000000001,
+          515.6135466666668,
+          667.9205666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "exhaust_pipe",
+      "name": "Exhaust pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_pipe",
+      "provenance": {
+        "page": 122,
+        "quote": "Connect the electrical wiring. Refer to the wiring diagram. Connect the air intake line to the air cleaner. Connect the exhaust pipe.",
+        "verified": true,
+        "char_start": 350,
+        "char_end": 483,
+        "bbox": [
+          309.12,
+          609.9798000000001,
+          515.6135466666668,
+          667.9205666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_pump",
+      "name": "Oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pump",
+      "provenance": {
+        "page": 123,
+        "quote": "Check that the engine oil is continuously circulating from the oil pump to the valve rockers through the cylinder head. If there is no oil circulation or if the oil circulation is sluggish, stop the engine and make the appropriate repair...",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 496,
+        "bbox": [
+          306.7199999999999,
+          158.0938,
+          554.829672,
+          247.9295666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "turbocharger_assembly_valve",
+      "name": "Turbocharger assembly valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbocharger_assembly_valve",
+      "provenance": {
+        "page": 123,
+        "quote": "Check that the engine oil is continuously circulating from the oil pump to the valve rockers through the cylinder head. If there is no oil circulation or if the oil circulation is sluggish, stop the engine and make the appropriate repair...",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 496,
+        "bbox": [
+          306.7199999999999,
+          158.0938,
+          554.829672,
+          247.9295666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 123,
+        "quote": "Check that the engine oil is continuously circulating from the oil pump to the valve rockers through the cylinder head. If there is no oil circulation or if the oil circulation is sluggish, stop the engine and make the appropriate repair...",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 496,
+        "bbox": [
+          306.7199999999999,
+          158.0938,
+          554.829672,
+          247.9295666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head_cover",
+      "name": "Cylinder head cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_cover",
+      "provenance": {
+        "page": 123,
+        "quote": "Check that the engine oil is continuously circulating from the oil pump to the valve rockers through the cylinder head. If there is no oil circulation or if the oil circulation is sluggish, stop the engine and make the appropriate repair...",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 496,
+        "bbox": [
+          306.7199999999999,
+          158.0938,
+          554.829672,
+          247.9295666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "intake",
+      "name": "Intake",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "intake",
+      "provenance": {
+        "page": 123,
+        "quote": "Increase the engine speed to 1,500 rpm to do the engine warming-up operation. 14. Check the engine for oil, fuel, coolant, and air intake leakage. .",
+        "verified": true,
+        "char_start": 501,
+        "char_end": 649,
+        "bbox": [
+          288.0,
+          254.3338,
+          552.5587979999999,
+          304.08956666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Fill the engine with the specified oil. [>+| 3. Connect the cooling pipes pipes and the fuel pipes.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 122,
+        "quote": "Fill the engine with the specified oil. [>+| 3. Connect the cooling pipes pipes and the fuel pipes.",
+        "verified": true,
+        "char_start": 158,
+        "char_end": 257,
+        "bbox": [
+          247.68,
+          121.97379999999998,
+          545.6767500000001,
+          147.49350000000004
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Connect the electrical wiring. Refer to the wiring diagram. Connect the air intake line to the air cleaner. Connect the exhaust pipe.",
+      "source_number": 4,
+      "installs": [
+        "electrical_wiring",
+        "air_intake_line",
+        "exhaust_pipe"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 122,
+        "quote": "Connect the electrical wiring. Refer to the wiring diagram. Connect the air intake line to the air cleaner. Connect the exhaust pipe.",
+        "verified": true,
+        "char_start": 350,
+        "char_end": 483,
+        "bbox": [
+          309.12,
+          609.9798000000001,
+          515.6135466666668,
+          667.9205666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Manually operate the fuel feed pump to feed fuel to the engine.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 122,
+        "quote": "Manually operate the fuel feed pump to feed fuel to the engine.",
+        "verified": true,
+        "char_start": 494,
+        "char_end": 557,
+        "bbox": [
+          309.6,
+          673.7838,
+          554.864088,
+          696.2565666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Bleed the fuel lines of air.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 122,
+        "quote": "Bleed the fuel lines of air.",
+        "verified": true,
+        "char_start": 561,
+        "char_end": 589,
+        "bbox": [
+          310.32000000000005,
+          702.8771,
+          429.598524,
+          711.9771000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Check that the engine oil is continuously circulating from the oil pump to the valve rockers through the cylinder head. If there is no oil circulation or if the oil circulation is sluggish, stop the engine and make the appropriate repairs or adjustments. Reinstall the cylinder head cover.",
+      "source_number": 12,
+      "installs": [
+        "oil_pump",
+        "turbocharger_assembly_valve",
+        "cylinder_head",
+        "cylinder_head_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 123,
+        "quote": "Check that the engine oil is continuously circulating from the oil pump to the valve rockers through the cylinder head. If there is no oil circulation or if the oil circulation is sluggish, stop the engine and make the appropriate repair...",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 496,
+        "bbox": [
+          306.7199999999999,
+          158.0938,
+          554.829672,
+          247.9295666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Increase the engine speed to 1,500 rpm to do the engine warming-up operation. 14. Check the engine for oil, fuel, coolant, and air intake leakage. .",
+      "source_number": 13,
+      "installs": [
+        "intake"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 123,
+        "quote": "Increase the engine speed to 1,500 rpm to do the engine warming-up operation. 14. Check the engine for oil, fuel, coolant, and air intake leakage. .",
+        "verified": true,
+        "char_start": 501,
+        "char_end": 649,
+        "bbox": [
+          288.0,
+          254.3338,
+          552.5587979999999,
+          304.08956666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Check for abnormal noise and odor.",
+      "source_number": 15,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 123,
+        "quote": "Check for abnormal noise and odor.",
+        "verified": true,
+        "char_start": 654,
+        "char_end": 688,
+        "bbox": [
+          306.72,
+          310.14360000000005,
+          474.66104,
+          320.4102666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Check for abnormal electrical charging.",
+      "source_number": 16,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 123,
+        "quote": "Check for abnormal electrical charging.",
+        "verified": true,
+        "char_start": 693,
+        "char_end": 732,
+        "bbox": [
+          306.96000000000004,
+          326.44290000000007,
+          489.079083,
+          336.00956666666673
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Check the engine fastening parts for looseness.",
+      "source_number": 17,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 123,
+        "quote": "Check the engine fastening parts for looseness.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 784,
+        "bbox": [
+          306.96000000000004,
+          342.05670000000003,
+          527.81248,
+          352.0900333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "When the engine coolant temperature reached to 75\u00b0C (167\u00b0F) or more, increase the engine speed to 2,000 rpm and allow it to run for twenty minutes. This will give the engine the essential run-in operating time.",
+      "source_number": 18,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 123,
+        "quote": "When the engine coolant temperature reached to 75\u00b0C (167\u00b0F) or more, increase the engine speed to 2,000 rpm and allow it to run for twenty minutes. This will give the engine the essential run-in operating time.",
+        "verified": true,
+        "char_start": 789,
+        "char_end": 999,
+        "bbox": [
+          306.47999999999985,
+          358.4938,
+          553.168312,
+          420.4898
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Adjust the engine operation speed to the specified value.",
+      "source_number": 19,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 123,
+        "quote": "Adjust the engine operation speed to the specified value.",
+        "verified": true,
+        "char_start": 1023,
+        "char_end": 1080,
+        "bbox": [
+          306.72,
+          426.6607,
+          551.522784,
+          448.69280000000003
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Stop the engine to complete the tuning procedure.",
+      "source_number": 20,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 123,
+        "quote": "Stop the engine to complete the tuning procedure.",
+        "verified": true,
+        "char_start": 1085,
+        "char_end": 1134,
+        "bbox": [
+          307.2,
+          454.9698,
+          544.1875,
+          464.7698
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

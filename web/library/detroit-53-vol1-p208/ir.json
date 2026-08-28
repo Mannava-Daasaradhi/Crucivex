@@ -1,0 +1,1149 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.363 - Install the blower and governor assembly on...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_assembly",
+      "name": "Governor assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_assembly",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "guide_stud",
+      "name": "Guide stud",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "guide_stud",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "light_governor_weight",
+      "name": "Light governor weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "light_governor_weight",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_assembly",
+      "name": "Governor drive assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_assembly",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_gear",
+      "name": "Blower drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_gear",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support_assembly",
+      "name": "Blower drive support assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support_assembly",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_plate",
+      "name": "Governor drive plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_plate",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_assemble_blower_drive",
+      "name": "Assembly assemble blower drive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_assemble_blower_drive",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 363,
+        "quote": "Secure the small end of the blower drive support to the flywheel housing with two 3/8 \"-16 bolts and copper washers. Tighten the bolts to 20-25 lb-ft torque.",
+        "verified": true,
+        "char_start": 1851,
+        "char_end": 2008,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 363,
+        "quote": "Insert the blower drive shaft into the blower gear shaft. If necessary, turn the crankshaft so that the serrations on the blower drive shaft register with the serrations in the blower drive cam and the blower drive gear shaft.",
+        "verified": true,
+        "char_start": 2012,
+        "char_end": 2238,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_shaft",
+      "name": "Blower drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_shaft",
+      "provenance": {
+        "page": 363,
+        "quote": "Insert the blower drive shaft into the blower gear shaft. If necessary, turn the crankshaft so that the serrations on the blower drive shaft register with the serrations in the blower drive cam and the blower drive gear shaft.",
+        "verified": true,
+        "char_start": 2012,
+        "char_end": 2238,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 363,
+        "quote": "Insert the blower drive shaft into the blower gear shaft. If necessary, turn the crankshaft so that the serrations on the blower drive shaft register with the serrations in the blower drive cam and the blower drive gear shaft.",
+        "verified": true,
+        "char_start": 2012,
+        "char_end": 2238,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_cam",
+      "name": "Blower drive cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_cam",
+      "provenance": {
+        "page": 363,
+        "quote": "Insert the blower drive shaft into the blower gear shaft. If necessary, turn the crankshaft so that the serrations on the blower drive shaft register with the serrations in the blower drive cam and the blower drive gear shaft.",
+        "verified": true,
+        "char_start": 2012,
+        "char_end": 2238,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the snap ring in the blower drive gear shaft to secure the blower drive shaft.",
+        "verified": true,
+        "char_start": 2242,
+        "char_end": 2328,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 363,
+        "quote": "Attach a new gasket to the blower drive support cover. Then secure the cover to the support with four 3/8 \u201d'-16 bolts and lock washers. Tighten the bolts to 20-25 lb-ft torque.",
+        "verified": true,
+        "char_start": 2332,
+        "char_end": 2508,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 363,
+        "quote": "Attach a new gasket to the blower drive support cover. Then secure the cover to the support with four 3/8 \u201d'-16 bolts and lock washers. Tighten the bolts to 20-25 lb-ft torque.",
+        "verified": true,
+        "char_start": 2332,
+        "char_end": 2508,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_to_block_bolt",
+      "name": "Blower-to-block bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_to_block_bolt",
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower-to-block bolts to 55-60 lb-ft torque.",
+        "verified": true,
+        "char_start": 2512,
+        "char_end": 2568,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "upper_fuel_rod",
+      "name": "Upper fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_fuel_rod",
+      "provenance": {
+        "page": 363,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and attach the rods to the governor control link lever.",
+        "verified": true,
+        "char_start": 2573,
+        "char_end": 2683,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_rod_cover",
+      "name": "Fuel rod cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_rod_cover",
+      "provenance": {
+        "page": 363,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and attach the rods to the governor control link lever.",
+        "verified": true,
+        "char_start": 2573,
+        "char_end": 2683,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 363,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and attach the rods to the governor control link lever.",
+        "verified": true,
+        "char_start": 2573,
+        "char_end": 2683,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_link_lever",
+      "name": "Control link lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_lever",
+      "provenance": {
+        "page": 363,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and attach the rods to the governor control link lever.",
+        "verified": true,
+        "char_start": 2573,
+        "char_end": 2683,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lower_fuel_rod",
+      "name": "Lower fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_fuel_rod",
+      "provenance": {
+        "page": 363,
+        "quote": "Attach the lower fuel rods to the injector control tube levers and upper fuel rods.",
+        "verified": true,
+        "char_start": 2688,
+        "char_end": 2771,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 363,
+        "quote": "Attach the lower fuel rods to the injector control tube levers and upper fuel rods.",
+        "verified": true,
+        "char_start": 2688,
+        "char_end": 2771,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 363,
+        "quote": "Attach the lower fuel rods to the injector control tube levers and upper fuel rods.",
+        "verified": true,
+        "char_start": 2688,
+        "char_end": 2771,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 363,
+        "quote": "Slide the fuel rod cover hoses in place and secure them with hose clamps.",
+        "verified": true,
+        "char_start": 2776,
+        "char_end": 2849,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_assembly",
+      "name": "Spring assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_assembly",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the spring assembly in the governor.",
+        "verified": true,
+        "char_start": 2854,
+        "char_end": 2898,
+        "bbox": [
+          351.12,
+          536.285,
+          538.2453,
+          546.285
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_shut_down_housing",
+      "name": "Air shut-down housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_shut_down_housing",
+      "provenance": {
+        "page": 363,
+        "quote": "Install the air shut-down housing (Section 3.3).",
+        "verified": true,
+        "char_start": 2903,
+        "char_end": 2951,
+        "bbox": [
+          351.12,
+          557.1479999999999,
+          556.4315,
+          567.1479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt holes in the cylinder block. b. While lowering the blower and governor assembly over the guide studs, push the blower away from the governor housing gasket attached to the rear end plate. c. Remove the guide studs and install the blower to block bolts and flat washers. Tighten the bolts finger ught only. d. Press or drive the governor housing dowel pin into the rear end plate with a suitable tool.",
+      "source_number": 2,
+      "installs": [
+        "assembly_examine_the_blower",
+        "governor_assembly",
+        "blower_the_engine_governor",
+        "head_gasket",
+        "crankshaft_front_oil_seal",
+        "guide_stud",
+        "nut_securing_fig",
+        "cam_follower_guide",
+        "bolt_hole",
+        "of_the_block",
+        "assembly_rear_end_plate",
+        "engine_front_cover_bolt",
+        "flat_washer",
+        "of_the_flywheel_housing",
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Install the blower and governor assembly on the engine as follows: a. To install the blower and governor on the engine without disturbing the gaskets and seal, use guide studs (Fig. 4). Install the guide studs in the end blower bolt hole...",
+        "verified": true,
+        "char_start": 222,
+        "char_end": 855,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a horizontal position to provide clearance (Fig. 3). Turn the operating shaft fork away from the blower, 1f necessary, for additional clearance. c. Move the blower drive assembly into the openings in the flywheel housing until the blower drive gear enters the housing. Then turn the drive assembly slightly so that the serrated end of the governor weight shaft may pass around behind the governor operating fork, permitting the fork to slip into place between the serrated end of the shaft and the riser bearing. d. Push the drive support assembly up against the flywheel housing; the serrations in the governor weight shaft and in the governor drive plate on the blower timing gear must mesh. The blower drive gear must also mesh with the mating gear.",
+      "source_number": 3,
+      "installs": [
+        "blower_drive_support",
+        "light_governor_weight",
+        "engine_speed",
+        "governor_operating_shaft",
+        "governor_operating_fork",
+        "governor_drive_assembly",
+        "blower_drive_gear",
+        "governor_weight_shaft",
+        "end_of_the_shaft",
+        "governor_riser",
+        "bearing_the_end_bearing",
+        "blower_drive_support_assembly",
+        "governor_drive_plate",
+        "fuel_pump_drive_gear",
+        "assembly_assemble_blower_drive"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 13.6,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower to block bolts to 10-15 lb-ft torque. 4. [nstall the blower drive support as follows: a. Affix a new gasket to the blower drive support. b. Position the light governor weights (high speed- limiting speed governor) in a...",
+        "verified": true,
+        "char_start": 859,
+        "char_end": 1847,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Secure the small end of the blower drive support to the flywheel housing with two 3/8 \"-16 bolts and copper washers. Tighten the bolts to 20-25 lb-ft torque.",
+      "source_number": 5,
+      "installs": [
+        "copper_washer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Secure the small end of the blower drive support to the flywheel housing with two 3/8 \"-16 bolts and copper washers. Tighten the bolts to 20-25 lb-ft torque.",
+        "verified": true,
+        "char_start": 1851,
+        "char_end": 2008,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Insert the blower drive shaft into the blower gear shaft. If necessary, turn the crankshaft so that the serrations on the blower drive shaft register with the serrations in the blower drive cam and the blower drive gear shaft.",
+      "source_number": 6,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "blower_drive_shaft",
+        "halve_of_the_crankshaft",
+        "blower_drive_cam"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Insert the blower drive shaft into the blower gear shaft. If necessary, turn the crankshaft so that the serrations on the blower drive shaft register with the serrations in the blower drive cam and the blower drive gear shaft.",
+        "verified": true,
+        "char_start": 2012,
+        "char_end": 2238,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the snap ring in the blower drive gear shaft to secure the blower drive shaft.",
+      "source_number": 7,
+      "installs": [
+        "external_snap_ring"
+      ],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Install the snap ring in the blower drive gear shaft to secure the blower drive shaft.",
+        "verified": true,
+        "char_start": 2242,
+        "char_end": 2328,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Attach a new gasket to the blower drive support cover. Then secure the cover to the support with four 3/8 \u201d'-16 bolts and lock washers. Tighten the bolts to 20-25 lb-ft torque.",
+      "source_number": 8,
+      "installs": [
+        "underside_of_the_cover",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Attach a new gasket to the blower drive support cover. Then secure the cover to the support with four 3/8 \u201d'-16 bolts and lock washers. Tighten the bolts to 20-25 lb-ft torque.",
+        "verified": true,
+        "char_start": 2332,
+        "char_end": 2508,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Tighten the blower-to-block bolts to 55-60 lb-ft torque.",
+      "source_number": 9,
+      "installs": [
+        "blower_to_block_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 74.6,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Tighten the blower-to-block bolts to 55-60 lb-ft torque.",
+        "verified": true,
+        "char_start": 2512,
+        "char_end": 2568,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Insert the upper fuel rods through the fuel rod covers and attach the rods to the governor control link lever.",
+      "source_number": 10,
+      "installs": [
+        "upper_fuel_rod",
+        "fuel_rod_cover",
+        "bearing_pilot_rod",
+        "control_link_lever"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Insert the upper fuel rods through the fuel rod covers and attach the rods to the governor control link lever.",
+        "verified": true,
+        "char_start": 2573,
+        "char_end": 2683,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Attach the lower fuel rods to the injector control tube levers and upper fuel rods.",
+      "source_number": 11,
+      "installs": [
+        "lower_fuel_rod",
+        "injector_control_tube",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Attach the lower fuel rods to the injector control tube levers and upper fuel rods.",
+        "verified": true,
+        "char_start": 2688,
+        "char_end": 2771,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Slide the fuel rod cover hoses in place and secure them with hose clamps.",
+      "source_number": 12,
+      "installs": [
+        "hose_clamp"
+      ],
+      "depends_on": [
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Slide the fuel rod cover hoses in place and secure them with hose clamps.",
+        "verified": true,
+        "char_start": 2776,
+        "char_end": 2849,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Install the spring assembly in the governor.",
+      "source_number": 13,
+      "installs": [
+        "spring_assembly"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Install the spring assembly in the governor.",
+        "verified": true,
+        "char_start": 2854,
+        "char_end": 2898,
+        "bbox": [
+          351.12,
+          536.285,
+          538.2453,
+          546.285
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Install the air shut-down housing (Section 3.3).",
+      "source_number": 14,
+      "installs": [
+        "air_shut_down_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 363,
+        "quote": "Install the air shut-down housing (Section 3.3).",
+        "verified": true,
+        "char_start": 2903,
+        "char_end": 2951,
+        "bbox": [
+          351.12,
+          557.1479999999999,
+          556.4315,
+          567.1479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

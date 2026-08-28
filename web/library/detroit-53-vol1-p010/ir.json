@@ -1,0 +1,468 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.35 - Removing and installing the pistons",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 35,
+        "quote": "Removing and installing the pistons.",
+        "verified": true,
+        "char_start": 1834,
+        "char_end": 1870,
+        "bbox": [
+          57.120000000000005,
+          561.2099999999999,
+          216.4824,
+          571.2099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 35,
+        "quote": "Removing and installing the cylinder liners.",
+        "verified": true,
+        "char_start": 1874,
+        "char_end": 1918,
+        "bbox": [
+          57.36,
+          582.2939999999999,
+          248.59080000000003,
+          592.2939999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_an_exhaust_valve",
+      "name": "Insert an exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_an_exhaust_valve",
+      "provenance": {
+        "page": 35,
+        "quote": "Removing and installing the exhaust valves.",
+        "verified": true,
+        "char_start": 1922,
+        "char_end": 1965,
+        "bbox": [
+          57.120000000000005,
+          603.414,
+          248.03340000000003,
+          613.414
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_guide",
+      "name": "Exhaust valve guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_guide",
+      "provenance": {
+        "page": 35,
+        "quote": "Removing and installing the valve guides.",
+        "verified": true,
+        "char_start": 1969,
+        "char_end": 2010,
+        "bbox": [
+          57.120000000000005,
+          624.3299999999999,
+          239.80140000000003,
+          634.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 35,
+        "quote": "Reconditioning the exhaust valves and valve seats.",
+        "verified": true,
+        "char_start": 2014,
+        "char_end": 2064,
+        "bbox": [
+          57.120000000000005,
+          645.443,
+          276.70739999999995,
+          655.443
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 35,
+        "quote": "Replacing the injector tubes.",
+        "verified": true,
+        "char_start": 2068,
+        "char_end": 2097,
+        "bbox": [
+          57.119999999999955,
+          666.467,
+          180.18659999999994,
+          676.467
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 35,
+        "quote": "Replacing the injector tubes.",
+        "verified": true,
+        "char_start": 2068,
+        "char_end": 2097,
+        "bbox": [
+          57.119999999999955,
+          666.467,
+          180.18659999999994,
+          676.467
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 35,
+        "quote": "Installing new cylinder head gaskets.",
+        "verified": true,
+        "char_start": 2101,
+        "char_end": 2138,
+        "bbox": [
+          56.88,
+          687.2959999999999,
+          216.056,
+          697.2959999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 35,
+        "quote": "Removing and installing a camshaft.",
+        "verified": true,
+        "char_start": 2142,
+        "char_end": 2177,
+        "bbox": [
+          57.120000000000005,
+          708.4169999999999,
+          216.1641,
+          718.4169999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Removing and installing the pistons.",
+      "source_number": 1,
+      "installs": [
+        "of_the_selected_piston"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 35,
+        "quote": "Removing and installing the pistons.",
+        "verified": true,
+        "char_start": 1834,
+        "char_end": 1870,
+        "bbox": [
+          57.120000000000005,
+          561.2099999999999,
+          216.4824,
+          571.2099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Removing and installing the cylinder liners.",
+      "source_number": 2,
+      "installs": [
+        "cylinder_liner"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 35,
+        "quote": "Removing and installing the cylinder liners.",
+        "verified": true,
+        "char_start": 1874,
+        "char_end": 1918,
+        "bbox": [
+          57.36,
+          582.2939999999999,
+          248.59080000000003,
+          592.2939999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Removing and installing the exhaust valves.",
+      "source_number": 3,
+      "installs": [
+        "insert_an_exhaust_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 35,
+        "quote": "Removing and installing the exhaust valves.",
+        "verified": true,
+        "char_start": 1922,
+        "char_end": 1965,
+        "bbox": [
+          57.120000000000005,
+          603.414,
+          248.03340000000003,
+          613.414
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Removing and installing the valve guides.",
+      "source_number": 4,
+      "installs": [
+        "exhaust_valve_guide"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 35,
+        "quote": "Removing and installing the valve guides.",
+        "verified": true,
+        "char_start": 1969,
+        "char_end": 2010,
+        "bbox": [
+          57.120000000000005,
+          624.3299999999999,
+          239.80140000000003,
+          634.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Reconditioning the exhaust valves and valve seats.",
+      "source_number": 5,
+      "installs": [
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 35,
+        "quote": "Reconditioning the exhaust valves and valve seats.",
+        "verified": true,
+        "char_start": 2014,
+        "char_end": 2064,
+        "bbox": [
+          57.120000000000005,
+          645.443,
+          276.70739999999995,
+          655.443
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Replacing the injector tubes.",
+      "source_number": 6,
+      "installs": [
+        "end_of_the_injector",
+        "end_of_each_tube"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 35,
+        "quote": "Replacing the injector tubes.",
+        "verified": true,
+        "char_start": 2068,
+        "char_end": 2097,
+        "bbox": [
+          57.119999999999955,
+          666.467,
+          180.18659999999994,
+          676.467
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Installing new cylinder head gaskets.",
+      "source_number": 7,
+      "installs": [
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 35,
+        "quote": "Installing new cylinder head gaskets.",
+        "verified": true,
+        "char_start": 2101,
+        "char_end": 2138,
+        "bbox": [
+          56.88,
+          687.2959999999999,
+          216.056,
+          697.2959999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Removing and installing a camshaft.",
+      "source_number": 8,
+      "installs": [
+        "camshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 35,
+        "quote": "Removing and installing a camshaft.",
+        "verified": true,
+        "char_start": 2142,
+        "char_end": 2177,
+        "bbox": [
+          57.120000000000005,
+          708.4169999999999,
+          216.1641,
+          718.4169999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

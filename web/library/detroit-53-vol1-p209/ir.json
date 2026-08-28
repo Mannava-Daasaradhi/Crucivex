@@ -1,0 +1,1835 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.366 - Remove the six bolts and lock washers...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the six bolts and lock washers securing the air shut-down housing to the air inlet adaptor. Remove the shut-down housing and gasket.",
+        "verified": true,
+        "char_start": 1675,
+        "char_end": 1814,
+        "bbox": [
+          348.24,
+          192.96799999999996,
+          585.68418,
+          223.68999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the six bolts and lock washers securing the air shut-down housing to the air inlet adaptor. Remove the shut-down housing and gasket.",
+        "verified": true,
+        "char_start": 1675,
+        "char_end": 1814,
+        "bbox": [
+          348.24,
+          192.96799999999996,
+          585.68418,
+          223.68999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_shut_down_housing",
+      "name": "Air shut-down housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_shut_down_housing",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the six bolts and lock washers securing the air shut-down housing to the air inlet adaptor. Remove the shut-down housing and gasket.",
+        "verified": true,
+        "char_start": 1675,
+        "char_end": 1814,
+        "bbox": [
+          348.24,
+          192.96799999999996,
+          585.68418,
+          223.68999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_inlet_adaptor",
+      "name": "Air inlet adaptor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_inlet_adaptor",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the six bolts and lock washers securing the air shut-down housing to the air inlet adaptor. Remove the shut-down housing and gasket.",
+        "verified": true,
+        "char_start": 1675,
+        "char_end": 1814,
+        "bbox": [
+          348.24,
+          192.96799999999996,
+          585.68418,
+          223.68999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the six bolts and lock washers securing the air shut-down housing to the air inlet adaptor. Remove the shut-down housing and gasket.",
+        "verified": true,
+        "char_start": 1675,
+        "char_end": 1814,
+        "bbox": [
+          348.24,
+          192.96799999999996,
+          585.68418,
+          223.68999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rotor_shaft_blower_housing",
+      "name": "Rotor shaft blower housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shaft_blower_housing",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the six bolts and lock washers securing the air inlet adaptor to the blower housing. Remove the air inlet adaptor and blower screen and gasket assembly.",
+        "verified": true,
+        "char_start": 1818,
+        "char_end": 1977,
+        "bbox": [
+          348.00000000000006,
+          235.16899999999998,
+          585.6219,
+          277.6890000000001
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the six bolts and lock washers securing the air inlet adaptor to the blower housing. Remove the air inlet adaptor and blower screen and gasket assembly.",
+        "verified": true,
+        "char_start": 1818,
+        "char_end": 1977,
+        "bbox": [
+          348.00000000000006,
+          235.16899999999998,
+          585.6219,
+          277.6890000000001
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_screen",
+      "name": "Blower screen",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_screen",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the six bolts and lock washers securing the air inlet adaptor to the blower housing. Remove the air inlet adaptor and blower screen and gasket assembly.",
+        "verified": true,
+        "char_start": 1818,
+        "char_end": 1977,
+        "bbox": [
+          348.00000000000006,
+          235.16899999999998,
+          585.6219,
+          277.6890000000001
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "battery_charging_generator",
+      "name": "Battery-charging generator",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "battery_charging_generator",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the battery-charging generator adjusting strap bolt. Also loosen the nuts on the bolts securing the generator to its mounting bracket. Then remove the generator drive belts from the generator pulley.",
+        "verified": true,
+        "char_start": 1981,
+        "char_end": 2187,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the battery-charging generator adjusting strap bolt. Also loosen the nuts on the bolts securing the generator to its mounting bracket. Then remove the generator drive belts from the generator pulley.",
+        "verified": true,
+        "char_start": 1981,
+        "char_end": 2187,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "battery_charging_generator_mounting",
+      "name": "Battery-charging generator mounting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "battery_charging_generator_mounting",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the battery-charging generator adjusting strap bolt. Also loosen the nuts on the bolts securing the generator to its mounting bracket. Then remove the generator drive belts from the generator pulley.",
+        "verified": true,
+        "char_start": 1981,
+        "char_end": 2187,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the battery-charging generator adjusting strap bolt. Also loosen the nuts on the bolts securing the generator to its mounting bracket. Then remove the generator drive belts from the generator pulley.",
+        "verified": true,
+        "char_start": 1981,
+        "char_end": 2187,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "generator_drive_belt",
+      "name": "Generator drive belt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "generator_drive_belt",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the battery-charging generator adjusting strap bolt. Also loosen the nuts on the bolts securing the generator to its mounting bracket. Then remove the generator drive belts from the generator pulley.",
+        "verified": true,
+        "char_start": 1981,
+        "char_end": 2187,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the battery-charging generator adjusting strap bolt. Also loosen the nuts on the bolts securing the generator to its mounting bracket. Then remove the generator drive belts from the generator pulley.",
+        "verified": true,
+        "char_start": 1981,
+        "char_end": 2187,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the four bolts and lock washers securing the generator mounting bracket to the governor housing.",
+        "verified": true,
+        "char_start": 2367,
+        "char_end": 2470,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube",
+      "name": "Breather tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the governor housing breather tube hose clamp at the forward face of the governor and the breather tube clamp at the water pump attaching bolt. Remove the tube, hose and hose clamps from the governor and the engine.",
+        "verified": true,
+        "char_start": 2474,
+        "char_end": 2696,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the governor housing breather tube hose clamp at the forward face of the governor and the breather tube clamp at the water pump attaching bolt. Remove the tube, hose and hose clamps from the governor and the engine.",
+        "verified": true,
+        "char_start": 2474,
+        "char_end": 2696,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_governor",
+      "name": "Of the governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_governor",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the governor housing breather tube hose clamp at the forward face of the governor and the breather tube clamp at the water pump attaching bolt. Remove the tube, hose and hose clamps from the governor and the engine.",
+        "verified": true,
+        "char_start": 2474,
+        "char_end": 2696,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the governor housing breather tube hose clamp at the forward face of the governor and the breather tube clamp at the water pump attaching bolt. Remove the tube, hose and hose clamps from the governor and the engine.",
+        "verified": true,
+        "char_start": 2474,
+        "char_end": 2696,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the governor housing breather tube hose clamp at the forward face of the governor and the breather tube clamp at the water pump attaching bolt. Remove the tube, hose and hose clamps from the governor and the engine.",
+        "verified": true,
+        "char_start": 2474,
+        "char_end": 2696,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flywheel_attaching_bolt",
+      "name": "Flywheel attaching bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_attaching_bolt",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the governor housing breather tube hose clamp at the forward face of the governor and the breather tube clamp at the water pump attaching bolt. Remove the tube, hose and hose clamps from the governor and the engine.",
+        "verified": true,
+        "char_start": 2474,
+        "char_end": 2696,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the governor housing breather tube hose clamp at the forward face of the governor and the breather tube clamp at the water pump attaching bolt. Remove the tube, hose and hose clamps from the governor and the engine.",
+        "verified": true,
+        "char_start": 2474,
+        "char_end": 2696,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the governor housing breather tube hose clamp at the forward face of the governor and the breather tube clamp at the water pump attaching bolt. Remove the tube, hose and hose clamps from the governor and the engine.",
+        "verified": true,
+        "char_start": 2474,
+        "char_end": 2696,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "water_by_pass_tube",
+      "name": "Water by-pass tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_by_pass_tube",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the four bolts and lock washers securing the water by-pass tube to the thermostat housing. Slide the Fig. 5 - Removing Rotor Gears",
+        "verified": true,
+        "char_start": 2700,
+        "char_end": 2837,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "thermostat_housing",
+      "name": "Thermostat housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thermostat_housing",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the four bolts and lock washers securing the water by-pass tube to the thermostat housing. Slide the Fig. 5 - Removing Rotor Gears",
+        "verified": true,
+        "char_start": 2700,
+        "char_end": 2837,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the four bolts and lock washers securing the water by-pass tube to the thermostat housing. Slide the Fig. 5 - Removing Rotor Gears",
+        "verified": true,
+        "char_start": 2700,
+        "char_end": 2837,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_rotor_gear",
+      "name": "Blower rotor gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_rotor_gear",
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the four bolts and lock washers securing the water by-pass tube to the thermostat housing. Slide the Fig. 5 - Removing Rotor Gears",
+        "verified": true,
+        "char_start": 2700,
+        "char_end": 2837,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect and remove the fuel oil supply and return lines connecting the fuel manifolds and the cylinder heads.",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 245,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect and remove the fuel oil supply and return lines connecting the fuel manifolds and the cylinder heads.",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 245,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the valve rocker cover breather tube hose clamp on each rocker cover and the tube clamp attached to the rear face of the flywheel housing; then remove the breather tubes from the engine.",
+        "verified": true,
+        "char_start": 250,
+        "char_end": 443,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the valve rocker cover breather tube hose clamp on each rocker cover and the tube clamp attached to the rear face of the flywheel housing; then remove the breather tubes from the engine.",
+        "verified": true,
+        "char_start": 250,
+        "char_end": 443,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "raw_water_inlet",
+      "name": "Raw water inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "raw_water_inlet",
+      "provenance": {
+        "page": 367,
+        "quote": "If an air compressor is attached to the rear face of the flywheel housing. it may be removed as follows: a. Disconnect the air. compressor water inlet and outlet tubes from the air compressor. Then disconnect the oil supply line from the...",
+        "verified": true,
+        "char_start": 448,
+        "char_end": 949,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_supply_line",
+      "name": "Oil supply line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_supply_line",
+      "provenance": {
+        "page": 367,
+        "quote": "If an air compressor is attached to the rear face of the flywheel housing. it may be removed as follows: a. Disconnect the air. compressor water inlet and outlet tubes from the air compressor. Then disconnect the oil supply line from the...",
+        "verified": true,
+        "char_start": 448,
+        "char_end": 949,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_compressor_drive",
+      "name": "Air compressor drive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_compressor_drive",
+      "provenance": {
+        "page": 367,
+        "quote": "If an air compressor is attached to the rear face of the flywheel housing. it may be removed as follows: a. Disconnect the air. compressor water inlet and outlet tubes from the air compressor. Then disconnect the oil supply line from the...",
+        "verified": true,
+        "char_start": 448,
+        "char_end": 949,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_coupling",
+      "name": "Accessory drive coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_coupling",
+      "provenance": {
+        "page": 367,
+        "quote": "If an air compressor is attached to the rear face of the flywheel housing. it may be removed as follows: a. Disconnect the air. compressor water inlet and outlet tubes from the air compressor. Then disconnect the oil supply line from the...",
+        "verified": true,
+        "char_start": 448,
+        "char_end": 949,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_assemble_blower_drive",
+      "name": "Assembly assemble blower drive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_assemble_blower_drive",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the five bolts and lock washers securing the blower drive hole cover to the flywheel housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 954,
+        "char_end": 1083,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the five bolts and lock washers securing the blower drive hole cover to the flywheel housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 954,
+        "char_end": 1083,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the five bolts and lock washers securing the blower drive hole cover to the flywheel housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 954,
+        "char_end": 1083,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two bolts securing the blower drive shaft retainer to the blower drive coupling support, then remove the retainer.",
+        "verified": true,
+        "char_start": 1088,
+        "char_end": 1213,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two bolts securing the blower drive shaft retainer to the blower drive coupling support, then remove the retainer.",
+        "verified": true,
+        "char_start": 1088,
+        "char_end": 1213,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_coupling",
+      "name": "Blower drive coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_coupling",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two bolts securing the blower drive shaft retainer to the blower drive coupling support, then remove the retainer.",
+        "verified": true,
+        "char_start": 1088,
+        "char_end": 1213,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two bolts securing the blower drive shaft retainer to the blower drive coupling support, then remove the retainer.",
+        "verified": true,
+        "char_start": 1088,
+        "char_end": 1213,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_shaft",
+      "name": "Blower drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_shaft",
+      "provenance": {
+        "page": 367,
+        "quote": "Pull the blower drive shaft out of the blower drive d\u00bb i 21672-17 3989 Fig. 6 - Removing Rotor Bearing Retaining Nut hub and cam. If necessary, use a pair of small nose pliers.",
+        "verified": true,
+        "char_start": 1218,
+        "char_end": 1394,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "left_hand_helix_rotor",
+      "name": "Left-hand helix rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "left_hand_helix_rotor",
+      "provenance": {
+        "page": 367,
+        "quote": "Pull the blower drive shaft out of the blower drive d\u00bb i 21672-17 3989 Fig. 6 - Removing Rotor Bearing Retaining Nut hub and cam. If necessary, use a pair of small nose pliers.",
+        "verified": true,
+        "char_start": 1218,
+        "char_end": 1394,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 367,
+        "quote": "Pull the blower drive shaft out of the blower drive d\u00bb i 21672-17 3989 Fig. 6 - Removing Rotor Bearing Retaining Nut hub and cam. If necessary, use a pair of small nose pliers.",
+        "verified": true,
+        "char_start": 1218,
+        "char_end": 1394,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gear_retaining_nut",
+      "name": "Gear retaining nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_retaining_nut",
+      "provenance": {
+        "page": 367,
+        "quote": "Pull the blower drive shaft out of the blower drive d\u00bb i 21672-17 3989 Fig. 6 - Removing Rotor Bearing Retaining Nut hub and cam. If necessary, use a pair of small nose pliers.",
+        "verified": true,
+        "char_start": 1218,
+        "char_end": 1394,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 367,
+        "quote": "Pull the blower drive shaft out of the blower drive d\u00bb i 21672-17 3989 Fig. 6 - Removing Rotor Bearing Retaining Nut hub and cam. If necessary, use a pair of small nose pliers.",
+        "verified": true,
+        "char_start": 1218,
+        "char_end": 1394,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 367,
+        "quote": "Pull the blower drive shaft out of the blower drive d\u00bb i 21672-17 3989 Fig. 6 - Removing Rotor Bearing Retaining Nut hub and cam. If necessary, use a pair of small nose pliers.",
+        "verified": true,
+        "char_start": 1218,
+        "char_end": 1394,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two remaining bolts and flat washers securing the blower drive couplings to the blower drive gear. then remove the blower drive couplings.",
+        "verified": true,
+        "char_start": 1399,
+        "char_end": 1548,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_gear",
+      "name": "Blower drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_gear",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two remaining bolts and flat washers securing the blower drive couplings to the blower drive gear. then remove the blower drive couplings.",
+        "verified": true,
+        "char_start": 1399,
+        "char_end": 1548,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the five bolts, lock washers and one plain washer securing the blower drive support housing to the engine end plate.",
+        "verified": true,
+        "char_start": 1553,
+        "char_end": 1676,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the five bolts, lock washers and one plain washer securing the blower drive support housing to the engine end plate.",
+        "verified": true,
+        "char_start": 1553,
+        "char_end": 1676,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "filter",
+      "name": "Filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter",
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect and remove the fuel oil supply line between the fuel oil pump and the fuel oil filter.",
+        "verified": true,
+        "char_start": 1681,
+        "char_end": 1778,
+        "bbox": [
+          332.15999999999985,
+          195.3309999999999,
+          573.6915999999998,
+          216.14299999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 367,
+        "quote": "Clean and remove the valve rocker cover from each cylinder head.",
+        "verified": true,
+        "char_start": 1783,
+        "char_end": 1847,
+        "bbox": [
+          331.92,
+          230.08799999999997,
+          572.18208,
+          249.24199999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the eight screws and lock washers securing the governor cover to the governor housing.",
+        "verified": true,
+        "char_start": 1852,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the eight screws and lock washers securing the governor cover to the governor housing.",
+        "verified": true,
+        "char_start": 1852,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect the fuel rods from the injector rack control tube levers and the governor and remove the fuel rods. 2]. Loosen the hose clamps and slide the fuel rod cover hose down against each cylinder head.",
+        "verified": true,
+        "char_start": 1950,
+        "char_end": 2154,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_rack_control",
+      "name": "Injector rack control",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_rack_control",
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect the fuel rods from the injector rack control tube levers and the governor and remove the fuel rods. 2]. Loosen the hose clamps and slide the fuel rod cover hose down against each cylinder head.",
+        "verified": true,
+        "char_start": 1950,
+        "char_end": 2154,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect the fuel rods from the injector rack control tube levers and the governor and remove the fuel rods. 2]. Loosen the hose clamps and slide the fuel rod cover hose down against each cylinder head.",
+        "verified": true,
+        "char_start": 1950,
+        "char_end": 2154,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect the fuel rods from the injector rack control tube levers and the governor and remove the fuel rods. 2]. Loosen the hose clamps and slide the fuel rod cover hose down against each cylinder head.",
+        "verified": true,
+        "char_start": 1950,
+        "char_end": 2154,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_rod_cover",
+      "name": "Fuel rod cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_rod_cover",
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect the fuel rods from the injector rack control tube levers and the governor and remove the fuel rods. 2]. Loosen the hose clamps and slide the fuel rod cover hose down against each cylinder head.",
+        "verified": true,
+        "char_start": 1950,
+        "char_end": 2154,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two 7/16 \"-14 x 7/8\u201d bolts, lock washers and plain washers securing the governor housing to the cylinder block.",
+        "verified": true,
+        "char_start": 2159,
+        "char_end": 2281,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_washer",
+      "name": "Special washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_washer",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two bolts and special washers from each blower end plate securing the blower assembly to the cylinder block.",
+        "verified": true,
+        "char_start": 2286,
+        "char_end": 2405,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_end_plate",
+      "name": "Blower end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_end_plate",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two bolts and special washers from each blower end plate securing the blower assembly to the cylinder block.",
+        "verified": true,
+        "char_start": 2286,
+        "char_end": 2405,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_assembly",
+      "name": "Blower assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_assembly",
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two bolts and special washers from each blower end plate securing the blower assembly to the cylinder block.",
+        "verified": true,
+        "char_start": 2286,
+        "char_end": 2405,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 367,
+        "quote": "Thread evebolts in diagonally opposite air inlet adaptor-to-blower bolt holes. Attach a rope sling and a chain hoist to the eyebolts. Then lift the blower assembly, at an angle. from the cylinder block as shown in Fig. 4 and place it on ...",
+        "verified": true,
+        "char_start": 2410,
+        "char_end": 2655,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 367,
+        "quote": "Thread evebolts in diagonally opposite air inlet adaptor-to-blower bolt holes. Attach a rope sling and a chain hoist to the eyebolts. Then lift the blower assembly, at an angle. from the cylinder block as shown in Fig. 4 and place it on ...",
+        "verified": true,
+        "char_start": 2410,
+        "char_end": 2655,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rope_sling",
+      "name": "Rope sling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rope_sling",
+      "provenance": {
+        "page": 367,
+        "quote": "Thread evebolts in diagonally opposite air inlet adaptor-to-blower bolt holes. Attach a rope sling and a chain hoist to the eyebolts. Then lift the blower assembly, at an angle. from the cylinder block as shown in Fig. 4 and place it on ...",
+        "verified": true,
+        "char_start": 2410,
+        "char_end": 2655,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "chain_hoist",
+      "name": "Chain hoist",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "chain_hoist",
+      "provenance": {
+        "page": 367,
+        "quote": "Thread evebolts in diagonally opposite air inlet adaptor-to-blower bolt holes. Attach a rope sling and a chain hoist to the eyebolts. Then lift the blower assembly, at an angle. from the cylinder block as shown in Fig. 4 and place it on ...",
+        "verified": true,
+        "char_start": 2410,
+        "char_end": 2655,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "angle",
+      "name": "Angle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "angle",
+      "provenance": {
+        "page": 367,
+        "quote": "Thread evebolts in diagonally opposite air inlet adaptor-to-blower bolt holes. Attach a rope sling and a chain hoist to the eyebolts. Then lift the blower assembly, at an angle. from the cylinder block as shown in Fig. 4 and place it on ...",
+        "verified": true,
+        "char_start": 2410,
+        "char_end": 2655,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the six bolts and lock washers securing the air shut-down housing to the air inlet adaptor. Remove the shut-down housing and gasket.",
+      "source_number": 2,
+      "installs": [
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "air_shut_down_housing",
+        "air_inlet_adaptor",
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the six bolts and lock washers securing the air shut-down housing to the air inlet adaptor. Remove the shut-down housing and gasket.",
+        "verified": true,
+        "char_start": 1675,
+        "char_end": 1814,
+        "bbox": [
+          348.24,
+          192.96799999999996,
+          585.68418,
+          223.68999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the six bolts and lock washers securing the air inlet adaptor to the blower housing. Remove the air inlet adaptor and blower screen and gasket assembly.",
+      "source_number": 3,
+      "installs": [
+        "rotor_shaft_blower_housing",
+        "fuel_oil_inlet",
+        "blower_screen"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the six bolts and lock washers securing the air inlet adaptor to the blower housing. Remove the air inlet adaptor and blower screen and gasket assembly.",
+        "verified": true,
+        "char_start": 1818,
+        "char_end": 1977,
+        "bbox": [
+          348.00000000000006,
+          235.16899999999998,
+          585.6219,
+          277.6890000000001
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Loosen the battery-charging generator adjusting strap bolt. Also loosen the nuts on the bolts securing the generator to its mounting bracket. Then remove the generator drive belts from the generator pulley.",
+      "source_number": 4,
+      "installs": [
+        "battery_charging_generator",
+        "front_balance_weight_nut",
+        "battery_charging_generator_mounting",
+        "booster_spring_bracket",
+        "generator_drive_belt",
+        "crankshaft_splined_crankshaft_pulley"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the battery-charging generator adjusting strap bolt. Also loosen the nuts on the bolts securing the generator to its mounting bracket. Then remove the generator drive belts from the generator pulley.",
+        "verified": true,
+        "char_start": 1981,
+        "char_end": 2187,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "While supporung the generator, remove the two nuts, lock washers and bolts securing the generator to the generator mounting bracket. Then lift the generator off the engine.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 366,
+        "quote": "While supporung the generator, remove the two nuts, lock washers and bolts securing the generator to the generator mounting bracket. Then lift the generator off the engine.",
+        "verified": true,
+        "char_start": 2191,
+        "char_end": 2363,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the four bolts and lock washers securing the generator mounting bracket to the governor housing.",
+      "source_number": 6,
+      "installs": [
+        "disassemble_governor_housing"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the four bolts and lock washers securing the generator mounting bracket to the governor housing.",
+        "verified": true,
+        "char_start": 2367,
+        "char_end": 2470,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Loosen the governor housing breather tube hose clamp at the forward face of the governor and the breather tube clamp at the water pump attaching bolt. Remove the tube, hose and hose clamps from the governor and the engine.",
+      "source_number": 7,
+      "installs": [
+        "breather_tube",
+        "hose_clamp",
+        "of_the_governor",
+        "breather_tube_clamp",
+        "lubricating_oil_pump",
+        "flywheel_attaching_bolt",
+        "end_of_each_tube",
+        "blower_the_engine_governor"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 366,
+        "quote": "Loosen the governor housing breather tube hose clamp at the forward face of the governor and the breather tube clamp at the water pump attaching bolt. Remove the tube, hose and hose clamps from the governor and the engine.",
+        "verified": true,
+        "char_start": 2474,
+        "char_end": 2696,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the four bolts and lock washers securing the water by-pass tube to the thermostat housing. Slide the Fig. 5 - Removing Rotor Gears",
+      "source_number": 8,
+      "installs": [
+        "water_by_pass_tube",
+        "thermostat_housing",
+        "nut_securing_fig",
+        "blower_rotor_gear"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 366,
+        "quote": "Remove the four bolts and lock washers securing the water by-pass tube to the thermostat housing. Slide the Fig. 5 - Removing Rotor Gears",
+        "verified": true,
+        "char_start": 2700,
+        "char_end": 2837,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Disconnect and remove the fuel oil supply and return lines connecting the fuel manifolds and the cylinder heads.",
+      "source_number": 9,
+      "installs": [
+        "tbe_lubricating_oil_line",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect and remove the fuel oil supply and return lines connecting the fuel manifolds and the cylinder heads.",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 245,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the valve rocker cover breather tube hose clamp on each rocker cover and the tube clamp attached to the rear face of the flywheel housing; then remove the breather tubes from the engine.",
+      "source_number": 10,
+      "installs": [
+        "valve_rocker_cover",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the valve rocker cover breather tube hose clamp on each rocker cover and the tube clamp attached to the rear face of the flywheel housing; then remove the breather tubes from the engine.",
+        "verified": true,
+        "char_start": 250,
+        "char_end": 443,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "If an air compressor is attached to the rear face of the flywheel housing. it may be removed as follows: a. Disconnect the air. compressor water inlet and outlet tubes from the air compressor. Then disconnect the oil supply line from the air compressor. b. While supporting the air compressor, remove the four bolts and lock washers securing the air compressor to the rear face of the flywheel housing. Then remove the air compressor and gasket. If necessary, remove the air compressor drive coupling.",
+      "source_number": 11,
+      "installs": [
+        "raw_water_inlet",
+        "oil_supply_line",
+        "air_compressor_drive",
+        "accessory_drive_coupling"
+      ],
+      "depends_on": [
+        "s01",
+        "s06",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "If an air compressor is attached to the rear face of the flywheel housing. it may be removed as follows: a. Disconnect the air. compressor water inlet and outlet tubes from the air compressor. Then disconnect the oil supply line from the...",
+        "verified": true,
+        "char_start": 448,
+        "char_end": 949,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Remove the five bolts and lock washers securing the blower drive hole cover to the flywheel housing. Remove the cover and gasket.",
+      "source_number": 12,
+      "installs": [
+        "assembly_assemble_blower_drive",
+        "of_the_oil_hole",
+        "underside_of_the_cover"
+      ],
+      "depends_on": [
+        "s01",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the five bolts and lock washers securing the blower drive hole cover to the flywheel housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 954,
+        "char_end": 1083,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Remove the two bolts securing the blower drive shaft retainer to the blower drive coupling support, then remove the retainer.",
+      "source_number": 13,
+      "installs": [
+        "assembly_examine_the_blower",
+        "drive_shaft_retainer",
+        "blower_drive_coupling",
+        "blower_drive_support"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two bolts securing the blower drive shaft retainer to the blower drive coupling support, then remove the retainer.",
+        "verified": true,
+        "char_start": 1088,
+        "char_end": 1213,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Pull the blower drive shaft out of the blower drive d\u00bb i 21672-17 3989 Fig. 6 - Removing Rotor Bearing Retaining Nut hub and cam. If necessary, use a pair of small nose pliers.",
+      "source_number": 14,
+      "installs": [
+        "blower_drive_shaft",
+        "left_hand_helix_rotor",
+        "bearing_the_end_bearing",
+        "gear_retaining_nut",
+        "blower_drive_hub",
+        "t_push_rod_cam"
+      ],
+      "depends_on": [
+        "s07",
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Pull the blower drive shaft out of the blower drive d\u00bb i 21672-17 3989 Fig. 6 - Removing Rotor Bearing Retaining Nut hub and cam. If necessary, use a pair of small nose pliers.",
+        "verified": true,
+        "char_start": 1218,
+        "char_end": 1394,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Remove the two remaining bolts and flat washers securing the blower drive couplings to the blower drive gear. then remove the blower drive couplings.",
+      "source_number": 15,
+      "installs": [
+        "flat_washer",
+        "blower_drive_gear"
+      ],
+      "depends_on": [
+        "s01",
+        "s10",
+        "s12"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two remaining bolts and flat washers securing the blower drive couplings to the blower drive gear. then remove the blower drive couplings.",
+        "verified": true,
+        "char_start": 1399,
+        "char_end": 1548,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Remove the five bolts, lock washers and one plain washer securing the blower drive support housing to the engine end plate.",
+      "source_number": 16,
+      "installs": [
+        "plain_washer",
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [
+        "s01",
+        "s09",
+        "s12"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the five bolts, lock washers and one plain washer securing the blower drive support housing to the engine end plate.",
+        "verified": true,
+        "char_start": 1553,
+        "char_end": 1676,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "Disconnect and remove the fuel oil supply line between the fuel oil pump and the fuel oil filter.",
+      "source_number": 17,
+      "installs": [
+        "filter"
+      ],
+      "depends_on": [
+        "s06",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect and remove the fuel oil supply line between the fuel oil pump and the fuel oil filter.",
+        "verified": true,
+        "char_start": 1681,
+        "char_end": 1778,
+        "bbox": [
+          332.15999999999985,
+          195.3309999999999,
+          573.6915999999998,
+          216.14299999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s17",
+      "index": 16,
+      "text": "Clean and remove the valve rocker cover from each cylinder head.",
+      "source_number": 18,
+      "installs": [
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s08",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Clean and remove the valve rocker cover from each cylinder head.",
+        "verified": true,
+        "char_start": 1783,
+        "char_end": 1847,
+        "bbox": [
+          331.92,
+          230.08799999999997,
+          572.18208,
+          249.24199999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s18",
+      "index": 17,
+      "text": "Remove the eight screws and lock washers securing the governor cover to the governor housing.",
+      "source_number": 19,
+      "installs": [
+        "of_the_buffer_screw",
+        "governor_cover"
+      ],
+      "depends_on": [
+        "s01",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the eight screws and lock washers securing the governor cover to the governor housing.",
+        "verified": true,
+        "char_start": 1852,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s19",
+      "index": 18,
+      "text": "Disconnect the fuel rods from the injector rack control tube levers and the governor and remove the fuel rods. 2]. Loosen the hose clamps and slide the fuel rod cover hose down against each cylinder head.",
+      "source_number": 20,
+      "installs": [
+        "governor_fuel_rod",
+        "injector_rack_control",
+        "of_the_stop_lever",
+        "bearing_pilot_rod",
+        "fuel_rod_cover"
+      ],
+      "depends_on": [
+        "s06",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Disconnect the fuel rods from the injector rack control tube levers and the governor and remove the fuel rods. 2]. Loosen the hose clamps and slide the fuel rod cover hose down against each cylinder head.",
+        "verified": true,
+        "char_start": 1950,
+        "char_end": 2154,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s20",
+      "index": 19,
+      "text": "Remove the two 7/16 \"-14 x 7/8\u201d bolts, lock washers and plain washers securing the governor housing to the cylinder block.",
+      "source_number": 22,
+      "installs": [
+        "of_the_block"
+      ],
+      "depends_on": [
+        "s01",
+        "s05",
+        "s15"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two 7/16 \"-14 x 7/8\u201d bolts, lock washers and plain washers securing the governor housing to the cylinder block.",
+        "verified": true,
+        "char_start": 2159,
+        "char_end": 2281,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s21",
+      "index": 20,
+      "text": "Remove the two bolts and special washers from each blower end plate securing the blower assembly to the cylinder block.",
+      "source_number": 23,
+      "installs": [
+        "special_washer",
+        "blower_end_plate",
+        "blower_assembly"
+      ],
+      "depends_on": [
+        "s01",
+        "s20"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Remove the two bolts and special washers from each blower end plate securing the blower assembly to the cylinder block.",
+        "verified": true,
+        "char_start": 2286,
+        "char_end": 2405,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s22",
+      "index": 21,
+      "text": "Thread evebolts in diagonally opposite air inlet adaptor-to-blower bolt holes. Attach a rope sling and a chain hoist to the eyebolts. Then lift the blower assembly, at an angle. from the cylinder block as shown in Fig. 4 and place it on a bench.",
+      "source_number": 24,
+      "installs": [
+        "bolt_thread",
+        "bolt_hole",
+        "rope_sling",
+        "chain_hoist",
+        "angle"
+      ],
+      "depends_on": [
+        "s01",
+        "s07",
+        "s12",
+        "s20",
+        "s21"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 367,
+        "quote": "Thread evebolts in diagonally opposite air inlet adaptor-to-blower bolt holes. Attach a rope sling and a chain hoist to the eyebolts. Then lift the blower assembly, at an angle. from the cylinder block as shown in Fig. 4 and place it on ...",
+        "verified": true,
+        "char_start": 2410,
+        "char_end": 2655,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

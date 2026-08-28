@@ -1,0 +1,534 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.388 - Loosen the two hose clamps on the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 388,
+        "quote": "Loosen the two hose clamps on the hose connecting the raw water inlet tube to the inlet end of the intercooler (Fig. 1).",
+        "verified": true,
+        "char_start": 630,
+        "char_end": 750,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "raw_water_inlet",
+      "name": "Raw water inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "raw_water_inlet",
+      "provenance": {
+        "page": 388,
+        "quote": "Loosen the two hose clamps on the hose connecting the raw water inlet tube to the inlet end of the intercooler (Fig. 1).",
+        "verified": true,
+        "char_start": 630,
+        "char_end": 750,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 388,
+        "quote": "Loosen the two hose clamps on the hose connecting the raw water inlet tube to the inlet end of the intercooler (Fig. 1).",
+        "verified": true,
+        "char_start": 630,
+        "char_end": 750,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "intercooler",
+      "name": "Intercooler",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "intercooler",
+      "provenance": {
+        "page": 388,
+        "quote": "Loosen the two hose clamps on the hose connecting the raw water inlet tube to the inlet end of the intercooler (Fig. 1).",
+        "verified": true,
+        "char_start": 630,
+        "char_end": 750,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 388,
+        "quote": "Loosen the two hose clamps on the hose connecting the raw water inlet tube to the inlet end of the intercooler (Fig. 1).",
+        "verified": true,
+        "char_start": 630,
+        "char_end": 750,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the four 5/16 7-18 x 1 \" bolts and lock washers that retain the air inlet tube flange to the air inlet housing.",
+        "verified": true,
+        "char_start": 754,
+        "char_end": 872,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the four 5/16 7-18 x 1 \" bolts and lock washers that retain the air inlet tube flange to the air inlet housing.",
+        "verified": true,
+        "char_start": 754,
+        "char_end": 872,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the four 5/16 7-18 x 1 \" bolts and lock washers that retain the air inlet tube flange to the air inlet housing.",
+        "verified": true,
+        "char_start": 754,
+        "char_end": 872,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_inlet_housing",
+      "name": "Air inlet housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_inlet_housing",
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the four 5/16 7-18 x 1 \" bolts and lock washers that retain the air inlet tube flange to the air inlet housing.",
+        "verified": true,
+        "char_start": 754,
+        "char_end": 872,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "loose_connection",
+      "name": "Loose connection",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "loose_connection",
+      "provenance": {
+        "page": 388,
+        "quote": "Disconnect the connection between the outlet end of the intercooler and the raw water discharge line.",
+        "verified": true,
+        "char_start": 876,
+        "char_end": 977,
+        "bbox": [
+          83.51999999999998,
+          625.699,
+          325.63266,
+          645.4209999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "raw_water_discharge",
+      "name": "Raw water discharge",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "raw_water_discharge",
+      "provenance": {
+        "page": 388,
+        "quote": "Disconnect the connection between the outlet end of the intercooler and the raw water discharge line.",
+        "verified": true,
+        "char_start": 876,
+        "char_end": 977,
+        "bbox": [
+          83.51999999999998,
+          625.699,
+          325.63266,
+          645.4209999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 388,
+        "quote": "Disconnect the connection between the outlet end of the intercooler and the raw water discharge line.",
+        "verified": true,
+        "char_start": 876,
+        "char_end": 977,
+        "bbox": [
+          83.51999999999998,
+          625.699,
+          325.63266,
+          645.4209999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "manual_shutdown",
+      "name": "Manual shutdown",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "manual_shutdown",
+      "provenance": {
+        "page": 388,
+        "quote": "Disconnect the manual shutdown, if used.",
+        "verified": true,
+        "char_start": 981,
+        "char_end": 1021,
+        "bbox": [
+          94.32,
+          661.612,
+          274.4715999999999,
+          669.612
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the six bolts, nuts, washers and lock washers that retain the air inlet housing to the",
+        "verified": true,
+        "char_start": 1025,
+        "char_end": 1118,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the six bolts, nuts, washers and lock washers that retain the air inlet housing to the",
+        "verified": true,
+        "char_start": 1025,
+        "char_end": 1118,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the six bolts and lock washers that retain the intercooler to the blower and remove the intercooler. Note the location of the two shorter bolts.",
+        "verified": true,
+        "char_start": 1337,
+        "char_end": 1488,
+        "bbox": [
+          353.0400000000001,
+          184.606,
+          590.5689600000001,
+          214.322
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the gasket from the side of the blower.",
+        "verified": true,
+        "char_start": 1492,
+        "char_end": 1538,
+        "bbox": [
+          363.84000000000003,
+          227.053,
+          566.7553600000001,
+          235.053
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Loosen the two hose clamps on the hose connecting the raw water inlet tube to the inlet end of the intercooler (Fig. 1).",
+      "source_number": 2,
+      "installs": [
+        "hose_clamp",
+        "raw_water_inlet",
+        "end_of_each_tube",
+        "intercooler",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Loosen the two hose clamps on the hose connecting the raw water inlet tube to the inlet end of the intercooler (Fig. 1).",
+        "verified": true,
+        "char_start": 630,
+        "char_end": 750,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the four 5/16 7-18 x 1 \" bolts and lock washers that retain the air inlet tube flange to the air inlet housing.",
+      "source_number": 3,
+      "installs": [
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "flange",
+        "air_inlet_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the four 5/16 7-18 x 1 \" bolts and lock washers that retain the air inlet tube flange to the air inlet housing.",
+        "verified": true,
+        "char_start": 754,
+        "char_end": 872,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Disconnect the connection between the outlet end of the intercooler and the raw water discharge line.",
+      "source_number": 4,
+      "installs": [
+        "loose_connection",
+        "raw_water_discharge",
+        "tbe_lubricating_oil_line"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Disconnect the connection between the outlet end of the intercooler and the raw water discharge line.",
+        "verified": true,
+        "char_start": 876,
+        "char_end": 977,
+        "bbox": [
+          83.51999999999998,
+          625.699,
+          325.63266,
+          645.4209999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Disconnect the manual shutdown, if used.",
+      "source_number": 5,
+      "installs": [
+        "manual_shutdown"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Disconnect the manual shutdown, if used.",
+        "verified": true,
+        "char_start": 981,
+        "char_end": 1021,
+        "bbox": [
+          94.32,
+          661.612,
+          274.4715999999999,
+          669.612
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the six bolts, nuts, washers and lock washers that retain the air inlet housing to the",
+      "source_number": 6,
+      "installs": [
+        "front_balance_weight_nut",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the six bolts, nuts, washers and lock washers that retain the air inlet housing to the",
+        "verified": true,
+        "char_start": 1025,
+        "char_end": 1118,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the six bolts and lock washers that retain the intercooler to the blower and remove the intercooler. Note the location of the two shorter bolts.",
+      "source_number": 7,
+      "installs": [
+        "assembly_examine_the_blower"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note the location of the two shorter bolts.",
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the six bolts and lock washers that retain the intercooler to the blower and remove the intercooler. Note the location of the two shorter bolts.",
+        "verified": true,
+        "char_start": 1337,
+        "char_end": 1488,
+        "bbox": [
+          353.0400000000001,
+          184.606,
+          590.5689600000001,
+          214.322
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the gasket from the side of the blower.",
+      "source_number": 8,
+      "installs": [
+        "head_gasket"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Remove the gasket from the side of the blower.",
+        "verified": true,
+        "char_start": 1492,
+        "char_end": 1538,
+        "bbox": [
+          363.84000000000003,
+          227.053,
+          566.7553600000001,
+          235.053
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

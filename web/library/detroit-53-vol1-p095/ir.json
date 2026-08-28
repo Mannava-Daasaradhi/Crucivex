@@ -1,0 +1,527 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.192 - Clean and remove the valve rocker cover...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 192,
+        "quote": "Clean and remove the valve rocker cover. Discard the gasket.",
+        "verified": true,
+        "char_start": 2280,
+        "char_end": 2340,
+        "bbox": [
+          66.24000000000001,
+          675.366,
+          290.56227,
+          695.4129999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 192,
+        "quote": "Clean and remove the valve rocker cover. Discard the gasket.",
+        "verified": true,
+        "char_start": 2280,
+        "char_end": 2340,
+        "bbox": [
+          66.24000000000001,
+          675.366,
+          290.56227,
+          695.4129999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 192,
+        "quote": "Clean and remove the valve rocker cover. Discard the gasket.",
+        "verified": true,
+        "char_start": 2280,
+        "char_end": 2340,
+        "bbox": [
+          66.24000000000001,
+          675.366,
+          290.56227,
+          695.4129999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "leaking_fuel_pipe",
+      "name": "Leaking fuel pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "leaking_fuel_pipe",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_connector",
+      "name": "Fuel connector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_connector",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_filter_cap",
+      "name": "Injector filter cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_filter_cap",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "foreign_material",
+      "name": "Foreign material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "foreign_material",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 193,
+        "quote": "Lift the injector from its seat in the cylinder head (Fig. 6).",
+        "verified": true,
+        "char_start": 57,
+        "char_end": 119,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 193,
+        "quote": "Lift the injector from its seat in the cylinder head (Fig. 6).",
+        "verified": true,
+        "char_start": 57,
+        "char_end": 119,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 193,
+        "quote": "Cover the injector hole in the cylinder head to keep foreign material out.",
+        "verified": true,
+        "char_start": 123,
+        "char_end": 197,
+        "bbox": [
+          98.4,
+          482.65299999999996,
+          323.55144,
+          502.679
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clean and remove the valve rocker cover. Discard the gasket.",
+      "source_number": 1,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "valve_rocker_cover",
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 192,
+        "quote": "Clean and remove the valve rocker cover. Discard the gasket.",
+        "verified": true,
+        "char_start": 2280,
+        "char_end": 2340,
+        "bbox": [
+          66.24000000000001,
+          675.366,
+          290.56227,
+          695.4129999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Also, protect the fuel pipes and fuel connectors from entry of dirt or foreign material. Crank the engine to bring the upper ends of the push rods of the injector and valve rocker arms in line horizontally. If a wrench is used on the crankshaft bolt at the front of the engine, do not turn the crankshaft in a left-hand direction of rotation because the bolt could be loosened. CAUTION: To reduce the risk of personal injury when barring over or \u201cbumping\u201d the starter, personnel should keep their hands and clothing away from the moving parts of the engine as there is a remote possibility the engine could start. Remove the two rocker shaft bracket boits and swing the rocker arms away from the injector and valves (Fig. 6). Remove the injector clamp bolt, special washer and clamp. Loosen the inner and outer adjusting screws or adjusting screw and locknut on the injector rack control lever and slide the lever away from the injector. Fig. 6 - Removing Injector from Cylinder Head",
+      "source_number": 2,
+      "installs": [
+        "leaking_fuel_pipe",
+        "end_of_the_injector",
+        "fuel_connector",
+        "nut_securing_fig",
+        "underside_of_the_cover",
+        "injector_filter_cap",
+        "clean_shipping_cap",
+        "foreign_material",
+        "hammer_spring_scale_upper",
+        "push_rod",
+        "engine_front_cover_valve",
+        "rocker_arm",
+        "tbe_lubricating_oil_line",
+        "halve_of_the_crankshaft",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "do not turn the crankshaft in a left-hand direction of rotation because the bolt could be loosened.",
+      "provenance": {
+        "page": 192,
+        "quote": "Remove the fuel pipes from both the injector and the fuel connectors (Fig. 5). NOTICE: Immediately after removal of the fuel pipes from an injector, cover the filter caps with shipping caps to prevent dirt from entering the injector. Als...",
+        "verified": true,
+        "char_start": 2344,
+        "char_end": 3561,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Lift the injector from its seat in the cylinder head (Fig. 6).",
+      "source_number": 7,
+      "installs": [
+        "insert_remover_valve_seat",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 193,
+        "quote": "Lift the injector from its seat in the cylinder head (Fig. 6).",
+        "verified": true,
+        "char_start": 57,
+        "char_end": 119,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Cover the injector hole in the cylinder head to keep foreign material out.",
+      "source_number": 8,
+      "installs": [
+        "of_the_oil_hole"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 193,
+        "quote": "Cover the injector hole in the cylinder head to keep foreign material out.",
+        "verified": true,
+        "char_start": 123,
+        "char_end": 197,
+        "bbox": [
+          98.4,
+          482.65299999999996,
+          323.55144,
+          502.679
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Clean the exterior of the injector with clean solvent and dry it with compressed air. CAUTION: To prevent possible personal injury, wear adequate eye protection and do not exceed 40 psi (276 kPa) air pressure.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: To prevent possible personal injury, wear adequate eye protection and do not exceed 40 psi (276 kPa) air pressure.",
+      "provenance": {
+        "page": 193,
+        "quote": "Clean the exterior of the injector with clean solvent and dry it with compressed air. CAUTION: To prevent possible personal injury, wear adequate eye protection and do not exceed 40 psi (276 kPa) air pressure.",
+        "verified": true,
+        "char_start": 201,
+        "char_end": 410,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

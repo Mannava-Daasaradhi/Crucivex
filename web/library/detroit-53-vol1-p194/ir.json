@@ -1,0 +1,459 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.334 - WORN OR ERODED NEEDLE VALVE 6. CARBON...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "worn",
+      "name": "Worn",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn",
+      "provenance": {
+        "page": 334,
+        "quote": "WORN OR ERODED NEEDLE VALVE 6. CARBON OR FOREIGN OR VALVE SEAT IN TIP MATERIAL IN SPRAY TIP | |",
+        "verified": true,
+        "char_start": 188,
+        "char_end": 283,
+        "bbox": [
+          126.96,
+          320.32899999999995,
+          516.3081599999999,
+          356.89899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "needle_valve",
+      "name": "Needle valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_valve",
+      "provenance": {
+        "page": 334,
+        "quote": "WORN OR ERODED NEEDLE VALVE 6. CARBON OR FOREIGN OR VALVE SEAT IN TIP MATERIAL IN SPRAY TIP | |",
+        "verified": true,
+        "char_start": 188,
+        "char_end": 283,
+        "bbox": [
+          126.96,
+          320.32899999999995,
+          516.3081599999999,
+          356.89899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "only_the_carbon",
+      "name": "Only the carbon",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "only_the_carbon",
+      "provenance": {
+        "page": 334,
+        "quote": "WORN OR ERODED NEEDLE VALVE 6. CARBON OR FOREIGN OR VALVE SEAT IN TIP MATERIAL IN SPRAY TIP | |",
+        "verified": true,
+        "char_start": 188,
+        "char_end": 283,
+        "bbox": [
+          126.96,
+          320.32899999999995,
+          516.3081599999999,
+          356.89899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 334,
+        "quote": "WORN OR ERODED NEEDLE VALVE 6. CARBON OR FOREIGN OR VALVE SEAT IN TIP MATERIAL IN SPRAY TIP | |",
+        "verified": true,
+        "char_start": 188,
+        "char_end": 283,
+        "bbox": [
+          126.96,
+          320.32899999999995,
+          516.3081599999999,
+          356.89899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 334,
+        "quote": "WORN OR ERODED NEEDLE VALVE 6. CARBON OR FOREIGN OR VALVE SEAT IN TIP MATERIAL IN SPRAY TIP | |",
+        "verified": true,
+        "char_start": 188,
+        "char_end": 283,
+        "bbox": [
+          126.96,
+          320.32899999999995,
+          516.3081599999999,
+          356.89899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "foreign_material",
+      "name": "Foreign material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "foreign_material",
+      "provenance": {
+        "page": 334,
+        "quote": "WORN OR ERODED NEEDLE VALVE 6. CARBON OR FOREIGN OR VALVE SEAT IN TIP MATERIAL IN SPRAY TIP | |",
+        "verified": true,
+        "char_start": 188,
+        "char_end": 283,
+        "bbox": [
+          126.96,
+          320.32899999999995,
+          516.3081599999999,
+          356.89899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 334,
+        "quote": "Replace the spring seat. 7. Check the hole size of the spray tip orifices. Then, using tool J 4298-1 with the proper size wire, clean the",
+        "verified": true,
+        "char_start": 690,
+        "char_end": 827,
+        "bbox": [
+          89.27999999999997,
+          637.77,
+          586.7289000000001,
+          659.8899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 334,
+        "quote": "Replace the spring seat. 7. Check the hole size of the spray tip orifices. Then, using tool J 4298-1 with the proper size wire, clean the",
+        "verified": true,
+        "char_start": 690,
+        "char_end": 827,
+        "bbox": [
+          89.27999999999997,
+          637.77,
+          586.7289000000001,
+          659.8899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 334,
+        "quote": "Replace the spring seat. 7. Check the hole size of the spray tip orifices. Then, using tool J 4298-1 with the proper size wire, clean the",
+        "verified": true,
+        "char_start": 690,
+        "char_end": 827,
+        "bbox": [
+          89.27999999999997,
+          637.77,
+          586.7289000000001,
+          659.8899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 334,
+        "quote": "Replace the spring seat. 7. Check the hole size of the spray tip orifices. Then, using tool J 4298-1 with the proper size wire, clean the",
+        "verified": true,
+        "char_start": 690,
+        "char_end": 827,
+        "bbox": [
+          89.27999999999997,
+          637.77,
+          586.7289000000001,
+          659.8899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 334,
+        "quote": "Replace the valve spring. orifices.",
+        "verified": true,
+        "char_start": 831,
+        "char_end": 866,
+        "bbox": [
+          89.28,
+          658.8899999999999,
+          377.1399000000001,
+          670.809
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 334,
+        "quote": "Disassemble the injector and clean the parts.",
+        "verified": true,
+        "char_start": 870,
+        "char_end": 915,
+        "bbox": [
+          88.8,
+          679.77,
+          284.4246,
+          689.77
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "WORN OR ERODED NEEDLE VALVE 6. CARBON OR FOREIGN OR VALVE SEAT IN TIP MATERIAL IN SPRAY TIP | |",
+      "source_number": 1,
+      "installs": [
+        "worn",
+        "needle_valve",
+        "only_the_carbon",
+        "insert_remover_valve_seat",
+        "indicate_the_spray_tip",
+        "foreign_material"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 334,
+        "quote": "WORN OR ERODED NEEDLE VALVE 6. CARBON OR FOREIGN OR VALVE SEAT IN TIP MATERIAL IN SPRAY TIP | |",
+        "verified": true,
+        "char_start": 188,
+        "char_end": 283,
+        "bbox": [
+          126.96,
+          320.32899999999995,
+          516.3081599999999,
+          356.89899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Replace the needle valve and tip assembly. this purpose.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 334,
+        "quote": "Replace the needle valve and tip assembly. this purpose.",
+        "verified": true,
+        "char_start": 630,
+        "char_end": 686,
+        "bbox": [
+          89.27999999999996,
+          616.79,
+          399.1376000000002,
+          627.8499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Replace the spring seat. 7. Check the hole size of the spray tip orifices. Then, using tool J 4298-1 with the proper size wire, clean the",
+      "source_number": 3,
+      "installs": [
+        "drive_spring_seat",
+        "of_the_oil_hole",
+        "lock_wire",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 334,
+        "quote": "Replace the spring seat. 7. Check the hole size of the spray tip orifices. Then, using tool J 4298-1 with the proper size wire, clean the",
+        "verified": true,
+        "char_start": 690,
+        "char_end": 827,
+        "bbox": [
+          89.27999999999997,
+          637.77,
+          586.7289000000001,
+          659.8899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Replace the valve spring. orifices.",
+      "source_number": 4,
+      "installs": [
+        "exhaust_valve_spring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 334,
+        "quote": "Replace the valve spring. orifices.",
+        "verified": true,
+        "char_start": 831,
+        "char_end": 866,
+        "bbox": [
+          89.28,
+          658.8899999999999,
+          377.1399000000001,
+          670.809
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Disassemble the injector and clean the parts.",
+      "source_number": 5,
+      "installs": [
+        "end_of_the_injector"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 334,
+        "quote": "Disassemble the injector and clean the parts.",
+        "verified": true,
+        "char_start": 870,
+        "char_end": 915,
+        "bbox": [
+          88.8,
+          679.77,
+          284.4246,
+          689.77
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

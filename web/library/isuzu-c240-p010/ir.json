@@ -1,0 +1,177 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.33 - Start the engine and allow it to...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "glow_plug",
+      "name": "Glow plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "glow_plug",
+      "provenance": {
+        "page": 33,
+        "quote": "Remove the glow plugs.",
+        "verified": true,
+        "char_start": 96,
+        "char_end": 118,
+        "bbox": [
+          297.12,
+          95.30870000000016,
+          408.87543999999997,
+          105.34203333333346
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Start the engine and allow it to warm up. Engine Coolant Temperature; Above 80\u00b0C (176\u00b0F).",
+      "source_number": 1,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 33,
+        "quote": "Start the engine and allow it to warm up. Engine Coolant Temperature; Above 80\u00b0C (176\u00b0F).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 92,
+        "bbox": [
+          297.11999999999995,
+          63.18360000000007,
+          530.451808,
+          89.28580000000011
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the glow plugs.",
+      "source_number": 2,
+      "installs": [
+        "glow_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 33,
+        "quote": "Remove the glow plugs.",
+        "verified": true,
+        "char_start": 96,
+        "char_end": 118,
+        "bbox": [
+          297.12,
+          95.30870000000016,
+          408.87543999999997,
+          105.34203333333346
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Set the adapter and compression gauge to the No. 1 cylinder glow plug hole.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 33,
+        "quote": "Set the adapter and compression gauge to the No. 1 cylinder glow plug hole.",
+        "verified": true,
+        "char_start": 122,
+        "char_end": 197,
+        "bbox": [
+          297.1199999999999,
+          188.30989999999997,
+          544.7538806666665,
+          209.5295666666666
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Turn the engine over with the starter motor and take the compression gauge reading. Compression Pressure kg/cm?(psi/kPa) at 200rpm ; at seal level 31 (441/3038) 23 (327/2254)",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 33,
+        "quote": "Turn the engine over with the starter motor and take the compression gauge reading. Compression Pressure kg/cm?(psi/kPa) at 200rpm ; at seal level 31 (441/3038) 23 (327/2254)",
+        "verified": true,
+        "char_start": 297,
+        "char_end": 471,
+        "bbox": [
+          278.16,
+          260.552,
+          542.5298733333334,
+          344.0262666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Repeat the procedure (Steps 3 and 4) for the remaining cylinders. If the measured value is less than the specified limit, refer to \u201cTrouble Shooting\u201d in this Manual.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 33,
+        "quote": "Repeat the procedure (Steps 3 and 4) for the remaining cylinders. If the measured value is less than the specified limit, refer to \u201cTrouble Shooting\u201d in this Manual.",
+        "verified": true,
+        "char_start": 475,
+        "char_end": 640,
+        "bbox": [
+          298.08,
+          392.4498,
+          543.3868699999999,
+          442.6048
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

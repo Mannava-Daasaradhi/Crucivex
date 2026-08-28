@@ -1,0 +1,198 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.100 - Install the thrust plate @",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "thrust_plate",
+      "name": "Thrust plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thrust_plate",
+      "provenance": {
+        "page": 100,
+        "quote": "Install the thrust plate @.",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 160,
+        "bbox": [
+          312.96000000000004,
+          568.0199,
+          429.04494333333344,
+          577.5865666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 100,
+        "quote": "Apply engine oil to the bolt threads \u00a9).",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 204,
+        "bbox": [
+          312.4800000000001,
+          583.7329,
+          495.49399,
+          593.2995666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "camshaft_timing_gear",
+      "name": "Camshaft timing gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft_timing_gear",
+      "provenance": {
+        "page": 100,
+        "quote": "Install the camshaft timing gear with the timing mark stamped side facing out. Camshaft Timing Gear Bolt Torque kg-m (Ib.ft/N-m) 10.0 - 12.0 (72.3 - 86.7/98.1 \u2014 117.7)",
+        "verified": true,
+        "char_start": 208,
+        "char_end": 375,
+        "bbox": [
+          293.52,
+          599.2518,
+          556.287,
+          654.8860333333333
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "replace_the_camshaft",
+      "name": "Replace the camshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "replace_the_camshaft",
+      "provenance": {
+        "page": 100,
+        "quote": "Install the camshaft timing gear with the timing mark stamped side facing out. Camshaft Timing Gear Bolt Torque kg-m (Ib.ft/N-m) 10.0 - 12.0 (72.3 - 86.7/98.1 \u2014 117.7)",
+        "verified": true,
+        "char_start": 208,
+        "char_end": 375,
+        "bbox": [
+          293.52,
+          599.2518,
+          556.287,
+          654.8860333333333
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the thrust plate @.",
+      "source_number": 1,
+      "installs": [
+        "thrust_plate"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 100,
+        "quote": "Install the thrust plate @.",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 160,
+        "bbox": [
+          312.96000000000004,
+          568.0199,
+          429.04494333333344,
+          577.5865666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Apply engine oil to the bolt threads \u00a9).",
+      "source_number": 2,
+      "installs": [
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 100,
+        "quote": "Apply engine oil to the bolt threads \u00a9).",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 204,
+        "bbox": [
+          312.4800000000001,
+          583.7329,
+          495.49399,
+          593.2995666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the camshaft timing gear with the timing mark stamped side facing out. Camshaft Timing Gear Bolt Torque kg-m (Ib.ft/N-m) 10.0 - 12.0 (72.3 - 86.7/98.1 \u2014 117.7)",
+      "source_number": 3,
+      "installs": [
+        "camshaft_timing_gear",
+        "replace_the_camshaft"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 98.1,
+      "warning": null,
+      "provenance": {
+        "page": 100,
+        "quote": "Install the camshaft timing gear with the timing mark stamped side facing out. Camshaft Timing Gear Bolt Torque kg-m (Ib.ft/N-m) 10.0 - 12.0 (72.3 - 86.7/98.1 \u2014 117.7)",
+        "verified": true,
+        "char_start": 208,
+        "char_end": 375,
+        "bbox": [
+          293.52,
+          599.2518,
+          556.287,
+          654.8860333333333
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

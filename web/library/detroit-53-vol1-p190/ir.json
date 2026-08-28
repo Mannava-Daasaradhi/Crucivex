@@ -1,0 +1,446 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.331 - If the valve seat is chipped at...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 331,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. of the hole. Mount tool J 7174 in a drill motor and",
+        "verified": true,
+        "char_start": 863,
+        "char_end": 1024,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "chipped",
+      "name": "Chipped",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "chipped",
+      "provenance": {
+        "page": 331,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. of the hole. Mount tool J 7174 in a drill motor and",
+        "verified": true,
+        "char_start": 863,
+        "char_end": 1024,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 331,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. of the hole. Mount tool J 7174 in a drill motor and",
+        "verified": true,
+        "char_start": 863,
+        "char_end": 1024,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 331,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. of the hole. Mount tool J 7174 in a drill motor and",
+        "verified": true,
+        "char_start": 863,
+        "char_end": 1024,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 331,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. of the hole. Mount tool J 7174 in a drill motor and",
+        "verified": true,
+        "char_start": 863,
+        "char_end": 1024,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drill",
+      "name": "Drill",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drill",
+      "provenance": {
+        "page": 331,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. of the hole. Mount tool J 7174 in a drill motor and",
+        "verified": true,
+        "char_start": 863,
+        "char_end": 1024,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 331,
+        "quote": "Disassemble and clean the injector. place the seat on the pilot of the tool, using a small amount of lapping compound on the lapping surface.",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1169,
+        "bbox": [
+          65.27999999999994,
+          591.8359999999999,
+          486.29789999999997,
+          623.519
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 331,
+        "quote": "Disassemble and clean the injector. place the seat on the pilot of the tool, using a small amount of lapping compound on the lapping surface.",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1169,
+        "bbox": [
+          65.27999999999994,
+          591.8359999999999,
+          486.29789999999997,
+          623.519
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 331,
+        "quote": "Disassemble and clean the injector. place the seat on the pilot of the tool, using a small amount of lapping compound on the lapping surface.",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1169,
+        "bbox": [
+          65.27999999999994,
+          591.8359999999999,
+          486.29789999999997,
+          623.519
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "check_valve_cage",
+      "name": "Check valve cage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "check_valve_cage",
+      "provenance": {
+        "page": 331,
+        "quote": "Replace the valve cage. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check the point of 8. Carbon in the tip should be removed with tip lap contact after a few seconds. If the edge of the hole re...",
+        "verified": true,
+        "char_start": 1173,
+        "char_end": 1582,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 331,
+        "quote": "Replace the valve cage. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check the point of 8. Carbon in the tip should be removed with tip lap contact after a few seconds. If the edge of the hole re...",
+        "verified": true,
+        "char_start": 1173,
+        "char_end": 1582,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "only_the_carbon",
+      "name": "Only the carbon",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "only_the_carbon",
+      "provenance": {
+        "page": 331,
+        "quote": "Replace the valve cage. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check the point of 8. Carbon in the tip should be removed with tip lap contact after a few seconds. If the edge of the hole re...",
+        "verified": true,
+        "char_start": 1173,
+        "char_end": 1582,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 331,
+        "quote": "Replace the valve cage. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check the point of 8. Carbon in the tip should be removed with tip lap contact after a few seconds. If the edge of the hole re...",
+        "verified": true,
+        "char_start": 1173,
+        "char_end": 1582,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder_of_the_reamer",
+      "name": "Shoulder of the reamer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder_of_the_reamer",
+      "provenance": {
+        "page": 331,
+        "quote": "Replace the valve cage. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check the point of 8. Carbon in the tip should be removed with tip lap contact after a few seconds. If the edge of the hole re...",
+        "verified": true,
+        "char_start": 1173,
+        "char_end": 1582,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 331,
+        "quote": "Replace the valve cage. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check the point of 8. Carbon in the tip should be removed with tip lap contact after a few seconds. If the edge of the hole re...",
+        "verified": true,
+        "char_start": 1173,
+        "char_end": 1582,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_valve",
+      "name": "Injector valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_valve",
+      "provenance": {
+        "page": 331,
+        "quote": "Check the hole size of the spray tip orifices. Then, the size of the hole and lower the injector valve using tool J 4298-1 with the proper size wire, clean the opening pressure. orifices.",
+        "verified": true,
+        "char_start": 1586,
+        "char_end": 1773,
+        "bbox": [
+          64.79999999999993,
+          683.121,
+          564.6627000000001,
+          715.5749999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 331,
+        "quote": "Check the hole size of the spray tip orifices. Then, the size of the hole and lower the injector valve using tool J 4298-1 with the proper size wire, clean the opening pressure. orifices.",
+        "verified": true,
+        "char_start": 1586,
+        "char_end": 1773,
+        "bbox": [
+          64.79999999999993,
+          683.121,
+          564.6627000000001,
+          715.5749999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. of the hole. Mount tool J 7174 in a drill motor and",
+      "source_number": 2,
+      "installs": [
+        "insert_remover_valve_seat",
+        "chipped",
+        "contact",
+        "engine_front_cover_valve",
+        "of_the_oil_hole",
+        "drill"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 331,
+        "quote": "If the valve seat is chipped at the point of contact with the valve, lap the surface of the seat and the I.D. of the hole. Mount tool J 7174 in a drill motor and",
+        "verified": true,
+        "char_start": 863,
+        "char_end": 1024,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Disassemble and clean the injector. place the seat on the pilot of the tool, using a small amount of lapping compound on the lapping surface.",
+      "source_number": 6,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "end_of_the_injector",
+        "needle_bearing_pilot"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 331,
+        "quote": "Disassemble and clean the injector. place the seat on the pilot of the tool, using a small amount of lapping compound on the lapping surface.",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1169,
+        "bbox": [
+          65.27999999999994,
+          591.8359999999999,
+          486.29789999999997,
+          623.519
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Replace the valve cage. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check the point of 8. Carbon in the tip should be removed with tip lap contact after a few seconds. If the edge of the hole reamer J 1243 which is especially designed and ground for this purpose. no further lapping is appears sharp and clear, required. Excessive lapping at this point will increase",
+      "source_number": 7,
+      "installs": [
+        "check_valve_cage",
+        "clamping_pressure",
+        "only_the_carbon",
+        "indicate_the_spray_tip",
+        "shoulder_of_the_reamer",
+        "of_the_required"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 331,
+        "quote": "Replace the valve cage. Start the drill motor and apply enough pressure to bring the seat to the point of lap. Check the point of 8. Carbon in the tip should be removed with tip lap contact after a few seconds. If the edge of the hole re...",
+        "verified": true,
+        "char_start": 1173,
+        "char_end": 1582,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check the hole size of the spray tip orifices. Then, the size of the hole and lower the injector valve using tool J 4298-1 with the proper size wire, clean the opening pressure. orifices.",
+      "source_number": 9,
+      "installs": [
+        "injector_valve",
+        "lock_wire"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 331,
+        "quote": "Check the hole size of the spray tip orifices. Then, the size of the hole and lower the injector valve using tool J 4298-1 with the proper size wire, clean the opening pressure. orifices.",
+        "verified": true,
+        "char_start": 1586,
+        "char_end": 1773,
+        "bbox": [
+          64.79999999999993,
+          683.121,
+          564.6627000000001,
+          715.5749999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

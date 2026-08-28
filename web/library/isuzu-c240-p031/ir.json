@@ -1,0 +1,194 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.109 - Install the crankcase with aligning the knock...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "crankcase",
+      "name": "Crankcase",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankcase",
+      "provenance": {
+        "page": 109,
+        "quote": "Install the crankcase with aligning the knock pin and the knock pin hole of the cylinder body.",
+        "verified": true,
+        "char_start": 189,
+        "char_end": 283,
+        "bbox": [
+          308.8800000000001,
+          101.64980000000003,
+          553.5274320000001,
+          123.47356666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "pin",
+      "name": "Pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pin",
+      "provenance": {
+        "page": 109,
+        "quote": "Install the crankcase with aligning the knock pin and the knock pin hole of the cylinder body.",
+        "verified": true,
+        "char_start": 189,
+        "char_end": 283,
+        "bbox": [
+          308.8800000000001,
+          101.64980000000003,
+          553.5274320000001,
+          123.47356666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_body",
+      "name": "Cylinder body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_body",
+      "provenance": {
+        "page": 109,
+        "quote": "Install the crankcase with aligning the knock pin and the knock pin hole of the cylinder body.",
+        "verified": true,
+        "char_start": 189,
+        "char_end": 283,
+        "bbox": [
+          308.8800000000001,
+          101.64980000000003,
+          553.5274320000001,
+          123.47356666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "crankcase_bolt",
+      "name": "Crankcase bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankcase_bolt",
+      "provenance": {
+        "page": 109,
+        "quote": "Tighten the crankcase bolt to the specified torque a little at a time in numerical order. Crankcase Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 -\u2014 17.3/13.7 - 23.5)",
+        "verified": true,
+        "char_start": 287,
+        "char_end": 452,
+        "bbox": [
+          289.68,
+          130.06889999999999,
+          555.7681186666666,
+          184.9612666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 109,
+        "quote": "Tighten the crankcase bolt to the specified torque a little at a time in numerical order. Crankcase Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 -\u2014 17.3/13.7 - 23.5)",
+        "verified": true,
+        "char_start": 287,
+        "char_end": 452,
+        "bbox": [
+          289.68,
+          130.06889999999999,
+          555.7681186666666,
+          184.9612666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the crankcase with aligning the knock pin and the knock pin hole of the cylinder body.",
+      "source_number": 2,
+      "installs": [
+        "crankcase",
+        "pin",
+        "cylinder_body"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 109,
+        "quote": "Install the crankcase with aligning the knock pin and the knock pin hole of the cylinder body.",
+        "verified": true,
+        "char_start": 189,
+        "char_end": 283,
+        "bbox": [
+          308.8800000000001,
+          101.64980000000003,
+          553.5274320000001,
+          123.47356666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Tighten the crankcase bolt to the specified torque a little at a time in numerical order. Crankcase Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 -\u2014 17.3/13.7 - 23.5)",
+      "source_number": 3,
+      "installs": [
+        "crankcase_bolt",
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 13.7,
+      "warning": null,
+      "provenance": {
+        "page": 109,
+        "quote": "Tighten the crankcase bolt to the specified torque a little at a time in numerical order. Crankcase Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 -\u2014 17.3/13.7 - 23.5)",
+        "verified": true,
+        "char_start": 287,
+        "char_end": 452,
+        "bbox": [
+          289.68,
+          130.06889999999999,
+          555.7681186666666,
+          184.9612666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

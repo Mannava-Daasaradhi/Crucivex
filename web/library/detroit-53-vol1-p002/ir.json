@@ -1,0 +1,640 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.21 - Cylinder Block 7. Water Passage from Oil...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 21,
+        "quote": "Cylinder Block 7. Water Passage from Oil Cooler 18. Oil Gallery to Camshaft",
+        "verified": true,
+        "char_start": 2132,
+        "char_end": 2207,
+        "bbox": [
+          111.12,
+          589.636,
+          570.09912,
+          596.636
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_cooler_the_cooler",
+      "name": "Fuel cooler the cooler",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_cooler_the_cooler",
+      "provenance": {
+        "page": 21,
+        "quote": "Cylinder Block 7. Water Passage from Oil Cooler 18. Oil Gallery to Camshaft",
+        "verified": true,
+        "char_start": 2132,
+        "char_end": 2207,
+        "bbox": [
+          111.12,
+          589.636,
+          570.09912,
+          596.636
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 21,
+        "quote": "Cylinder Block 7. Water Passage from Oil Cooler 18. Oil Gallery to Camshaft",
+        "verified": true,
+        "char_start": 2132,
+        "char_end": 2207,
+        "bbox": [
+          111.12,
+          589.636,
+          570.09912,
+          596.636
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 21,
+        "quote": "Bore for Cylinder Liner Cooler to Block 13. Oil Drain from Blower or Balance Shaft",
+        "verified": true,
+        "char_start": 2211,
+        "char_end": 2293,
+        "bbox": [
+          111.36000000000001,
+          600.2069999999999,
+          546.5800499999999,
+          607.2069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 21,
+        "quote": "Bore for Cylinder Liner Cooler to Block 13. Oil Drain from Blower or Balance Shaft",
+        "verified": true,
+        "char_start": 2211,
+        "char_end": 2293,
+        "bbox": [
+          111.36000000000001,
+          600.2069999999999,
+          546.5800499999999,
+          607.2069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 21,
+        "quote": "Bore for Cylinder Liner Cooler to Block 13. Oil Drain from Blower or Balance Shaft",
+        "verified": true,
+        "char_start": 2211,
+        "char_end": 2293,
+        "bbox": [
+          111.36000000000001,
+          600.2069999999999,
+          546.5800499999999,
+          607.2069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 21,
+        "quote": "Support--Upper Main 8. Oil Gallery (Main) 14. Cap--Main Bearing 19. Oil Drain from Cylinder",
+        "verified": true,
+        "char_start": 2297,
+        "char_end": 2388,
+        "bbox": [
+          111.36000000000001,
+          611.487,
+          571.51376,
+          618.487
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 21,
+        "quote": "Support--Upper Main 8. Oil Gallery (Main) 14. Cap--Main Bearing 19. Oil Drain from Cylinder",
+        "verified": true,
+        "char_start": 2297,
+        "char_end": 2388,
+        "bbox": [
+          111.36000000000001,
+          611.487,
+          571.51376,
+          618.487
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "main",
+      "name": "Main",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main",
+      "provenance": {
+        "page": 21,
+        "quote": "Support--Upper Main 8. Oil Gallery (Main) 14. Cap--Main Bearing 19. Oil Drain from Cylinder",
+        "verified": true,
+        "char_start": 2297,
+        "char_end": 2388,
+        "bbox": [
+          111.36000000000001,
+          611.487,
+          571.51376,
+          618.487
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 21,
+        "quote": "Support--Upper Main 8. Oil Gallery (Main) 14. Cap--Main Bearing 19. Oil Drain from Cylinder",
+        "verified": true,
+        "char_start": 2297,
+        "char_end": 2388,
+        "bbox": [
+          111.36000000000001,
+          611.487,
+          571.51376,
+          618.487
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 21,
+        "quote": "Support--Upper Main 8. Oil Gallery (Main) 14. Cap--Main Bearing 19. Oil Drain from Cylinder",
+        "verified": true,
+        "char_start": 2297,
+        "char_end": 2388,
+        "bbox": [
+          111.36000000000001,
+          611.487,
+          571.51376,
+          618.487
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_bearing",
+      "name": "Bearing bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_bearing",
+      "provenance": {
+        "page": 21,
+        "quote": "Support-- Upper Main 10. \u041e\u0439 Drain from Front 15. Oil Passage to Cylinder 20. Cap- Main Bearing Bearing (Front) Cover Head (from Camshaft) (Rear)",
+        "verified": true,
+        "char_start": 2447,
+        "char_end": 2591,
+        "bbox": [
+          111.35900000000015,
+          631.901,
+          552.0342900000003,
+          649.5659999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 21,
+        "quote": "Support-- Upper Main 10. \u041e\u0439 Drain from Front 15. Oil Passage to Cylinder 20. Cap- Main Bearing Bearing (Front) Cover Head (from Camshaft) (Rear)",
+        "verified": true,
+        "char_start": 2447,
+        "char_end": 2591,
+        "bbox": [
+          111.35900000000015,
+          631.901,
+          552.0342900000003,
+          649.5659999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 21,
+        "quote": "Support-- Upper Main 10. \u041e\u0439 Drain from Front 15. Oil Passage to Cylinder 20. Cap- Main Bearing Bearing (Front) Cover Head (from Camshaft) (Rear)",
+        "verified": true,
+        "char_start": 2447,
+        "char_end": 2591,
+        "bbox": [
+          111.35900000000015,
+          631.901,
+          552.0342900000003,
+          649.5659999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 21,
+        "quote": "Bore-Cam or Balance 11. Oil Passage to Oil 16. Oil Passage (Idler Gear 21. Oil Pressure Take-Off",
+        "verified": true,
+        "char_start": 2595,
+        "char_end": 2691,
+        "bbox": [
+          111.59900000000029,
+          650.478,
+          562.6334000000004,
+          660.478
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 21,
+        "quote": "Bore-Cam or Balance 11. Oil Passage to Oil 16. Oil Passage (Idler Gear 21. Oil Pressure Take-Off",
+        "verified": true,
+        "char_start": 2595,
+        "char_end": 2691,
+        "bbox": [
+          111.59900000000029,
+          650.478,
+          562.6334000000004,
+          660.478
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 21,
+        "quote": "Bore-Cam or Balance 11. Oil Passage to Oil 16. Oil Passage (Idler Gear 21. Oil Pressure Take-Off",
+        "verified": true,
+        "char_start": 2595,
+        "char_end": 2691,
+        "bbox": [
+          111.59900000000029,
+          650.478,
+          562.6334000000004,
+          660.478
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 21,
+        "quote": "Air Box 12. Oil Passage from Oil 17. Water Drain Fig. 1 - Cylinder Block (Four Cylinder Block Shown)",
+        "verified": true,
+        "char_start": 2725,
+        "char_end": 2825,
+        "bbox": [
+          111.11900000000033,
+          673.194,
+          450.85244000000046,
+          707.5469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Cylinder Block 7. Water Passage from Oil Cooler 18. Oil Gallery to Camshaft",
+      "source_number": 1,
+      "installs": [
+        "of_the_block",
+        "fuel_cooler_the_cooler",
+        "camshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 21,
+        "quote": "Cylinder Block 7. Water Passage from Oil Cooler 18. Oil Gallery to Camshaft",
+        "verified": true,
+        "char_start": 2132,
+        "char_end": 2207,
+        "bbox": [
+          111.12,
+          589.636,
+          570.09912,
+          596.636
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Bore for Cylinder Liner Cooler to Block 13. Oil Drain from Blower or Balance Shaft",
+      "source_number": 2,
+      "installs": [
+        "cylinder_liner",
+        "assembly_examine_the_blower",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 21,
+        "quote": "Bore for Cylinder Liner Cooler to Block 13. Oil Drain from Blower or Balance Shaft",
+        "verified": true,
+        "char_start": 2211,
+        "char_end": 2293,
+        "bbox": [
+          111.36000000000001,
+          600.2069999999999,
+          546.5800499999999,
+          607.2069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Support--Upper Main 8. Oil Gallery (Main) 14. Cap--Main Bearing 19. Oil Drain from Cylinder",
+      "source_number": 3,
+      "installs": [
+        "blower_drive_support",
+        "hammer_spring_scale_upper",
+        "main",
+        "clean_shipping_cap",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 21,
+        "quote": "Support--Upper Main 8. Oil Gallery (Main) 14. Cap--Main Bearing 19. Oil Drain from Cylinder",
+        "verified": true,
+        "char_start": 2297,
+        "char_end": 2388,
+        "bbox": [
+          111.36000000000001,
+          611.487,
+          571.51376,
+          618.487
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Support-- Upper Main 10. \u041e\u0439 Drain from Front 15. Oil Passage to Cylinder 20. Cap- Main Bearing Bearing (Front) Cover Head (from Camshaft) (Rear)",
+      "source_number": 4,
+      "installs": [
+        "bearing_bearing",
+        "underside_of_the_cover",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 21,
+        "quote": "Support-- Upper Main 10. \u041e\u0439 Drain from Front 15. Oil Passage to Cylinder 20. Cap- Main Bearing Bearing (Front) Cover Head (from Camshaft) (Rear)",
+        "verified": true,
+        "char_start": 2447,
+        "char_end": 2591,
+        "bbox": [
+          111.35900000000015,
+          631.901,
+          552.0342900000003,
+          649.5659999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Bore-Cam or Balance 11. Oil Passage to Oil 16. Oil Passage (Idler Gear 21. Oil Pressure Take-Off",
+      "source_number": 5,
+      "installs": [
+        "t_push_rod_cam",
+        "idler_gear",
+        "clamping_pressure"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 21,
+        "quote": "Bore-Cam or Balance 11. Oil Passage to Oil 16. Oil Passage (Idler Gear 21. Oil Pressure Take-Off",
+        "verified": true,
+        "char_start": 2595,
+        "char_end": 2691,
+        "bbox": [
+          111.59900000000029,
+          650.478,
+          562.6334000000004,
+          660.478
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Air Box 12. Oil Passage from Oil 17. Water Drain Fig. 1 - Cylinder Block (Four Cylinder Block Shown)",
+      "source_number": 6,
+      "installs": [
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 21,
+        "quote": "Air Box 12. Oil Passage from Oil 17. Water Drain Fig. 1 - Cylinder Block (Four Cylinder Block Shown)",
+        "verified": true,
+        "char_start": 2725,
+        "char_end": 2825,
+        "bbox": [
+          111.11900000000033,
+          673.194,
+          450.85244000000046,
+          707.5469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

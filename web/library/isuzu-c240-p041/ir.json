@@ -1,0 +1,377 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.131 - Drain plug 6. Relief valve assembly",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "drain_plug",
+      "name": "Drain plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drain_plug",
+      "provenance": {
+        "page": 131,
+        "quote": "Drain plug 6. Relief valve assembly",
+        "verified": true,
+        "char_start": 73,
+        "char_end": 108,
+        "bbox": [
+          147.12,
+          499.55180000000007,
+          455.29444800000005,
+          509.3518
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "relief_valve_assembly",
+      "name": "Relief valve assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "relief_valve_assembly",
+      "provenance": {
+        "page": 131,
+        "quote": "Drain plug 6. Relief valve assembly",
+        "verified": true,
+        "char_start": 73,
+        "char_end": 108,
+        "bbox": [
+          147.12,
+          499.55180000000007,
+          455.29444800000005,
+          509.3518
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "center_bolt",
+      "name": "Center bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_bolt",
+      "provenance": {
+        "page": 131,
+        "quote": "Center bolt 7. Overflow valve assembly",
+        "verified": true,
+        "char_start": 112,
+        "char_end": 150,
+        "bbox": [
+          147.11999999999998,
+          511.92190000000005,
+          472.09383199999996,
+          521.4885666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "overflow_valve",
+      "name": "Overflow valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "overflow_valve",
+      "provenance": {
+        "page": 131,
+        "quote": "Center bolt 7. Overflow valve assembly",
+        "verified": true,
+        "char_start": 112,
+        "char_end": 150,
+        "bbox": [
+          147.11999999999998,
+          511.92190000000005,
+          472.09383199999996,
+          521.4885666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "filter_body",
+      "name": "Filter body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter_body",
+      "provenance": {
+        "page": 131,
+        "quote": "Filter body 8. Oil cooler relief valve 4. \u2018Spring, seat and gasket (Model with oil cooler)",
+        "verified": true,
+        "char_start": 154,
+        "char_end": 244,
+        "bbox": [
+          128.88,
+          523.7849,
+          461.12105733333334,
+          545.8422666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_cooler_relief",
+      "name": "Oil cooler relief",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_cooler_relief",
+      "provenance": {
+        "page": 131,
+        "quote": "Filter body 8. Oil cooler relief valve 4. \u2018Spring, seat and gasket (Model with oil cooler)",
+        "verified": true,
+        "char_start": 154,
+        "char_end": 244,
+        "bbox": [
+          128.88,
+          523.7849,
+          461.12105733333334,
+          545.8422666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "turbocharger_assembly_valve",
+      "name": "Turbocharger assembly valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbocharger_assembly_valve",
+      "provenance": {
+        "page": 131,
+        "quote": "Filter body 8. Oil cooler relief valve 4. \u2018Spring, seat and gasket (Model with oil cooler)",
+        "verified": true,
+        "char_start": 154,
+        "char_end": 244,
+        "bbox": [
+          128.88,
+          523.7849,
+          461.12105733333334,
+          545.8422666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 131,
+        "quote": "Filter body 8. Oil cooler relief valve 4. \u2018Spring, seat and gasket (Model with oil cooler)",
+        "verified": true,
+        "char_start": 154,
+        "char_end": 244,
+        "bbox": [
+          128.88,
+          523.7849,
+          461.12105733333334,
+          545.8422666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_cooler",
+      "name": "Oil cooler",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_cooler",
+      "provenance": {
+        "page": 131,
+        "quote": "Filter body 8. Oil cooler relief valve 4. \u2018Spring, seat and gasket (Model with oil cooler)",
+        "verified": true,
+        "char_start": 154,
+        "char_end": 244,
+        "bbox": [
+          128.88,
+          523.7849,
+          461.12105733333334,
+          545.8422666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "o_ring",
+      "name": "O-ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "o_ring",
+      "provenance": {
+        "page": 131,
+        "quote": "Element 9. Plug and O-ring (Model without oil cooler)",
+        "verified": true,
+        "char_start": 248,
+        "char_end": 301,
+        "bbox": [
+          147.12,
+          547.3867,
+          521.5798900000001,
+          569.7705666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Drain plug 6. Relief valve assembly",
+      "source_number": 1,
+      "installs": [
+        "drain_plug",
+        "relief_valve_assembly"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 131,
+        "quote": "Drain plug 6. Relief valve assembly",
+        "verified": true,
+        "char_start": 73,
+        "char_end": 108,
+        "bbox": [
+          147.12,
+          499.55180000000007,
+          455.29444800000005,
+          509.3518
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Center bolt 7. Overflow valve assembly",
+      "source_number": 2,
+      "installs": [
+        "center_bolt",
+        "overflow_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 131,
+        "quote": "Center bolt 7. Overflow valve assembly",
+        "verified": true,
+        "char_start": 112,
+        "char_end": 150,
+        "bbox": [
+          147.11999999999998,
+          511.92190000000005,
+          472.09383199999996,
+          521.4885666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Filter body 8. Oil cooler relief valve 4. \u2018Spring, seat and gasket (Model with oil cooler)",
+      "source_number": 3,
+      "installs": [
+        "filter_body",
+        "oil_cooler_relief",
+        "turbocharger_assembly_valve",
+        "head_gasket",
+        "oil_cooler"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 131,
+        "quote": "Filter body 8. Oil cooler relief valve 4. \u2018Spring, seat and gasket (Model with oil cooler)",
+        "verified": true,
+        "char_start": 154,
+        "char_end": 244,
+        "bbox": [
+          128.88,
+          523.7849,
+          461.12105733333334,
+          545.8422666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Element 9. Plug and O-ring (Model without oil cooler)",
+      "source_number": 5,
+      "installs": [
+        "o_ring"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 131,
+        "quote": "Element 9. Plug and O-ring (Model without oil cooler)",
+        "verified": true,
+        "char_start": 248,
+        "char_end": 301,
+        "bbox": [
+          147.12,
+          547.3867,
+          521.5798900000001,
+          569.7705666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

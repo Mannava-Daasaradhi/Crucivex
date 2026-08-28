@@ -1,0 +1,415 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.253 - Disconnect the fuel lines from the fuel...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "fuel_line",
+      "name": "Fuel line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_line",
+      "provenance": {
+        "page": 253,
+        "quote": "Disconnect the fuel lines from the fuel pump. governor flyweights equals the tension of the speed adjusting spring. The engine will then operate at the desired reduced speed.",
+        "verified": true,
+        "char_start": 1289,
+        "char_end": 1463,
+        "bbox": [
+          56.400000000000006,
+          569.6099999999999,
+          526.6645000000001,
+          604.4289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 253,
+        "quote": "Disconnect the fuel lines from the fuel pump. governor flyweights equals the tension of the speed adjusting spring. The engine will then operate at the desired reduced speed.",
+        "verified": true,
+        "char_start": 1289,
+        "char_end": 1463,
+        "bbox": [
+          56.400000000000006,
+          569.6099999999999,
+          526.6645000000001,
+          604.4289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 253,
+        "quote": "Disconnect the fuel lines from the fuel pump. governor flyweights equals the tension of the speed adjusting spring. The engine will then operate at the desired reduced speed.",
+        "verified": true,
+        "char_start": 1289,
+        "char_end": 1463,
+        "bbox": [
+          56.400000000000006,
+          569.6099999999999,
+          526.6645000000001,
+          604.4289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flyweight",
+      "name": "Flyweight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flyweight",
+      "provenance": {
+        "page": 253,
+        "quote": "Disconnect the fuel lines from the fuel pump. governor flyweights equals the tension of the speed adjusting spring. The engine will then operate at the desired reduced speed.",
+        "verified": true,
+        "char_start": 1289,
+        "char_end": 1463,
+        "bbox": [
+          56.400000000000006,
+          569.6099999999999,
+          526.6645000000001,
+          604.4289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_adjusting_spring",
+      "name": "Speed adjusting spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_spring",
+      "provenance": {
+        "page": 253,
+        "quote": "Disconnect the fuel lines from the fuel pump. governor flyweights equals the tension of the speed adjusting spring. The engine will then operate at the desired reduced speed.",
+        "verified": true,
+        "char_start": 1289,
+        "char_end": 1463,
+        "bbox": [
+          56.400000000000006,
+          569.6099999999999,
+          526.6645000000001,
+          604.4289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 253,
+        "quote": "Disconnect the fuel lines from the fuel pump. governor flyweights equals the tension of the speed adjusting spring. The engine will then operate at the desired reduced speed.",
+        "verified": true,
+        "char_start": 1289,
+        "char_end": 1463,
+        "bbox": [
+          56.400000000000006,
+          569.6099999999999,
+          526.6645000000001,
+          604.4289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_gasket",
+      "name": "Fuel pump gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_gasket",
+      "provenance": {
+        "page": 253,
+        "quote": "Remove the fuel pump gasket and the pump drive The governor is mounted on the engine rear end plate coupling. and is retained by five bolts. The engine fuel pump is driven by the governor. After removing the dirt from",
+        "verified": true,
+        "char_start": 1538,
+        "char_end": 1755,
+        "bbox": [
+          54.0,
+          628.65,
+          558.0509999999999,
+          670.218
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 253,
+        "quote": "Remove the fuel pump gasket and the pump drive The governor is mounted on the engine rear end plate coupling. and is retained by five bolts. The engine fuel pump is driven by the governor. After removing the dirt from",
+        "verified": true,
+        "char_start": 1538,
+        "char_end": 1755,
+        "bbox": [
+          54.0,
+          628.65,
+          558.0509999999999,
+          670.218
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 253,
+        "quote": "Remove the fuel pump gasket and the pump drive The governor is mounted on the engine rear end plate coupling. and is retained by five bolts. The engine fuel pump is driven by the governor. After removing the dirt from",
+        "verified": true,
+        "char_start": 1538,
+        "char_end": 1755,
+        "bbox": [
+          54.0,
+          628.65,
+          558.0509999999999,
+          670.218
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "accessory_drive_coupling",
+      "name": "Accessory drive coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_coupling",
+      "provenance": {
+        "page": 253,
+        "quote": "Remove the fuel pump gasket and the pump drive The governor is mounted on the engine rear end plate coupling. and is retained by five bolts. The engine fuel pump is driven by the governor. After removing the dirt from",
+        "verified": true,
+        "char_start": 1538,
+        "char_end": 1755,
+        "bbox": [
+          54.0,
+          628.65,
+          558.0509999999999,
+          670.218
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 253,
+        "quote": "Remove the fuel pump gasket and the pump drive The governor is mounted on the engine rear end plate coupling. and is retained by five bolts. The engine fuel pump is driven by the governor. After removing the dirt from",
+        "verified": true,
+        "char_start": 1538,
+        "char_end": 1755,
+        "bbox": [
+          54.0,
+          628.65,
+          558.0509999999999,
+          670.218
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flywheel_attaching_bolt",
+      "name": "Flywheel attaching bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_attaching_bolt",
+      "provenance": {
+        "page": 253,
+        "quote": "Remove the attaching bolts and withdraw the around the governor and engine end plate, remove the governor from the engine. governor as follows:",
+        "verified": true,
+        "char_start": 1759,
+        "char_end": 1902,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Disconnect the fuel lines from the fuel pump. governor flyweights equals the tension of the speed adjusting spring. The engine will then operate at the desired reduced speed.",
+      "source_number": 3,
+      "installs": [
+        "fuel_line",
+        "fuel_pump",
+        "blower_the_engine_governor",
+        "flyweight",
+        "speed_adjusting_spring",
+        "engine_speed"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 253,
+        "quote": "Disconnect the fuel lines from the fuel pump. governor flyweights equals the tension of the speed adjusting spring. The engine will then operate at the desired reduced speed.",
+        "verified": true,
+        "char_start": 1289,
+        "char_end": 1463,
+        "bbox": [
+          56.400000000000006,
+          569.6099999999999,
+          526.6645000000001,
+          604.4289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the fuel pump from the governor.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 253,
+        "quote": "Remove the fuel pump from the governor.",
+        "verified": true,
+        "char_start": 1467,
+        "char_end": 1506,
+        "bbox": [
+          331.2000000000001,
+          599.512,
+          513.3957000000001,
+          609.512
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the fuel pump gasket and the pump drive The governor is mounted on the engine rear end plate coupling. and is retained by five bolts. The engine fuel pump is driven by the governor. After removing the dirt from",
+      "source_number": 5,
+      "installs": [
+        "fuel_pump_gasket",
+        "lubricating_oil_pump",
+        "assembly_rear_end_plate",
+        "accessory_drive_coupling",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 253,
+        "quote": "Remove the fuel pump gasket and the pump drive The governor is mounted on the engine rear end plate coupling. and is retained by five bolts. The engine fuel pump is driven by the governor. After removing the dirt from",
+        "verified": true,
+        "char_start": 1538,
+        "char_end": 1755,
+        "bbox": [
+          54.0,
+          628.65,
+          558.0509999999999,
+          670.218
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the attaching bolts and withdraw the around the governor and engine end plate, remove the governor from the engine. governor as follows:",
+      "source_number": 6,
+      "installs": [
+        "flywheel_attaching_bolt"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 253,
+        "quote": "Remove the attaching bolts and withdraw the around the governor and engine end plate, remove the governor from the engine. governor as follows:",
+        "verified": true,
+        "char_start": 1759,
+        "char_end": 1902,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

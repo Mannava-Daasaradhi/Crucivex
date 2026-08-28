@@ -1,0 +1,526 @@
+{
+  "schema_version": "0.1.0",
+  "title": "ohv valvetrain",
+  "source_document": "ohv_valvetrain.pdf",
+  "parts": [
+    {
+      "id": "tappet",
+      "name": "Tappet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tappet",
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the tappets into their bores in the crankcase, lubricating each with assembly grease before insertion.",
+        "verified": true,
+        "char_start": 67,
+        "char_end": 173,
+        "bbox": [
+          62.0,
+          123.18719999999996,
+          367.22240000000016,
+          148.18720000000008
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 1,
+        "quote": "Install the push rods through the tunnel, engaging the lower ends in the tappets.",
+        "verified": true,
+        "char_start": 182,
+        "char_end": 263,
+        "bbox": [
+          62.0,
+          153.98720000000003,
+          381.1232000000001,
+          178.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "rocker_arm_assembly",
+      "name": "Rocker arm assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm_assembly",
+      "provenance": {
+        "page": 1,
+        "quote": "Position the rocker arm assembly on the studs and engage the ball ends of the push rods.",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 360,
+        "bbox": [
+          62.0,
+          184.78719999999998,
+          378.96320000000014,
+          209.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "rocker_pivot_nut",
+      "name": "Rocker pivot nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_pivot_nut",
+      "provenance": {
+        "page": 1,
+        "quote": "Tighten the rocker pivot nuts to 9 N.m, then set the valve clearance to 0.10 mm on the inlet and 0.15 mm on the exhaust.",
+        "verified": true,
+        "char_start": 369,
+        "char_end": 489,
+        "bbox": [
+          62.0,
+          215.58720000000005,
+          380.02880000000016,
+          240.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "rocker_cover",
+      "name": "Rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_cover",
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the rocker cover with a new rocker cover gasket and tighten the screws to 5 N.m.",
+        "verified": true,
+        "char_start": 498,
+        "char_end": 582,
+        "bbox": [
+          62.0,
+          246.3872,
+          377.87840000000006,
+          271.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "screw",
+      "name": "Screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "screw",
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the rocker cover with a new rocker cover gasket and tighten the screws to 5 N.m.",
+        "verified": true,
+        "char_start": 498,
+        "char_end": 582,
+        "bbox": [
+          62.0,
+          246.3872,
+          377.87840000000006,
+          271.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "oil_pump",
+      "name": "Oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pump",
+      "provenance": {
+        "page": 1,
+        "quote": "Install the oil pump onto the crankcase and secure it with three screws tightened to 7 lb-ft.",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 700,
+        "bbox": [
+          62.0,
+          300.58720000000005,
+          360.8192000000001,
+          325.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "oil_seal",
+      "name": "Oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal",
+      "provenance": {
+        "page": 1,
+        "quote": "Fit a new oil seal to the crankcase cover, lip facing inward.",
+        "verified": true,
+        "char_start": 709,
+        "char_end": 770,
+        "bbox": [
+          95.0912,
+          331.3872,
+          342.6560000000002,
+          340.9872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "governor_gear",
+      "name": "Governor gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_gear",
+      "provenance": {
+        "page": 1,
+        "quote": "Install the governor gear onto its shaft and check that it spins freely without binding.",
+        "verified": true,
+        "char_start": 779,
+        "char_end": 867,
+        "bbox": [
+          62.0,
+          346.7872,
+          353.36000000000007,
+          371.7872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "sump_plug",
+      "name": "Sump plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "sump_plug",
+      "provenance": {
+        "page": 1,
+        "quote": "Refit the sump plug with a new sealing washer and tighten to 24 N.m.",
+        "verified": true,
+        "char_start": 876,
+        "char_end": 944,
+        "bbox": [
+          95.0912,
+          377.5872,
+          389.6288,
+          387.18719999999996
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Fit the tappets into their bores in the crankcase, lubricating each with assembly grease before insertion.",
+      "source_number": 1,
+      "installs": [
+        "tappet"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the tappets into their bores in the crankcase, lubricating each with assembly grease before insertion.",
+        "verified": true,
+        "char_start": 67,
+        "char_end": 173,
+        "bbox": [
+          62.0,
+          123.18719999999996,
+          367.22240000000016,
+          148.18720000000008
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the push rods through the tunnel, engaging the lower ends in the tappets.",
+      "source_number": 2,
+      "installs": [
+        "push_rod"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Install the push rods through the tunnel, engaging the lower ends in the tappets.",
+        "verified": true,
+        "char_start": 182,
+        "char_end": 263,
+        "bbox": [
+          62.0,
+          153.98720000000003,
+          381.1232000000001,
+          178.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Position the rocker arm assembly on the studs and engage the ball ends of the push rods.",
+      "source_number": 3,
+      "installs": [
+        "rocker_arm_assembly"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Position the rocker arm assembly on the studs and engage the ball ends of the push rods.",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 360,
+        "bbox": [
+          62.0,
+          184.78719999999998,
+          378.96320000000014,
+          209.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Tighten the rocker pivot nuts to 9 N.m, then set the valve clearance to 0.10 mm on the inlet and 0.15 mm on the exhaust.",
+      "source_number": 4,
+      "installs": [
+        "rocker_pivot_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 9.0,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Tighten the rocker pivot nuts to 9 N.m, then set the valve clearance to 0.10 mm on the inlet and 0.15 mm on the exhaust.",
+        "verified": true,
+        "char_start": 369,
+        "char_end": 489,
+        "bbox": [
+          62.0,
+          215.58720000000005,
+          380.02880000000016,
+          240.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Fit the rocker cover with a new rocker cover gasket and tighten the screws to 5 N.m.",
+      "source_number": 5,
+      "installs": [
+        "rocker_cover",
+        "screw"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 5.0,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the rocker cover with a new rocker cover gasket and tighten the screws to 5 N.m.",
+        "verified": true,
+        "char_start": 498,
+        "char_end": 582,
+        "bbox": [
+          62.0,
+          246.3872,
+          377.87840000000006,
+          271.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install the oil pump onto the crankcase and secure it with three screws tightened to 7 lb-ft.",
+      "source_number": 6,
+      "installs": [
+        "oil_pump"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": 9.5,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Install the oil pump onto the crankcase and secure it with three screws tightened to 7 lb-ft.",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 700,
+        "bbox": [
+          62.0,
+          300.58720000000005,
+          360.8192000000001,
+          325.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Fit a new oil seal to the crankcase cover, lip facing inward.",
+      "source_number": 7,
+      "installs": [
+        "oil_seal"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Fit a new oil seal to the crankcase cover, lip facing inward.",
+        "verified": true,
+        "char_start": 709,
+        "char_end": 770,
+        "bbox": [
+          95.0912,
+          331.3872,
+          342.6560000000002,
+          340.9872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Install the governor gear onto its shaft and check that it spins freely without binding.",
+      "source_number": 8,
+      "installs": [
+        "governor_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Install the governor gear onto its shaft and check that it spins freely without binding.",
+        "verified": true,
+        "char_start": 779,
+        "char_end": 867,
+        "bbox": [
+          62.0,
+          346.7872,
+          353.36000000000007,
+          371.7872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Refit the sump plug with a new sealing washer and tighten to 24 N.m.",
+      "source_number": 9,
+      "installs": [
+        "sump_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 24.0,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Refit the sump plug with a new sealing washer and tighten to 24 N.m.",
+        "verified": true,
+        "char_start": 876,
+        "char_end": 944,
+        "bbox": [
+          95.0912,
+          377.5872,
+          389.6288,
+          387.18719999999996
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    }
+  ]
+}

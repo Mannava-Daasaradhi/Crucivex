@@ -1,0 +1,1646 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.359 - Install new lip type oil seals in...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_seal",
+      "name": "Of the seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_seal",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with ...",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 2095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "left_hand_helix_rotor",
+      "name": "Left-hand helix rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "left_hand_helix_rotor",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with ...",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 2095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with ...",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 2095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with ...",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 2095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "retainer_spring",
+      "name": "Retainer spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "retainer_spring",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with ...",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 2095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with ...",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 2095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with ...",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 2095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with ...",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 2095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with ...",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 2095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_end_plate",
+      "name": "Front end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_end_plate",
+      "provenance": {
+        "page": 359,
+        "quote": "Place the front end plate on two wood blocks. Then install the rotors, gear end up. on the end plate (Fig. 10). On the former blowers. be sure that the ring type oil seals are properly positioned on the rotors.",
+        "verified": true,
+        "char_start": 2099,
+        "char_end": 2309,
+        "bbox": [
+          333.5999999999999,
+          443.36999999999995,
+          575.09024,
+          486.26599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "wood_block",
+      "name": "Wood block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wood_block",
+      "provenance": {
+        "page": 359,
+        "quote": "Place the front end plate on two wood blocks. Then install the rotors, gear end up. on the end plate (Fig. 10). On the former blowers. be sure that the ring type oil seals are properly positioned on the rotors.",
+        "verified": true,
+        "char_start": 2099,
+        "char_end": 2309,
+        "bbox": [
+          333.5999999999999,
+          443.36999999999995,
+          575.09024,
+          486.26599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rotor_shaft_blower_housing",
+      "name": "Rotor shaft blower housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shaft_blower_housing",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the blower housing over the rotors (Fig. 11). NOTE: To prevent inadequate lubrication or low oil pressure. care must be exercised in the assembly of the front and rear blower end plates to the blower housing. The rear end plate f...",
+        "verified": true,
+        "char_start": 2313,
+        "char_end": 2958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "retaining_screw",
+      "name": "Retaining screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "retaining_screw",
+      "provenance": {
+        "page": 359,
+        "quote": "Place the rear end plate over the rotor shafts (Fig. 12). On the former blowers, be sure that the ring type oil seals are properly positioned on the rotors. Then secure each end plate to the 3-53 blower housing with two end plate retaini...",
+        "verified": true,
+        "char_start": 2962,
+        "char_end": 3222,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 359,
+        "quote": "Place the rear end plate over the rotor shafts (Fig. 12). On the former blowers, be sure that the ring type oil seals are properly positioned on the rotors. Then secure each end plate to the 3-53 blower housing with two end plate retaini...",
+        "verified": true,
+        "char_start": 2962,
+        "char_end": 3222,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 360,
+        "quote": "Attach the two thrust washers to the front end of the blower with the washer retaining bolts. If 5/16 \u2019\u2019-24 bolts are used. tighten them to 25-30 Ib-ft torque; if 3/8 \u201d - 24 bolts are used, tighten them to 54-59 lb-ft torque.",
+        "verified": true,
+        "char_start": 180,
+        "char_end": 405,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 360,
+        "quote": "Attach the two thrust washers to the front end of the blower with the washer retaining bolts. If 5/16 \u2019\u2019-24 bolts are used. tighten them to 25-30 Ib-ft torque; if 3/8 \u201d - 24 bolts are used, tighten them to 54-59 lb-ft torque.",
+        "verified": true,
+        "char_start": 180,
+        "char_end": 405,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retaining_bolt",
+      "name": "Bearing retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retaining_bolt",
+      "provenance": {
+        "page": 360,
+        "quote": "Attach the two thrust washers to the front end of the blower with the washer retaining bolts. If 5/16 \u2019\u2019-24 bolts are used. tighten them to 25-30 Ib-ft torque; if 3/8 \u201d - 24 bolts are used, tighten them to 54-59 lb-ft torque.",
+        "verified": true,
+        "char_start": 180,
+        "char_end": 405,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 360,
+        "quote": "Attach the two thrust washers to the front end of the blower with the washer retaining bolts. If 5/16 \u2019\u2019-24 bolts are used. tighten them to 25-30 Ib-ft torque; if 3/8 \u201d - 24 bolts are used, tighten them to 54-59 lb-ft torque.",
+        "verified": true,
+        "char_start": 180,
+        "char_end": 405,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 360,
+        "quote": "Attach the three spacers and the thrust plate to the front end of the blower. Tighten the three bolts to 7-9 lb-ft torque. Then check the clearance between the thrust plate and the thrust washers. The specified clearance 15 .001 \u201d to .00...",
+        "verified": true,
+        "char_start": 409,
+        "char_end": 733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "thrust_plate",
+      "name": "Thrust plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thrust_plate",
+      "provenance": {
+        "page": 360,
+        "quote": "Attach the three spacers and the thrust plate to the front end of the blower. Tighten the three bolts to 7-9 lb-ft torque. Then check the clearance between the thrust plate and the thrust washers. The specified clearance 15 .001 \u201d to .00...",
+        "verified": true,
+        "char_start": 409,
+        "char_end": 733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 360,
+        "quote": "Position the rotors so that the missing serrations on the gear end of the rotor shafts are 90 \u00b0 apart. This is accomplished by placing the rotors in a \"T\" shape, with the missing serration in the upper rotor facing to the left and the mi...",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 1261,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 360,
+        "quote": "Position the rotors so that the missing serrations on the gear end of the rotor shafts are 90 \u00b0 apart. This is accomplished by placing the rotors in a \"T\" shape, with the missing serration in the upper rotor facing to the left and the mi...",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 1261,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 360,
+        "quote": "Position the rotors so that the missing serrations on the gear end of the rotor shafts are 90 \u00b0 apart. This is accomplished by placing the rotors in a \"T\" shape, with the missing serration in the upper rotor facing to the left and the mi...",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 1261,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_rotor_gear",
+      "name": "Blower rotor gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_rotor_gear",
+      "provenance": {
+        "page": 360,
+        "quote": "Position the rotors so that the missing serrations on the gear end of the rotor shafts are 90 \u00b0 apart. This is accomplished by placing the rotors in a \"T\" shape, with the missing serration in the upper rotor facing to the left and the mi...",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 1261,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 360,
+        "quote": "Tap the gears lightly with a soft hammer to seat them on the shafts. Then rotate the gears until the punch marks on the face of the gears match. If the marks do not match, re-position the gears.",
+        "verified": true,
+        "char_start": 1265,
+        "char_end": 1459,
+        "bbox": [
+          348.72000000000014,
+          102.44999999999993,
+          586.9758000000002,
+          144.93200000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 360,
+        "quote": "Tap the gears lightly with a soft hammer to seat them on the shafts. Then rotate the gears until the punch marks on the face of the gears match. If the marks do not match, re-position the gears.",
+        "verified": true,
+        "char_start": 1265,
+        "char_end": 1459,
+        "bbox": [
+          348.72000000000014,
+          102.44999999999993,
+          586.9758000000002,
+          144.93200000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cloth",
+      "name": "Cloth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cloth",
+      "provenance": {
+        "page": 360,
+        "quote": "Wedge a clean cloth between the blower rotors. Use the gear retaining bolts and plain washers to press the gears on the rotor shafts (Fig. 13). Turn the bolts uniformly until the gears are tight against the shoulders on the shafts.",
+        "verified": true,
+        "char_start": 1464,
+        "char_end": 1695,
+        "bbox": [
+          348.7199999999998,
+          155.9709999999999,
+          586.8905999999998,
+          209.66899999999976
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_rotor",
+      "name": "Blower rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_rotor",
+      "provenance": {
+        "page": 360,
+        "quote": "Wedge a clean cloth between the blower rotors. Use the gear retaining bolts and plain washers to press the gears on the rotor shafts (Fig. 13). Turn the bolts uniformly until the gears are tight against the shoulders on the shafts.",
+        "verified": true,
+        "char_start": 1464,
+        "char_end": 1695,
+        "bbox": [
+          348.7199999999998,
+          155.9709999999999,
+          586.8905999999998,
+          209.66899999999976
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_retaining_bolt",
+      "name": "Gear retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_retaining_bolt",
+      "provenance": {
+        "page": 360,
+        "quote": "Wedge a clean cloth between the blower rotors. Use the gear retaining bolts and plain washers to press the gears on the rotor shafts (Fig. 13). Turn the bolts uniformly until the gears are tight against the shoulders on the shafts.",
+        "verified": true,
+        "char_start": 1464,
+        "char_end": 1695,
+        "bbox": [
+          348.7199999999998,
+          155.9709999999999,
+          586.8905999999998,
+          209.66899999999976
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 360,
+        "quote": "Wedge a clean cloth between the blower rotors. Use the gear retaining bolts and plain washers to press the gears on the rotor shafts (Fig. 13). Turn the bolts uniformly until the gears are tight against the shoulders on the shafts.",
+        "verified": true,
+        "char_start": 1464,
+        "char_end": 1695,
+        "bbox": [
+          348.7199999999998,
+          155.9709999999999,
+          586.8905999999998,
+          209.66899999999976
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 360,
+        "quote": "Wedge a clean cloth between the blower rotors. Use the gear retaining bolts and plain washers to press the gears on the rotor shafts (Fig. 13). Turn the bolts uniformly until the gears are tight against the shoulders on the shafts.",
+        "verified": true,
+        "char_start": 1464,
+        "char_end": 1695,
+        "bbox": [
+          348.7199999999998,
+          155.9709999999999,
+          586.8905999999998,
+          209.66899999999976
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_washer",
+      "name": "Gear washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_washer",
+      "provenance": {
+        "page": 360,
+        "quote": "Remove the gear retaining bolts and washers. Then proceed as follows: 2 and 3-53 Blower -- Place the gear washers on the gears and start the gear retaining bolts in the rotor shafts. Tighten the bolts to 25-30 lb-ft torque. 4-53 Blower- ...",
+        "verified": true,
+        "char_start": 1700,
+        "char_end": 2429,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_cam",
+      "name": "Blower drive cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_cam",
+      "provenance": {
+        "page": 360,
+        "quote": "Remove the gear retaining bolts and washers. Then proceed as follows: 2 and 3-53 Blower -- Place the gear washers on the gears and start the gear retaining bolts in the rotor shafts. Tighten the bolts to 25-30 lb-ft torque. 4-53 Blower- ...",
+        "verified": true,
+        "char_start": 1700,
+        "char_end": 2429,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 360,
+        "quote": "Remove the gear retaining bolts and washers. Then proceed as follows: 2 and 3-53 Blower -- Place the gear washers on the gears and start the gear retaining bolts in the rotor shafts. Tighten the bolts to 25-30 lb-ft torque. 4-53 Blower- ...",
+        "verified": true,
+        "char_start": 1700,
+        "char_end": 2429,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_bolt",
+      "name": "Cylinder head bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_bolt",
+      "provenance": {
+        "page": 360,
+        "quote": "Remove the gear retaining bolts and washers. Then proceed as follows: 2 and 3-53 Blower -- Place the gear washers on the gears and start the gear retaining bolts in the rotor shafts. Tighten the bolts to 25-30 lb-ft torque. 4-53 Blower- ...",
+        "verified": true,
+        "char_start": 1700,
+        "char_end": 2429,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 361,
+        "quote": "Remove the bolts and washers used to temporarily secure the front end plate to the housing. Then install the front end plate to the blower with six bolts and special washers and two reinforcement plates and tighten the bolts to 20-25 Ib-...",
+        "verified": true,
+        "char_start": 982,
+        "char_end": 1365,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_washer",
+      "name": "Special washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_washer",
+      "provenance": {
+        "page": 361,
+        "quote": "Remove the bolts and washers used to temporarily secure the front end plate to the housing. Then install the front end plate to the blower with six bolts and special washers and two reinforcement plates and tighten the bolts to 20-25 Ib-...",
+        "verified": true,
+        "char_start": 982,
+        "char_end": 1365,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_support",
+      "name": "Drive spring support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_support",
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_spring",
+      "name": "Blower drive spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_spring",
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "block_of_wood",
+      "name": "Block of wood",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "block_of_wood",
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_pack",
+      "name": "Spring pack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_pack",
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "too",
+      "name": "Too",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "too",
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_coupling",
+      "name": "Accessory drive coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_coupling",
+      "provenance": {
+        "page": 361,
+        "quote": "Install the drive spring support coupling on the rotor gear at the rear end of the blower. IMPORTANT: Effective with engine serial number 4D-14120, the blower assembly for the 4-53 engine has been revised by the use of a new longer drive...",
+        "verified": true,
+        "char_start": 2120,
+        "char_end": 2902,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "number",
+      "provenance": {
+        "page": 361,
+        "quote": "Install the drive spring support coupling on the rotor gear at the rear end of the blower. IMPORTANT: Effective with engine serial number 4D-14120, the blower assembly for the 4-53 engine has been revised by the use of a new longer drive...",
+        "verified": true,
+        "char_start": 2120,
+        "char_end": 2902,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_assembly",
+      "name": "Blower assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_assembly",
+      "provenance": {
+        "page": 361,
+        "quote": "Install the drive spring support coupling on the rotor gear at the rear end of the blower. IMPORTANT: Effective with engine serial number 4D-14120, the blower assembly for the 4-53 engine has been revised by the use of a new longer drive...",
+        "verified": true,
+        "char_start": 2120,
+        "char_end": 2902,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "coupling_spacer",
+      "name": "Coupling spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "coupling_spacer",
+      "provenance": {
+        "page": 361,
+        "quote": "Install the drive spring support coupling on the rotor gear at the rear end of the blower. IMPORTANT: Effective with engine serial number 4D-14120, the blower assembly for the 4-53 engine has been revised by the use of a new longer drive...",
+        "verified": true,
+        "char_start": 2120,
+        "char_end": 2902,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 361,
+        "quote": "Install the drive spring support coupling on the rotor gear at the rear end of the blower. IMPORTANT: Effective with engine serial number 4D-14120, the blower assembly for the 4-53 engine has been revised by the use of a new longer drive...",
+        "verified": true,
+        "char_start": 2120,
+        "char_end": 2902,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_plate",
+      "name": "Governor drive plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_plate",
+      "provenance": {
+        "page": 361,
+        "quote": "On the 6V engine blower, install the governor drive plate on the right-hand rotor gear with four bolts and tighten them to 8-10 lb-ft torque.",
+        "verified": true,
+        "char_start": 2907,
+        "char_end": 3048,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_plate_cover",
+      "name": "End plate cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_plate_cover",
+      "provenance": {
+        "page": 362,
+        "quote": "Remove the bolts and washer used to temporarily secure the rear end plate to the 4-53 engine blower. Then install the rear end plate cover and gasket and secure the cover and end plate to the blower with six bolts and special washers and...",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 425,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 362,
+        "quote": "Remove the bolts and washer used to temporarily secure the rear end plate to the 4-53 engine blower. Then install the rear end plate cover and gasket and secure the cover and end plate to the blower with six bolts and special washers and...",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 425,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing down) into the counterbored hole until the shoulder on the installer contacts the end plate (Fig. 9). NOTE: A step on the seal installer will position the oil seal below the finished face of the end plate within the .002 \u201d to .008 \u201d specified.",
+      "source_number": 1,
+      "installs": [
+        "crankshaft_front_oil_seal",
+        "assembly_rear_end_plate",
+        "engine_front_cover_current",
+        "assembly_examine_the_blower",
+        "idler_gear_outer",
+        "of_the_seal",
+        "oil_seal_installer",
+        "of_the_oil_hole",
+        "shoulder",
+        "contact",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: A step on the seal installer will position the oil seal below the finished face of the end plate within the .",
+      "provenance": {
+        "page": 359,
+        "quote": "Install new lip type oil seals in each end plate in current blowers as follows: a. Place the end plate on the bed of an arbor press. b. Lubricate the outer diameter of the seal and, using installer J 22576, press the seal (lip facing dow...",
+        "verified": true,
+        "char_start": 1160,
+        "char_end": 1637,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with clean engine oll, then slide one ring on each shaft. c. Lubricate and place a seal on each shaft. Note that the tangs on each seal are flush with one side of the seal; this side of the seal must face toward the rotor.",
+      "source_number": 2,
+      "installs": [
+        "bottom_oil_ring",
+        "left_hand_helix_rotor",
+        "end_of_the_shaft",
+        "of_the_former",
+        "retainer_spring",
+        "drive_shaft_retainer",
+        "end_of_the_spring",
+        "piston_ring",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note that the tangs on each seal are flush with one side of the seal; this side of the seal must face toward the rotor.",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the ring type oil seals on the rotor shafts of former blowers as follows: a. Install a retainer spring on each shaft of each rotor. Then place an \"0\" ring retainer (dished side up) on each spring. b. Lubricate the \"O\" rings with ...",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 2095,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place the front end plate on two wood blocks. Then install the rotors, gear end up. on the end plate (Fig. 10). On the former blowers. be sure that the ring type oil seals are properly positioned on the rotors.",
+      "source_number": 3,
+      "installs": [
+        "front_end_plate",
+        "wood_block"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 359,
+        "quote": "Place the front end plate on two wood blocks. Then install the rotors, gear end up. on the end plate (Fig. 10). On the former blowers. be sure that the ring type oil seals are properly positioned on the rotors.",
+        "verified": true,
+        "char_start": 2099,
+        "char_end": 2309,
+        "bbox": [
+          333.5999999999999,
+          443.36999999999995,
+          575.09024,
+          486.26599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the blower housing over the rotors (Fig. 11). NOTE: To prevent inadequate lubrication or low oil pressure. care must be exercised in the assembly of the front and rear blower end plates to the blower housing. The rear end plate for the 2 and 3-53 blower does not have tapped holes for the thrust. washer plate bolts and no thrust washer lubricating oil holes. The rear end plate for the 6V-53 blower does not have tapped hes for the thrust washer plates and is the or:. cover that has the horizontal oil passage dri...d through into the pocket on the left side of ` 2 end plate for supplying oil to the blower drive gear support bearing.",
+      "source_number": 4,
+      "installs": [
+        "rotor_shaft_blower_housing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: To prevent inadequate lubrication or low oil pressure.",
+      "provenance": {
+        "page": 359,
+        "quote": "Install the blower housing over the rotors (Fig. 11). NOTE: To prevent inadequate lubrication or low oil pressure. care must be exercised in the assembly of the front and rear blower end plates to the blower housing. The rear end plate f...",
+        "verified": true,
+        "char_start": 2313,
+        "char_end": 2958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Place the rear end plate over the rotor shafts (Fig. 12). On the former blowers, be sure that the ring type oil seals are properly positioned on the rotors. Then secure each end plate to the 3-53 blower housing with two end plate retaining screws and two cover",
+      "source_number": 5,
+      "installs": [
+        "retaining_screw",
+        "underside_of_the_cover"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 359,
+        "quote": "Place the rear end plate over the rotor shafts (Fig. 12). On the former blowers, be sure that the ring type oil seals are properly positioned on the rotors. Then secure each end plate to the 3-53 blower housing with two end plate retaini...",
+        "verified": true,
+        "char_start": 2962,
+        "char_end": 3222,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Attach the two thrust washers to the front end of the blower with the washer retaining bolts. If 5/16 \u2019\u2019-24 bolts are used. tighten them to 25-30 Ib-ft torque; if 3/8 \u201d - 24 bolts are used, tighten them to 54-59 lb-ft torque.",
+      "source_number": 6,
+      "installs": [
+        "crankshaft_thrust_washer",
+        "another_drive_flange_washer",
+        "bearing_retaining_bolt",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 33.9,
+      "warning": null,
+      "provenance": {
+        "page": 360,
+        "quote": "Attach the two thrust washers to the front end of the blower with the washer retaining bolts. If 5/16 \u2019\u2019-24 bolts are used. tighten them to 25-30 Ib-ft torque; if 3/8 \u201d - 24 bolts are used, tighten them to 54-59 lb-ft torque.",
+        "verified": true,
+        "char_start": 180,
+        "char_end": 405,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Attach the three spacers and the thrust plate to the front end of the blower. Tighten the three bolts to 7-9 lb-ft torque. Then check the clearance between the thrust plate and the thrust washers. The specified clearance 15 .001 \u201d to .003 \u201d. NOTE: The current thrust plate is .260 \u201d thick. The former plate was .180 \u201d thick.",
+      "source_number": 7,
+      "installs": [
+        "drive_gear_spacer",
+        "thrust_plate"
+      ],
+      "depends_on": [
+        "s01",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": 9.5,
+      "warning": "NOTE: The current thrust plate is .",
+      "provenance": {
+        "page": 360,
+        "quote": "Attach the three spacers and the thrust plate to the front end of the blower. Tighten the three bolts to 7-9 lb-ft torque. Then check the clearance between the thrust plate and the thrust washers. The specified clearance 15 .001 \u201d to .00...",
+        "verified": true,
+        "char_start": 409,
+        "char_end": 733,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Position the rotors so that the missing serrations on the gear end of the rotor shafts are 90 \u00b0 apart. This is accomplished by placing the rotors in a \"T\" shape, with the missing serration in the upper rotor facing to the left and the missing serration in the lower rotor facing toward the bottom (Fig. 14). Install the shims and spacers in the counterbore in the rear face of the rotor gears. Then place the gears on the ends of the shafts with the missing serrations in alignment with the missing serrations on the shafts.",
+      "source_number": 8,
+      "installs": [
+        "hammer_spring_scale_upper",
+        "rotor_shim",
+        "insert_counterbore",
+        "blower_rotor_gear"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 360,
+        "quote": "Position the rotors so that the missing serrations on the gear end of the rotor shafts are 90 \u00b0 apart. This is accomplished by placing the rotors in a \"T\" shape, with the missing serration in the upper rotor facing to the left and the mi...",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 1261,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Tap the gears lightly with a soft hammer to seat them on the shafts. Then rotate the gears until the punch marks on the face of the gears match. If the marks do not match, re-position the gears.",
+      "source_number": 9,
+      "installs": [
+        "fuel_pump_drive_gear",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "do not match, re-position the gears.",
+      "provenance": {
+        "page": 360,
+        "quote": "Tap the gears lightly with a soft hammer to seat them on the shafts. Then rotate the gears until the punch marks on the face of the gears match. If the marks do not match, re-position the gears.",
+        "verified": true,
+        "char_start": 1265,
+        "char_end": 1459,
+        "bbox": [
+          348.72000000000014,
+          102.44999999999993,
+          586.9758000000002,
+          144.93200000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Wedge a clean cloth between the blower rotors. Use the gear retaining bolts and plain washers to press the gears on the rotor shafts (Fig. 13). Turn the bolts uniformly until the gears are tight against the shoulders on the shafts.",
+      "source_number": 10,
+      "installs": [
+        "cloth",
+        "blower_rotor",
+        "gear_retaining_bolt",
+        "plain_washer",
+        "locknut_finger_tight"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s06",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 360,
+        "quote": "Wedge a clean cloth between the blower rotors. Use the gear retaining bolts and plain washers to press the gears on the rotor shafts (Fig. 13). Turn the bolts uniformly until the gears are tight against the shoulders on the shafts.",
+        "verified": true,
+        "char_start": 1464,
+        "char_end": 1695,
+        "bbox": [
+          348.7199999999998,
+          155.9709999999999,
+          586.8905999999998,
+          209.66899999999976
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Remove the gear retaining bolts and washers. Then proceed as follows: 2 and 3-53 Blower -- Place the gear washers on the gears and start the gear retaining bolts in the rotor shafts. Tighten the bolts to 25-30 lb-ft torque. 4-53 Blower- - Place the blower drive cam pilot in the counterbore of the upper gear and start the gear retaining bolt in the rotor shaft. Place the gear washer on the face of the lower gear and start the gear retaining bolt in the rotor shaft. Tighten the bolts to 25-30 lb-ft torque. 6V Blower -- Place a pilot in the counterbore of each gear and start the 12-point bolt in the right- hand rotor shaft and start the hex head bolt in the left-hand rotor shaft. Tighten the bolts to 25-30 Ib- ft torque. -",
+      "source_number": 11,
+      "installs": [
+        "gear_washer",
+        "blower_drive_cam",
+        "needle_bearing_pilot",
+        "head_bolt"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s06",
+        "s08",
+        "s09",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": 33.9,
+      "warning": null,
+      "provenance": {
+        "page": 360,
+        "quote": "Remove the gear retaining bolts and washers. Then proceed as follows: 2 and 3-53 Blower -- Place the gear washers on the gears and start the gear retaining bolts in the rotor shafts. Tighten the bolts to 25-30 lb-ft torque. 4-53 Blower- ...",
+        "verified": true,
+        "char_start": 1700,
+        "char_end": 2429,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Check the backlash between the blower gears, using a suitable dial indicator. The specified backlash 2 is .0005 \u201d to .0025 \" with new gears or a maximum of% .0035 \"' with used gears.",
+      "source_number": 12,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s09"
+      ],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 360,
+        "quote": "Check the backlash between the blower gears, using a suitable dial indicator. The specified backlash 2 is .0005 \u201d to .0025 \" with new gears or a maximum of% .0035 \"' with used gears.",
+        "verified": true,
+        "char_start": 2434,
+        "char_end": 2616,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Remove the bolts and washers used to temporarily secure the front end plate to the housing. Then install the front end plate to the blower with six bolts and special washers and two reinforcement plates and tighten the bolts to 20-25 Ib-ft torque. NOTE: The current front and rear end plate gaskets on the 4-53 engine blower are identical and may be used in either position. Formerly",
+      "source_number": 14,
+      "installs": [
+        "of_the_flywheel_housing",
+        "special_washer"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": "NOTE: The current front and rear end plate gaskets on the 4-53 engine blower are identical and may be used in either position.",
+      "provenance": {
+        "page": 361,
+        "quote": "Remove the bolts and washers used to temporarily secure the front end plate to the housing. Then install the front end plate to the blower with six bolts and special washers and two reinforcement plates and tighten the bolts to 20-25 Ib-...",
+        "verified": true,
+        "char_start": 982,
+        "char_end": 1365,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then slide the two spring packs (15 leaves per pack) in place. d. Place the blower drive cam over the end of tool J 5209. insert the too] between the spring packs and press the cam in place.",
+      "source_number": 15,
+      "installs": [
+        "drive_spring_support",
+        "blower_drive_spring",
+        "blower_drive_support",
+        "of_the_block",
+        "block_of_wood",
+        "drive_spring_seat",
+        "spring_pack",
+        "exhaust_valve_seat_insert",
+        "too",
+        "t_push_rod_cam"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 361,
+        "quote": "Assemble the blower drive spring support as follows: a. Place the drive spring support on two blocks of wood (Fig. 17). b. Position the drive spring seats in the support. c. Apply grease to the springs to hold the leaves together, then s...",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 2115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Install the drive spring support coupling on the rotor gear at the rear end of the blower. IMPORTANT: Effective with engine serial number 4D-14120, the blower assembly for the 4-53 engine has been revised by the use of a new longer drive gear pilot and the addition of a drive coupling spacer (Fig. 18). Tighten the 5/16 '\"-24 drive gear pilot bolt to 25-30 lb-ft torque. Prior to the above change, a shorter drive coupling was used and no spacer was required. NOTE: The coupling is placed on the upper rotor gear on the in-line engine blower and on the left-hand gear on the 6V engine blower. A spacer is placed between the gear and the coupling on the 6V engine blower. .17. Secure the cam retainer to the coupling with four 1/4 \"'-28 bolts and tighten them to 14-18 lb-ft torque.",
+      "source_number": 16,
+      "installs": [
+        "accessory_drive_coupling",
+        "number",
+        "blower_assembly",
+        "coupling_spacer",
+        "of_the_required"
+      ],
+      "depends_on": [
+        "s01",
+        "s06",
+        "s07",
+        "s08",
+        "s09",
+        "s11",
+        "s14"
+      ],
+      "tool": null,
+      "torque_nm": 33.9,
+      "warning": "NOTE: The coupling is placed on the upper rotor gear on the in-line engine blower and on the left-hand gear on the 6V engine blower.",
+      "provenance": {
+        "page": 361,
+        "quote": "Install the drive spring support coupling on the rotor gear at the rear end of the blower. IMPORTANT: Effective with engine serial number 4D-14120, the blower assembly for the 4-53 engine has been revised by the use of a new longer drive...",
+        "verified": true,
+        "char_start": 2120,
+        "char_end": 2902,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "On the 6V engine blower, install the governor drive plate on the right-hand rotor gear with four bolts and tighten them to 8-10 lb-ft torque.",
+      "source_number": 18,
+      "installs": [
+        "governor_drive_plate"
+      ],
+      "depends_on": [
+        "s01",
+        "s06",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": 10.8,
+      "warning": null,
+      "provenance": {
+        "page": 361,
+        "quote": "On the 6V engine blower, install the governor drive plate on the right-hand rotor gear with four bolts and tighten them to 8-10 lb-ft torque.",
+        "verified": true,
+        "char_start": 2907,
+        "char_end": 3048,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s17",
+      "index": 16,
+      "text": "Remove the bolts and washer used to temporarily secure the rear end plate to the 4-53 engine blower. Then install the rear end plate cover and gasket and secure the cover and end plate to the blower with six bolts and special washers and two reinforcement plates and tighten the bolts to 20-25 Ib-ft torque. NOTE: This step is accomplished on the 6V engine blower by securing the governor to the end plate with six bolts.",
+      "source_number": 19,
+      "installs": [
+        "end_plate_cover",
+        "head_gasket"
+      ],
+      "depends_on": [
+        "s01",
+        "s05",
+        "s06",
+        "s13"
+      ],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": "NOTE: This step is accomplished on the 6V engine blower by securing the governor to the end plate with six bolts.",
+      "provenance": {
+        "page": 362,
+        "quote": "Remove the bolts and washer used to temporarily secure the rear end plate to the 4-53 engine blower. Then install the rear end plate cover and gasket and secure the cover and end plate to the blower with six bolts and special washers and...",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 425,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

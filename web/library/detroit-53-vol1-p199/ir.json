@@ -1,0 +1,344 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.345 - Unlock the spring clamps that hold the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "spring_clamp",
+      "name": "Spring clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_clamp",
+      "provenance": {
+        "page": 345,
+        "quote": "Unlock the spring clamps that hold the cleaner body to the cleaner base which is bolted to the air inlet",
+        "verified": true,
+        "char_start": 2127,
+        "char_end": 2231,
+        "bbox": [
+          64.07999999999996,
+          504.21599999999995,
+          305.311,
+          525.0149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_cleaner",
+      "name": "Air cleaner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_cleaner",
+      "provenance": {
+        "page": 345,
+        "quote": "Unlock the spring clamps that hold the cleaner body to the cleaner base which is bolted to the air inlet",
+        "verified": true,
+        "char_start": 2127,
+        "char_end": 2231,
+        "bbox": [
+          64.07999999999996,
+          504.21599999999995,
+          305.311,
+          525.0149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 345,
+        "quote": "Unlock the spring clamps that hold the cleaner body to the cleaner base which is bolted to the air inlet",
+        "verified": true,
+        "char_start": 2127,
+        "char_end": 2231,
+        "bbox": [
+          64.07999999999996,
+          504.21599999999995,
+          305.311,
+          525.0149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "base",
+      "name": "Base",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "base",
+      "provenance": {
+        "page": 345,
+        "quote": "Unlock the spring clamps that hold the cleaner body to the cleaner base which is bolted to the air inlet",
+        "verified": true,
+        "char_start": 2127,
+        "char_end": 2231,
+        "bbox": [
+          64.07999999999996,
+          504.21599999999995,
+          305.311,
+          525.0149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 345,
+        "quote": "Unlock the spring clamps that hold the cleaner body to the cleaner base which is bolted to the air inlet",
+        "verified": true,
+        "char_start": 2127,
+        "char_end": 2231,
+        "bbox": [
+          64.07999999999996,
+          504.21599999999995,
+          305.311,
+          525.0149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 345,
+        "quote": "Clean the paper pleated air cleaner element as follows: a. For a temporary expedient in the field, tap the side or end of the element carefully against the palm of your hand. CAUTION: Do not tap the element against a hard surface. This c...",
+        "verified": true,
+        "char_start": 2325,
+        "char_end": 2586,
+        "bbox": [
+          64.32,
+          557.7379999999999,
+          305.69399999999996,
+          663.0519999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_cleaner_element",
+      "name": "Air cleaner element",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_cleaner_element",
+      "provenance": {
+        "page": 345,
+        "quote": "Clean the paper pleated air cleaner element as follows: a. For a temporary expedient in the field, tap the side or end of the element carefully against the palm of your hand. CAUTION: Do not tap the element against a hard surface. This c...",
+        "verified": true,
+        "char_start": 2325,
+        "char_end": 2586,
+        "bbox": [
+          64.32,
+          557.7379999999999,
+          305.69399999999996,
+          663.0519999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "dust_unloader",
+      "name": "Dust unloader",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dust_unloader",
+      "provenance": {
+        "page": 346,
+        "quote": "Install the dust unloader and tighten the clamp.",
+        "verified": true,
+        "char_start": 293,
+        "char_end": 341,
+        "bbox": [
+          94.32,
+          177.79999999999995,
+          301.3458,
+          187.79999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 346,
+        "quote": "Install the dust unloader and tighten the clamp.",
+        "verified": true,
+        "char_start": 293,
+        "char_end": 341,
+        "bbox": [
+          94.32,
+          177.79999999999995,
+          301.3458,
+          187.79999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Unlock the spring clamps that hold the cleaner body to the cleaner base which is bolted to the air inlet",
+      "source_number": 2,
+      "installs": [
+        "spring_clamp",
+        "air_cleaner",
+        "breather_body",
+        "base",
+        "fuel_oil_inlet"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 345,
+        "quote": "Unlock the spring clamps that hold the cleaner body to the cleaner base which is bolted to the air inlet",
+        "verified": true,
+        "char_start": 2127,
+        "char_end": 2231,
+        "bbox": [
+          64.07999999999996,
+          504.21599999999995,
+          305.311,
+          525.0149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Clean the paper pleated air cleaner element as follows: a. For a temporary expedient in the field, tap the side or end of the element carefully against the palm of your hand. CAUTION: Do not tap the element against a hard surface. This could damage the element.",
+      "source_number": 3,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "air_cleaner_element"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Do not tap the element against a hard surface.",
+      "provenance": {
+        "page": 345,
+        "quote": "Clean the paper pleated air cleaner element as follows: a. For a temporary expedient in the field, tap the side or end of the element carefully against the palm of your hand. CAUTION: Do not tap the element against a hard surface. This c...",
+        "verified": true,
+        "char_start": 2325,
+        "char_end": 2586,
+        "bbox": [
+          64.32,
+          557.7379999999999,
+          305.69399999999996,
+          663.0519999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the element on the base with the gasket side of the element down against the base. Place the body over the element and the base and tighten the spring clamps by hand. Replace the element after 10 washings or 1 year of service, whichever comes first, or any time damage 1s noted.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 346,
+        "quote": "Install the element on the base with the gasket side of the element down against the base. Place the body over the element and the base and tighten the spring clamps by hand. Replace the element after 10 washings or 1 year of service, wh...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 289,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the dust unloader and tighten the clamp.",
+      "source_number": 7,
+      "installs": [
+        "dust_unloader",
+        "breather_tube_clamp"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 346,
+        "quote": "Install the dust unloader and tighten the clamp.",
+        "verified": true,
+        "char_start": 293,
+        "char_end": 341,
+        "bbox": [
+          94.32,
+          177.79999999999995,
+          301.3458,
+          187.79999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

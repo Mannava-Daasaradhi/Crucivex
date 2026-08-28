@@ -1,0 +1,610 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.242 - Start the operating shaft lever on the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "operating_shaft_lever",
+      "name": "Operating shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "operating_shaft_lever",
+      "provenance": {
+        "page": 242,
+        "quote": "Start the operating shaft lever on the shaft with the flat surfaces aligned and press the lever flush with the top of the shaft.",
+        "verified": true,
+        "char_start": 2003,
+        "char_end": 2131,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 242,
+        "quote": "Start the operating shaft lever on the shaft with the flat surfaces aligned and press the lever flush with the top of the shaft.",
+        "verified": true,
+        "char_start": 2003,
+        "char_end": 2131,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 242,
+        "quote": "Start the operating shaft lever on the shaft with the flat surfaces aligned and press the lever flush with the top of the shaft.",
+        "verified": true,
+        "char_start": 2003,
+        "char_end": 2131,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 242,
+        "quote": "Start the operating shaft lever on the shaft with the flat surfaces aligned and press the lever flush with the top of the shaft.",
+        "verified": true,
+        "char_start": 2003,
+        "char_end": 2131,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 242,
+        "quote": "Insert the shaft, bearing and lever assembly in the governor housing.",
+        "verified": true,
+        "char_start": 2135,
+        "char_end": 2204,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 242,
+        "quote": "Insert the shaft, bearing and lever assembly in the governor housing.",
+        "verified": true,
+        "char_start": 2135,
+        "char_end": 2204,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 242,
+        "quote": "Insert the shaft, bearing and lever assembly in the governor housing.",
+        "verified": true,
+        "char_start": 2135,
+        "char_end": 2204,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 242,
+        "quote": "Place the housing right side up on the bed of an arbor press.",
+        "verified": true,
+        "char_start": 2208,
+        "char_end": 2269,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 242,
+        "quote": "Align the flat surfaces and start the operating shaft fork on the shaft with the finished cam surfaces of the fork facing toward the rear of the governor. Insert the",
+        "verified": true,
+        "char_start": 2273,
+        "char_end": 2438,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 242,
+        "quote": "Align the flat surfaces and start the operating shaft fork on the shaft with the finished cam surfaces of the fork facing toward the rear of the governor. Insert the",
+        "verified": true,
+        "char_start": 2273,
+        "char_end": 2438,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 242,
+        "quote": "Align the flat surfaces and start the operating shaft fork on the shaft with the finished cam surfaces of the fork facing toward the rear of the governor. Insert the",
+        "verified": true,
+        "char_start": 2273,
+        "char_end": 2438,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_governor",
+      "name": "Of the governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_governor",
+      "provenance": {
+        "page": 242,
+        "quote": "Align the flat surfaces and start the operating shaft fork on the shaft with the finished cam surfaces of the fork facing toward the rear of the governor. Insert the",
+        "verified": true,
+        "char_start": 2273,
+        "char_end": 2438,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cup_plug",
+      "name": "Cup plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cup_plug",
+      "provenance": {
+        "page": 243,
+        "quote": "Apply a good quality sealant to a new cup plug and threaded end of tool J 21995-2 through the cup plug press the plug in the governor housing. hole in the housing. Then thread the knurled nut J 21995-1 on the end of the tool so the fork ...",
+        "verified": true,
+        "char_start": 271,
+        "char_end": 516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 243,
+        "quote": "Apply a good quality sealant to a new cup plug and threaded end of tool J 21995-2 through the cup plug press the plug in the governor housing. hole in the housing. Then thread the knurled nut J 21995-1 on the end of the tool so the fork ...",
+        "verified": true,
+        "char_start": 271,
+        "char_end": 516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 243,
+        "quote": "Apply a good quality sealant to a new cup plug and threaded end of tool J 21995-2 through the cup plug press the plug in the governor housing. hole in the housing. Then thread the knurled nut J 21995-1 on the end of the tool so the fork ...",
+        "verified": true,
+        "char_start": 271,
+        "char_end": 516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 243,
+        "quote": "Apply a good quality sealant to a new cup plug and threaded end of tool J 21995-2 through the cup plug press the plug in the governor housing. hole in the housing. Then thread the knurled nut J 21995-1 on the end of the tool so the fork ...",
+        "verified": true,
+        "char_start": 271,
+        "char_end": 516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 243,
+        "quote": "Apply a good quality sealant to a new cup plug and threaded end of tool J 21995-2 through the cup plug press the plug in the governor housing. hole in the housing. Then thread the knurled nut J 21995-1 on the end of the tool so the fork ...",
+        "verified": true,
+        "char_start": 271,
+        "char_end": 516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 243,
+        "quote": "Place the differential lever over the pin in the the nut. Use a rod of suitable length and diameter and operaung shaft lever and secure it with a washer and press the shaft into the fork until the fork is flush with spring pin. the end o...",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 797,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 243,
+        "quote": "Place the differential lever over the pin in the the nut. Use a rod of suitable length and diameter and operaung shaft lever and secure it with a washer and press the shaft into the fork until the fork is flush with spring pin. the end o...",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 797,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 243,
+        "quote": "Place the differential lever over the pin in the the nut. Use a rod of suitable length and diameter and operaung shaft lever and secure it with a washer and press the shaft into the fork until the fork is flush with spring pin. the end o...",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 797,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "upper_operaung_shaft",
+      "name": "Upper operaung shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_operaung_shaft",
+      "provenance": {
+        "page": 243,
+        "quote": "Place the differential lever over the pin in the the nut. Use a rod of suitable length and diameter and operaung shaft lever and secure it with a washer and press the shaft into the fork until the fork is flush with spring pin. the end o...",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 797,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 243,
+        "quote": "Place the differential lever over the pin in the the nut. Use a rod of suitable length and diameter and operaung shaft lever and secure it with a washer and press the shaft into the fork until the fork is flush with spring pin. the end o...",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 797,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_pin",
+      "name": "Spring pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_pin",
+      "provenance": {
+        "page": 243,
+        "quote": "Place the differential lever over the pin in the the nut. Use a rod of suitable length and diameter and operaung shaft lever and secure it with a washer and press the shaft into the fork until the fork is flush with spring pin. the end o...",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 797,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 243,
+        "quote": "Place the differential lever over the pin in the the nut. Use a rod of suitable length and diameter and operaung shaft lever and secure it with a washer and press the shaft into the fork until the fork is flush with spring pin. the end o...",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 797,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_gap_adjusting",
+      "name": "Governor gap adjusting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_gap_adjusting",
+      "provenance": {
+        "page": 243,
+        "quote": "If previously removed, install the gap adjusting",
+        "verified": true,
+        "char_start": 801,
+        "char_end": 849,
+        "bbox": [
+          360.0,
+          409.6499999999999,
+          583.8984000000002,
+          419.6499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Start the operating shaft lever on the shaft with the flat surfaces aligned and press the lever flush with the top of the shaft.",
+      "source_number": 1,
+      "installs": [
+        "operating_shaft_lever",
+        "end_of_the_shaft",
+        "flat",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Start the operating shaft lever on the shaft with the flat surfaces aligned and press the lever flush with the top of the shaft.",
+        "verified": true,
+        "char_start": 2003,
+        "char_end": 2131,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Insert the shaft, bearing and lever assembly in the governor housing.",
+      "source_number": 2,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "bearing_the_end_bearing",
+        "disassemble_governor_housing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Insert the shaft, bearing and lever assembly in the governor housing.",
+        "verified": true,
+        "char_start": 2135,
+        "char_end": 2204,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place the housing right side up on the bed of an arbor press.",
+      "source_number": 3,
+      "installs": [
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Place the housing right side up on the bed of an arbor press.",
+        "verified": true,
+        "char_start": 2208,
+        "char_end": 2269,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Align the flat surfaces and start the operating shaft fork on the shaft with the finished cam surfaces of the fork facing toward the rear of the governor. Insert the",
+      "source_number": 4,
+      "installs": [
+        "governor_operating_shaft",
+        "governor_operating_fork",
+        "t_push_rod_cam",
+        "of_the_governor"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Align the flat surfaces and start the operating shaft fork on the shaft with the finished cam surfaces of the fork facing toward the rear of the governor. Insert the",
+        "verified": true,
+        "char_start": 2273,
+        "char_end": 2438,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Apply a good quality sealant to a new cup plug and threaded end of tool J 21995-2 through the cup plug press the plug in the governor housing. hole in the housing. Then thread the knurled nut J 21995-1 on the end of the tool so the fork rests on",
+      "source_number": 6,
+      "installs": [
+        "cup_plug",
+        "edge_of_the_plug",
+        "of_the_oil_hole",
+        "bolt_thread",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 243,
+        "quote": "Apply a good quality sealant to a new cup plug and threaded end of tool J 21995-2 through the cup plug press the plug in the governor housing. hole in the housing. Then thread the knurled nut J 21995-1 on the end of the tool so the fork ...",
+        "verified": true,
+        "char_start": 271,
+        "char_end": 516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Place the differential lever over the pin in the the nut. Use a rod of suitable length and diameter and operaung shaft lever and secure it with a washer and press the shaft into the fork until the fork is flush with spring pin. the end of the shaft (Fig. 11). Remove the tools.",
+      "source_number": 7,
+      "installs": [
+        "governor_differential_lever",
+        "copper_plated_dowel_pin",
+        "bearing_pilot_rod",
+        "upper_operaung_shaft",
+        "another_drive_flange_washer",
+        "spring_pin",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 243,
+        "quote": "Place the differential lever over the pin in the the nut. Use a rod of suitable length and diameter and operaung shaft lever and secure it with a washer and press the shaft into the fork until the fork is flush with spring pin. the end o...",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 797,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "If previously removed, install the gap adjusting",
+      "source_number": 8,
+      "installs": [
+        "governor_gap_adjusting"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 243,
+        "quote": "If previously removed, install the gap adjusting",
+        "verified": true,
+        "char_start": 801,
+        "char_end": 849,
+        "bbox": [
+          360.0,
+          409.6499999999999,
+          583.8984000000002,
+          419.6499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.36 - Check the cylinder head for leaks as...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 36,
+        "quote": "Check the cylinder head for leaks as follows: a. Seal off the water holes in the head with steel plates and suitable rubber gaskets held in place by bolts.",
+        "verified": true,
+        "char_start": 2566,
+        "char_end": 2721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 36,
+        "quote": "Check the cylinder head for leaks as follows: a. Seal off the water holes in the head with steel plates and suitable rubber gaskets held in place by bolts.",
+        "verified": true,
+        "char_start": 2566,
+        "char_end": 2721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 36,
+        "quote": "Check the cylinder head for leaks as follows: a. Seal off the water holes in the head with steel plates and suitable rubber gaskets held in place by bolts.",
+        "verified": true,
+        "char_start": 2566,
+        "char_end": 2721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "steel_plate",
+      "name": "Steel plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "steel_plate",
+      "provenance": {
+        "page": 36,
+        "quote": "Check the cylinder head for leaks as follows: a. Seal off the water holes in the head with steel plates and suitable rubber gaskets held in place by bolts.",
+        "verified": true,
+        "char_start": 2566,
+        "char_end": 2721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 36,
+        "quote": "Check the cylinder head for leaks as follows: a. Seal off the water holes in the head with steel plates and suitable rubber gaskets held in place by bolts.",
+        "verified": true,
+        "char_start": 2566,
+        "char_end": 2721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 36,
+        "quote": "Check the cylinder head for leaks as follows: a. Seal off the water holes in the head with steel plates and suitable rubber gaskets held in place by bolts.",
+        "verified": true,
+        "char_start": 2566,
+        "char_end": 2721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "feeler_gage",
+      "name": "Feeler gage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "feeler_gage",
+      "provenance": {
+        "page": 37,
+        "quote": "Check the bottom (fire deck) of the cylinder head for flatness as follows: a. Use an accurate straightedge and feeler gage J 3172 to check for transverse warpage at each end and between all of the cylinders. Also, check for longitudinal ...",
+        "verified": true,
+        "char_start": 1177,
+        "char_end": 1514,
+        "bbox": [
+          318.71999999999997,
+          103.05099999999993,
+          557.4622000000002,
+          198.37699999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 37,
+        "quote": "Check the bottom (fire deck) of the cylinder head for flatness as follows: a. Use an accurate straightedge and feeler gage J 3172 to check for transverse warpage at each end and between all of the cylinders. Also, check for longitudinal ...",
+        "verified": true,
+        "char_start": 1177,
+        "char_end": 1514,
+        "bbox": [
+          318.71999999999997,
+          103.05099999999993,
+          557.4622000000002,
+          198.37699999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 37,
+        "quote": "Inspect the cam follower bores in the cylinder head for scoring or wear. Light score marks may be cleaned 4.376\" Fig. 4 - Minimum Distance Between Top and",
+        "verified": true,
+        "char_start": 2571,
+        "char_end": 2725,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 38,
+        "quote": "Inspect the valve seat inserts for cracks or burning. Also, check the valve guides for scoring.",
+        "verified": true,
+        "char_start": 173,
+        "char_end": 268,
+        "bbox": [
+          78.24000000000004,
+          119.97199999999998,
+          319.46000000000004,
+          140.40800000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_guide",
+      "name": "Exhaust valve guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_guide",
+      "provenance": {
+        "page": 38,
+        "quote": "Inspect the valve seat inserts for cracks or burning. Also, check the valve guides for scoring.",
+        "verified": true,
+        "char_start": 173,
+        "char_end": 268,
+        "bbox": [
+          78.24000000000004,
+          119.97199999999998,
+          319.46000000000004,
+          140.40800000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "water_nozzle",
+      "name": "Water nozzle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_nozzle",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_cylinder",
+      "name": "Valve cylinder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_cylinder",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "loose",
+      "name": "Loose",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "loose",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hole_nozzle",
+      "name": "Hole nozzle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hole_nozzle",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "raw_water_inlet",
+      "name": "Raw water inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "raw_water_inlet",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "port",
+      "name": "Port",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "port",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "e_cylinder_insert_head",
+      "name": "E cylinder insert head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "e_cylinder_insert_head",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drill",
+      "name": "Drill",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drill",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "angle",
+      "name": "Angle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "angle",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Check the cylinder head for leaks as follows: a. Seal off the water holes in the head with steel plates and suitable rubber gaskets held in place by bolts.",
+      "source_number": 1,
+      "installs": [
+        "cylinder_head",
+        "crankshaft_front_oil_seal",
+        "of_the_oil_hole",
+        "steel_plate",
+        "head_gasket",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Check the cylinder head for leaks as follows: a. Seal off the water holes in the head with steel plates and suitable rubber gaskets held in place by bolts.",
+        "verified": true,
+        "char_start": 2566,
+        "char_end": 2721,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Check the bottom (fire deck) of the cylinder head for flatness as follows: a. Use an accurate straightedge and feeler gage J 3172 to check for transverse warpage at each end and between all of the cylinders. Also, check for longitudinal warpage in six places as shown in Fig. 3. Maximum allowable warpage is given in the following chart:",
+      "source_number": 2,
+      "installs": [
+        "feeler_gage",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 37,
+        "quote": "Check the bottom (fire deck) of the cylinder head for flatness as follows: a. Use an accurate straightedge and feeler gage J 3172 to check for transverse warpage at each end and between all of the cylinders. Also, check for longitudinal ...",
+        "verified": true,
+        "char_start": 1177,
+        "char_end": 1514,
+        "bbox": [
+          318.71999999999997,
+          103.05099999999993,
+          557.4622000000002,
+          198.37699999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Inspect the cam follower bores in the cylinder head for scoring or wear. Light score marks may be cleaned 4.376\" Fig. 4 - Minimum Distance Between Top and",
+      "source_number": 3,
+      "installs": [
+        "cam_follower"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 37,
+        "quote": "Inspect the cam follower bores in the cylinder head for scoring or wear. Light score marks may be cleaned 4.376\" Fig. 4 - Minimum Distance Between Top and",
+        "verified": true,
+        "char_start": 2571,
+        "char_end": 2725,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Inspect the valve seat inserts for cracks or burning. Also, check the valve guides for scoring.",
+      "source_number": 4,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "exhaust_valve_guide"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Inspect the valve seat inserts for cracks or burning. Also, check the valve guides for scoring.",
+        "verified": true,
+        "char_start": 173,
+        "char_end": 268,
+        "bbox": [
+          78.24000000000004,
+          119.97199999999998,
+          319.46000000000004,
+          140.40800000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water inlet ports in the bottom of the head are clean and tree of scale. The water holes may be cleaned up with a 5/8\" diameter drill. Break the edges of the holes slightly. b. If the water boles in the head have been enlarged by corrosion, use a wooden plug or other suitable tool to expand the nozzles so that they will remain tight after installation. c. Press the nozzles in place with the outlet holes positioned as shown in Fig. 5. The angle between the outlet holes in the nozzle is 90\u00b0. Press the nozzles from flush to 1/32\" below the bottom surface of the cylinder head.",
+      "source_number": 5,
+      "installs": [
+        "water_nozzle",
+        "valve_cylinder",
+        "loose",
+        "hole_nozzle",
+        "raw_water_inlet",
+        "port",
+        "e_cylinder_insert_head",
+        "valve_rocker_cover_clean",
+        "drill",
+        "edge_of_the_plug",
+        "locknut_finger_tight",
+        "angle"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Check the water nozzles in a four-valve cylinder head to be sure they are not loose. Water nozzles are used only in the passages between the cylinders. If necessary, install or replace the water nozzles as follows: a. Be sure the water i...",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 1081,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Inspect the parts removed from the cylinder head before they are reinstalled in the, old head or transferred to a new cylinder head.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Inspect the parts removed from the cylinder head before they are reinstalled in the, old head or transferred to a new cylinder head.",
+        "verified": true,
+        "char_start": 1085,
+        "char_end": 1217,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

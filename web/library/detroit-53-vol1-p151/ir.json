@@ -1,0 +1,1122 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.271 - Disconnect the throttle rod and the booster...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "throttle_rod",
+      "name": "Throttle rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_rod",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the throttle rod and the booster spring from the speed control lever.",
+        "verified": true,
+        "char_start": 762,
+        "char_end": 842,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring",
+      "name": "Booster spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the throttle rod and the booster spring from the speed control lever.",
+        "verified": true,
+        "char_start": 762,
+        "char_end": 842,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_control_lever",
+      "name": "Speed control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_lever",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the throttle rod and the booster spring from the speed control lever.",
+        "verified": true,
+        "char_start": 762,
+        "char_end": 842,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the retaining spring from the stop lever. Also disconnect any linkage attached to the stop lever.",
+        "verified": true,
+        "char_start": 846,
+        "char_end": 954,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the retaining spring from the stop lever. Also disconnect any linkage attached to the stop lever.",
+        "verified": true,
+        "char_start": 846,
+        "char_end": 954,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_linkage",
+      "name": "Governor linkage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_linkage",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the retaining spring from the stop lever. Also disconnect any linkage attached to the stop lever.",
+        "verified": true,
+        "char_start": 846,
+        "char_end": 954,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the retaining spring from the stop lever. Also disconnect any linkage attached to the stop lever.",
+        "verified": true,
+        "char_start": 846,
+        "char_end": 954,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lever_retaining_spring",
+      "name": "Lever retaining spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lever_retaining_spring",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the lever retaining spring, governor cover and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1045,
+        "bbox": [
+          330.96000000000004,
+          242.37099999999998,
+          569.1935000000001,
+          263.28999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the lever retaining spring, governor cover and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1045,
+        "bbox": [
+          330.96000000000004,
+          242.37099999999998,
+          569.1935000000001,
+          263.28999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the lever retaining spring, governor cover and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1045,
+        "bbox": [
+          330.96000000000004,
+          242.37099999999998,
+          569.1935000000001,
+          263.28999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the lever retaining spring, governor cover and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1045,
+        "bbox": [
+          330.96000000000004,
+          242.37099999999998,
+          569.1935000000001,
+          263.28999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_retaining_bolt",
+      "name": "Bearing retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retaining_bolt",
+      "provenance": {
+        "page": 271,
+        "quote": "Withdraw the two retaining bolts and lock washers and remove the variable speed spring housing and lever assembly and the gasket.",
+        "verified": true,
+        "char_start": 1049,
+        "char_end": 1178,
+        "bbox": [
+          330.71999999999997,
+          275.131,
+          569.5151999999999,
+          306.9699999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 271,
+        "quote": "Withdraw the two retaining bolts and lock washers and remove the variable speed spring housing and lever assembly and the gasket.",
+        "verified": true,
+        "char_start": 1049,
+        "char_end": 1178,
+        "bbox": [
+          330.71999999999997,
+          275.131,
+          569.5151999999999,
+          306.9699999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "variable_speed_spring",
+      "name": "Variable speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "variable_speed_spring",
+      "provenance": {
+        "page": 271,
+        "quote": "Withdraw the two retaining bolts and lock washers and remove the variable speed spring housing and lever assembly and the gasket.",
+        "verified": true,
+        "char_start": 1049,
+        "char_end": 1178,
+        "bbox": [
+          330.71999999999997,
+          275.131,
+          569.5151999999999,
+          306.9699999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 271,
+        "quote": "Withdraw the two retaining bolts and lock washers and remove the variable speed spring housing and lever assembly and the gasket.",
+        "verified": true,
+        "char_start": 1049,
+        "char_end": 1178,
+        "bbox": [
+          330.71999999999997,
+          275.131,
+          569.5151999999999,
+          306.9699999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "high_speed_spring_plunger",
+      "name": "High speed spring plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_plunger",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the spring plunger, variable speed spring, Stops, shims and spring retainer.",
+        "verified": true,
+        "char_start": 1182,
+        "char_end": 1265,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the spring plunger, variable speed spring, Stops, shims and spring retainer.",
+        "verified": true,
+        "char_start": 1182,
+        "char_end": 1265,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the spring plunger, variable speed spring, Stops, shims and spring retainer.",
+        "verified": true,
+        "char_start": 1182,
+        "char_end": 1265,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 271,
+        "quote": "Loosen the hose clamps between the governor and the cylinder head.",
+        "verified": true,
+        "char_start": 1269,
+        "char_end": 1335,
+        "bbox": [
+          330.71999999999997,
+          352.16999999999996,
+          569.5161,
+          372.85299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 271,
+        "quote": "Loosen the hose clamps between the governor and the cylinder head.",
+        "verified": true,
+        "char_start": 1269,
+        "char_end": 1335,
+        "bbox": [
+          330.71999999999997,
+          352.16999999999996,
+          569.5161,
+          372.85299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 271,
+        "quote": "Loosen the hose clamps between the governor and the cylinder head.",
+        "verified": true,
+        "char_start": 1269,
+        "char_end": 1335,
+        "bbox": [
+          330.71999999999997,
+          352.16999999999996,
+          569.5161,
+          372.85299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 271,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 1339,
+        "char_end": 1379,
+        "bbox": [
+          341.28000000000003,
+          387.04799999999994,
+          519.66672,
+          395.04799999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 271,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 1339,
+        "char_end": 1379,
+        "bbox": [
+          341.28000000000003,
+          387.04799999999994,
+          519.66672,
+          395.04799999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the fuel rod from the injector control tube lever.",
+        "verified": true,
+        "char_start": 1383,
+        "char_end": 1444,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the fuel rod from the injector control tube lever.",
+        "verified": true,
+        "char_start": 1383,
+        "char_end": 1444,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_line",
+      "name": "Fuel line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_line",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the fuel lines from the fuel pump. Then remove the fuel pump from the governor weight housing.",
+        "verified": true,
+        "char_start": 1448,
+        "char_end": 1553,
+        "bbox": [
+          330.24000000000007,
+          440.00999999999993,
+          569.1036,
+          472.2039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the fuel lines from the fuel pump. Then remove the fuel pump from the governor weight housing.",
+        "verified": true,
+        "char_start": 1448,
+        "char_end": 1553,
+        "bbox": [
+          330.24000000000007,
+          440.00999999999993,
+          569.1036,
+          472.2039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the fuel lines from the fuel pump. Then remove the fuel pump from the governor weight housing.",
+        "verified": true,
+        "char_start": 1448,
+        "char_end": 1553,
+        "bbox": [
+          330.24000000000007,
+          440.00999999999993,
+          569.1036,
+          472.2039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_weight_housing",
+      "name": "Governor weight housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_housing",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the fuel lines from the fuel pump. Then remove the fuel pump from the governor weight housing.",
+        "verified": true,
+        "char_start": 1448,
+        "char_end": 1553,
+        "bbox": [
+          330.24000000000007,
+          440.00999999999993,
+          569.1036,
+          472.2039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the lubricating oil tube, if used, from the cylinder block and the governor weight housing.",
+        "verified": true,
+        "char_start": 1558,
+        "char_end": 1660,
+        "bbox": [
+          330.24,
+          485.049,
+          568.64076,
+          505.09599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the lubricating oil tube, if used, from the cylinder block and the governor weight housing.",
+        "verified": true,
+        "char_start": 1558,
+        "char_end": 1660,
+        "bbox": [
+          330.24,
+          485.049,
+          568.64076,
+          505.09599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 271,
+        "quote": "Withdraw the five bolts from the weight housing and the two bolts from the control housing, then remove the governor and the gaskets from the engine.",
+        "verified": true,
+        "char_start": 1665,
+        "char_end": 1814,
+        "bbox": [
+          330.0000000000001,
+          517.17,
+          569.18016,
+          549.252
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 271,
+        "quote": "Withdraw the five bolts from the weight housing and the two bolts from the control housing, then remove the governor and the gaskets from the engine.",
+        "verified": true,
+        "char_start": 1665,
+        "char_end": 1814,
+        "bbox": [
+          330.0000000000001,
+          517.17,
+          569.18016,
+          549.252
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "control_housing",
+      "name": "Control housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_housing",
+      "provenance": {
+        "page": 271,
+        "quote": "Withdraw the five bolts from the weight housing and the two bolts from the control housing, then remove the governor and the gaskets from the engine.",
+        "verified": true,
+        "char_start": 1665,
+        "char_end": 1814,
+        "bbox": [
+          330.0000000000001,
+          517.17,
+          569.18016,
+          549.252
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the fuel rod from the differential lever.",
+        "verified": true,
+        "char_start": 1819,
+        "char_end": 1867,
+        "bbox": [
+          346.32,
+          563.223,
+          553.71312,
+          571.223
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Disconnect the throttle rod and the booster spring from the speed control lever.",
+      "source_number": 1,
+      "installs": [
+        "throttle_rod",
+        "booster_spring",
+        "speed_control_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the throttle rod and the booster spring from the speed control lever.",
+        "verified": true,
+        "char_start": 762,
+        "char_end": 842,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Disconnect the retaining spring from the stop lever. Also disconnect any linkage attached to the stop lever.",
+      "source_number": 2,
+      "installs": [
+        "end_of_the_spring",
+        "of_the_stop_lever",
+        "governor_linkage",
+        "solid_stop"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the retaining spring from the stop lever. Also disconnect any linkage attached to the stop lever.",
+        "verified": true,
+        "char_start": 846,
+        "char_end": 954,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the lever retaining spring, governor cover and gasket from the governor housing.",
+      "source_number": 3,
+      "installs": [
+        "lever_retaining_spring",
+        "governor_cover",
+        "head_gasket",
+        "disassemble_governor_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the lever retaining spring, governor cover and gasket from the governor housing.",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1045,
+        "bbox": [
+          330.96000000000004,
+          242.37099999999998,
+          569.1935000000001,
+          263.28999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Withdraw the two retaining bolts and lock washers and remove the variable speed spring housing and lever assembly and the gasket.",
+      "source_number": 4,
+      "installs": [
+        "bearing_retaining_bolt",
+        "special_lock_washer",
+        "variable_speed_spring",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Withdraw the two retaining bolts and lock washers and remove the variable speed spring housing and lever assembly and the gasket.",
+        "verified": true,
+        "char_start": 1049,
+        "char_end": 1178,
+        "bbox": [
+          330.71999999999997,
+          275.131,
+          569.5151999999999,
+          306.9699999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the spring plunger, variable speed spring, Stops, shims and spring retainer.",
+      "source_number": 5,
+      "installs": [
+        "high_speed_spring_plunger",
+        "rotor_shim",
+        "high_speed_spring_retainer"
+      ],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the spring plunger, variable speed spring, Stops, shims and spring retainer.",
+        "verified": true,
+        "char_start": 1182,
+        "char_end": 1265,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Loosen the hose clamps between the governor and the cylinder head.",
+      "source_number": 6,
+      "installs": [
+        "hose_clamp",
+        "blower_the_engine_governor",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Loosen the hose clamps between the governor and the cylinder head.",
+        "verified": true,
+        "char_start": 1269,
+        "char_end": 1335,
+        "bbox": [
+          330.71999999999997,
+          352.16999999999996,
+          569.5161,
+          372.85299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Clean and remove the valve rocker cover.",
+      "source_number": 7,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "valve_rocker_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 1339,
+        "char_end": 1379,
+        "bbox": [
+          341.28000000000003,
+          387.04799999999994,
+          519.66672,
+          395.04799999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Disconnect the fuel rod from the injector control tube lever.",
+      "source_number": 8,
+      "installs": [
+        "governor_fuel_rod",
+        "injector_control_tube"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the fuel rod from the injector control tube lever.",
+        "verified": true,
+        "char_start": 1383,
+        "char_end": 1444,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Disconnect the fuel lines from the fuel pump. Then remove the fuel pump from the governor weight housing.",
+      "source_number": 9,
+      "installs": [
+        "fuel_line",
+        "fuel_pump",
+        "lubricating_oil_pump",
+        "governor_weight_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the fuel lines from the fuel pump. Then remove the fuel pump from the governor weight housing.",
+        "verified": true,
+        "char_start": 1448,
+        "char_end": 1553,
+        "bbox": [
+          330.24000000000007,
+          440.00999999999993,
+          569.1036,
+          472.2039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Disconnect the lubricating oil tube, if used, from the cylinder block and the governor weight housing.",
+      "source_number": 10,
+      "installs": [
+        "end_of_each_tube",
+        "of_the_block"
+      ],
+      "depends_on": [
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Disconnect the lubricating oil tube, if used, from the cylinder block and the governor weight housing.",
+        "verified": true,
+        "char_start": 1558,
+        "char_end": 1660,
+        "bbox": [
+          330.24,
+          485.049,
+          568.64076,
+          505.09599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Withdraw the five bolts from the weight housing and the two bolts from the control housing, then remove the governor and the gaskets from the engine.",
+      "source_number": 11,
+      "installs": [
+        "engine_front_cover_bolt",
+        "front_balance_weight",
+        "control_housing"
+      ],
+      "depends_on": [
+        "s03",
+        "s04",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Withdraw the five bolts from the weight housing and the two bolts from the control housing, then remove the governor and the gaskets from the engine.",
+        "verified": true,
+        "char_start": 1665,
+        "char_end": 1814,
+        "bbox": [
+          330.0000000000001,
+          517.17,
+          569.18016,
+          549.252
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Remove the fuel rod from the differential lever.",
+      "source_number": 12,
+      "installs": [
+        "governor_differential_lever"
+      ],
+      "depends_on": [
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the fuel rod from the differential lever.",
+        "verified": true,
+        "char_start": 1819,
+        "char_end": 1867,
+        "bbox": [
+          346.32,
+          563.223,
+          553.71312,
+          571.223
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

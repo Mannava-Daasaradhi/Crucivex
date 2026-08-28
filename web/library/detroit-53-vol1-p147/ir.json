@@ -1,0 +1,1259 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.265 - Install the needle bearing pilot rod J...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the needle bearing pilot rod J 9196-2 in the installer body J 9196-1 and secure it in place with the retaining screw. NOTE: Do not use impact tools to install needle bearings.",
+        "verified": true,
+        "char_start": 228,
+        "char_end": 411,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the needle bearing pilot rod J 9196-2 in the installer body J 9196-1 and secure it in place with the retaining screw. NOTE: Do not use impact tools to install needle bearings.",
+        "verified": true,
+        "char_start": 228,
+        "char_end": 411,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "installer_body",
+      "name": "Installer body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "installer_body",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the needle bearing pilot rod J 9196-2 in the installer body J 9196-1 and secure it in place with the retaining screw. NOTE: Do not use impact tools to install needle bearings.",
+        "verified": true,
+        "char_start": 228,
+        "char_end": 411,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "retaining_screw",
+      "name": "Retaining screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "retaining_screw",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the needle bearing pilot rod J 9196-2 in the installer body J 9196-1 and secure it in place with the retaining screw. NOTE: Do not use impact tools to install needle bearings.",
+        "verified": true,
+        "char_start": 228,
+        "char_end": 411,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_bearing",
+      "name": "Of the bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bearing",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_spring_housing",
+      "name": "Governor spring housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_spring_housing",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "short",
+      "name": "Short",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "short",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "current_roller_type",
+      "name": "Current roller type",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "current_roller_type",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the current roller type bearing and pin in the spring lever. Press the pin below the surface of the lever and stake at three places on both sides of the lever. The former ball type bearing (with two washers) is swagged at both en...",
+        "verified": true,
+        "char_start": 830,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the current roller type bearing and pin in the spring lever. Press the pin below the surface of the lever and stake at three places on both sides of the lever. The former ball type bearing (with two washers) is swagged at both en...",
+        "verified": true,
+        "char_start": 830,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_lever",
+      "name": "Booster spring lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_lever",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the current roller type bearing and pin in the spring lever. Press the pin below the surface of the lever and stake at three places on both sides of the lever. The former ball type bearing (with two washers) is swagged at both en...",
+        "verified": true,
+        "char_start": 830,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the current roller type bearing and pin in the spring lever. Press the pin below the surface of the lever and stake at three places on both sides of the lever. The former ball type bearing (with two washers) is swagged at both en...",
+        "verified": true,
+        "char_start": 830,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the current roller type bearing and pin in the spring lever. Press the pin below the surface of the lever and stake at three places on both sides of the lever. The former ball type bearing (with two washers) is swagged at both en...",
+        "verified": true,
+        "char_start": 830,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_ball",
+      "name": "End of the ball",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_ball",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the current roller type bearing and pin in the spring lever. Press the pin below the surface of the lever and stake at three places on both sides of the lever. The former ball type bearing (with two washers) is swagged at both en...",
+        "verified": true,
+        "char_start": 830,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the current roller type bearing and pin in the spring lever. Press the pin below the surface of the lever and stake at three places on both sides of the lever. The former ball type bearing (with two washers) is swagged at both en...",
+        "verified": true,
+        "char_start": 830,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the current roller type bearing and pin in the spring lever. Press the pin below the surface of the lever and stake at three places on both sides of the lever. The former ball type bearing (with two washers) is swagged at both en...",
+        "verified": true,
+        "char_start": 830,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_lever_woodruff",
+      "name": "Spring lever woodruff",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_lever_woodruff",
+      "provenance": {
+        "page": 265,
+        "quote": "If removed. install the spring lever Woodruff key in the center keyway 1n the speed control lever shaft.",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1220,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_key",
+      "name": "Drive key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_key",
+      "provenance": {
+        "page": 265,
+        "quote": "If removed. install the spring lever Woodruff key in the center keyway 1n the speed control lever shaft.",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1220,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "keyway",
+      "name": "Keyway",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "keyway",
+      "provenance": {
+        "page": 265,
+        "quote": "If removed. install the spring lever Woodruff key in the center keyway 1n the speed control lever shaft.",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1220,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_control_lever",
+      "name": "Speed control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_lever",
+      "provenance": {
+        "page": 265,
+        "quote": "If removed. install the spring lever Woodruff key in the center keyway 1n the speed control lever shaft.",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1220,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 265,
+        "quote": "If removed. install the spring lever Woodruff key in the center keyway 1n the speed control lever shaft.",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1220,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_lever_assembly",
+      "name": "Spring lever assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_lever_assembly",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the spring lever assembly between the bearing bores inside the spring housing with the arm (roller end) of the lever facing out.",
+        "verified": true,
+        "char_start": 1224,
+        "char_end": 1358,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_roller",
+      "name": "Cam follower roller",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_roller",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the spring lever assembly between the bearing bores inside the spring housing with the arm (roller end) of the lever facing out.",
+        "verified": true,
+        "char_start": 1224,
+        "char_end": 1358,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 265,
+        "quote": "Insert the correct end of the (single or double lever type) speed control lever shaft. Fig. 6. through the bearing bore in the side of the spring housing. opposite the bearing previously installed. Align the key in the shaft with the key...",
+        "verified": true,
+        "char_start": 1362,
+        "char_end": 1768,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 265,
+        "quote": "Insert the correct end of the (single or double lever type) speed control lever shaft. Fig. 6. through the bearing bore in the side of the spring housing. opposite the bearing previously installed. Align the key in the shaft with the key...",
+        "verified": true,
+        "char_start": 1362,
+        "char_end": 1768,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "centered",
+      "name": "Centered",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "centered",
+      "provenance": {
+        "page": 265,
+        "quote": "Insert the correct end of the (single or double lever type) speed control lever shaft. Fig. 6. through the bearing bore in the side of the spring housing. opposite the bearing previously installed. Align the key in the shaft with the key...",
+        "verified": true,
+        "char_start": 1362,
+        "char_end": 1768,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "set_screw",
+      "name": "Set screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "set_screw",
+      "provenance": {
+        "page": 265,
+        "quote": "Insert the correct end of the (single or double lever type) speed control lever shaft. Fig. 6. through the bearing bore in the side of the spring housing. opposite the bearing previously installed. Align the key in the shaft with the key...",
+        "verified": true,
+        "char_start": 1362,
+        "char_end": 1768,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 265,
+        "quote": "Insert the correct end of the (single or double lever type) speed control lever shaft. Fig. 6. through the bearing bore in the side of the spring housing. opposite the bearing previously installed. Align the key in the shaft with the key...",
+        "verified": true,
+        "char_start": 1362,
+        "char_end": 1768,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 265,
+        "quote": "Thread the set screw into the spring lever. making sure the point of the screw is seated in the flat on the shaft.",
+        "verified": true,
+        "char_start": 1772,
+        "char_end": 1886,
+        "bbox": [
+          326.4,
+          355.65099999999995,
+          564.4752,
+          387.73199999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 265,
+        "quote": "Thread the set screw into the spring lever. making sure the point of the screw is seated in the flat on the shaft.",
+        "verified": true,
+        "char_start": 1772,
+        "char_end": 1886,
+        "bbox": [
+          326.4,
+          355.65099999999995,
+          564.4752,
+          387.73199999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "needle_bearing",
+      "name": "Needle bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the second shaft needle bearing. numbered end up. over the protruding end of the shaft and start it straight in the bore of the housing.",
+        "verified": true,
+        "char_start": 1890,
+        "char_end": 2032,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the second shaft needle bearing. numbered end up. over the protruding end of the shaft and start it straight in the bore of the housing.",
+        "verified": true,
+        "char_start": 1890,
+        "char_end": 2032,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 266,
+        "quote": "Remove the bearing pilot rod J 9196-2 from the installer body J 9196-1 and place the installer body over the end of the shaft and against the bearing. Support the spring housing, bearings and installer on a short sleeve on the bed of an ...",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 369,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cup_plug",
+      "name": "Cup plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cup_plug",
+      "provenance": {
+        "page": 266,
+        "quote": "If a single lever shaft was installed in the spring housing, apply a thin coat of sealing compound to the outside diameter of the cup plug. Start the cup plug straight in the bearing bore in the housing, then support the spring housing, ...",
+        "verified": true,
+        "char_start": 374,
+        "char_end": 749,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 266,
+        "quote": "If a single lever shaft was installed in the spring housing, apply a thin coat of sealing compound to the outside diameter of the cup plug. Start the cup plug straight in the bearing bore in the housing, then support the spring housing, ...",
+        "verified": true,
+        "char_start": 374,
+        "char_end": 749,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 266,
+        "quote": "If a single lever shaft was installed in the spring housing, apply a thin coat of sealing compound to the outside diameter of the cup plug. Start the cup plug straight in the bearing bore in the housing, then support the spring housing, ...",
+        "verified": true,
+        "char_start": 374,
+        "char_end": 749,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 266,
+        "quote": "Clamp the spring housing assembly in a bench vise equipped with soft jaws. Then tighten the spring lever retaining set screw to 12-15 Ib-ft torque.",
+        "verified": true,
+        "char_start": 754,
+        "char_end": 901,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_housing_assembly",
+      "name": "Spring housing assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_housing_assembly",
+      "provenance": {
+        "page": 266,
+        "quote": "Clamp the spring housing assembly in a bench vise equipped with soft jaws. Then tighten the spring lever retaining set screw to 12-15 Ib-ft torque.",
+        "verified": true,
+        "char_start": 754,
+        "char_end": 901,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_lever_retaining",
+      "name": "Spring lever retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_lever_retaining",
+      "provenance": {
+        "page": 266,
+        "quote": "Clamp the spring housing assembly in a bench vise equipped with soft jaws. Then tighten the spring lever retaining set screw to 12-15 Ib-ft torque.",
+        "verified": true,
+        "char_start": 754,
+        "char_end": 901,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 266,
+        "quote": "On a single lever shaft, place a seal ring over the end of the shaft and push it into the bearing bore and against the bearing. Place the plain washer over the shaft and against the housing, then install the Woodruff key in the keyway in...",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1315,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 266,
+        "quote": "On a single lever shaft, place a seal ring over the end of the shaft and push it into the bearing bore and against the bearing. Place the plain washer over the shaft and against the housing, then install the Woodruff key in the keyway in...",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1315,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "woodruff_key",
+      "name": "Woodruff key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "woodruff_key",
+      "provenance": {
+        "page": 266,
+        "quote": "On a single lever shaft, place a seal ring over the end of the shaft and push it into the bearing bore and against the bearing. Place the plain washer over the shaft and against the housing, then install the Woodruff key in the keyway in...",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1315,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retaining_bolt",
+      "name": "Bearing retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retaining_bolt",
+      "provenance": {
+        "page": 266,
+        "quote": "Place the speed control lever(s) on the shaft in its original position. Align the keyway in the lever with the key in the shaft and push the lever in against the plain washer and secure it in place with the retaining bolt and lock washer.",
+        "verified": true,
+        "char_start": 1598,
+        "char_end": 1836,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 266,
+        "quote": "Place the speed control lever(s) on the shaft in its original position. Align the keyway in the lever with the key in the shaft and push the lever in against the plain washer and secure it in place with the retaining bolt and lock washer.",
+        "verified": true,
+        "char_start": 1598,
+        "char_end": 1836,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the needle bearing pilot rod J 9196-2 in the installer body J 9196-1 and secure it in place with the retaining screw. NOTE: Do not use impact tools to install needle bearings.",
+      "source_number": 2,
+      "installs": [
+        "needle_bearing_pilot",
+        "bearing_pilot_rod",
+        "installer_body",
+        "retaining_screw"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: Do not use impact tools to install needle bearings.",
+      "provenance": {
+        "page": 265,
+        "quote": "Install the needle bearing pilot rod J 9196-2 in the installer body J 9196-1 and secure it in place with the retaining screw. NOTE: Do not use impact tools to install needle bearings.",
+        "verified": true,
+        "char_start": 228,
+        "char_end": 411,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until the shoulder on the installer contacts the housing. NOTE: When the shoulder on the installer body contacts the housing, the bearing will be properly positioned in the housing.",
+      "source_number": 3,
+      "installs": [
+        "of_the_bearing",
+        "oil_seal_installer",
+        "bearing_the_end_bearing",
+        "blower_drive_support",
+        "governor_spring_housing",
+        "short",
+        "crankshaft_front_sleeve",
+        "nut_securing_fig",
+        "of_the_flywheel_housing",
+        "shoulder",
+        "contact"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: When the shoulder on the installer body contacts the housing, the bearing will be properly positioned in the housing.",
+      "provenance": {
+        "page": 265,
+        "quote": "Place the pilot rod end of the bearing installer assembly in the bearing. Support the spring housing. bearing and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until t...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 826,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the current roller type bearing and pin in the spring lever. Press the pin below the surface of the lever and stake at three places on both sides of the lever. The former ball type bearing (with two washers) is swagged at both ends to retain the bearing in the spring lever.",
+      "source_number": 4,
+      "installs": [
+        "current_roller_type",
+        "copper_plated_dowel_pin",
+        "booster_spring_lever",
+        "of_the_stop_lever",
+        "of_the_former",
+        "end_of_the_ball",
+        "another_drive_flange_washer",
+        "end_of_the_spring"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 265,
+        "quote": "Install the current roller type bearing and pin in the spring lever. Press the pin below the surface of the lever and stake at three places on both sides of the lever. The former ball type bearing (with two washers) is swagged at both en...",
+        "verified": true,
+        "char_start": 830,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "If removed. install the spring lever Woodruff key in the center keyway 1n the speed control lever shaft.",
+      "source_number": 5,
+      "installs": [
+        "spring_lever_woodruff",
+        "drive_key",
+        "keyway",
+        "speed_control_lever",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 265,
+        "quote": "If removed. install the spring lever Woodruff key in the center keyway 1n the speed control lever shaft.",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1220,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Place the spring lever assembly between the bearing bores inside the spring housing with the arm (roller end) of the lever facing out.",
+      "source_number": 6,
+      "installs": [
+        "spring_lever_assembly",
+        "cam_follower_roller"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 265,
+        "quote": "Place the spring lever assembly between the bearing bores inside the spring housing with the arm (roller end) of the lever facing out.",
+        "verified": true,
+        "char_start": 1224,
+        "char_end": 1358,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Insert the correct end of the (single or double lever type) speed control lever shaft. Fig. 6. through the bearing bore in the side of the spring housing. opposite the bearing previously installed. Align the key in the shaft with the keyway in the spring lever and push the shaft through the lever and in the bearing until the flat on the top of the shaft is centered under the set screw hole in the lever.",
+      "source_number": 7,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "flat",
+        "centered",
+        "set_screw",
+        "of_the_oil_hole"
+      ],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 265,
+        "quote": "Insert the correct end of the (single or double lever type) speed control lever shaft. Fig. 6. through the bearing bore in the side of the spring housing. opposite the bearing previously installed. Align the key in the shaft with the key...",
+        "verified": true,
+        "char_start": 1362,
+        "char_end": 1768,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Thread the set screw into the spring lever. making sure the point of the screw is seated in the flat on the shaft.",
+      "source_number": 8,
+      "installs": [
+        "bolt_thread",
+        "of_the_buffer_screw"
+      ],
+      "depends_on": [
+        "s03",
+        "s04",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 265,
+        "quote": "Thread the set screw into the spring lever. making sure the point of the screw is seated in the flat on the shaft.",
+        "verified": true,
+        "char_start": 1772,
+        "char_end": 1886,
+        "bbox": [
+          326.4,
+          355.65099999999995,
+          564.4752,
+          387.73199999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Place the second shaft needle bearing. numbered end up. over the protruding end of the shaft and start it straight in the bore of the housing.",
+      "source_number": 9,
+      "installs": [
+        "needle_bearing",
+        "press_the_shaft_straight"
+      ],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 265,
+        "quote": "Place the second shaft needle bearing. numbered end up. over the protruding end of the shaft and start it straight in the bore of the housing.",
+        "verified": true,
+        "char_start": 1890,
+        "char_end": 2032,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the bearing pilot rod J 9196-2 from the installer body J 9196-1 and place the installer body over the end of the shaft and against the bearing. Support the spring housing, bearings and installer on a short sleeve on the bed of an arbor press as shown in Fig. 15, then press the bearing in the housing until the shoulder on the installer contacts the housing.",
+      "source_number": 10,
+      "installs": [
+        "breather_body"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "Remove the bearing pilot rod J 9196-2 from the installer body J 9196-1 and place the installer body over the end of the shaft and against the bearing. Support the spring housing, bearings and installer on a short sleeve on the bed of an ...",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 369,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "If a single lever shaft was installed in the spring housing, apply a thin coat of sealing compound to the outside diameter of the cup plug. Start the cup plug straight in the bearing bore in the housing, then support the spring housing, bearings and shaft assembly on a sleeve on the bed of an arbor press and press the cup plug in flush with the outside face of the housing.",
+      "source_number": 11,
+      "installs": [
+        "cup_plug",
+        "edge_of_the_plug",
+        "drive_shaft_assembly"
+      ],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s04",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "If a single lever shaft was installed in the spring housing, apply a thin coat of sealing compound to the outside diameter of the cup plug. Start the cup plug straight in the bearing bore in the housing, then support the spring housing, ...",
+        "verified": true,
+        "char_start": 374,
+        "char_end": 749,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Clamp the spring housing assembly in a bench vise equipped with soft jaws. Then tighten the spring lever retaining set screw to 12-15 Ib-ft torque.",
+      "source_number": 12,
+      "installs": [
+        "breather_tube_clamp",
+        "spring_housing_assembly",
+        "spring_lever_retaining"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": 16.3,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "Clamp the spring housing assembly in a bench vise equipped with soft jaws. Then tighten the spring lever retaining set screw to 12-15 Ib-ft torque.",
+        "verified": true,
+        "char_start": 754,
+        "char_end": 901,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Stake the edge of the set screw hole with a small center punch and hammer to retain the set screw 1n the lever. Then install the plug in the spring housing.",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s06",
+        "s07",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "Stake the edge of the set screw hole with a small center punch and hammer to retain the set screw 1n the lever. Then install the plug in the spring housing.",
+        "verified": true,
+        "char_start": 906,
+        "char_end": 1062,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "On a single lever shaft, place a seal ring over the end of the shaft and push it into the bearing bore and against the bearing. Place the plain washer over the shaft and against the housing, then install the Woodruff key in the keyway in the shaft.",
+      "source_number": 14,
+      "installs": [
+        "seal_ring",
+        "plain_washer",
+        "woodruff_key"
+      ],
+      "depends_on": [
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "On a single lever shaft, place a seal ring over the end of the shaft and push it into the bearing bore and against the bearing. Place the plain washer over the shaft and against the housing, then install the Woodruff key in the keyway in...",
+        "verified": true,
+        "char_start": 1067,
+        "char_end": 1315,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "On a double lever shaft, place a seal ring over each end of the shaft and push them into the bearing bores and against the bearings. Place a plain washer over each end of the shaft and against the housing. then install a Woodruff key in the keyway at each end of the shaft.",
+      "source_number": 15,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s04",
+        "s13"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "On a double lever shaft, place a seal ring over each end of the shaft and push them into the bearing bores and against the bearings. Place a plain washer over each end of the shaft and against the housing. then install a Woodruff key in ...",
+        "verified": true,
+        "char_start": 1320,
+        "char_end": 1593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Place the speed control lever(s) on the shaft in its original position. Align the keyway in the lever with the key in the shaft and push the lever in against the plain washer and secure it in place with the retaining bolt and lock washer.",
+      "source_number": 16,
+      "installs": [
+        "bearing_retaining_bolt",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "Place the speed control lever(s) on the shaft in its original position. Align the keyway in the lever with the key in the shaft and push the lever in against the plain washer and secure it in place with the retaining bolt and lock washer.",
+        "verified": true,
+        "char_start": 1598,
+        "char_end": 1836,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

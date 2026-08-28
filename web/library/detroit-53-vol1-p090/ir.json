@@ -1,0 +1,299 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.175 - Accurately times the moment of fuel injection...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 175,
+        "quote": "Atomizes the fuel for vaporization and mixing with the Fig. 2 - Fuel Metering from No Load to Full Load air in the combustion chamber. Combustion required for satisfactory engine operation",
+        "verified": true,
+        "char_start": 659,
+        "char_end": 847,
+        "bbox": [
+          100.07999999999998,
+          300.0319999999999,
+          594.47154,
+          328.56899999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 175,
+        "quote": "Atomizes the fuel for vaporization and mixing with the Fig. 2 - Fuel Metering from No Load to Full Load air in the combustion chamber. Combustion required for satisfactory engine operation",
+        "verified": true,
+        "char_start": 659,
+        "char_end": 847,
+        "bbox": [
+          100.07999999999998,
+          300.0319999999999,
+          594.47154,
+          328.56899999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 175,
+        "quote": "Meters and injects the correct amount of fuel required is obtained by injecting, under pressure, a small quantity of accurately timed, metered and finely atomized fuel oil into to maintain engine speed and to handle the load. the combust...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1100,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 175,
+        "quote": "Meters and injects the correct amount of fuel required is obtained by injecting, under pressure, a small quantity of accurately timed, metered and finely atomized fuel oil into to maintain engine speed and to handle the load. the combust...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1100,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 175,
+        "quote": "Creates the high pressure required for proper fuel Metering and timing during fuel injection is injection. accomplished by an upper and lower helix machined in the lower end of the injector plunger. (Fig. 2) illustrates the fuel FOLLOWER...",
+        "verified": true,
+        "char_start": 1104,
+        "char_end": 1479,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "helix_machined",
+      "name": "Helix machined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "helix_machined",
+      "provenance": {
+        "page": 175,
+        "quote": "Creates the high pressure required for proper fuel Metering and timing during fuel injection is injection. accomplished by an upper and lower helix machined in the lower end of the injector plunger. (Fig. 2) illustrates the fuel FOLLOWER...",
+        "verified": true,
+        "char_start": 1104,
+        "char_end": 1479,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 175,
+        "quote": "Creates the high pressure required for proper fuel Metering and timing during fuel injection is injection. accomplished by an upper and lower helix machined in the lower end of the injector plunger. (Fig. 2) illustrates the fuel FOLLOWER...",
+        "verified": true,
+        "char_start": 1104,
+        "char_end": 1479,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 175,
+        "quote": "Creates the high pressure required for proper fuel Metering and timing during fuel injection is injection. accomplished by an upper and lower helix machined in the lower end of the injector plunger. (Fig. 2) illustrates the fuel FOLLOWER...",
+        "verified": true,
+        "char_start": 1104,
+        "char_end": 1479,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 175,
+        "quote": "Creates the high pressure required for proper fuel Metering and timing during fuel injection is injection. accomplished by an upper and lower helix machined in the lower end of the injector plunger. (Fig. 2) illustrates the fuel FOLLOWER...",
+        "verified": true,
+        "char_start": 1104,
+        "char_end": 1479,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 175,
+        "quote": "Creates the high pressure required for proper fuel Metering and timing during fuel injection is injection. accomplished by an upper and lower helix machined in the lower end of the injector plunger. (Fig. 2) illustrates the fuel FOLLOWER...",
+        "verified": true,
+        "char_start": 1104,
+        "char_end": 1479,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Accurately times the moment of fuel injection. INJECTION LOAD LOAD 4209 LOAD",
+      "source_number": 1,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 175,
+        "quote": "Accurately times the moment of fuel injection. INJECTION LOAD LOAD 4209 LOAD",
+        "verified": true,
+        "char_start": 579,
+        "char_end": 655,
+        "bbox": [
+          100.08,
+          282.01599999999996,
+          567.9110000000001,
+          291.609
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Atomizes the fuel for vaporization and mixing with the Fig. 2 - Fuel Metering from No Load to Full Load air in the combustion chamber. Combustion required for satisfactory engine operation",
+      "source_number": 2,
+      "installs": [
+        "nut_securing_fig",
+        "of_the_required"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 175,
+        "quote": "Atomizes the fuel for vaporization and mixing with the Fig. 2 - Fuel Metering from No Load to Full Load air in the combustion chamber. Combustion required for satisfactory engine operation",
+        "verified": true,
+        "char_start": 659,
+        "char_end": 847,
+        "bbox": [
+          100.07999999999998,
+          300.0319999999999,
+          594.47154,
+          328.56899999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Meters and injects the correct amount of fuel required is obtained by injecting, under pressure, a small quantity of accurately timed, metered and finely atomized fuel oil into to maintain engine speed and to handle the load. the combustion chamber.",
+      "source_number": 3,
+      "installs": [
+        "clamping_pressure",
+        "engine_speed"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 175,
+        "quote": "Meters and injects the correct amount of fuel required is obtained by injecting, under pressure, a small quantity of accurately timed, metered and finely atomized fuel oil into to maintain engine speed and to handle the load. the combust...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1100,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Creates the high pressure required for proper fuel Metering and timing during fuel injection is injection. accomplished by an upper and lower helix machined in the lower end of the injector plunger. (Fig. 2) illustrates the fuel FOLLOWER nu metering from no load to full load by rotation of the plunger in the bushing. (Fig. 3) illustrates the phases of injector operation by",
+      "source_number": 4,
+      "installs": [
+        "hammer_spring_scale_upper",
+        "helix_machined",
+        "end_of_the_injector",
+        "area_of_the_plunger",
+        "cam_follower",
+        "connecting_rod_bushing"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 175,
+        "quote": "Creates the high pressure required for proper fuel Metering and timing during fuel injection is injection. accomplished by an upper and lower helix machined in the lower end of the injector plunger. (Fig. 2) illustrates the fuel FOLLOWER...",
+        "verified": true,
+        "char_start": 1104,
+        "char_end": 1479,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.208 - Disconnect the fuel lines from the inlet...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "fuel_line",
+      "name": "Fuel line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_line",
+      "provenance": {
+        "page": 208,
+        "quote": "Disconnect the fuel lines from the inlet and outlet body normally remains in the closed position, operating only when pressure on the outlet side (to the fuel filter) reaches openings of the fuel pump. approximately 65 psi (448 kPa).",
+        "verified": true,
+        "char_start": 682,
+        "char_end": 915,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 208,
+        "quote": "Disconnect the fuel lines from the inlet and outlet body normally remains in the closed position, operating only when pressure on the outlet side (to the fuel filter) reaches openings of the fuel pump. approximately 65 psi (448 kPa).",
+        "verified": true,
+        "char_start": 682,
+        "char_end": 915,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 208,
+        "quote": "Disconnect the fuel lines from the inlet and outlet body normally remains in the closed position, operating only when pressure on the outlet side (to the fuel filter) reaches openings of the fuel pump. approximately 65 psi (448 kPa).",
+        "verified": true,
+        "char_start": 682,
+        "char_end": 915,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 208,
+        "quote": "Disconnect the fuel lines from the inlet and outlet body normally remains in the closed position, operating only when pressure on the outlet side (to the fuel filter) reaches openings of the fuel pump. approximately 65 psi (448 kPa).",
+        "verified": true,
+        "char_start": 682,
+        "char_end": 915,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "filter",
+      "name": "Filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter",
+      "provenance": {
+        "page": 208,
+        "quote": "Disconnect the fuel lines from the inlet and outlet body normally remains in the closed position, operating only when pressure on the outlet side (to the fuel filter) reaches openings of the fuel pump. approximately 65 psi (448 kPa).",
+        "verified": true,
+        "char_start": 682,
+        "char_end": 915,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 208,
+        "quote": "Disconnect the fuel lines from the inlet and outlet body normally remains in the closed position, operating only when pressure on the outlet side (to the fuel filter) reaches openings of the fuel pump. approximately 65 psi (448 kPa).",
+        "verified": true,
+        "char_start": 682,
+        "char_end": 915,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 208,
+        "quote": "Removethe three pump attaching bolts and withdraw",
+        "verified": true,
+        "char_start": 978,
+        "char_end": 1027,
+        "bbox": [
+          344.64,
+          533.644,
+          565.03704,
+          542.6439999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flywheel_attaching_bolt",
+      "name": "Flywheel attaching bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_attaching_bolt",
+      "provenance": {
+        "page": 208,
+        "quote": "Removethe three pump attaching bolts and withdraw",
+        "verified": true,
+        "char_start": 978,
+        "char_end": 1027,
+        "bbox": [
+          344.64,
+          533.644,
+          565.03704,
+          542.6439999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "accessory_drive_coupling",
+      "name": "Accessory drive coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_coupling",
+      "provenance": {
+        "page": 208,
+        "quote": "Check the drive coupling fork and, if broken or worn, and fills the space between the gear teeth which are exposed replace it with a new coupling. at that instant. The gear teeth then carry the fuel oil to the",
+        "verified": true,
+        "char_start": 1106,
+        "char_end": 1315,
+        "bbox": [
+          45.359999999999985,
+          564.761,
+          565.3603999999999,
+          594.6039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 208,
+        "quote": "Check the drive coupling fork and, if broken or worn, and fills the space between the gear teeth which are exposed replace it with a new coupling. at that instant. The gear teeth then carry the fuel oil to the",
+        "verified": true,
+        "char_start": 1106,
+        "char_end": 1315,
+        "bbox": [
+          45.359999999999985,
+          564.761,
+          565.3603999999999,
+          594.6039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "worn",
+      "name": "Worn",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn",
+      "provenance": {
+        "page": 208,
+        "quote": "Check the drive coupling fork and, if broken or worn, and fills the space between the gear teeth which are exposed replace it with a new coupling. at that instant. The gear teeth then carry the fuel oil to the",
+        "verified": true,
+        "char_start": 1106,
+        "char_end": 1315,
+        "bbox": [
+          45.359999999999985,
+          564.761,
+          565.3603999999999,
+          594.6039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 208,
+        "quote": "Check the drive coupling fork and, if broken or worn, and fills the space between the gear teeth which are exposed replace it with a new coupling. at that instant. The gear teeth then carry the fuel oil to the",
+        "verified": true,
+        "char_start": 1106,
+        "char_end": 1315,
+        "bbox": [
+          45.359999999999985,
+          564.761,
+          565.3603999999999,
+          594.6039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 208,
+        "quote": "Check the drive coupling fork and, if broken or worn, and fills the space between the gear teeth which are exposed replace it with a new coupling. at that instant. The gear teeth then carry the fuel oil to the",
+        "verified": true,
+        "char_start": 1106,
+        "char_end": 1315,
+        "bbox": [
+          45.359999999999985,
+          564.761,
+          565.3603999999999,
+          594.6039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Disconnect the fuel lines from the inlet and outlet body normally remains in the closed position, operating only when pressure on the outlet side (to the fuel filter) reaches openings of the fuel pump. approximately 65 psi (448 kPa).",
+      "source_number": 1,
+      "installs": [
+        "fuel_line",
+        "fuel_oil_inlet",
+        "breather_body",
+        "clamping_pressure",
+        "filter",
+        "fuel_pump"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 208,
+        "quote": "Disconnect the fuel lines from the inlet and outlet body normally remains in the closed position, operating only when pressure on the outlet side (to the fuel filter) reaches openings of the fuel pump. approximately 65 psi (448 kPa).",
+        "verified": true,
+        "char_start": 682,
+        "char_end": 915,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Disconnect the drain iube, if used, from the fuel pump.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 208,
+        "quote": "Disconnect the drain iube, if used, from the fuel pump.",
+        "verified": true,
+        "char_start": 919,
+        "char_end": 974,
+        "bbox": [
+          344.64,
+          514.4449999999999,
+          564.6136499999999,
+          523.4449999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Removethe three pump attaching bolts and withdraw",
+      "source_number": 3,
+      "installs": [
+        "lubricating_oil_pump",
+        "flywheel_attaching_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 208,
+        "quote": "Removethe three pump attaching bolts and withdraw",
+        "verified": true,
+        "char_start": 978,
+        "char_end": 1027,
+        "bbox": [
+          344.64,
+          533.644,
+          565.03704,
+          542.6439999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check the drive coupling fork and, if broken or worn, and fills the space between the gear teeth which are exposed replace it with a new coupling. at that instant. The gear teeth then carry the fuel oil to the",
+      "source_number": 4,
+      "installs": [
+        "accessory_drive_coupling",
+        "governor_operating_fork",
+        "worn",
+        "fuel_pump_drive_gear",
+        "gear_train_teeth"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 208,
+        "quote": "Check the drive coupling fork and, if broken or worn, and fills the space between the gear teeth which are exposed replace it with a new coupling. at that instant. The gear teeth then carry the fuel oil to the",
+        "verified": true,
+        "char_start": 1106,
+        "char_end": 1315,
+        "bbox": [
+          45.359999999999985,
+          564.761,
+          565.3603999999999,
+          594.6039999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

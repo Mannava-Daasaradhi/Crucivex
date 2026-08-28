@@ -1,0 +1,1302 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.255 - Body--Governor 17. Plug- Oll Seat Adjusting Shaft...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 255,
+        "quote": "Body--Governor 17. Plug- Oll Seat Adjusting Shaft 46. Gear--Drive",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 68,
+        "bbox": [
+          83.75999999999999,
+          420.95099999999996,
+          502.49994,
+          427.95099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 255,
+        "quote": "Body--Governor 17. Plug- Oll Seat Adjusting Shaft 46. Gear--Drive",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 68,
+        "bbox": [
+          83.75999999999999,
+          420.95099999999996,
+          502.49994,
+          427.95099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 255,
+        "quote": "Body--Governor 17. Plug- Oll Seat Adjusting Shaft 46. Gear--Drive",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 68,
+        "bbox": [
+          83.75999999999999,
+          420.95099999999996,
+          502.49994,
+          427.95099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 255,
+        "quote": "Body--Governor 17. Plug- Oll Seat Adjusting Shaft 46. Gear--Drive",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 68,
+        "bbox": [
+          83.75999999999999,
+          420.95099999999996,
+          502.49994,
+          427.95099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_adjusting_shaft",
+      "name": "Speed adjusting shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_shaft",
+      "provenance": {
+        "page": 255,
+        "quote": "Body--Governor 17. Plug- Oll Seat Adjusting Shaft 46. Gear--Drive",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 68,
+        "bbox": [
+          83.75999999999999,
+          420.95099999999996,
+          502.49994,
+          427.95099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 255,
+        "quote": "Body--Governor 17. Plug- Oll Seat Adjusting Shaft 46. Gear--Drive",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 68,
+        "bbox": [
+          83.75999999999999,
+          420.95099999999996,
+          502.49994,
+          427.95099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 255,
+        "quote": "Fork- Operating 18. Ring--Snap (External) 32. Shaft- Speed Adjusting 47. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 168,
+        "bbox": [
+          83.75999999999999,
+          431.00699999999995,
+          554.27622,
+          438.00699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 255,
+        "quote": "Fork- Operating 18. Ring--Snap (External) 32. Shaft- Speed Adjusting 47. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 168,
+        "bbox": [
+          83.75999999999999,
+          431.00699999999995,
+          554.27622,
+          438.00699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 255,
+        "quote": "Fork- Operating 18. Ring--Snap (External) 32. Shaft- Speed Adjusting 47. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 168,
+        "bbox": [
+          83.75999999999999,
+          431.00699999999995,
+          554.27622,
+          438.00699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 255,
+        "quote": "Fork- Operating 18. Ring--Snap (External) 32. Shaft- Speed Adjusting 47. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 168,
+        "bbox": [
+          83.75999999999999,
+          431.00699999999995,
+          554.27622,
+          438.00699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 255,
+        "quote": "Fork- Operating 18. Ring--Snap (External) 32. Shaft- Speed Adjusting 47. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 168,
+        "bbox": [
+          83.75999999999999,
+          431.00699999999995,
+          554.27622,
+          438.00699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "battery_charging_generator_mounting",
+      "name": "Battery-charging generator mounting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "battery_charging_generator_mounting",
+      "provenance": {
+        "page": 255,
+        "quote": "Fork- Operating 18. Ring--Snap (External) 32. Shaft- Speed Adjusting 47. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 168,
+        "bbox": [
+          83.75999999999999,
+          431.00699999999995,
+          554.27622,
+          438.00699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 255,
+        "quote": "Bolts--Operating Fork 19. Bearing--Rocker Shaft 35. Eyebolt 87-24 x 17)",
+        "verified": true,
+        "char_start": 172,
+        "char_end": 243,
+        "bbox": [
+          83.51999999999998,
+          440.8469999999999,
+          507.4167599999999,
+          447.8469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rocker_shaft",
+      "name": "Rocker shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_shaft",
+      "provenance": {
+        "page": 255,
+        "quote": "Bolts--Operating Fork 19. Bearing--Rocker Shaft 35. Eyebolt 87-24 x 17)",
+        "verified": true,
+        "char_start": 172,
+        "char_end": 243,
+        "bbox": [
+          83.51999999999998,
+          440.8469999999999,
+          507.4167599999999,
+          447.8469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 255,
+        "quote": "Bearing-Riser Thrust (Inner) 36. Screw--Idle Speed 48. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 247,
+        "char_end": 325,
+        "bbox": [
+          83.51999999999988,
+          450.9249999999999,
+          554.4670799999999,
+          457.9249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 255,
+        "quote": "Bearing-Riser Thrust (Inner) 36. Screw--Idle Speed 48. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 247,
+        "char_end": 325,
+        "bbox": [
+          83.51999999999988,
+          450.9249999999999,
+          554.4670799999999,
+          457.9249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 255,
+        "quote": "Bearing-Riser Thrust (Inner) 36. Screw--Idle Speed 48. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 247,
+        "char_end": 325,
+        "bbox": [
+          83.51999999999988,
+          450.9249999999999,
+          554.4670799999999,
+          457.9249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idle",
+      "name": "Idle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idle",
+      "provenance": {
+        "page": 255,
+        "quote": "Bearing-Riser Thrust (Inner) 36. Screw--Idle Speed 48. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 247,
+        "char_end": 325,
+        "bbox": [
+          83.51999999999988,
+          450.9249999999999,
+          554.4670799999999,
+          457.9249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flyweight",
+      "name": "Flyweight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flyweight",
+      "provenance": {
+        "page": 255,
+        "quote": "Flyweights (Outer) 37. Screw- Maximum Speed 49. Lever-Governor Speed",
+        "verified": true,
+        "char_start": 389,
+        "char_end": 457,
+        "bbox": [
+          83.51999999999983,
+          470.84899999999993,
+          544.2964499999997,
+          477.84899999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 255,
+        "quote": "Flyweights (Outer) 37. Screw- Maximum Speed 49. Lever-Governor Speed",
+        "verified": true,
+        "char_start": 389,
+        "char_end": 457,
+        "bbox": [
+          83.51999999999983,
+          470.84899999999993,
+          544.2964499999997,
+          477.84899999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 255,
+        "quote": "Flyweights (Outer) 37. Screw- Maximum Speed 49. Lever-Governor Speed",
+        "verified": true,
+        "char_start": 389,
+        "char_end": 457,
+        "bbox": [
+          83.51999999999983,
+          470.84899999999993,
+          544.2964499999997,
+          477.84899999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 255,
+        "quote": "Pins Weight Supporting 22. Seal--Rubber Oil Adjusting Control",
+        "verified": true,
+        "char_start": 461,
+        "char_end": 522,
+        "bbox": [
+          83.75999999999969,
+          480.95599999999996,
+          488.8685299999997,
+          487.95599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 255,
+        "quote": "Pins Weight Supporting 22. Seal--Rubber Oil Adjusting Control",
+        "verified": true,
+        "char_start": 461,
+        "char_end": 522,
+        "bbox": [
+          83.75999999999969,
+          480.95599999999996,
+          488.8685299999997,
+          487.95599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 255,
+        "quote": "Pins Weight Supporting 22. Seal--Rubber Oil Adjusting Control",
+        "verified": true,
+        "char_start": 461,
+        "char_end": 522,
+        "bbox": [
+          83.75999999999969,
+          480.95599999999996,
+          488.8685299999997,
+          487.95599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 255,
+        "quote": "Ring--Retainer 23. Retainer--Oil 39. Spring- Speed Adjusting 50. Screw--Buffer",
+        "verified": true,
+        "char_start": 526,
+        "char_end": 604,
+        "bbox": [
+          83.2799999999997,
+          491.025,
+          509.87398999999965,
+          498.025
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 255,
+        "quote": "Ring--Retainer 23. Retainer--Oil 39. Spring- Speed Adjusting 50. Screw--Buffer",
+        "verified": true,
+        "char_start": 526,
+        "char_end": 604,
+        "bbox": [
+          83.2799999999997,
+          491.025,
+          509.87398999999965,
+          498.025
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spider",
+      "provenance": {
+        "page": 255,
+        "quote": "Spider and Shaft Assy.- 24. Shaft--Rocker 42. Spring- Buffer 51. Gasket--Oil Seal Plug Operating 25. Pin--Roll (5/327) 43. Housing--Bearing 52. Key--Drive",
+        "verified": true,
+        "char_start": 609,
+        "char_end": 763,
+        "bbox": [
+          83.03999999999971,
+          499.84899999999993,
+          541.5148799999996,
+          517.958
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 255,
+        "quote": "Spider and Shaft Assy.- 24. Shaft--Rocker 42. Spring- Buffer 51. Gasket--Oil Seal Plug Operating 25. Pin--Roll (5/327) 43. Housing--Bearing 52. Key--Drive",
+        "verified": true,
+        "char_start": 609,
+        "char_end": 763,
+        "bbox": [
+          83.03999999999971,
+          499.84899999999993,
+          541.5148799999996,
+          517.958
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_seal_plug",
+      "name": "Oil seal plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_plug",
+      "provenance": {
+        "page": 255,
+        "quote": "Spider and Shaft Assy.- 24. Shaft--Rocker 42. Spring- Buffer 51. Gasket--Oil Seal Plug Operating 25. Pin--Roll (5/327) 43. Housing--Bearing 52. Key--Drive",
+        "verified": true,
+        "char_start": 609,
+        "char_end": 763,
+        "bbox": [
+          83.03999999999971,
+          499.84899999999993,
+          541.5148799999996,
+          517.958
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 255,
+        "quote": "Spider and Shaft Assy.- 24. Shaft--Rocker 42. Spring- Buffer 51. Gasket--Oil Seal Plug Operating 25. Pin--Roll (5/327) 43. Housing--Bearing 52. Key--Drive",
+        "verified": true,
+        "char_start": 609,
+        "char_end": 763,
+        "bbox": [
+          83.03999999999971,
+          499.84899999999993,
+          541.5148799999996,
+          517.958
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_key",
+      "name": "Drive key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_key",
+      "provenance": {
+        "page": 255,
+        "quote": "Spider and Shaft Assy.- 24. Shaft--Rocker 42. Spring- Buffer 51. Gasket--Oil Seal Plug Operating 25. Pin--Roll (5/327) 43. Housing--Bearing 52. Key--Drive",
+        "verified": true,
+        "char_start": 609,
+        "char_end": 763,
+        "bbox": [
+          83.03999999999971,
+          499.84899999999993,
+          541.5148799999996,
+          517.958
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_housing",
+      "name": "Bearing housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_housing",
+      "provenance": {
+        "page": 255,
+        "quote": "Ring--Snap (internal) 27. Lever--Rocker Shaft 44. Screw- Bearing Housing 53. Nut--Drive Gear",
+        "verified": true,
+        "char_start": 768,
+        "char_end": 860,
+        "bbox": [
+          83.03999999999965,
+          520.778,
+          520.7254399999996,
+          527.778
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 255,
+        "quote": "Ring--Snap (internal) 27. Lever--Rocker Shaft 44. Screw- Bearing Housing 53. Nut--Drive Gear",
+        "verified": true,
+        "char_start": 768,
+        "char_end": 860,
+        "bbox": [
+          83.03999999999965,
+          520.778,
+          520.7254399999996,
+          527.778
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 255,
+        "quote": "Bearing- Shaft 29. Washer Retaining Retaining",
+        "verified": true,
+        "char_start": 865,
+        "char_end": 910,
+        "bbox": [
+          83.0399999999996,
+          530.8689999999999,
+          497.68520999999964,
+          537.8689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 255,
+        "quote": "Gasket--Body Mounting 30. Bracket--Speed 45. Spacer--Drive Gear Fig. 4 - Governor Details and Relative Location of Parts slightest wear on this part can cause oil leakage. When",
+        "verified": true,
+        "char_start": 915,
+        "char_end": 1091,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 255,
+        "quote": "Gasket--Body Mounting 30. Bracket--Speed 45. Spacer--Drive Gear Fig. 4 - Governor Details and Relative Location of Parts slightest wear on this part can cause oil leakage. When",
+        "verified": true,
+        "char_start": 915,
+        "char_end": 1091,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 255,
+        "quote": "Gasket--Body Mounting 30. Bracket--Speed 45. Spacer--Drive Gear Fig. 4 - Governor Details and Relative Location of Parts slightest wear on this part can cause oil leakage. When",
+        "verified": true,
+        "char_start": 915,
+        "char_end": 1091,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_adjusted_relative",
+      "name": "Valve adjusted relative",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_adjusted_relative",
+      "provenance": {
+        "page": 255,
+        "quote": "Gasket--Body Mounting 30. Bracket--Speed 45. Spacer--Drive Gear Fig. 4 - Governor Details and Relative Location of Parts slightest wear on this part can cause oil leakage. When",
+        "verified": true,
+        "char_start": 915,
+        "char_end": 1091,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Body--Governor 17. Plug- Oll Seat Adjusting Shaft 46. Gear--Drive",
+      "source_number": 1,
+      "installs": [
+        "breather_body",
+        "blower_the_engine_governor",
+        "edge_of_the_plug",
+        "insert_remover_valve_seat",
+        "speed_adjusting_shaft",
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Body--Governor 17. Plug- Oll Seat Adjusting Shaft 46. Gear--Drive",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 68,
+        "bbox": [
+          83.75999999999999,
+          420.95099999999996,
+          502.49994,
+          427.95099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Fork- Operating 18. Ring--Snap (External) 32. Shaft- Speed Adjusting 47. Bolt--Body Mounting (3/",
+      "source_number": 3,
+      "installs": [
+        "governor_operating_fork",
+        "bottom_oil_ring",
+        "end_of_the_shaft",
+        "engine_speed",
+        "engine_front_cover_bolt",
+        "battery_charging_generator_mounting"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Fork- Operating 18. Ring--Snap (External) 32. Shaft- Speed Adjusting 47. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 168,
+        "bbox": [
+          83.75999999999999,
+          431.00699999999995,
+          554.27622,
+          438.00699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Bolts--Operating Fork 19. Bearing--Rocker Shaft 35. Eyebolt 87-24 x 17)",
+      "source_number": 4,
+      "installs": [
+        "bearing_the_end_bearing",
+        "rocker_shaft"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Bolts--Operating Fork 19. Bearing--Rocker Shaft 35. Eyebolt 87-24 x 17)",
+        "verified": true,
+        "char_start": 172,
+        "char_end": 243,
+        "bbox": [
+          83.51999999999998,
+          440.8469999999999,
+          507.4167599999999,
+          447.8469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Bearing-Riser Thrust (Inner) 36. Screw--Idle Speed 48. Bolt--Body Mounting (3/",
+      "source_number": 5,
+      "installs": [
+        "governor_riser",
+        "side_of_the_inner",
+        "of_the_buffer_screw",
+        "idle"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Bearing-Riser Thrust (Inner) 36. Screw--Idle Speed 48. Bolt--Body Mounting (3/",
+        "verified": true,
+        "char_start": 247,
+        "char_end": 325,
+        "bbox": [
+          83.51999999999988,
+          450.9249999999999,
+          554.4670799999999,
+          457.9249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Riser 20. Bearing--Rocker Shaft Adjusting 87-16 x 1.1/4)",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Riser 20. Bearing--Rocker Shaft Adjusting 87-16 x 1.1/4)",
+        "verified": true,
+        "char_start": 329,
+        "char_end": 385,
+        "bbox": [
+          83.27999999999986,
+          460.7939999999999,
+          521.0335799999998,
+          467.7939999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Flyweights (Outer) 37. Screw- Maximum Speed 49. Lever-Governor Speed",
+      "source_number": 7,
+      "installs": [
+        "flyweight",
+        "idler_gear_outer",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Flyweights (Outer) 37. Screw- Maximum Speed 49. Lever-Governor Speed",
+        "verified": true,
+        "char_start": 389,
+        "char_end": 457,
+        "bbox": [
+          83.51999999999983,
+          470.84899999999993,
+          544.2964499999997,
+          477.84899999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Pins Weight Supporting 22. Seal--Rubber Oil Adjusting Control",
+      "source_number": 8,
+      "installs": [
+        "copper_plated_dowel_pin",
+        "front_balance_weight",
+        "crankshaft_front_oil_seal"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Pins Weight Supporting 22. Seal--Rubber Oil Adjusting Control",
+        "verified": true,
+        "char_start": 461,
+        "char_end": 522,
+        "bbox": [
+          83.75999999999969,
+          480.95599999999996,
+          488.8685299999997,
+          487.95599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Ring--Retainer 23. Retainer--Oil 39. Spring- Speed Adjusting 50. Screw--Buffer",
+      "source_number": 9,
+      "installs": [
+        "drive_shaft_retainer",
+        "end_of_the_spring"
+      ],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Ring--Retainer 23. Retainer--Oil 39. Spring- Speed Adjusting 50. Screw--Buffer",
+        "verified": true,
+        "char_start": 526,
+        "char_end": 604,
+        "bbox": [
+          83.2799999999997,
+          491.025,
+          509.87398999999965,
+          498.025
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Spider and Shaft Assy.- 24. Shaft--Rocker 42. Spring- Buffer 51. Gasket--Oil Seal Plug Operating 25. Pin--Roll (5/327) 43. Housing--Bearing 52. Key--Drive",
+      "source_number": 10,
+      "installs": [
+        "spider",
+        "head_gasket",
+        "oil_seal_plug",
+        "of_the_flywheel_housing",
+        "drive_key"
+      ],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s07",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Spider and Shaft Assy.- 24. Shaft--Rocker 42. Spring- Buffer 51. Gasket--Oil Seal Plug Operating 25. Pin--Roll (5/327) 43. Housing--Bearing 52. Key--Drive",
+        "verified": true,
+        "char_start": 609,
+        "char_end": 763,
+        "bbox": [
+          83.03999999999971,
+          499.84899999999993,
+          541.5148799999996,
+          517.958
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Ring--Snap (internal) 27. Lever--Rocker Shaft 44. Screw- Bearing Housing 53. Nut--Drive Gear",
+      "source_number": 11,
+      "installs": [
+        "bearing_housing",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s04",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Ring--Snap (internal) 27. Lever--Rocker Shaft 44. Screw- Bearing Housing 53. Nut--Drive Gear",
+        "verified": true,
+        "char_start": 768,
+        "char_end": 860,
+        "bbox": [
+          83.03999999999965,
+          520.778,
+          520.7254399999996,
+          527.778
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Bearing- Shaft 29. Washer Retaining Retaining",
+      "source_number": 12,
+      "installs": [
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Bearing- Shaft 29. Washer Retaining Retaining",
+        "verified": true,
+        "char_start": 865,
+        "char_end": 910,
+        "bbox": [
+          83.0399999999996,
+          530.8689999999999,
+          497.68520999999964,
+          537.8689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Gasket--Body Mounting 30. Bracket--Speed 45. Spacer--Drive Gear Fig. 4 - Governor Details and Relative Location of Parts slightest wear on this part can cause oil leakage. When",
+      "source_number": 13,
+      "installs": [
+        "booster_spring_bracket",
+        "drive_gear_spacer",
+        "nut_securing_fig",
+        "valve_adjusted_relative"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 255,
+        "quote": "Gasket--Body Mounting 30. Bracket--Speed 45. Spacer--Drive Gear Fig. 4 - Governor Details and Relative Location of Parts slightest wear on this part can cause oil leakage. When",
+        "verified": true,
+        "char_start": 915,
+        "char_end": 1091,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

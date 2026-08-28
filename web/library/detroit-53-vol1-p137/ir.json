@@ -1,0 +1,489 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.254 - Remove the outer race and the ball...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "outer_race",
+      "name": "Outer race",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outer_race",
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the outer race and the ball assembly (5) from the riser (6).",
+        "verified": true,
+        "char_start": 714,
+        "char_end": 781,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "ball_assembly",
+      "name": "Ball assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ball_assembly",
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the outer race and the ball assembly (5) from the riser (6).",
+        "verified": true,
+        "char_start": 714,
+        "char_end": 781,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the outer race and the ball assembly (5) from the riser (6).",
+        "verified": true,
+        "char_start": 714,
+        "char_end": 781,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spider",
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the riser (6) from the spider and shaft assembly (10).",
+        "verified": true,
+        "char_start": 785,
+        "char_end": 846,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the riser (6) from the spider and shaft assembly (10).",
+        "verified": true,
+        "char_start": 785,
+        "char_end": 846,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 254,
+        "quote": "If necessary. carefully support the lower side of the inner race of the thrust bearing (5) in an arbor press and gently press the riser (6) from the inner race.",
+        "verified": true,
+        "char_start": 850,
+        "char_end": 1010,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 254,
+        "quote": "If necessary. carefully support the lower side of the inner race of the thrust bearing (5) in an arbor press and gently press the riser (6) from the inner race.",
+        "verified": true,
+        "char_start": 850,
+        "char_end": 1010,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inboard_thrust_bearing",
+      "name": "Inboard thrust bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inboard_thrust_bearing",
+      "provenance": {
+        "page": 254,
+        "quote": "If necessary. carefully support the lower side of the inner race of the thrust bearing (5) in an arbor press and gently press the riser (6) from the inner race.",
+        "verified": true,
+        "char_start": 850,
+        "char_end": 1010,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 254,
+        "quote": "If required, remove the hair pin clips or retainer rings (9) that secure the flyweights (7) on the supporting pins (8). Then gently tap out the supporting pins with a 1/8\" punch and remove the flyweights.",
+        "verified": true,
+        "char_start": 1014,
+        "char_end": 1218,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hair_pin_clip",
+      "name": "Hair pin clip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hair_pin_clip",
+      "provenance": {
+        "page": 254,
+        "quote": "If required, remove the hair pin clips or retainer rings (9) that secure the flyweights (7) on the supporting pins (8). Then gently tap out the supporting pins with a 1/8\" punch and remove the flyweights.",
+        "verified": true,
+        "char_start": 1014,
+        "char_end": 1218,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 254,
+        "quote": "If required, remove the hair pin clips or retainer rings (9) that secure the flyweights (7) on the supporting pins (8). Then gently tap out the supporting pins with a 1/8\" punch and remove the flyweights.",
+        "verified": true,
+        "char_start": 1014,
+        "char_end": 1218,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 254,
+        "quote": "If required, remove the hair pin clips or retainer rings (9) that secure the flyweights (7) on the supporting pins (8). Then gently tap out the supporting pins with a 1/8\" punch and remove the flyweights.",
+        "verified": true,
+        "char_start": 1014,
+        "char_end": 1218,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flyweight",
+      "name": "Flyweight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flyweight",
+      "provenance": {
+        "page": 254,
+        "quote": "If required, remove the hair pin clips or retainer rings (9) that secure the flyweights (7) on the supporting pins (8). Then gently tap out the supporting pins with a 1/8\" punch and remove the flyweights.",
+        "verified": true,
+        "char_start": 1014,
+        "char_end": 1218,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 254,
+        "quote": "If required, remove the hair pin clips or retainer rings (9) that secure the flyweights (7) on the supporting pins (8). Then gently tap out the supporting pins with a 1/8\" punch and remove the flyweights.",
+        "verified": true,
+        "char_start": 1014,
+        "char_end": 1218,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_retaining",
+      "name": "Drive gear retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_retaining",
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the drive gear retaining nut (53) from the shaft and place the drive gear (46). bearing housing",
+        "verified": true,
+        "char_start": 1222,
+        "char_end": 1324,
+        "bbox": [
+          88.32000000000005,
+          630.209,
+          328.3095,
+          651.251
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the drive gear retaining nut (53) from the shaft and place the drive gear (46). bearing housing",
+        "verified": true,
+        "char_start": 1222,
+        "char_end": 1324,
+        "bbox": [
+          88.32000000000005,
+          630.209,
+          328.3095,
+          651.251
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the drive gear retaining nut (53) from the shaft and place the drive gear (46). bearing housing",
+        "verified": true,
+        "char_start": 1222,
+        "char_end": 1324,
+        "bbox": [
+          88.32000000000005,
+          630.209,
+          328.3095,
+          651.251
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the drive gear retaining nut (53) from the shaft and place the drive gear (46). bearing housing",
+        "verified": true,
+        "char_start": 1222,
+        "char_end": 1324,
+        "bbox": [
+          88.32000000000005,
+          630.209,
+          328.3095,
+          651.251
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_housing",
+      "name": "Bearing housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_housing",
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the drive gear retaining nut (53) from the shaft and place the drive gear (46). bearing housing",
+        "verified": true,
+        "char_start": 1222,
+        "char_end": 1324,
+        "bbox": [
+          88.32000000000005,
+          630.209,
+          328.3095,
+          651.251
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the outer race and the ball assembly (5) from the riser (6).",
+      "source_number": 2,
+      "installs": [
+        "outer_race",
+        "ball_assembly",
+        "governor_riser"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the outer race and the ball assembly (5) from the riser (6).",
+        "verified": true,
+        "char_start": 714,
+        "char_end": 781,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the riser (6) from the spider and shaft assembly (10).",
+      "source_number": 3,
+      "installs": [
+        "spider",
+        "drive_shaft_assembly"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the riser (6) from the spider and shaft assembly (10).",
+        "verified": true,
+        "char_start": 785,
+        "char_end": 846,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "If necessary. carefully support the lower side of the inner race of the thrust bearing (5) in an arbor press and gently press the riser (6) from the inner race.",
+      "source_number": 4,
+      "installs": [
+        "blower_drive_support",
+        "side_of_the_inner",
+        "inboard_thrust_bearing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 254,
+        "quote": "If necessary. carefully support the lower side of the inner race of the thrust bearing (5) in an arbor press and gently press the riser (6) from the inner race.",
+        "verified": true,
+        "char_start": 850,
+        "char_end": 1010,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "If required, remove the hair pin clips or retainer rings (9) that secure the flyweights (7) on the supporting pins (8). Then gently tap out the supporting pins with a 1/8\" punch and remove the flyweights.",
+      "source_number": 5,
+      "installs": [
+        "of_the_required",
+        "hair_pin_clip",
+        "drive_shaft_retainer",
+        "piston_ring",
+        "flyweight",
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 254,
+        "quote": "If required, remove the hair pin clips or retainer rings (9) that secure the flyweights (7) on the supporting pins (8). Then gently tap out the supporting pins with a 1/8\" punch and remove the flyweights.",
+        "verified": true,
+        "char_start": 1014,
+        "char_end": 1218,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the drive gear retaining nut (53) from the shaft and place the drive gear (46). bearing housing",
+      "source_number": 6,
+      "installs": [
+        "drive_gear_retaining",
+        "front_balance_weight_nut",
+        "end_of_the_shaft",
+        "fuel_pump_drive_gear",
+        "bearing_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 254,
+        "quote": "Remove the drive gear retaining nut (53) from the shaft and place the drive gear (46). bearing housing",
+        "verified": true,
+        "char_start": 1222,
+        "char_end": 1324,
+        "bbox": [
+          88.32000000000005,
+          630.209,
+          328.3095,
+          651.251
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

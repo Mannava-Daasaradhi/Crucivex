@@ -1,0 +1,650 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.244 - Insert the plunger and spring assembly in...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_assembly",
+      "name": "Spring assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_assembly",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idle",
+      "name": "Idle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idle",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_screw",
+      "name": "Speed adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_screw",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_plunger",
+      "name": "End of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_plunger",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idle_speed_adjusting",
+      "name": "Idle speed adjusting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idle_speed_adjusting",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "low_speed_spring_cap",
+      "name": "Low-speed spring cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_spring_cap",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the spring cap in one end of the low speed spring and the small end of the spring seat in the other end of the spring.",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1624,
+        "bbox": [
+          327.6,
+          192.68899999999996,
+          568.2558,
+          224.54599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "low_speed_spring",
+      "name": "Low speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_spring",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the spring cap in one end of the low speed spring and the small end of the spring seat in the other end of the spring.",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1624,
+        "bbox": [
+          327.6,
+          192.68899999999996,
+          568.2558,
+          224.54599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the spring cap in one end of the low speed spring and the small end of the spring seat in the other end of the spring.",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1624,
+        "bbox": [
+          327.6,
+          192.68899999999996,
+          568.2558,
+          224.54599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the spring cap in one end of the low speed spring and the small end of the spring seat in the other end of the spring.",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1624,
+        "bbox": [
+          327.6,
+          192.68899999999996,
+          568.2558,
+          224.54599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the spring seat end of the spring. cap and seat assembly in the spring plunger, with the spring seat against the shoulder on the idle screw.",
+        "verified": true,
+        "char_start": 1628,
+        "char_end": 1775,
+        "bbox": [
+          327.8400000000001,
+          236.88799999999992,
+          567.5168400000001,
+          267.76599999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the spring seat end of the spring. cap and seat assembly in the spring plunger, with the spring seat against the shoulder on the idle screw.",
+        "verified": true,
+        "char_start": 1628,
+        "char_end": 1775,
+        "bbox": [
+          327.8400000000001,
+          236.88799999999992,
+          567.5168400000001,
+          267.76599999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "high_speed_spring_plunger",
+      "name": "High speed spring plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_plunger",
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the spring seat end of the spring. cap and seat assembly in the spring plunger, with the spring seat against the shoulder on the idle screw.",
+        "verified": true,
+        "char_start": 1628,
+        "char_end": 1775,
+        "bbox": [
+          327.8400000000001,
+          236.88799999999992,
+          567.5168400000001,
+          267.76599999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spring_housing_gasket",
+      "name": "Spring housing gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_housing_gasket",
+      "provenance": {
+        "page": 244,
+        "quote": "Place the spring housing gasket over the springs and against the shoulder on the spring retainer lock nut. Then thread the spring retainer in the governor housing. with the spring cap against the gap adjusung screw in the operating shaft...",
+        "verified": true,
+        "char_start": 1779,
+        "char_end": 2045,
+        "bbox": [
+          327.60000000000025,
+          278.96899999999994,
+          567.5725200000003,
+          343.57199999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 244,
+        "quote": "Place the spring housing gasket over the springs and against the shoulder on the spring retainer lock nut. Then thread the spring retainer in the governor housing. with the spring cap against the gap adjusung screw in the operating shaft...",
+        "verified": true,
+        "char_start": 1779,
+        "char_end": 2045,
+        "bbox": [
+          327.60000000000025,
+          278.96899999999994,
+          567.5725200000003,
+          343.57199999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 244,
+        "quote": "Place the spring housing gasket over the springs and against the shoulder on the spring retainer lock nut. Then thread the spring retainer in the governor housing. with the spring cap against the gap adjusung screw in the operating shaft...",
+        "verified": true,
+        "char_start": 1779,
+        "char_end": 2045,
+        "bbox": [
+          327.60000000000025,
+          278.96899999999994,
+          567.5725200000003,
+          343.57199999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 244,
+        "quote": "Place the spring housing gasket over the springs and against the shoulder on the spring retainer lock nut. Then thread the spring retainer in the governor housing. with the spring cap against the gap adjusung screw in the operating shaft...",
+        "verified": true,
+        "char_start": 1779,
+        "char_end": 2045,
+        "bbox": [
+          327.60000000000025,
+          278.96899999999994,
+          567.5725200000003,
+          343.57199999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "operating_shaft_lever",
+      "name": "Operating shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "operating_shaft_lever",
+      "provenance": {
+        "page": 244,
+        "quote": "Place the spring housing gasket over the springs and against the shoulder on the spring retainer lock nut. Then thread the spring retainer in the governor housing. with the spring cap against the gap adjusung screw in the operating shaft...",
+        "verified": true,
+        "char_start": 1779,
+        "char_end": 2045,
+        "bbox": [
+          327.60000000000025,
+          278.96899999999994,
+          567.5725200000003,
+          343.57199999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_spring_housing",
+      "name": "Governor spring housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_spring_housing",
+      "provenance": {
+        "page": 244,
+        "quote": "The spring housing may be installed after the engine tune-up (Section. 14) is performed.",
+        "verified": true,
+        "char_start": 2049,
+        "char_end": 2137,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+      "source_number": 2,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "area_of_the_plunger",
+        "spring_assembly",
+        "high_speed_spring_retainer",
+        "bolt_thread",
+        "idle",
+        "speed_adjusting_screw",
+        "end_of_the_plunger",
+        "front_balance_weight_nut",
+        "idle_speed_adjusting",
+        "of_the_buffer_screw"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the plunger and spring assembly in the spring retainer. Thread the idle speed adjusting screw approximately 1/2 \" into the tapped end of the plunger. Thread the jock nut on the idle speed adjusting screw.",
+        "verified": true,
+        "char_start": 1284,
+        "char_end": 1495,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Insert the spring cap in one end of the low speed spring and the small end of the spring seat in the other end of the spring.",
+      "source_number": 3,
+      "installs": [
+        "low_speed_spring_cap",
+        "low_speed_spring",
+        "insert_remover_valve_seat",
+        "end_of_the_spring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the spring cap in one end of the low speed spring and the small end of the spring seat in the other end of the spring.",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1624,
+        "bbox": [
+          327.6,
+          192.68899999999996,
+          568.2558,
+          224.54599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Insert the spring seat end of the spring. cap and seat assembly in the spring plunger, with the spring seat against the shoulder on the idle screw.",
+      "source_number": 4,
+      "installs": [
+        "drive_spring_seat",
+        "clean_shipping_cap",
+        "high_speed_spring_plunger"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Insert the spring seat end of the spring. cap and seat assembly in the spring plunger, with the spring seat against the shoulder on the idle screw.",
+        "verified": true,
+        "char_start": 1628,
+        "char_end": 1775,
+        "bbox": [
+          327.8400000000001,
+          236.88799999999992,
+          567.5168400000001,
+          267.76599999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Place the spring housing gasket over the springs and against the shoulder on the spring retainer lock nut. Then thread the spring retainer in the governor housing. with the spring cap against the gap adjusung screw in the operating shaft lever. Tighten the lock nut,",
+      "source_number": 5,
+      "installs": [
+        "spring_housing_gasket",
+        "bearing_lock_nut",
+        "drive_shaft_retainer",
+        "disassemble_governor_housing",
+        "operating_shaft_lever"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Place the spring housing gasket over the springs and against the shoulder on the spring retainer lock nut. Then thread the spring retainer in the governor housing. with the spring cap against the gap adjusung screw in the operating shaft...",
+        "verified": true,
+        "char_start": 1779,
+        "char_end": 2045,
+        "bbox": [
+          327.60000000000025,
+          278.96899999999994,
+          567.5725200000003,
+          343.57199999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "The spring housing may be installed after the engine tune-up (Section. 14) is performed.",
+      "source_number": 6,
+      "installs": [
+        "governor_spring_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "The spring housing may be installed after the engine tune-up (Section. 14) is performed.",
+        "verified": true,
+        "char_start": 2049,
+        "char_end": 2137,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

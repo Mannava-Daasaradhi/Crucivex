@@ -1,0 +1,601 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.376 - The blower rotors, when properly positioned in...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_rotor",
+      "name": "Blower rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_rotor",
+      "provenance": {
+        "page": 376,
+        "quote": "The blower rotors, when properly positioned in the housing, run with a slight clearance between the lobes. This clearance may be varied by moving one of the helical gears in or out on the shaft relative to the other gear.",
+        "verified": true,
+        "char_start": 1449,
+        "char_end": 1670,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 376,
+        "quote": "The blower rotors, when properly positioned in the housing, run with a slight clearance between the lobes. This clearance may be varied by moving one of the helical gears in or out on the shaft relative to the other gear.",
+        "verified": true,
+        "char_start": 1449,
+        "char_end": 1670,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_lobe",
+      "name": "Blower the lobe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_lobe",
+      "provenance": {
+        "page": 376,
+        "quote": "The blower rotors, when properly positioned in the housing, run with a slight clearance between the lobes. This clearance may be varied by moving one of the helical gears in or out on the shaft relative to the other gear.",
+        "verified": true,
+        "char_start": 1449,
+        "char_end": 1670,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 376,
+        "quote": "The blower rotors, when properly positioned in the housing, run with a slight clearance between the lobes. This clearance may be varied by moving one of the helical gears in or out on the shaft relative to the other gear.",
+        "verified": true,
+        "char_start": 1449,
+        "char_end": 1670,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 376,
+        "quote": "The blower rotors, when properly positioned in the housing, run with a slight clearance between the lobes. This clearance may be varied by moving one of the helical gears in or out on the shaft relative to the other gear.",
+        "verified": true,
+        "char_start": 1449,
+        "char_end": 1670,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_adjusted_relative",
+      "name": "Valve adjusted relative",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_adjusted_relative",
+      "provenance": {
+        "page": 376,
+        "quote": "The blower rotors, when properly positioned in the housing, run with a slight clearance between the lobes. This clearance may be varied by moving one of the helical gears in or out on the shaft relative to the other gear.",
+        "verified": true,
+        "char_start": 1449,
+        "char_end": 1670,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "helix",
+      "name": "Helix",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "helix",
+      "provenance": {
+        "page": 376,
+        "quote": "If the left-hand helix gear is moved out, the right- hand helix rotor will turn clockwise when viewed from the gear end. If the right-hand helix gear is moved out, the left-hand helix rotor will turn counterclockwise when viewed from the...",
+        "verified": true,
+        "char_start": 1674,
+        "char_end": 2034,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "left_hand_helix_rotor",
+      "name": "Left-hand helix rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "left_hand_helix_rotor",
+      "provenance": {
+        "page": 376,
+        "quote": "If the left-hand helix gear is moved out, the right- hand helix rotor will turn clockwise when viewed from the gear end. If the right-hand helix gear is moved out, the left-hand helix rotor will turn counterclockwise when viewed from the...",
+        "verified": true,
+        "char_start": 1674,
+        "char_end": 2034,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 376,
+        "quote": "If the left-hand helix gear is moved out, the right- hand helix rotor will turn clockwise when viewed from the gear end. If the right-hand helix gear is moved out, the left-hand helix rotor will turn counterclockwise when viewed from the...",
+        "verified": true,
+        "char_start": 1674,
+        "char_end": 2034,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 376,
+        "quote": "Moving the gears out or in on the rotor shafts is accomphshed by adding or removing shims between the gears and the bearings.",
+        "verified": true,
+        "char_start": 2038,
+        "char_end": 2163,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 376,
+        "quote": "Moving the gears out or in on the rotor shafts is accomphshed by adding or removing shims between the gears and the bearings.",
+        "verified": true,
+        "char_start": 2038,
+        "char_end": 2163,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "feeler_gage",
+      "name": "Feeler gage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "feeler_gage",
+      "provenance": {
+        "page": 376,
+        "quote": "The clearance between the rotor lobes may be checked with 1/2 \" wide feeler gages in the manner shown in Fig. 18. When measuring clearances of more than .005 \u2019\u2019, laminated feeler gages that are made up of .002 \", .003 \" or .005 \" feeler ...",
+        "verified": true,
+        "char_start": 2167,
+        "char_end": 2550,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 376,
+        "quote": "The clearance between the rotor lobes may be checked with 1/2 \" wide feeler gages in the manner shown in Fig. 18. When measuring clearances of more than .005 \u2019\u2019, laminated feeler gages that are made up of .002 \", .003 \" or .005 \" feeler ...",
+        "verified": true,
+        "char_start": 2167,
+        "char_end": 2550,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "more",
+      "name": "More",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "more",
+      "provenance": {
+        "page": 376,
+        "quote": "The clearance between the rotor lobes may be checked with 1/2 \" wide feeler gages in the manner shown in Fig. 18. When measuring clearances of more than .005 \u2019\u2019, laminated feeler gages that are made up of .002 \", .003 \" or .005 \" feeler ...",
+        "verified": true,
+        "char_start": 2167,
+        "char_end": 2550,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 376,
+        "quote": "The clearance between the rotor lobes may be checked with 1/2 \" wide feeler gages in the manner shown in Fig. 18. When measuring clearances of more than .005 \u2019\u2019, laminated feeler gages that are made up of .002 \", .003 \" or .005 \" feeler ...",
+        "verified": true,
+        "char_start": 2167,
+        "char_end": 2550,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_cam",
+      "name": "Blower drive cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_cam",
+      "provenance": {
+        "page": 376,
+        "quote": "A specially designed feeler gage set J 1698-02 for the blower clearance operation is available. Time the rotors as follows: a. Time the rotors to pass an .008 \u201d feeler gage at the closest point between the trailing edge of the right-hand...",
+        "verified": true,
+        "char_start": 2554,
+        "char_end": 2985,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 377,
+        "quote": "After determining the amount one rotor must be revolved to obtain the proper clearance, add shims back of the proper gear as shown in Fig. 20 to produce the desired resuit. When more or less shims are required, both gears must be removed...",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 617,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_rotor_gear",
+      "name": "Blower rotor gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_rotor_gear",
+      "provenance": {
+        "page": 377,
+        "quote": "After determining the amount one rotor must be revolved to obtain the proper clearance, add shims back of the proper gear as shown in Fig. 20 to produce the desired resuit. When more or less shims are required, both gears must be removed...",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 617,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 377,
+        "quote": "Install the required thickness of shims back of the proper gear and next to the bearing inner race and reinstall both. gears. Recheck the clearances between the rotor lobes.",
+        "verified": true,
+        "char_start": 621,
+        "char_end": 794,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 377,
+        "quote": "Determine the minimum clearances at points \u201c\u0410\u201d and *B\" shown in Fig. 19. Insert the feeler gages, as shown in Fig. 21, between the end plates and the ends of the rotors. This operation must be performed at the ends of each lobe, making 1...",
+        "verified": true,
+        "char_start": 798,
+        "char_end": 1102,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 377,
+        "quote": "Determine the minimum clearances at points \u201c\u0410\u201d and *B\" shown in Fig. 19. Insert the feeler gages, as shown in Fig. 21, between the end plates and the ends of the rotors. This operation must be performed at the ends of each lobe, making 1...",
+        "verified": true,
+        "char_start": 798,
+        "char_end": 1102,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shaft_blower_housing",
+      "name": "Rotor shaft blower housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shaft_blower_housing",
+      "provenance": {
+        "page": 377,
+        "quote": "Check the clearance between each rotor lobe and the blower housing at both the inlet and outlet side -- 12 measurements in all. Refer to Fig. 19 for the minimum clearances.",
+        "verified": true,
+        "char_start": 1106,
+        "char_end": 1278,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "The blower rotors, when properly positioned in the housing, run with a slight clearance between the lobes. This clearance may be varied by moving one of the helical gears in or out on the shaft relative to the other gear.",
+      "source_number": 1,
+      "installs": [
+        "blower_rotor",
+        "of_the_flywheel_housing",
+        "blower_the_lobe",
+        "fuel_pump_drive_gear",
+        "end_of_the_shaft",
+        "valve_adjusted_relative"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 376,
+        "quote": "The blower rotors, when properly positioned in the housing, run with a slight clearance between the lobes. This clearance may be varied by moving one of the helical gears in or out on the shaft relative to the other gear.",
+        "verified": true,
+        "char_start": 1449,
+        "char_end": 1670,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "If the left-hand helix gear is moved out, the right- hand helix rotor will turn clockwise when viewed from the gear end. If the right-hand helix gear is moved out, the left-hand helix rotor will turn counterclockwise when viewed from the gear end. This positioning of the gear, to obtain the proper clearance between the rotor lobes, is known as blower timing.",
+      "source_number": 2,
+      "installs": [
+        "helix",
+        "left_hand_helix_rotor",
+        "assembly_examine_the_blower"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 376,
+        "quote": "If the left-hand helix gear is moved out, the right- hand helix rotor will turn clockwise when viewed from the gear end. If the right-hand helix gear is moved out, the left-hand helix rotor will turn counterclockwise when viewed from the...",
+        "verified": true,
+        "char_start": 1674,
+        "char_end": 2034,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Moving the gears out or in on the rotor shafts is accomphshed by adding or removing shims between the gears and the bearings.",
+      "source_number": 3,
+      "installs": [
+        "rotor_shim",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 376,
+        "quote": "Moving the gears out or in on the rotor shafts is accomphshed by adding or removing shims between the gears and the bearings.",
+        "verified": true,
+        "char_start": 2038,
+        "char_end": 2163,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "The clearance between the rotor lobes may be checked with 1/2 \" wide feeler gages in the manner shown in Fig. 18. When measuring clearances of more than .005 \u2019\u2019, laminated feeler gages that are made up of .002 \", .003 \" or .005 \" feeler stock are \u0442\u043e\u0433\u0435 practical and suitable than a single feeler gage. Clearances should be measured from both the inlet and outlet sides of the blower.",
+      "source_number": 4,
+      "installs": [
+        "feeler_gage",
+        "nut_securing_fig",
+        "more",
+        "fuel_oil_inlet"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 376,
+        "quote": "The clearance between the rotor lobes may be checked with 1/2 \" wide feeler gages in the manner shown in Fig. 18. When measuring clearances of more than .005 \u2019\u2019, laminated feeler gages that are made up of .002 \", .003 \" or .005 \" feeler ...",
+        "verified": true,
+        "char_start": 2167,
+        "char_end": 2550,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "A specially designed feeler gage set J 1698-02 for the blower clearance operation is available. Time the rotors as follows: a. Time the rotors to pass an .008 \u201d feeler gage at the closest point between the trailing edge of the right-hand helix rotor and the leading edge of the left-hand helix rotor (\u201c\u0421\u0421\u201d clearance) measured from both the inlet and outlet sides as shown in Figs. 18 and 21. Fig. 22 - Inserting Blower Drive Cam in",
+      "source_number": 5,
+      "installs": [
+        "blower_drive_cam"
+      ],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 376,
+        "quote": "A specially designed feeler gage set J 1698-02 for the blower clearance operation is available. Time the rotors as follows: a. Time the rotors to pass an .008 \u201d feeler gage at the closest point between the trailing edge of the right-hand...",
+        "verified": true,
+        "char_start": 2554,
+        "char_end": 2985,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "After determining the amount one rotor must be revolved to obtain the proper clearance, add shims back of the proper gear as shown in Fig. 20 to produce the desired resuit. When more or less shims are required, both gears must be removed from the rotors. Placing a .003 \u201d shim in back of a rotor gear will revolve the rotor .001 \"'.",
+      "source_number": 6,
+      "installs": [
+        "of_the_required",
+        "blower_rotor_gear"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 377,
+        "quote": "After determining the amount one rotor must be revolved to obtain the proper clearance, add shims back of the proper gear as shown in Fig. 20 to produce the desired resuit. When more or less shims are required, both gears must be removed...",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 617,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Install the required thickness of shims back of the proper gear and next to the bearing inner race and reinstall both. gears. Recheck the clearances between the rotor lobes.",
+      "source_number": 7,
+      "installs": [
+        "next"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 377,
+        "quote": "Install the required thickness of shims back of the proper gear and next to the bearing inner race and reinstall both. gears. Recheck the clearances between the rotor lobes.",
+        "verified": true,
+        "char_start": 621,
+        "char_end": 794,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Determine the minimum clearances at points \u201c\u0410\u201d and *B\" shown in Fig. 19. Insert the feeler gages, as shown in Fig. 21, between the end plates and the ends of the rotors. This operation must be performed at the ends of each lobe, making 12 measurements in all. Refer to Fig. 19 for the minimum clearances.",
+      "source_number": 8,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 377,
+        "quote": "Determine the minimum clearances at points \u201c\u0410\u201d and *B\" shown in Fig. 19. Insert the feeler gages, as shown in Fig. 21, between the end plates and the ends of the rotors. This operation must be performed at the ends of each lobe, making 1...",
+        "verified": true,
+        "char_start": 798,
+        "char_end": 1102,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Check the clearance between each rotor lobe and the blower housing at both the inlet and outlet side -- 12 measurements in all. Refer to Fig. 19 for the minimum clearances.",
+      "source_number": 9,
+      "installs": [
+        "rotor_shaft_blower_housing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 377,
+        "quote": "Check the clearance between each rotor lobe and the blower housing at both the inlet and outlet side -- 12 measurements in all. Refer to Fig. 19 for the minimum clearances.",
+        "verified": true,
+        "char_start": 1106,
+        "char_end": 1278,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

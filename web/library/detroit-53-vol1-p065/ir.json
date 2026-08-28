@@ -1,0 +1,722 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.119 - Clean and remove the valve rocker cover",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 119,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 1367,
+        "char_end": 1407,
+        "bbox": [
+          60.96,
+          542.086,
+          241.46448,
+          550.086
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 119,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 1367,
+        "char_end": 1407,
+        "bbox": [
+          60.96,
+          542.086,
+          241.46448,
+          550.086
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 119,
+        "quote": "Remove the injector as outlined in Section 2.1 or 2.1.1.",
+        "verified": true,
+        "char_start": 1456,
+        "char_end": 1512,
+        "bbox": [
+          50.39999999999995,
+          583.52,
+          293.04959999999994,
+          604.93
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 119,
+        "quote": "Remove the injector as outlined in Section 2.1 or 2.1.1.",
+        "verified": true,
+        "char_start": 1456,
+        "char_end": 1512,
+        "bbox": [
+          50.39999999999995,
+          583.52,
+          293.04959999999994,
+          604.93
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 119,
+        "quote": "Carefully slide a rod. approximately 12\" long, through the injector tube until the end of the rod rests on top of the piston. Place the throttle in the no-fuel position. Then, turn the crankshaft slowly in the direction of engine rotatio...",
+        "verified": true,
+        "char_start": 1516,
+        "char_end": 1919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 119,
+        "quote": "Carefully slide a rod. approximately 12\" long, through the injector tube until the end of the rod rests on top of the piston. Place the throttle in the no-fuel position. Then, turn the crankshaft slowly in the direction of engine rotatio...",
+        "verified": true,
+        "char_start": 1516,
+        "char_end": 1919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 119,
+        "quote": "Carefully slide a rod. approximately 12\" long, through the injector tube until the end of the rod rests on top of the piston. Place the throttle in the no-fuel position. Then, turn the crankshaft slowly in the direction of engine rotatio...",
+        "verified": true,
+        "char_start": 1516,
+        "char_end": 1919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle",
+      "name": "Throttle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle",
+      "provenance": {
+        "page": 119,
+        "quote": "Carefully slide a rod. approximately 12\" long, through the injector tube until the end of the rod rests on top of the piston. Place the throttle in the no-fuel position. Then, turn the crankshaft slowly in the direction of engine rotatio...",
+        "verified": true,
+        "char_start": 1516,
+        "char_end": 1919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 119,
+        "quote": "Carefully slide a rod. approximately 12\" long, through the injector tube until the end of the rod rests on top of the piston. Place the throttle in the no-fuel position. Then, turn the crankshaft slowly in the direction of engine rotatio...",
+        "verified": true,
+        "char_start": 1516,
+        "char_end": 1919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 119,
+        "quote": "Carefully slide a rod. approximately 12\" long, through the injector tube until the end of the rod rests on top of the piston. Place the throttle in the no-fuel position. Then, turn the crankshaft slowly in the direction of engine rotatio...",
+        "verified": true,
+        "char_start": 1516,
+        "char_end": 1919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_bearing",
+      "name": "Drive gear bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_bearing",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_hub",
+      "name": "Idler gear hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_hub",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_accessory",
+      "name": "Of the accessory",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_accessory",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "main",
+      "name": "Main",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "suitable_pointer",
+      "name": "Suitable pointer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "suitable_pointer",
+      "provenance": {
+        "page": 119,
+        "quote": "Attach a suitable pointer to the engine Jower front cover. The outer end of the pointer should extend out over the top of the crankshaft puiley.",
+        "verified": true,
+        "char_start": 2849,
+        "char_end": 2993,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover",
+      "name": "Engine front cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover",
+      "provenance": {
+        "page": 119,
+        "quote": "Attach a suitable pointer to the engine Jower front cover. The outer end of the pointer should extend out over the top of the crankshaft puiley.",
+        "verified": true,
+        "char_start": 2849,
+        "char_end": 2993,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "just",
+      "name": "Just",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "just",
+      "provenance": {
+        "page": 119,
+        "quote": "Turn the crankshaft slowly, in the direction of engine rotation, until the indicator hand just stops moving.",
+        "verified": true,
+        "char_start": 2997,
+        "char_end": 3105,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "standard",
+      "name": "Standard",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "standard",
+      "provenance": {
+        "page": 119,
+        "quote": "Continue to turn the crankshaft, in the direction of rotation, until the indicator starts to move again. Now set the indicator on zero and continue to turn the crankshaft until the indicator reading is 010\u2019. *INDICATOR READING \u0410 R e t o ...",
+        "verified": true,
+        "char_start": 3109,
+        "char_end": 3412,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clean and remove the valve rocker cover.",
+      "source_number": 1,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "valve_rocker_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 1367,
+        "char_end": 1407,
+        "bbox": [
+          60.96,
+          542.086,
+          241.46448,
+          550.086
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Select any cylinder for the timing check.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "Select any cylinder for the timing check.",
+        "verified": true,
+        "char_start": 1411,
+        "char_end": 1452,
+        "bbox": [
+          60.720000000000006,
+          561.6969999999999,
+          236.64540000000005,
+          571.6969999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the injector as outlined in Section 2.1 or 2.1.1.",
+      "source_number": 3,
+      "installs": [
+        "end_of_the_injector",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "Remove the injector as outlined in Section 2.1 or 2.1.1.",
+        "verified": true,
+        "char_start": 1456,
+        "char_end": 1512,
+        "bbox": [
+          50.39999999999995,
+          583.52,
+          293.04959999999994,
+          604.93
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Carefully slide a rod. approximately 12\" long, through the injector tube until the end of the rod rests on top of the piston. Place the throttle in the no-fuel position. Then, turn the crankshaft slowly in the direction of engine rotation. Stop when the rod reaches the end of its upward travel. Remove the rod and turn the crankshaft. opposite the direction of rotation, between 1/16 and 1/8 of a turn.",
+      "source_number": 4,
+      "installs": [
+        "bearing_pilot_rod",
+        "end_of_each_tube",
+        "of_the_selected_piston",
+        "throttle",
+        "halve_of_the_crankshaft",
+        "solid_stop"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "Carefully slide a rod. approximately 12\" long, through the injector tube until the end of the rod rests on top of the piston. Place the throttle in the no-fuel position. Then, turn the crankshaft slowly in the direction of engine rotatio...",
+        "verified": true,
+        "char_start": 1516,
+        "char_end": 1919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the gear hub support. The idler gear bearing and the accessory (fuel pump) drive gear on a 6V or 8V engine is lubricated by oil directly from the cylinder block main oil gallery to the bearing hubs.",
+      "source_number": 5,
+      "installs": [
+        "idler_gear",
+        "bearing_the_end_bearing",
+        "assembly_examine_the_blower",
+        "drive_gear_bearing",
+        "tbe_lubricating_oil_line",
+        "of_the_block",
+        "idler_gear_hub",
+        "blower_drive_support",
+        "fuel_pump_drive_gear",
+        "of_the_accessory",
+        "fuel_pump",
+        "main",
+        "blower_drive_hub"
+      ],
+      "depends_on": [],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "Select a dial indicator with .001\u201d graduations and \u00e0 the idler gear bearing. The blower drive gear bearing on the four cylinder In-line engine is lubricated through an external pipe leading from the cylinder block majn oil gallery to the...",
+        "verified": true,
+        "char_start": 1923,
+        "char_end": 2355,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Mount the indicator over the injector tube. Check to be sure the indicator spindle extension is free in the injector tube and is free to travel at least one inch.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "Mount the indicator over the injector tube. Check to be sure the indicator spindle extension is free in the injector tube and is free to travel at least one inch.",
+        "verified": true,
+        "char_start": 2683,
+        "char_end": 2845,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Attach a suitable pointer to the engine Jower front cover. The outer end of the pointer should extend out over the top of the crankshaft puiley.",
+      "source_number": 7,
+      "installs": [
+        "suitable_pointer",
+        "engine_front_cover"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "Attach a suitable pointer to the engine Jower front cover. The outer end of the pointer should extend out over the top of the crankshaft puiley.",
+        "verified": true,
+        "char_start": 2849,
+        "char_end": 2993,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Turn the crankshaft slowly, in the direction of engine rotation, until the indicator hand just stops moving.",
+      "source_number": 8,
+      "installs": [
+        "just"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "Turn the crankshaft slowly, in the direction of engine rotation, until the indicator hand just stops moving.",
+        "verified": true,
+        "char_start": 2997,
+        "char_end": 3105,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Continue to turn the crankshaft, in the direction of rotation, until the indicator starts to move again. Now set the indicator on zero and continue to turn the crankshaft until the indicator reading is 010\u2019. *INDICATOR READING \u0410 R e t o r d e d Ad v a n c e d Engi ne Standard 1 - T o o t h 1- T o o t h",
+      "source_number": 9,
+      "installs": [
+        "standard"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 119,
+        "quote": "Continue to turn the crankshaft, in the direction of rotation, until the indicator starts to move again. Now set the indicator on zero and continue to turn the crankshaft until the indicator reading is 010\u2019. *INDICATOR READING \u0410 R e t o ...",
+        "verified": true,
+        "char_start": 3109,
+        "char_end": 3412,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

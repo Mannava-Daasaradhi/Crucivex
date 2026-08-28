@@ -1,0 +1,516 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.84 - Remove the belts from the crankshaft pulley",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "generator_drive_belt",
+      "name": "Generator drive belt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "generator_drive_belt",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the belts from the crankshaft pulley.",
+        "verified": true,
+        "char_start": 146,
+        "char_end": 190,
+        "bbox": [
+          93.84,
+          176.0429999999999,
+          289.2877,
+          186.0429999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the belts from the crankshaft pulley.",
+        "verified": true,
+        "char_start": 146,
+        "char_end": 190,
+        "bbox": [
+          93.84,
+          176.0429999999999,
+          289.2877,
+          186.0429999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_pulley_retaining",
+      "name": "Crankshaft pulley retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_pulley_retaining",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the crankshaft pulley retaining bolt and special washer.",
+        "verified": true,
+        "char_start": 194,
+        "char_end": 257,
+        "bbox": [
+          82.79999999999998,
+          207.36799999999994,
+          322.07529,
+          226.92099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the crankshaft pulley retaining bolt and special washer.",
+        "verified": true,
+        "char_start": 194,
+        "char_end": 257,
+        "bbox": [
+          82.79999999999998,
+          207.36799999999994,
+          322.07529,
+          226.92099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_washer",
+      "name": "Special washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_washer",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the crankshaft pulley retaining bolt and special washer.",
+        "verified": true,
+        "char_start": 194,
+        "char_end": 257,
+        "bbox": [
+          82.79999999999998,
+          207.36799999999994,
+          322.07529,
+          226.92099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rigid_type_pulley",
+      "name": "Rigid type pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rigid_type_pulley",
+      "provenance": {
+        "page": 84,
+        "quote": "If a rigid type pulley ts being removed from an In- line or 6V engine, install the pulley retaining bolt and puller J 4794-0] as shown in Fig. 1. Then force the Fig. 2 - Installing Crankshaft Pulley Using pulley off the crankshaft by tur...",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 84,
+        "quote": "If a rigid type pulley ts being removed from an In- line or 6V engine, install the pulley retaining bolt and puller J 4794-0] as shown in Fig. 1. Then force the Fig. 2 - Installing Crankshaft Pulley Using pulley off the crankshaft by tur...",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pulley_retaining_bolt",
+      "name": "Pulley retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pulley_retaining_bolt",
+      "provenance": {
+        "page": 84,
+        "quote": "If a rigid type pulley ts being removed from an In- line or 6V engine, install the pulley retaining bolt and puller J 4794-0] as shown in Fig. 1. Then force the Fig. 2 - Installing Crankshaft Pulley Using pulley off the crankshaft by tur...",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 84,
+        "quote": "If a rigid type pulley ts being removed from an In- line or 6V engine, install the pulley retaining bolt and puller J 4794-0] as shown in Fig. 1. Then force the Fig. 2 - Installing Crankshaft Pulley Using pulley off the crankshaft by tur...",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 84,
+        "quote": "If a rigid type pulley ts being removed from an In- line or 6V engine, install the pulley retaining bolt and puller J 4794-0] as shown in Fig. 1. Then force the Fig. 2 - Installing Crankshaft Pulley Using pulley off the crankshaft by tur...",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 84,
+        "quote": "If a rigid type pulley ts being removed from an In- line or 6V engine, install the pulley retaining bolt and puller J 4794-0] as shown in Fig. 1. Then force the Fig. 2 - Installing Crankshaft Pulley Using pulley off the crankshaft by tur...",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 84,
+        "quote": "If a rigid type pulley ts being removed from an In- line or 6V engine, install the pulley retaining bolt and puller J 4794-0] as shown in Fig. 1. Then force the Fig. 2 - Installing Crankshaft Pulley Using pulley off the crankshaft by tur...",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the outer and inner cones, if used. the front face of the pulley, use a two arm universal type puller. S. If a rubber mounted pulley with an internal thread is being removed from an 8V engine, use puller If a puller is required to...",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 1186,
+        "bbox": [
+          83.04000000000002,
+          317.48999999999995,
+          585.6784800000003,
+          400.77599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "inner_cone",
+      "name": "Inner cone",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner_cone",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the outer and inner cones, if used. the front face of the pulley, use a two arm universal type puller. S. If a rubber mounted pulley with an internal thread is being removed from an 8V engine, use puller If a puller is required to...",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 1186,
+        "bbox": [
+          83.04000000000002,
+          317.48999999999995,
+          585.6784800000003,
+          400.77599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the outer and inner cones, if used. the front face of the pulley, use a two arm universal type puller. S. If a rubber mounted pulley with an internal thread is being removed from an 8V engine, use puller If a puller is required to...",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 1186,
+        "bbox": [
+          83.04000000000002,
+          317.48999999999995,
+          585.6784800000003,
+          400.77599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the outer and inner cones, if used. the front face of the pulley, use a two arm universal type puller. S. If a rubber mounted pulley with an internal thread is being removed from an 8V engine, use puller If a puller is required to...",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 1186,
+        "bbox": [
+          83.04000000000002,
+          317.48999999999995,
+          585.6784800000003,
+          400.77599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the outer and inner cones, if used. the front face of the pulley, use a two arm universal type puller. S. If a rubber mounted pulley with an internal thread is being removed from an 8V engine, use puller If a puller is required to...",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 1186,
+        "bbox": [
+          83.04000000000002,
+          317.48999999999995,
+          585.6784800000003,
+          400.77599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the outer and inner cones, if used. the front face of the pulley, use a two arm universal type puller. S. If a rubber mounted pulley with an internal thread is being removed from an 8V engine, use puller If a puller is required to...",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 1186,
+        "bbox": [
+          83.04000000000002,
+          317.48999999999995,
+          585.6784800000003,
+          400.77599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the belts from the crankshaft pulley.",
+      "source_number": 1,
+      "installs": [
+        "generator_drive_belt",
+        "crankshaft_splined_crankshaft_pulley"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the belts from the crankshaft pulley.",
+        "verified": true,
+        "char_start": 146,
+        "char_end": 190,
+        "bbox": [
+          93.84,
+          176.0429999999999,
+          289.2877,
+          186.0429999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the crankshaft pulley retaining bolt and special washer.",
+      "source_number": 2,
+      "installs": [
+        "crankshaft_pulley_retaining",
+        "engine_front_cover_bolt",
+        "special_washer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the crankshaft pulley retaining bolt and special washer.",
+        "verified": true,
+        "char_start": 194,
+        "char_end": 257,
+        "bbox": [
+          82.79999999999998,
+          207.36799999999994,
+          322.07529,
+          226.92099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "If a rigid type pulley ts being removed from an In- line or 6V engine, install the pulley retaining bolt and puller J 4794-0] as shown in Fig. 1. Then force the Fig. 2 - Installing Crankshaft Pulley Using pulley off the crankshaft by turning the puller center screw \u0457\u043f. Installer J 7773 On pulleys that do not incorporate two tapped holes in",
+      "source_number": 3,
+      "installs": [
+        "rigid_type_pulley",
+        "tbe_lubricating_oil_line",
+        "pulley_retaining_bolt",
+        "nut_securing_fig",
+        "halve_of_the_crankshaft",
+        "of_the_buffer_screw",
+        "oil_seal_installer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "do not incorporate two tapped holes in",
+      "provenance": {
+        "page": 84,
+        "quote": "If a rigid type pulley ts being removed from an In- line or 6V engine, install the pulley retaining bolt and puller J 4794-0] as shown in Fig. 1. Then force the Fig. 2 - Installing Crankshaft Pulley Using pulley off the crankshaft by tur...",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the outer and inner cones, if used. the front face of the pulley, use a two arm universal type puller. S. If a rubber mounted pulley with an internal thread is being removed from an 8V engine, use puller If a puller is required to remove a rigid type pulley J 5356. To use the tool, screw the 2-1/2 \"-16 thread from an &V engine, use a universal type puller. Three into the pulley hub as far as possible with the center tapped holes are provided in the pulley to facilitate screw backed off. Then force the pulley off the removal. crankshaft by turning the center screw in.",
+      "source_number": 4,
+      "installs": [
+        "idler_gear_outer",
+        "inner_cone",
+        "bolt_thread",
+        "of_the_required",
+        "blower_drive_hub",
+        "of_the_oil_hole"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the outer and inner cones, if used. the front face of the pulley, use a two arm universal type puller. S. If a rubber mounted pulley with an internal thread is being removed from an 8V engine, use puller If a puller is required to...",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 1186,
+        "bbox": [
+          83.04000000000002,
+          317.48999999999995,
+          585.6784800000003,
+          400.77599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

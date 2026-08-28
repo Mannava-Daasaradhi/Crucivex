@@ -1,0 +1,175 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.20 - Lightly oil the O-ring",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "o_ring",
+      "name": "O-ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "o_ring",
+      "provenance": {
+        "page": 20,
+        "quote": "Lightly oil the O-ring.",
+        "verified": true,
+        "char_start": 120,
+        "char_end": 143,
+        "bbox": [
+          294.47999999999996,
+          93.29570000000012,
+          391.705867,
+          103.32903333333343
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_filter",
+      "name": "Oil filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_filter",
+      "provenance": {
+        "page": 20,
+        "quote": "Turn in the new oil filter until the sealing face is fitted against the O-ring 4, Use the filter wrench to turn in the oil filter an ad- ditional 1-1/4 of a turn or one turn.",
+        "verified": true,
+        "char_start": 147,
+        "char_end": 321,
+        "bbox": [
+          274.8,
+          108.98970000000008,
+          541.763202,
+          159.3691
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Lightly oil the O-ring.",
+      "source_number": 2,
+      "installs": [
+        "o_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 20,
+        "quote": "Lightly oil the O-ring.",
+        "verified": true,
+        "char_start": 120,
+        "char_end": 143,
+        "bbox": [
+          294.47999999999996,
+          93.29570000000012,
+          391.705867,
+          103.32903333333343
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Turn in the new oil filter until the sealing face is fitted against the O-ring 4, Use the filter wrench to turn in the oil filter an ad- ditional 1-1/4 of a turn or one turn.",
+      "source_number": 3,
+      "installs": [
+        "oil_filter"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 20,
+        "quote": "Turn in the new oil filter until the sealing face is fitted against the O-ring 4, Use the filter wrench to turn in the oil filter an ad- ditional 1-1/4 of a turn or one turn.",
+        "verified": true,
+        "char_start": 147,
+        "char_end": 321,
+        "bbox": [
+          274.8,
+          108.98970000000008,
+          541.763202,
+          159.3691
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Start the engine and check for oil leakage from the oil filter.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 20,
+        "quote": "Start the engine and check for oil leakage from the oil filter.",
+        "verified": true,
+        "char_start": 325,
+        "char_end": 388,
+        "bbox": [
+          294.2400000000001,
+          165.48979999999995,
+          539.601342,
+          187.44979999999998
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check the engine oil level and replenish to the spec- ified level if required. Disposable Cartridge Spin-on Type with Built-in",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 20,
+        "quote": "Check the engine oil level and replenish to the spec- ified level if required. Disposable Cartridge Spin-on Type with Built-in",
+        "verified": true,
+        "char_start": 392,
+        "char_end": 518,
+        "bbox": [
+          275.28,
+          193.58990000000006,
+          538.7284566666667,
+          340.4166666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.342 - Keep the air cleaner tight on the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "air_cleaner",
+      "name": "Air cleaner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_cleaner",
+      "provenance": {
+        "page": 342,
+        "quote": "Keep the air cleaner tight on the air intake pipe to the engine, it would be carried directly into the the engine. cylinders and, due to its abrasive properties, cause premature wear of the moving parts. Dirt, which is",
+        "verified": true,
+        "char_start": 814,
+        "char_end": 1032,
+        "bbox": [
+          88.31999999999991,
+          211.28699999999992,
+          595.1221999999999,
+          247.44999999999982
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 342,
+        "quote": "Keep the air cleaner tight on the air intake pipe to the engine, it would be carried directly into the the engine. cylinders and, due to its abrasive properties, cause premature wear of the moving parts. Dirt, which is",
+        "verified": true,
+        "char_start": 814,
+        "char_end": 1032,
+        "bbox": [
+          88.31999999999991,
+          211.28699999999992,
+          595.1221999999999,
+          247.44999999999982
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head_due",
+      "name": "Cylinder head due",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_due",
+      "provenance": {
+        "page": 342,
+        "quote": "Keep the air cleaner tight on the air intake pipe to the engine, it would be carried directly into the the engine. cylinders and, due to its abrasive properties, cause premature wear of the moving parts. Dirt, which is",
+        "verified": true,
+        "char_start": 814,
+        "char_end": 1032,
+        "bbox": [
+          88.31999999999991,
+          211.28699999999992,
+          595.1221999999999,
+          247.44999999999982
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "joint",
+      "name": "Joint",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "joint",
+      "provenance": {
+        "page": 342,
+        "quote": "Keep the air cleaner properly assembled so the allowed to build-up in the air cleaner passages, will joints are strictly oi] and air tight. eventually restrict the air supply to the engine and result in heavy carbon deposits on the valve...",
+        "verified": true,
+        "char_start": 1036,
+        "char_end": 1278,
+        "bbox": [
+          88.31999999999985,
+          243.20799999999997,
+          594.3243,
+          280.21099999999973
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "carbon_deposit",
+      "name": "Carbon deposit",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "carbon_deposit",
+      "provenance": {
+        "page": 342,
+        "quote": "Keep the air cleaner properly assembled so the allowed to build-up in the air cleaner passages, will joints are strictly oi] and air tight. eventually restrict the air supply to the engine and result in heavy carbon deposits on the valve...",
+        "verified": true,
+        "char_start": 1036,
+        "char_end": 1278,
+        "bbox": [
+          88.31999999999985,
+          243.20799999999997,
+          594.3243,
+          280.21099999999973
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 342,
+        "quote": "Keep the air cleaner properly assembled so the allowed to build-up in the air cleaner passages, will joints are strictly oi] and air tight. eventually restrict the air supply to the engine and result in heavy carbon deposits on the valve...",
+        "verified": true,
+        "char_start": 1036,
+        "char_end": 1278,
+        "bbox": [
+          88.31999999999985,
+          243.20799999999997,
+          594.3243,
+          280.21099999999973
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 342,
+        "quote": "Repair any damage to the air cleaner or related pistons due to incomplete combustion. The air cleaner parts immediately, sump must have a capacity large enough to retain the material separated from the air to permit operation",
+        "verified": true,
+        "char_start": 1282,
+        "char_end": 1507,
+        "bbox": [
+          88.31999999999991,
+          275.009,
+          592.9497,
+          313.0909999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "foreign_material",
+      "name": "Foreign material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "foreign_material",
+      "provenance": {
+        "page": 342,
+        "quote": "Repair any damage to the air cleaner or related pistons due to incomplete combustion. The air cleaner parts immediately, sump must have a capacity large enough to retain the material separated from the air to permit operation",
+        "verified": true,
+        "char_start": 1282,
+        "char_end": 1507,
+        "bbox": [
+          88.31999999999991,
+          275.009,
+          592.9497,
+          313.0909999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 342,
+        "quote": "Inspect and clean or replace the air cleaner element for a reasonable length of ume before cleaning is as operating conditions warrant. In certain dry type required. cleaners, it is possible to clean and reuse the element several times a...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1901,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_cleaner_element",
+      "name": "Air cleaner element",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_cleaner_element",
+      "provenance": {
+        "page": 342,
+        "quote": "Inspect and clean or replace the air cleaner element for a reasonable length of ume before cleaning is as operating conditions warrant. In certain dry type required. cleaners, it is possible to clean and reuse the element several times a...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1901,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 342,
+        "quote": "Inspect and clean or replace the air cleaner element for a reasonable length of ume before cleaning is as operating conditions warrant. In certain dry type required. cleaners, it is possible to clean and reuse the element several times a...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1901,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_inlet_damaged",
+      "name": "Air inlet damaged",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_inlet_damaged",
+      "provenance": {
+        "page": 342,
+        "quote": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit ...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 3279,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 342,
+        "quote": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit ...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 3279,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "loose",
+      "name": "Loose",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "loose",
+      "provenance": {
+        "page": 342,
+        "quote": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit ...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 3279,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "loose_connection",
+      "name": "Loose connection",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "loose_connection",
+      "provenance": {
+        "page": 342,
+        "quote": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit ...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 3279,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 342,
+        "quote": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit ...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 3279,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_screen",
+      "name": "Blower screen",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_screen",
+      "provenance": {
+        "page": 342,
+        "quote": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit ...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 3279,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 342,
+        "quote": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit ...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 3279,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 342,
+        "quote": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit ...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 3279,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "more",
+      "name": "More",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "more",
+      "provenance": {
+        "page": 342,
+        "quote": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit ...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 3279,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Keep the air cleaner tight on the air intake pipe to the engine, it would be carried directly into the the engine. cylinders and, due to its abrasive properties, cause premature wear of the moving parts. Dirt, which is",
+      "source_number": 1,
+      "installs": [
+        "air_cleaner",
+        "locknut_finger_tight",
+        "cylinder_head_due"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 342,
+        "quote": "Keep the air cleaner tight on the air intake pipe to the engine, it would be carried directly into the the engine. cylinders and, due to its abrasive properties, cause premature wear of the moving parts. Dirt, which is",
+        "verified": true,
+        "char_start": 814,
+        "char_end": 1032,
+        "bbox": [
+          88.31999999999991,
+          211.28699999999992,
+          595.1221999999999,
+          247.44999999999982
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Keep the air cleaner properly assembled so the allowed to build-up in the air cleaner passages, will joints are strictly oi] and air tight. eventually restrict the air supply to the engine and result in heavy carbon deposits on the valves and",
+      "source_number": 2,
+      "installs": [
+        "joint",
+        "carbon_deposit",
+        "engine_front_cover_valve"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 342,
+        "quote": "Keep the air cleaner properly assembled so the allowed to build-up in the air cleaner passages, will joints are strictly oi] and air tight. eventually restrict the air supply to the engine and result in heavy carbon deposits on the valve...",
+        "verified": true,
+        "char_start": 1036,
+        "char_end": 1278,
+        "bbox": [
+          88.31999999999985,
+          243.20799999999997,
+          594.3243,
+          280.21099999999973
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Repair any damage to the air cleaner or related pistons due to incomplete combustion. The air cleaner parts immediately, sump must have a capacity large enough to retain the material separated from the air to permit operation",
+      "source_number": 3,
+      "installs": [
+        "of_the_selected_piston",
+        "foreign_material"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 342,
+        "quote": "Repair any damage to the air cleaner or related pistons due to incomplete combustion. The air cleaner parts immediately, sump must have a capacity large enough to retain the material separated from the air to permit operation",
+        "verified": true,
+        "char_start": 1282,
+        "char_end": 1507,
+        "bbox": [
+          88.31999999999991,
+          275.009,
+          592.9497,
+          313.0909999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Inspect and clean or replace the air cleaner element for a reasonable length of ume before cleaning is as operating conditions warrant. In certain dry type required. cleaners, it is possible to clean and reuse the element several times as long as the paper is not ruptured in the process. In an oil bath type cleaner, keep the oil at the level indicated on the air cleaner sump. Overfilling",
+      "source_number": 4,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "air_cleaner_element",
+        "of_the_required"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 342,
+        "quote": "Inspect and clean or replace the air cleaner element for a reasonable length of ume before cleaning is as operating conditions warrant. In certain dry type required. cleaners, it is possible to clean and reuse the element several times a...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1901,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit dustladen air to completely by-pass the cleaner and enter the engine intake passages and the air box clean. directly, will lower the efficiency of the air cleaner. If the air cleaner is not serviced periodically, the engine 6. Where rubber hose is employed, cement it in place. will not receive a sufficient amount of clean air. Use new hose and hose clamps, if necessary, to obtain an air tight connection. No set rule for servicing an air cleaner can be given since it depends upon the type of air cleaner, the 7. Carefully inspect the entire air system periodically. condition of the air supply, and the type of Enough dust-laden air will pass through an almost application. An air cleaner operating in severe dust invisible crack or opening to eventually cause damage will require more frequent service than an air cleaner to an engine.",
+      "source_number": 5,
+      "installs": [
+        "air_inlet_damaged",
+        "head_gasket",
+        "loose",
+        "loose_connection",
+        "of_the_flywheel_housing",
+        "blower_screen",
+        "fuel_oil_inlet",
+        "hose_clamp",
+        "more"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 342,
+        "quote": "After servicing the air cleaner, remove the air inlet Damaged gaskets, loose hose connections or leaks in housing and clean accumulated dirt deposits from the blower screen and the inlet housing. Keep all air the duct work, which permit ...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 3279,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

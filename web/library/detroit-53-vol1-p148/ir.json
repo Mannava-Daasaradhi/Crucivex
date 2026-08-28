@@ -1,0 +1,1032 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.266 - Start the operaung shaft lever, with the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "upper_operaung_shaft",
+      "name": "Upper operaung shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_operaung_shaft",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the operaung shaft lever, with the pivot pin up. on the end of the shaft with the flat on the shaft registering with the flat in the lever bore. Use a sleeve 10 press the lever tight against the bearing. On the heavy-duty shaft. us...",
+        "verified": true,
+        "char_start": 2276,
+        "char_end": 2611,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the operaung shaft lever, with the pivot pin up. on the end of the shaft with the flat on the shaft registering with the flat in the lever bore. Use a sleeve 10 press the lever tight against the bearing. On the heavy-duty shaft. us...",
+        "verified": true,
+        "char_start": 2276,
+        "char_end": 2611,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the operaung shaft lever, with the pivot pin up. on the end of the shaft with the flat on the shaft registering with the flat in the lever bore. Use a sleeve 10 press the lever tight against the bearing. On the heavy-duty shaft. us...",
+        "verified": true,
+        "char_start": 2276,
+        "char_end": 2611,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the operaung shaft lever, with the pivot pin up. on the end of the shaft with the flat on the shaft registering with the flat in the lever bore. Use a sleeve 10 press the lever tight against the bearing. On the heavy-duty shaft. us...",
+        "verified": true,
+        "char_start": 2276,
+        "char_end": 2611,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the operaung shaft lever, with the pivot pin up. on the end of the shaft with the flat on the shaft registering with the flat in the lever bore. Use a sleeve 10 press the lever tight against the bearing. On the heavy-duty shaft. us...",
+        "verified": true,
+        "char_start": 2276,
+        "char_end": 2611,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the operaung shaft lever, with the pivot pin up. on the end of the shaft with the flat on the shaft registering with the flat in the lever bore. Use a sleeve 10 press the lever tight against the bearing. On the heavy-duty shaft. us...",
+        "verified": true,
+        "char_start": 2276,
+        "char_end": 2611,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the operaung shaft lever, with the pivot pin up. on the end of the shaft with the flat on the shaft registering with the flat in the lever bore. Use a sleeve 10 press the lever tight against the bearing. On the heavy-duty shaft. us...",
+        "verified": true,
+        "char_start": 2276,
+        "char_end": 2611,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the operaung shaft lever, with the pivot pin up. on the end of the shaft with the flat on the shaft registering with the flat in the lever bore. Use a sleeve 10 press the lever tight against the bearing. On the heavy-duty shaft. us...",
+        "verified": true,
+        "char_start": 2276,
+        "char_end": 2611,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 266,
+        "quote": "Insert the lever and shaft assembly through the top of the governor housing. On the heavy-duty governor. slide the 2.50\" long governor fork spacer on the shaft. Position the operating fork over the lower end of the shaft. with the finish...",
+        "verified": true,
+        "char_start": 2615,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 266,
+        "quote": "Insert the lever and shaft assembly through the top of the governor housing. On the heavy-duty governor. slide the 2.50\" long governor fork spacer on the shaft. Position the operating fork over the lower end of the shaft. with the finish...",
+        "verified": true,
+        "char_start": 2615,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 266,
+        "quote": "Insert the lever and shaft assembly through the top of the governor housing. On the heavy-duty governor. slide the 2.50\" long governor fork spacer on the shaft. Position the operating fork over the lower end of the shaft. with the finish...",
+        "verified": true,
+        "char_start": 2615,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 266,
+        "quote": "Insert the lever and shaft assembly through the top of the governor housing. On the heavy-duty governor. slide the 2.50\" long governor fork spacer on the shaft. Position the operating fork over the lower end of the shaft. with the finish...",
+        "verified": true,
+        "char_start": 2615,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fork_spacer",
+      "name": "Fork spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fork_spacer",
+      "provenance": {
+        "page": 266,
+        "quote": "Insert the lever and shaft assembly through the top of the governor housing. On the heavy-duty governor. slide the 2.50\" long governor fork spacer on the shaft. Position the operating fork over the lower end of the shaft. with the finish...",
+        "verified": true,
+        "char_start": 2615,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 266,
+        "quote": "Insert the lever and shaft assembly through the top of the governor housing. On the heavy-duty governor. slide the 2.50\" long governor fork spacer on the shaft. Position the operating fork over the lower end of the shaft. with the finish...",
+        "verified": true,
+        "char_start": 2615,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 266,
+        "quote": "Insert the lever and shaft assembly through the top of the governor housing. On the heavy-duty governor. slide the 2.50\" long governor fork spacer on the shaft. Position the operating fork over the lower end of the shaft. with the finish...",
+        "verified": true,
+        "char_start": 2615,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_governor",
+      "name": "Of the governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_governor",
+      "provenance": {
+        "page": 266,
+        "quote": "Insert the lever and shaft assembly through the top of the governor housing. On the heavy-duty governor. slide the 2.50\" long governor fork spacer on the shaft. Position the operating fork over the lower end of the shaft. with the finish...",
+        "verified": true,
+        "char_start": 2615,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 266,
+        "quote": "Support the operating shaft and governor housing on the bed of an arbor press with the upper end of the shaft resting on a steel block (Fig. 16). Align the flat in the fork with the flat on the shaft. then place a sleeve over the shaft a...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 266,
+        "quote": "Support the operating shaft and governor housing on the bed of an arbor press with the upper end of the shaft resting on a steel block (Fig. 16). Align the flat in the fork with the flat on the shaft. then place a sleeve over the shaft a...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 266,
+        "quote": "Support the operating shaft and governor housing on the bed of an arbor press with the upper end of the shaft resting on a steel block (Fig. 16). Align the flat in the fork with the flat on the shaft. then place a sleeve over the shaft a...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 266,
+        "quote": "Support the operating shaft and governor housing on the bed of an arbor press with the upper end of the shaft resting on a steel block (Fig. 16). Align the flat in the fork with the flat on the shaft. then place a sleeve over the shaft a...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 266,
+        "quote": "Support the operating shaft and governor housing on the bed of an arbor press with the upper end of the shaft resting on a steel block (Fig. 16). Align the flat in the fork with the flat on the shaft. then place a sleeve over the shaft a...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "set_screw",
+      "name": "Set screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "set_screw",
+      "provenance": {
+        "page": 266,
+        "quote": "Support the operating shaft and governor housing on the bed of an arbor press with the upper end of the shaft resting on a steel block (Fig. 16). Align the flat in the fork with the flat on the shaft. then place a sleeve over the shaft a...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 266,
+        "quote": "Support the operating shaft and governor housing on the bed of an arbor press with the upper end of the shaft resting on a steel block (Fig. 16). Align the flat in the fork with the flat on the shaft. then place a sleeve over the shaft a...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft_bearing",
+      "name": "Governor operating shaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft_bearing",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the lower operating shaft bearing, number side up. on the end of the shaft. Place a sleeve on the outer race and press the bearing against the shoulder in the housing.",
+        "verified": true,
+        "char_start": 3343,
+        "char_end": 3516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "outer_race",
+      "name": "Outer race",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outer_race",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the lower operating shaft bearing, number side up. on the end of the shaft. Place a sleeve on the outer race and press the bearing against the shoulder in the housing.",
+        "verified": true,
+        "char_start": 3343,
+        "char_end": 3516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the lower operating shaft bearing, number side up. on the end of the shaft. Place a sleeve on the outer race and press the bearing against the shoulder in the housing.",
+        "verified": true,
+        "char_start": 3343,
+        "char_end": 3516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 266,
+        "quote": "Start the lower operating shaft bearing, number side up. on the end of the shaft. Place a sleeve on the outer race and press the bearing against the shoulder in the housing.",
+        "verified": true,
+        "char_start": 3343,
+        "char_end": 3516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 266,
+        "quote": "Apply a good qualitv sealant around the edge of a new expansion plug and drive it securely in place in the housing. CAUTION: Do not break the housing.",
+        "verified": true,
+        "char_start": 3564,
+        "char_end": 3714,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "retaining_screw",
+      "name": "Retaining screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "retaining_screw",
+      "provenance": {
+        "page": 266,
+        "quote": "Secure the upper operating shaft bearing in place with a retaining screw and flat washer.",
+        "verified": true,
+        "char_start": 3718,
+        "char_end": 3807,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 266,
+        "quote": "Secure the upper operating shaft bearing in place with a retaining screw and flat washer.",
+        "verified": true,
+        "char_start": 3718,
+        "char_end": 3807,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the differential lever (Fig. 7) over the pivot pin in the operating shaft lever. Secure the lever with a washer and spring pin.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 136,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "operating_shaft_lever",
+      "name": "Operating shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "operating_shaft_lever",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the differential lever (Fig. 7) over the pivot pin in the operating shaft lever. Secure the lever with a washer and spring pin.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 136,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the differential lever (Fig. 7) over the pivot pin in the operating shaft lever. Secure the lever with a washer and spring pin.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 136,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_pin",
+      "name": "Spring pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_pin",
+      "provenance": {
+        "page": 267,
+        "quote": "Place the differential lever (Fig. 7) over the pivot pin in the operating shaft lever. Secure the lever with a washer and spring pin.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 136,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gap_adjusting_screw",
+      "name": "Gap adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gap_adjusting_screw",
+      "provenance": {
+        "page": 267,
+        "quote": "If previously removed. install the gap adjusting screw and lock nut in the tapped hole in the operating shaft lever.",
+        "verified": true,
+        "char_start": 141,
+        "char_end": 257,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 267,
+        "quote": "If previously removed. install the gap adjusting screw and lock nut in the tapped hole in the operating shaft lever.",
+        "verified": true,
+        "char_start": 141,
+        "char_end": 257,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 267,
+        "quote": "If previously removed. install the gap adjusting screw and lock nut in the tapped hole in the operating shaft lever.",
+        "verified": true,
+        "char_start": 141,
+        "char_end": 257,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_link_lever",
+      "name": "Control link lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_lever",
+      "provenance": {
+        "page": 267,
+        "quote": "Support the control link lever on a steel spacer as shown in Fig. 8. Start one bearing. number side up, in the lever. Insert the pilot end of installer J 8985 in the bearing and press the bearing in the lever. Reverse the lever and insta...",
+        "verified": true,
+        "char_start": 262,
+        "char_end": 540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 267,
+        "quote": "Support the control link lever on a steel spacer as shown in Fig. 8. Start one bearing. number side up, in the lever. Insert the pilot end of installer J 8985 in the bearing and press the bearing in the lever. Reverse the lever and insta...",
+        "verified": true,
+        "char_start": 262,
+        "char_end": 540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 267,
+        "quote": "Support the control link lever on a steel spacer as shown in Fig. 8. Start one bearing. number side up, in the lever. Insert the pilot end of installer J 8985 in the bearing and press the bearing in the lever. Reverse the lever and insta...",
+        "verified": true,
+        "char_start": 262,
+        "char_end": 540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing",
+      "name": "Needle bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing",
+      "provenance": {
+        "page": 267,
+        "quote": "Place a washer over the end of the control link lever pin in the governor housing. Pack the needle bearings with grease and place the lever. with the tapped ends of the link pin holes down. over the pin in the housing. Secure the lever w...",
+        "verified": true,
+        "char_start": 545,
+        "char_end": 810,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_link",
+      "name": "Connecting link",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_link",
+      "provenance": {
+        "page": 267,
+        "quote": "Place a washer over the end of the control link lever pin in the governor housing. Pack the needle bearings with grease and place the lever. with the tapped ends of the link pin holes down. over the pin in the housing. Secure the lever w...",
+        "verified": true,
+        "char_start": 545,
+        "char_end": 810,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "dowel_pin_hole",
+      "name": "Dowel pin hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dowel_pin_hole",
+      "provenance": {
+        "page": 267,
+        "quote": "Place a washer over the end of the control link lever pin in the governor housing. Pack the needle bearings with grease and place the lever. with the tapped ends of the link pin holes down. over the pin in the housing. Secure the lever w...",
+        "verified": true,
+        "char_start": 545,
+        "char_end": 810,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Start the operaung shaft lever, with the pivot pin up. on the end of the shaft with the flat on the shaft registering with the flat in the lever bore. Use a sleeve 10 press the lever tight against the bearing. On the heavy-duty shaft. use a rod to press the lever against the bearing until the lever is flush with the end of the shaft.",
+      "source_number": 2,
+      "installs": [
+        "upper_operaung_shaft",
+        "of_the_stop_lever",
+        "copper_plated_dowel_pin",
+        "end_of_the_shaft",
+        "flat",
+        "crankshaft_front_sleeve",
+        "locknut_finger_tight",
+        "bearing_pilot_rod"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "Start the operaung shaft lever, with the pivot pin up. on the end of the shaft with the flat on the shaft registering with the flat in the lever bore. Use a sleeve 10 press the lever tight against the bearing. On the heavy-duty shaft. us...",
+        "verified": true,
+        "char_start": 2276,
+        "char_end": 2611,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Insert the lever and shaft assembly through the top of the governor housing. On the heavy-duty governor. slide the 2.50\" long governor fork spacer on the shaft. Position the operating fork over the lower end of the shaft. with the finished cam surfaces facing toward the rear of the governor (toward the governor drive).",
+      "source_number": 3,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "drive_shaft_assembly",
+        "disassemble_governor_housing",
+        "blower_the_engine_governor",
+        "fork_spacer",
+        "governor_operating_fork",
+        "t_push_rod_cam",
+        "of_the_governor"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "Insert the lever and shaft assembly through the top of the governor housing. On the heavy-duty governor. slide the 2.50\" long governor fork spacer on the shaft. Position the operating fork over the lower end of the shaft. with the finish...",
+        "verified": true,
+        "char_start": 2615,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Support the operating shaft and governor housing on the bed of an arbor press with the upper end of the shaft resting on a steel block (Fig. 16). Align the flat in the fork with the flat on the shaft. then place a sleeve over the shaft and against the fork. Press the fork tight against the shoulder on the shaft or against the fork spacer. Install the set screw and lock screw, if used. 1n the fork.",
+      "source_number": 4,
+      "installs": [
+        "blower_drive_support",
+        "governor_operating_shaft",
+        "hammer_spring_scale_upper",
+        "of_the_block",
+        "nut_securing_fig",
+        "set_screw",
+        "of_the_buffer_screw"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "Support the operating shaft and governor housing on the bed of an arbor press with the upper end of the shaft resting on a steel block (Fig. 16). Align the flat in the fork with the flat on the shaft. then place a sleeve over the shaft a...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Start the lower operating shaft bearing, number side up. on the end of the shaft. Place a sleeve on the outer race and press the bearing against the shoulder in the housing.",
+      "source_number": 5,
+      "installs": [
+        "governor_operating_shaft_bearing",
+        "outer_race",
+        "bearing_the_end_bearing",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "Start the lower operating shaft bearing, number side up. on the end of the shaft. Place a sleeve on the outer race and press the bearing against the shoulder in the housing.",
+        "verified": true,
+        "char_start": 3343,
+        "char_end": 3516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Lubricate both bearings with engine oil.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "Lubricate both bearings with engine oil.",
+        "verified": true,
+        "char_start": 3520,
+        "char_end": 3560,
+        "bbox": [
+          363.84,
+          377.12999999999994,
+          536.9392,
+          387.12999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Apply a good qualitv sealant around the edge of a new expansion plug and drive it securely in place in the housing. CAUTION: Do not break the housing.",
+      "source_number": 7,
+      "installs": [
+        "edge_of_the_plug"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Do not break the housing.",
+      "provenance": {
+        "page": 266,
+        "quote": "Apply a good qualitv sealant around the edge of a new expansion plug and drive it securely in place in the housing. CAUTION: Do not break the housing.",
+        "verified": true,
+        "char_start": 3564,
+        "char_end": 3714,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Secure the upper operating shaft bearing in place with a retaining screw and flat washer.",
+      "source_number": 8,
+      "installs": [
+        "retaining_screw",
+        "flat_washer"
+      ],
+      "depends_on": [
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 266,
+        "quote": "Secure the upper operating shaft bearing in place with a retaining screw and flat washer.",
+        "verified": true,
+        "char_start": 3718,
+        "char_end": 3807,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Place the differential lever (Fig. 7) over the pivot pin in the operating shaft lever. Secure the lever with a washer and spring pin.",
+      "source_number": 9,
+      "installs": [
+        "governor_differential_lever",
+        "operating_shaft_lever",
+        "another_drive_flange_washer",
+        "spring_pin"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 267,
+        "quote": "Place the differential lever (Fig. 7) over the pivot pin in the operating shaft lever. Secure the lever with a washer and spring pin.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 136,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "If previously removed. install the gap adjusting screw and lock nut in the tapped hole in the operating shaft lever.",
+      "source_number": 10,
+      "installs": [
+        "gap_adjusting_screw",
+        "bearing_lock_nut",
+        "of_the_oil_hole"
+      ],
+      "depends_on": [
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 267,
+        "quote": "If previously removed. install the gap adjusting screw and lock nut in the tapped hole in the operating shaft lever.",
+        "verified": true,
+        "char_start": 141,
+        "char_end": 257,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Support the control link lever on a steel spacer as shown in Fig. 8. Start one bearing. number side up, in the lever. Insert the pilot end of installer J 8985 in the bearing and press the bearing in the lever. Reverse the lever and install the second bearing in the same manner.",
+      "source_number": 11,
+      "installs": [
+        "control_link_lever",
+        "drive_gear_spacer",
+        "oil_seal_installer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 267,
+        "quote": "Support the control link lever on a steel spacer as shown in Fig. 8. Start one bearing. number side up, in the lever. Insert the pilot end of installer J 8985 in the bearing and press the bearing in the lever. Reverse the lever and insta...",
+        "verified": true,
+        "char_start": 262,
+        "char_end": 540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Place a washer over the end of the control link lever pin in the governor housing. Pack the needle bearings with grease and place the lever. with the tapped ends of the link pin holes down. over the pin in the housing. Secure the lever with a washer and spring pin.",
+      "source_number": 12,
+      "installs": [
+        "needle_bearing",
+        "connecting_link",
+        "dowel_pin_hole"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04",
+        "s08",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 267,
+        "quote": "Place a washer over the end of the control link lever pin in the governor housing. Pack the needle bearings with grease and place the lever. with the tapped ends of the link pin holes down. over the pin in the housing. Secure the lever w...",
+        "verified": true,
+        "char_start": 545,
+        "char_end": 810,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Install the buffer screw and lock nut. leaving approximately .750\" of the screw extending from the governor housing. NOTE: The butler screw lock nut on some earlier governors was an integral part of the governor housing.",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The butler screw lock nut on some earlier governors was an integral part of the governor housing.",
+      "provenance": {
+        "page": 267,
+        "quote": "Install the buffer screw and lock nut. leaving approximately .750\" of the screw extending from the governor housing. NOTE: The butler screw lock nut on some earlier governors was an integral part of the governor housing.",
+        "verified": true,
+        "char_start": 815,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

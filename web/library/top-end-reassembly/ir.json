@@ -1,0 +1,424 @@
+{
+  "schema_version": "0.1.0",
+  "title": "top end reassembly",
+  "source_document": "top_end_reassembly.pdf",
+  "parts": [
+    {
+      "id": "intake_valve",
+      "name": "Intake valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "intake_valve",
+      "provenance": {
+        "page": 1,
+        "quote": "Lap the intake valve into its seat until a continuous grey band shows around the full circumference of the face.",
+        "verified": true,
+        "char_start": 14,
+        "char_end": 126,
+        "bbox": [
+          62.0,
+          104.78719999999998,
+          515.0336000000001,
+          129.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve",
+      "name": "Exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve",
+      "provenance": {
+        "page": 1,
+        "quote": "Lap the exhaust valve into its seat by the same method.",
+        "verified": true,
+        "char_start": 130,
+        "char_end": 185,
+        "bbox": [
+          72.6752,
+          140.58720000000005,
+          309.6032000000002,
+          150.18720000000008
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "valve_spring",
+      "name": "Valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_spring",
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the valve springs and retainers, compressing each spring to seat the keepers squarely.",
+        "verified": true,
+        "char_start": 189,
+        "char_end": 279,
+        "bbox": [
+          72.6752,
+          160.98720000000003,
+          454.7072000000001,
+          170.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "cylinder_barrel",
+      "name": "Cylinder barrel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_barrel",
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the cylinder barrel to the crankcase deck if it was disturbed.",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 367,
+        "bbox": [
+          72.6752,
+          207.78719999999998,
+          337.8464000000002,
+          217.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 1,
+        "quote": "Place a new cylinder head gasket on the deck. CAUTION: never reuse a gasket that has been compressed.",
+        "verified": true,
+        "char_start": 371,
+        "char_end": 472,
+        "bbox": [
+          72.6752,
+          228.18719999999996,
+          529.9616000000002,
+          237.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "head_bolt",
+      "name": "Cylinder head bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_bolt",
+      "provenance": {
+        "page": 1,
+        "quote": "Tighten the cylinder head bolts to 24 N.m in a crossing pattern.",
+        "verified": true,
+        "char_start": 547,
+        "char_end": 611,
+        "bbox": [
+          72.6752,
+          268.98720000000003,
+          339.4688000000001,
+          278.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "spark_plug",
+      "name": "Spark plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spark_plug",
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the spark plug and tighten to 18 N.m.",
+        "verified": true,
+        "char_start": 615,
+        "char_end": 656,
+        "bbox": [
+          72.6752,
+          289.3872,
+          243.43040000000005,
+          298.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Lap the intake valve into its seat until a continuous grey band shows around the full circumference of the face.",
+      "source_number": 1,
+      "installs": [
+        "intake_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Lap the intake valve into its seat until a continuous grey band shows around the full circumference of the face.",
+        "verified": true,
+        "char_start": 14,
+        "char_end": 126,
+        "bbox": [
+          62.0,
+          104.78719999999998,
+          515.0336000000001,
+          129.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Lap the exhaust valve into its seat by the same method.",
+      "source_number": 2,
+      "installs": [
+        "exhaust_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Lap the exhaust valve into its seat by the same method.",
+        "verified": true,
+        "char_start": 130,
+        "char_end": 185,
+        "bbox": [
+          72.6752,
+          140.58720000000005,
+          309.6032000000002,
+          150.18720000000008
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Fit the valve springs and retainers, compressing each spring to seat the keepers squarely.",
+      "source_number": 3,
+      "installs": [
+        "valve_spring"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the valve springs and retainers, compressing each spring to seat the keepers squarely.",
+        "verified": true,
+        "char_start": 189,
+        "char_end": 279,
+        "bbox": [
+          72.6752,
+          160.98720000000003,
+          454.7072000000001,
+          170.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Fit the cylinder barrel to the crankcase deck if it was disturbed.",
+      "source_number": 4,
+      "installs": [
+        "cylinder_barrel"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the cylinder barrel to the crankcase deck if it was disturbed.",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 367,
+        "bbox": [
+          72.6752,
+          207.78719999999998,
+          337.8464000000002,
+          217.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Place a new cylinder head gasket on the deck. CAUTION: never reuse a gasket that has been compressed.",
+      "source_number": 5,
+      "installs": [
+        "cylinder_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: never reuse a gasket that has been compressed.",
+      "provenance": {
+        "page": 1,
+        "quote": "Place a new cylinder head gasket on the deck. CAUTION: never reuse a gasket that has been compressed.",
+        "verified": true,
+        "char_start": 371,
+        "char_end": 472,
+        "bbox": [
+          72.6752,
+          228.18719999999996,
+          529.9616000000002,
+          237.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Lower the cylinder head onto the gasket, locating it on the dowels.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Lower the cylinder head onto the gasket, locating it on the dowels.",
+        "verified": true,
+        "char_start": 476,
+        "char_end": 543,
+        "bbox": [
+          72.6752,
+          248.58720000000005,
+          353.3600000000001,
+          258.1872000000001
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Tighten the cylinder head bolts to 24 N.m in a crossing pattern.",
+      "source_number": 7,
+      "installs": [
+        "head_bolt"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": 24.0,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Tighten the cylinder head bolts to 24 N.m in a crossing pattern.",
+        "verified": true,
+        "char_start": 547,
+        "char_end": 611,
+        "bbox": [
+          72.6752,
+          268.98720000000003,
+          339.4688000000001,
+          278.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Fit the spark plug and tighten to 18 N.m.",
+      "source_number": 8,
+      "installs": [
+        "spark_plug"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": 18.0,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Fit the spark plug and tighten to 18 N.m.",
+        "verified": true,
+        "char_start": 615,
+        "char_end": 656,
+        "bbox": [
+          72.6752,
+          289.3872,
+          243.43040000000005,
+          298.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    }
+  ]
+}

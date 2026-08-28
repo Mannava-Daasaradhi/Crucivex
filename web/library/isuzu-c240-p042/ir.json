@@ -1,0 +1,167 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.138 - Align the oil filter holes with the...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "oil_filter_hole",
+      "name": "Oil filter hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_filter_hole",
+      "provenance": {
+        "page": 138,
+        "quote": "Align the oil filter holes with the body knock pins at installation.",
+        "verified": true,
+        "char_start": 292,
+        "char_end": 360,
+        "bbox": [
+          311.03999999999996,
+          371.96290000000005,
+          557.6071893333333,
+          394.0893333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "pin",
+      "name": "Pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pin",
+      "provenance": {
+        "page": 138,
+        "quote": "Align the oil filter holes with the body knock pins at installation.",
+        "verified": true,
+        "char_start": 292,
+        "char_end": 360,
+        "bbox": [
+          311.03999999999996,
+          371.96290000000005,
+          557.6071893333333,
+          394.0893333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "insert_installation",
+      "name": "Insert installation",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_installation",
+      "provenance": {
+        "page": 138,
+        "quote": "Align the oil filter holes with the body knock pins at installation.",
+        "verified": true,
+        "char_start": 292,
+        "char_end": 360,
+        "bbox": [
+          311.03999999999996,
+          371.96290000000005,
+          557.6071893333333,
+          394.0893333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_cooler",
+      "name": "Oil cooler",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_cooler",
+      "provenance": {
+        "page": 138,
+        "quote": "Tighten the oil cooler to the specified torque. Oil Cooler Torque kg-m (Ib.ft/N-m) 2.5 - 3.5 (18.0 \u2014 25.2/24.5 \u2014 34.3)",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 482,
+        "bbox": [
+          291.9049999999999,
+          400.1419,
+          555.4571900000001,
+          444.3515
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Align the oil filter holes with the body knock pins at installation.",
+      "source_number": 1,
+      "installs": [
+        "oil_filter_hole",
+        "pin",
+        "insert_installation"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 138,
+        "quote": "Align the oil filter holes with the body knock pins at installation.",
+        "verified": true,
+        "char_start": 292,
+        "char_end": 360,
+        "bbox": [
+          311.03999999999996,
+          371.96290000000005,
+          557.6071893333333,
+          394.0893333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Tighten the oil cooler to the specified torque. Oil Cooler Torque kg-m (Ib.ft/N-m) 2.5 - 3.5 (18.0 \u2014 25.2/24.5 \u2014 34.3)",
+      "source_number": 2,
+      "installs": [
+        "oil_cooler"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 24.5,
+      "warning": null,
+      "provenance": {
+        "page": 138,
+        "quote": "Tighten the oil cooler to the specified torque. Oil Cooler Torque kg-m (Ib.ft/N-m) 2.5 - 3.5 (18.0 \u2014 25.2/24.5 \u2014 34.3)",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 482,
+        "bbox": [
+          291.9049999999999,
+          400.1419,
+          555.4571900000001,
+          444.3515
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

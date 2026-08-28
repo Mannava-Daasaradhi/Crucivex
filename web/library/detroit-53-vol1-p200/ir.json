@@ -1,0 +1,266 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.346 - Loosen the wing nuts on the fasteners...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 346,
+        "quote": "Loosen the wing nuts on the fasteners and swing the retaining bolts away from the cleaner panel.",
+        "verified": true,
+        "char_start": 1951,
+        "char_end": 2047,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retaining_bolt",
+      "name": "Bearing retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retaining_bolt",
+      "provenance": {
+        "page": 346,
+        "quote": "Loosen the wing nuts on the fasteners and swing the retaining bolts away from the cleaner panel.",
+        "verified": true,
+        "char_start": 1951,
+        "char_end": 2047,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cleaner_panel",
+      "name": "Cleaner panel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cleaner_panel",
+      "provenance": {
+        "page": 346,
+        "quote": "Lift the cleaner panel away from the housing and inspect it. Clean out any accumulated foreign material.",
+        "verified": true,
+        "char_start": 2051,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 346,
+        "quote": "Lift the cleaner panel away from the housing and inspect it. Clean out any accumulated foreign material.",
+        "verified": true,
+        "char_start": 2051,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "foreign_material",
+      "name": "Foreign material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "foreign_material",
+      "provenance": {
+        "page": 346,
+        "quote": "Lift the cleaner panel away from the housing and inspect it. Clean out any accumulated foreign material.",
+        "verified": true,
+        "char_start": 2051,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "paper_filter_element",
+      "name": "Paper filter element",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "paper_filter_element",
+      "provenance": {
+        "page": 346,
+        "quote": "Withdraw the paper filter element and discard it.",
+        "verified": true,
+        "char_start": 2159,
+        "char_end": 2208,
+        "bbox": [
+          362.40000000000003,
+          395.91099999999994,
+          574.8705600000001,
+          403.91099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_filter_element",
+      "name": "Air filter element",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_filter_element",
+      "provenance": {
+        "page": 346,
+        "quote": "Install a new filter element.",
+        "verified": true,
+        "char_start": 2212,
+        "char_end": 2241,
+        "bbox": [
+          362.40000000000015,
+          416.93699999999995,
+          477.0726400000001,
+          424.93699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Loosen the wing nuts on the fasteners and swing the retaining bolts away from the cleaner panel.",
+      "source_number": 1,
+      "installs": [
+        "front_balance_weight_nut",
+        "bearing_retaining_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 346,
+        "quote": "Loosen the wing nuts on the fasteners and swing the retaining bolts away from the cleaner panel.",
+        "verified": true,
+        "char_start": 1951,
+        "char_end": 2047,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Lift the cleaner panel away from the housing and inspect it. Clean out any accumulated foreign material.",
+      "source_number": 2,
+      "installs": [
+        "cleaner_panel",
+        "valve_rocker_cover_clean",
+        "foreign_material"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 346,
+        "quote": "Lift the cleaner panel away from the housing and inspect it. Clean out any accumulated foreign material.",
+        "verified": true,
+        "char_start": 2051,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Withdraw the paper filter element and discard it.",
+      "source_number": 3,
+      "installs": [
+        "paper_filter_element"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 346,
+        "quote": "Withdraw the paper filter element and discard it.",
+        "verified": true,
+        "char_start": 2159,
+        "char_end": 2208,
+        "bbox": [
+          362.40000000000003,
+          395.91099999999994,
+          574.8705600000001,
+          403.91099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install a new filter element.",
+      "source_number": 4,
+      "installs": [
+        "air_filter_element"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 346,
+        "quote": "Install a new filter element.",
+        "verified": true,
+        "char_start": 2212,
+        "char_end": 2241,
+        "bbox": [
+          362.40000000000015,
+          416.93699999999995,
+          477.0726400000001,
+          424.93699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the cleaner panel and secure it in place with the fasteners.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 346,
+        "quote": "Install the cleaner panel and secure it in place with the fasteners.",
+        "verified": true,
+        "char_start": 2245,
+        "char_end": 2313,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

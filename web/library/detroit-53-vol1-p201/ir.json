@@ -1,0 +1,554 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.350 - Install a new seal ring at each...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 350,
+        "quote": "Install a new seal ring at each end of the shaft. Be sure the seals are seated in the counterbores of the housing.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 851,
+        "bbox": [
+          332.88,
+          74.84999999999991,
+          571.9215999999999,
+          106.56999999999982
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 350,
+        "quote": "Install a new seal ring at each end of the shaft. Be sure the seals are seated in the counterbores of the housing.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 851,
+        "bbox": [
+          332.88,
+          74.84999999999991,
+          571.9215999999999,
+          106.56999999999982
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 350,
+        "quote": "Install a new seal ring at each end of the shaft. Be sure the seals are seated in the counterbores of the housing.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 851,
+        "bbox": [
+          332.88,
+          74.84999999999991,
+          571.9215999999999,
+          106.56999999999982
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 350,
+        "quote": "Install a new seal ring at each end of the shaft. Be sure the seals are seated in the counterbores of the housing.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 851,
+        "bbox": [
+          332.88,
+          74.84999999999991,
+          571.9215999999999,
+          106.56999999999982
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 350,
+        "quote": "Install a new seal ring at each end of the shaft. Be sure the seals are seated in the counterbores of the housing.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 851,
+        "bbox": [
+          332.88,
+          74.84999999999991,
+          571.9215999999999,
+          106.56999999999982
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 350,
+        "quote": "Install the cam and cam pin handle on the shaft.",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 903,
+        "bbox": [
+          343.68,
+          117.32199999999989,
+          553.6542000000001,
+          127.32199999999989
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cam_pin_handle",
+      "name": "Cam pin handle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_pin_handle",
+      "provenance": {
+        "page": 350,
+        "quote": "Install the cam and cam pin handle on the shaft.",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 903,
+        "bbox": [
+          343.68,
+          117.32199999999989,
+          553.6542000000001,
+          127.32199999999989
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 350,
+        "quote": "Install a washer and retaining pin at the other end of the shaft.",
+        "verified": true,
+        "char_start": 907,
+        "char_end": 972,
+        "bbox": [
+          333.1199999999999,
+          138.44999999999993,
+          570.9551999999999,
+          159.36699999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 350,
+        "quote": "Install a washer and retaining pin at the other end of the shaft.",
+        "verified": true,
+        "char_start": 907,
+        "char_end": 972,
+        "bbox": [
+          333.1199999999999,
+          138.44999999999993,
+          570.9551999999999,
+          159.36699999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "latch",
+      "name": "Latch",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "latch",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_shut_down_housing",
+      "name": "Air shut-down housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_shut_down_housing",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "notch",
+      "name": "Notch",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "notch",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "latch_set",
+      "name": "Latch set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "latch_set",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install a new seal ring at each end of the shaft. Be sure the seals are seated in the counterbores of the housing.",
+      "source_number": 2,
+      "installs": [
+        "seal_ring",
+        "end_of_the_shaft",
+        "crankshaft_front_oil_seal",
+        "insert_counterbore",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 350,
+        "quote": "Install a new seal ring at each end of the shaft. Be sure the seals are seated in the counterbores of the housing.",
+        "verified": true,
+        "char_start": 737,
+        "char_end": 851,
+        "bbox": [
+          332.88,
+          74.84999999999991,
+          571.9215999999999,
+          106.56999999999982
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the cam and cam pin handle on the shaft.",
+      "source_number": 3,
+      "installs": [
+        "t_push_rod_cam",
+        "cam_pin_handle"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 350,
+        "quote": "Install the cam and cam pin handle on the shaft.",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 903,
+        "bbox": [
+          343.68,
+          117.32199999999989,
+          553.6542000000001,
+          127.32199999999989
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install a washer and retaining pin at the other end of the shaft.",
+      "source_number": 4,
+      "installs": [
+        "another_drive_flange_washer",
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 350,
+        "quote": "Install a washer and retaining pin at the other end of the shaft.",
+        "verified": true,
+        "char_start": 907,
+        "char_end": 972,
+        "bbox": [
+          333.1199999999999,
+          138.44999999999993,
+          570.9551999999999,
+          159.36699999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install the pins in the valve(s) to retain it to the shaft with the cam release latch set and the valve(s) in the run position. c. Level the valve(s) in the shut-down position. d. Adjust the bushing so the valve(s) contacts the housing when the cam release latch is set.",
+      "source_number": 5,
+      "installs": [
+        "drive_gear_spacer",
+        "connecting_rod_bushing",
+        "end_of_the_spring",
+        "latch",
+        "air_shut_down_housing",
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "plain_washer",
+        "notch",
+        "engine_front_cover_valve",
+        "latch_set",
+        "contact"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 350,
+        "quote": "Assemble the spacer (bushing), spring and latch to the shut-down housing with the 1/4\"-20 bolt. lock washer and plain washer. a. Align the notch on the bushing with the notch on the latch and lock the bushing in this position. b. Install...",
+        "verified": true,
+        "char_start": 976,
+        "char_end": 1476,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

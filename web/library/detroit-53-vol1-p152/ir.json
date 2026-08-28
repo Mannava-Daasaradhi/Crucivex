@@ -1,0 +1,408 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.271 - Loosen the clamping bolt and remove the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 271,
+        "quote": "Loosen the clamping bolt and remove the stop lever from the shaft. Remove the lever retracting spring.",
+        "verified": true,
+        "char_start": 1898,
+        "char_end": 2000,
+        "bbox": [
+          330.0,
+          601.41,
+          569.3955,
+          622.458
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 271,
+        "quote": "Loosen the clamping bolt and remove the stop lever from the shaft. Remove the lever retracting spring.",
+        "verified": true,
+        "char_start": 1898,
+        "char_end": 2000,
+        "bbox": [
+          330.0,
+          601.41,
+          569.3955,
+          622.458
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 271,
+        "quote": "Loosen the clamping bolt and remove the stop lever from the shaft. Remove the lever retracting spring.",
+        "verified": true,
+        "char_start": 1898,
+        "char_end": 2000,
+        "bbox": [
+          330.0,
+          601.41,
+          569.3955,
+          622.458
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lever_retracting_spring",
+      "name": "Lever retracting spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lever_retracting_spring",
+      "provenance": {
+        "page": 271,
+        "quote": "Loosen the clamping bolt and remove the stop lever from the shaft. Remove the lever retracting spring.",
+        "verified": true,
+        "char_start": 1898,
+        "char_end": 2000,
+        "bbox": [
+          330.0,
+          601.41,
+          569.3955,
+          622.458
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "return_spring",
+      "name": "Return spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "return_spring",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the return spring from the underside of the cover (early governors).",
+        "verified": true,
+        "char_start": 2004,
+        "char_end": 2079,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the return spring from the underside of the cover (early governors).",
+        "verified": true,
+        "char_start": 2004,
+        "char_end": 2079,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the return spring from the underside of the cover (early governors).",
+        "verified": true,
+        "char_start": 2004,
+        "char_end": 2079,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "follower_retaining_ring",
+      "name": "Follower retaining ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_retaining_ring",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the retaining ring and seal retaining washer. Withdraw the throttle shaft (Fig. 2) from the cover.",
+        "verified": true,
+        "char_start": 2083,
+        "char_end": 2188,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_retaining_washer",
+      "name": "Seal retaining washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_retaining_washer",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the retaining ring and seal retaining washer. Withdraw the throttle shaft (Fig. 2) from the cover.",
+        "verified": true,
+        "char_start": 2083,
+        "char_end": 2188,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_throttle_shaft",
+      "name": "Governor throttle shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_throttle_shaft",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the retaining ring and seal retaining washer. Withdraw the throttle shaft (Fig. 2) from the cover.",
+        "verified": true,
+        "char_start": 2083,
+        "char_end": 2188,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the retaining ring and seal retaining washer. Withdraw the throttle shaft (Fig. 2) from the cover.",
+        "verified": true,
+        "char_start": 2083,
+        "char_end": 2188,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 272,
+        "quote": "Remove the seal ring from the cover. Disassemble Governor Spring Housing If the bearings or lever require replacement, disassemble the spring housing as follows:",
+        "verified": true,
+        "char_start": 299,
+        "char_end": 460,
+        "bbox": [
+          101.04,
+          348.73599999999993,
+          590.802,
+          389.621
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_spring_housing",
+      "name": "Governor spring housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_spring_housing",
+      "provenance": {
+        "page": 272,
+        "quote": "Remove the seal ring from the cover. Disassemble Governor Spring Housing If the bearings or lever require replacement, disassemble the spring housing as follows:",
+        "verified": true,
+        "char_start": 299,
+        "char_end": 460,
+        "bbox": [
+          101.04,
+          348.73599999999993,
+          590.802,
+          389.621
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 272,
+        "quote": "Remove the seal ring from the cover. Disassemble Governor Spring Housing If the bearings or lever require replacement, disassemble the spring housing as follows:",
+        "verified": true,
+        "char_start": 299,
+        "char_end": 460,
+        "bbox": [
+          101.04,
+          348.73599999999993,
+          590.802,
+          389.621
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Loosen the clamping bolt and remove the stop lever from the shaft. Remove the lever retracting spring.",
+      "source_number": 1,
+      "installs": [
+        "engine_front_cover_bolt",
+        "of_the_stop_lever",
+        "end_of_the_shaft",
+        "lever_retracting_spring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Loosen the clamping bolt and remove the stop lever from the shaft. Remove the lever retracting spring.",
+        "verified": true,
+        "char_start": 1898,
+        "char_end": 2000,
+        "bbox": [
+          330.0,
+          601.41,
+          569.3955,
+          622.458
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the return spring from the underside of the cover (early governors).",
+      "source_number": 2,
+      "installs": [
+        "return_spring",
+        "underside_of_the_cover",
+        "blower_the_engine_governor"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the return spring from the underside of the cover (early governors).",
+        "verified": true,
+        "char_start": 2004,
+        "char_end": 2079,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the retaining ring and seal retaining washer. Withdraw the throttle shaft (Fig. 2) from the cover.",
+      "source_number": 3,
+      "installs": [
+        "follower_retaining_ring",
+        "seal_retaining_washer",
+        "governor_throttle_shaft",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 271,
+        "quote": "Remove the retaining ring and seal retaining washer. Withdraw the throttle shaft (Fig. 2) from the cover.",
+        "verified": true,
+        "char_start": 2083,
+        "char_end": 2188,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the seal ring from the cover. Disassemble Governor Spring Housing If the bearings or lever require replacement, disassemble the spring housing as follows:",
+      "source_number": 4,
+      "installs": [
+        "seal_ring",
+        "governor_spring_housing",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 272,
+        "quote": "Remove the seal ring from the cover. Disassemble Governor Spring Housing If the bearings or lever require replacement, disassemble the spring housing as follows:",
+        "verified": true,
+        "char_start": 299,
+        "char_end": 460,
+        "bbox": [
+          101.04,
+          348.73599999999993,
+          590.802,
+          389.621
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

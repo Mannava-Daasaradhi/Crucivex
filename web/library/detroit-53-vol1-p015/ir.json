@@ -1,0 +1,282 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.38 - Check the cylinder liner flange height as...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the cylinder liner flange height as outlined in Section 1.6.3.",
+        "verified": true,
+        "char_start": 2631,
+        "char_end": 2699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 38,
+        "quote": "Check the cylinder liner flange height as outlined in Section 1.6.3.",
+        "verified": true,
+        "char_start": 2631,
+        "char_end": 2699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 38,
+        "quote": "Check to be sure the tops of the pistons are clean and free of foreign material.",
+        "verified": true,
+        "char_start": 2703,
+        "char_end": 2783,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 38,
+        "quote": "Check to be sure the tops of the pistons are clean and free of foreign material.",
+        "verified": true,
+        "char_start": 2703,
+        "char_end": 2783,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "foreign_material",
+      "name": "Foreign material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "foreign_material",
+      "provenance": {
+        "page": 38,
+        "quote": "Check to be sure the tops of the pistons are clean and free of foreign material.",
+        "verified": true,
+        "char_start": 2703,
+        "char_end": 2783,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 38,
+        "quote": "Check to see that each push rod is threaded into the clevis until the end of the push rod projects through the clevis. This is important since serious engine damage wili be prevented when the crankshaft is rotated during tune-up.",
+        "verified": true,
+        "char_start": 2787,
+        "char_end": 3016,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 38,
+        "quote": "Check to see that each push rod is threaded into the clevis until the end of the push rod projects through the clevis. This is important since serious engine damage wili be prevented when the crankshaft is rotated during tune-up.",
+        "verified": true,
+        "char_start": 2787,
+        "char_end": 3016,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 38,
+        "quote": "Check to see that each push rod is threaded into the clevis until the end of the push rod projects through the clevis. This is important since serious engine damage wili be prevented when the crankshaft is rotated during tune-up.",
+        "verified": true,
+        "char_start": 2787,
+        "char_end": 3016,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 38,
+        "quote": "Check to be sure that the groove and the counterbores in the top of the cylinder block are clean and smooth.",
+        "verified": true,
+        "char_start": 3020,
+        "char_end": 3128,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 38,
+        "quote": "Check to be sure that the groove and the counterbores in the top of the cylinder block are clean and smooth.",
+        "verified": true,
+        "char_start": 3020,
+        "char_end": 3128,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 38,
+        "quote": "Check to be sure that the groove and the counterbores in the top of the cylinder block are clean and smooth.",
+        "verified": true,
+        "char_start": 3020,
+        "char_end": 3128,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Check the cylinder liner flange height as outlined in Section 1.6.3.",
+      "source_number": 1,
+      "installs": [
+        "flange",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Check the cylinder liner flange height as outlined in Section 1.6.3.",
+        "verified": true,
+        "char_start": 2631,
+        "char_end": 2699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Check to be sure the tops of the pistons are clean and free of foreign material.",
+      "source_number": 2,
+      "installs": [
+        "of_the_selected_piston",
+        "valve_rocker_cover_clean",
+        "foreign_material"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Check to be sure the tops of the pistons are clean and free of foreign material.",
+        "verified": true,
+        "char_start": 2703,
+        "char_end": 2783,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Check to see that each push rod is threaded into the clevis until the end of the push rod projects through the clevis. This is important since serious engine damage wili be prevented when the crankshaft is rotated during tune-up.",
+      "source_number": 3,
+      "installs": [
+        "push_rod",
+        "bearing_pilot_rod",
+        "halve_of_the_crankshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Check to see that each push rod is threaded into the clevis until the end of the push rod projects through the clevis. This is important since serious engine damage wili be prevented when the crankshaft is rotated during tune-up.",
+        "verified": true,
+        "char_start": 2787,
+        "char_end": 3016,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check to be sure that the groove and the counterbores in the top of the cylinder block are clean and smooth.",
+      "source_number": 4,
+      "installs": [
+        "of_the_groove",
+        "insert_counterbore",
+        "of_the_block"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Check to be sure that the groove and the counterbores in the top of the cylinder block are clean and smooth.",
+        "verified": true,
+        "char_start": 3020,
+        "char_end": 3128,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.387 - Position the turbocharger, using a new gasket...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "turbocharger",
+      "name": "Turbocharger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbocharger",
+      "provenance": {
+        "page": 387,
+        "quote": "Position the turbocharger, using a new gasket, against the exhaust manifold adaptor and secure it in place with four bolts, lock washers and nuts (Fig. 1).",
+        "verified": true,
+        "char_start": 300,
+        "char_end": 455,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 387,
+        "quote": "Position the turbocharger, using a new gasket, against the exhaust manifold adaptor and secure it in place with four bolts, lock washers and nuts (Fig. 1).",
+        "verified": true,
+        "char_start": 300,
+        "char_end": 455,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 387,
+        "quote": "Position the turbocharger, using a new gasket, against the exhaust manifold adaptor and secure it in place with four bolts, lock washers and nuts (Fig. 1).",
+        "verified": true,
+        "char_start": 300,
+        "char_end": 455,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 387,
+        "quote": "Position the turbocharger, using a new gasket, against the exhaust manifold adaptor and secure it in place with four bolts, lock washers and nuts (Fig. 1).",
+        "verified": true,
+        "char_start": 300,
+        "char_end": 455,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 387,
+        "quote": "Position the turbocharger, using a new gasket, against the exhaust manifold adaptor and secure it in place with four bolts, lock washers and nuts (Fig. 1).",
+        "verified": true,
+        "char_start": 300,
+        "char_end": 455,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 387,
+        "quote": "Position the turbocharger, using a new gasket, against the exhaust manifold adaptor and secure it in place with four bolts, lock washers and nuts (Fig. 1).",
+        "verified": true,
+        "char_start": 300,
+        "char_end": 455,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cover_hose",
+      "name": "Cover hose",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cover_hose",
+      "provenance": {
+        "page": 387,
+        "quote": "Slide the cover hose (Fig. 4) over the end of the turbocharger air outlet opening and tighten the two hose clamps.",
+        "verified": true,
+        "char_start": 459,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 387,
+        "quote": "Slide the cover hose (Fig. 4) over the end of the turbocharger air outlet opening and tighten the two hose clamps.",
+        "verified": true,
+        "char_start": 459,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "turbocharger_support_bracket",
+      "name": "Turbocharger support bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbocharger_support_bracket",
+      "provenance": {
+        "page": 387,
+        "quote": "Install the turbocharger support bracket.",
+        "verified": true,
+        "char_start": 577,
+        "char_end": 618,
+        "bbox": [
+          69.12,
+          273.5949999999999,
+          244.1448,
+          283.5949999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_drain_line",
+      "name": "Oil drain line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_drain_line",
+      "provenance": {
+        "page": 387,
+        "quote": "Install the oil drain line from the opening in the bottom side of the center housing (Fig. 4) to the cylinder block.",
+        "verified": true,
+        "char_start": 622,
+        "char_end": 738,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "center_housing",
+      "name": "Center housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_housing",
+      "provenance": {
+        "page": 387,
+        "quote": "Install the oil drain line from the opening in the bottom side of the center housing (Fig. 4) to the cylinder block.",
+        "verified": true,
+        "char_start": 622,
+        "char_end": 738,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 387,
+        "quote": "Install the oil drain line from the opening in the bottom side of the center housing (Fig. 4) to the cylinder block.",
+        "verified": true,
+        "char_start": 622,
+        "char_end": 738,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_inlet_line",
+      "name": "Oil inlet line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_inlet_line",
+      "provenance": {
+        "page": 387,
+        "quote": "Attach the oil inlet line at the cylinder block.",
+        "verified": true,
+        "char_start": 742,
+        "char_end": 790,
+        "bbox": [
+          68.64,
+          342.56999999999994,
+          264.3702,
+          352.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_about",
+      "name": "Crankshaft about",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_about",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotating_assembly",
+      "name": "Rotating assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotating_assembly",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inboard_thrust_bearing",
+      "name": "Inboard thrust bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inboard_thrust_bearing",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_supply_line",
+      "name": "Oil supply line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_supply_line",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "wheel_nut",
+      "name": "Wheel nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wheel_nut",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "compressor_wheel",
+      "name": "Compressor wheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "compressor_wheel",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 387,
+        "quote": "Operate the engine at rated output and listen for sounds of metallic contact from the turbocharger. If any such noise is apparent, shut down immediately and correct the cause. NOTE: After the turbocharger has been operating long enough t...",
+        "verified": true,
+        "char_start": 1559,
+        "char_end": 2026,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Position the turbocharger, using a new gasket, against the exhaust manifold adaptor and secure it in place with four bolts, lock washers and nuts (Fig. 1).",
+      "source_number": 1,
+      "installs": [
+        "turbocharger",
+        "head_gasket",
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "front_balance_weight_nut",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 387,
+        "quote": "Position the turbocharger, using a new gasket, against the exhaust manifold adaptor and secure it in place with four bolts, lock washers and nuts (Fig. 1).",
+        "verified": true,
+        "char_start": 300,
+        "char_end": 455,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Slide the cover hose (Fig. 4) over the end of the turbocharger air outlet opening and tighten the two hose clamps.",
+      "source_number": 2,
+      "installs": [
+        "cover_hose",
+        "hose_clamp"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 387,
+        "quote": "Slide the cover hose (Fig. 4) over the end of the turbocharger air outlet opening and tighten the two hose clamps.",
+        "verified": true,
+        "char_start": 459,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the turbocharger support bracket.",
+      "source_number": 3,
+      "installs": [
+        "turbocharger_support_bracket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 387,
+        "quote": "Install the turbocharger support bracket.",
+        "verified": true,
+        "char_start": 577,
+        "char_end": 618,
+        "bbox": [
+          69.12,
+          273.5949999999999,
+          244.1448,
+          283.5949999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the oil drain line from the opening in the bottom side of the center housing (Fig. 4) to the cylinder block.",
+      "source_number": 4,
+      "installs": [
+        "oil_drain_line",
+        "center_housing",
+        "of_the_block"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 387,
+        "quote": "Install the oil drain line from the opening in the bottom side of the center housing (Fig. 4) to the cylinder block.",
+        "verified": true,
+        "char_start": 622,
+        "char_end": 738,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Attach the oil inlet line at the cylinder block.",
+      "source_number": 5,
+      "installs": [
+        "oil_inlet_line"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 387,
+        "quote": "Attach the oil inlet line at the cylinder block.",
+        "verified": true,
+        "char_start": 742,
+        "char_end": 790,
+        "bbox": [
+          68.64,
+          342.56999999999994,
+          264.3702,
+          352.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the rotating assembly by hand to coat the bearings, thrust ring and thrust bearing with oil. b. Fill the oil supply line with lubricating oil. c. Use a socket wrench on the wheel nut to keep the compressor wheel from turning and start the engine. d. As soon as oil appears at the end of the oil supply line, connect the oil supply line to the center housing (Fig. 4). NOTE: The oil pressure should be at a minimum of 10 psig. e. After the line is connected, release the compressor wheel.",
+      "source_number": 6,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "fuel_oil_inlet",
+        "crankshaft_about",
+        "rotating_assembly",
+        "bearing_the_end_bearing",
+        "bottom_oil_ring",
+        "inboard_thrust_bearing",
+        "oil_supply_line",
+        "wheel_nut",
+        "compressor_wheel",
+        "tbe_lubricating_oil_line",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The oil pressure should be at a minimum of 10 psig.",
+      "provenance": {
+        "page": 387,
+        "quote": "Before starting the engine, make sure that there is lubricating oil in the turbocharger. a. Clean the area around the oil inlet opening, then pour about four ounces of engine oil in the oil inlet opening of the center housing. Turn the r...",
+        "verified": true,
+        "char_start": 794,
+        "char_end": 1513,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Check all ducts and gaskets for leaks.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 387,
+        "quote": "Check all ducts and gaskets for leaks.",
+        "verified": true,
+        "char_start": 1517,
+        "char_end": 1555,
+        "bbox": [
+          339.36,
+          282.00199999999995,
+          501.8904000000001,
+          292.00199999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Operate the engine at rated output and listen for sounds of metallic contact from the turbocharger. If any such noise is apparent, shut down immediately and correct the cause. NOTE: After the turbocharger has been operating long enough to permit the unit and the oil to warm up, the rotating assembly should coast freely to a stop after the engine is stopped. If the rotating assembly jerks to a sudden stop, the cause should be immediately determined and eliminated.",
+      "source_number": 8,
+      "installs": [
+        "contact"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: After the turbocharger has been operating long enough to permit the unit and the oil to warm up, the rotating assembly should coast freely to a stop after the engine is stopped.",
+      "provenance": {
+        "page": 387,
+        "quote": "Operate the engine at rated output and listen for sounds of metallic contact from the turbocharger. If any such noise is apparent, shut down immediately and correct the cause. NOTE: After the turbocharger has been operating long enough t...",
+        "verified": true,
+        "char_start": 1559,
+        "char_end": 2026,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

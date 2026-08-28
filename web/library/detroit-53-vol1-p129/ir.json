@@ -1,0 +1,699 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.243 - Install the operating shaft bearing retaining screw...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "governor_operating_shaft_bearing",
+      "name": "Governor operating shaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft_bearing",
+      "provenance": {
+        "page": 243,
+        "quote": "Install the operating shaft bearing retaining screw screw and lock nut in the tapped hole in the operaung and washer. shaft lever. \u0445 B",
+        "verified": true,
+        "char_start": 853,
+        "char_end": 987,
+        "bbox": [
+          74.88,
+          415.04599999999994,
+          583.1143200000004,
+          476.67499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "retaining_screw",
+      "name": "Retaining screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "retaining_screw",
+      "provenance": {
+        "page": 243,
+        "quote": "Install the operating shaft bearing retaining screw screw and lock nut in the tapped hole in the operaung and washer. shaft lever. \u0445 B",
+        "verified": true,
+        "char_start": 853,
+        "char_end": 987,
+        "bbox": [
+          74.88,
+          415.04599999999994,
+          583.1143200000004,
+          476.67499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 243,
+        "quote": "Install the operating shaft bearing retaining screw screw and lock nut in the tapped hole in the operaung and washer. shaft lever. \u0445 B",
+        "verified": true,
+        "char_start": 853,
+        "char_end": 987,
+        "bbox": [
+          74.88,
+          415.04599999999994,
+          583.1143200000004,
+          476.67499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 243,
+        "quote": "Install the operating shaft bearing retaining screw screw and lock nut in the tapped hole in the operaung and washer. shaft lever. \u0445 B",
+        "verified": true,
+        "char_start": 853,
+        "char_end": 987,
+        "bbox": [
+          74.88,
+          415.04599999999994,
+          583.1143200000004,
+          476.67499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 243,
+        "quote": "Install the operating shaft bearing retaining screw screw and lock nut in the tapped hole in the operaung and washer. shaft lever. \u0445 B",
+        "verified": true,
+        "char_start": 853,
+        "char_end": 987,
+        "bbox": [
+          74.88,
+          415.04599999999994,
+          583.1143200000004,
+          476.67499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 243,
+        "quote": "Install the operating shaft bearing retaining screw screw and lock nut in the tapped hole in the operaung and washer. shaft lever. \u0445 B",
+        "verified": true,
+        "char_start": 853,
+        "char_end": 987,
+        "bbox": [
+          74.88,
+          415.04599999999994,
+          583.1143200000004,
+          476.67499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 243,
+        "quote": "Install the operating shaft bearing retaining screw screw and lock nut in the tapped hole in the operaung and washer. shaft lever. \u0445 B",
+        "verified": true,
+        "char_start": 853,
+        "char_end": 987,
+        "bbox": [
+          74.88,
+          415.04599999999994,
+          583.1143200000004,
+          476.67499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 243,
+        "quote": "Install the operating shaft bearing retaining screw screw and lock nut in the tapped hole in the operaung and washer. shaft lever. \u0445 B",
+        "verified": true,
+        "char_start": 853,
+        "char_end": 987,
+        "bbox": [
+          74.88,
+          415.04599999999994,
+          583.1143200000004,
+          476.67499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 243,
+        "quote": "Support the control link lever on a steel spacer on fj 45",
+        "verified": true,
+        "char_start": 991,
+        "char_end": 1048,
+        "bbox": [
+          180.48000000000002,
+          457.12799999999993,
+          583.7576000000001,
+          493.5649999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "control_link_lever",
+      "name": "Control link lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_lever",
+      "provenance": {
+        "page": 243,
+        "quote": "Support the control link lever on a steel spacer on fj 45",
+        "verified": true,
+        "char_start": 991,
+        "char_end": 1048,
+        "bbox": [
+          180.48000000000002,
+          457.12799999999993,
+          583.7576000000001,
+          493.5649999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 243,
+        "quote": "Support the control link lever on a steel spacer on fj 45",
+        "verified": true,
+        "char_start": 991,
+        "char_end": 1048,
+        "bbox": [
+          180.48000000000002,
+          457.12799999999993,
+          583.7576000000001,
+          493.5649999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "needle_bearing",
+      "name": "Needle bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing",
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the needle bearings with grease, place a washer over each bearing and insert the control link lever between the two bosses in the housing (Fig. 1). Insert the control link lever shaft, then insert the shaft retainer in the notch of ...",
+        "verified": true,
+        "char_start": 357,
+        "char_end": 658,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the needle bearings with grease, place a washer over each bearing and insert the control link lever between the two bosses in the housing (Fig. 1). Insert the control link lever shaft, then insert the shaft retainer in the notch of ...",
+        "verified": true,
+        "char_start": 357,
+        "char_end": 658,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the needle bearings with grease, place a washer over each bearing and insert the control link lever between the two bosses in the housing (Fig. 1). Insert the control link lever shaft, then insert the shaft retainer in the notch of ...",
+        "verified": true,
+        "char_start": 357,
+        "char_end": 658,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the needle bearings with grease, place a washer over each bearing and insert the control link lever between the two bosses in the housing (Fig. 1). Insert the control link lever shaft, then insert the shaft retainer in the notch of ...",
+        "verified": true,
+        "char_start": 357,
+        "char_end": 658,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the needle bearings with grease, place a washer over each bearing and insert the control link lever between the two bosses in the housing (Fig. 1). Insert the control link lever shaft, then insert the shaft retainer in the notch of ...",
+        "verified": true,
+        "char_start": 357,
+        "char_end": 658,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_link",
+      "name": "Connecting link",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_link",
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the needle bearings with grease, place a washer over each bearing and insert the control link lever between the two bosses in the housing (Fig. 1). Insert the control link lever shaft, then insert the shaft retainer in the notch of ...",
+        "verified": true,
+        "char_start": 357,
+        "char_end": 658,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the needle bearings with grease, place a washer over each bearing and insert the control link lever between the two bosses in the housing (Fig. 1). Insert the control link lever shaft, then insert the shaft retainer in the notch of ...",
+        "verified": true,
+        "char_start": 357,
+        "char_end": 658,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "notch",
+      "name": "Notch",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "notch",
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the needle bearings with grease, place a washer over each bearing and insert the control link lever between the two bosses in the housing (Fig. 1). Insert the control link lever shaft, then insert the shaft retainer in the notch of ...",
+        "verified": true,
+        "char_start": 357,
+        "char_end": 658,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_pin",
+      "name": "Connecting pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_pin",
+      "provenance": {
+        "page": 244,
+        "quote": "Place the connecting pin in the control link lever, then place the connecting link over the connecting pin and the pin in the differential lever. Secure the link to the differential lever with a washer and spring pin.",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 880,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 244,
+        "quote": "Place the connecting pin in the control link lever, then place the connecting link over the connecting pin and the pin in the differential lever. Secure the link to the differential lever with a washer and spring pin.",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 880,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 244,
+        "quote": "Place the connecting pin in the control link lever, then place the connecting link over the connecting pin and the pin in the differential lever. Secure the link to the differential lever with a washer and spring pin.",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 880,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_pin",
+      "name": "Spring pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_pin",
+      "provenance": {
+        "page": 244,
+        "quote": "Place the connecting pin in the control link lever, then place the connecting link over the connecting pin and the pin in the differential lever. Secure the link to the differential lever with a washer and spring pin.",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 880,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 244,
+        "quote": "Thread the short link pin into the control link lever.",
+        "verified": true,
+        "char_start": 885,
+        "char_end": 939,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "short",
+      "name": "Short",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "short",
+      "provenance": {
+        "page": 244,
+        "quote": "Thread the short link pin into the control link lever.",
+        "verified": true,
+        "char_start": 885,
+        "char_end": 939,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "link_pin",
+      "name": "Link pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "link_pin",
+      "provenance": {
+        "page": 244,
+        "quote": "Thread the short link pin into the control link lever.",
+        "verified": true,
+        "char_start": 885,
+        "char_end": 939,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the operating shaft bearing retaining screw screw and lock nut in the tapped hole in the operaung and washer. shaft lever. \u0445 B",
+      "source_number": 5,
+      "installs": [
+        "governor_operating_shaft_bearing",
+        "retaining_screw",
+        "of_the_buffer_screw",
+        "bearing_lock_nut",
+        "of_the_oil_hole",
+        "another_drive_flange_washer",
+        "end_of_the_shaft",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 243,
+        "quote": "Install the operating shaft bearing retaining screw screw and lock nut in the tapped hole in the operaung and washer. shaft lever. \u0445 B",
+        "verified": true,
+        "char_start": 853,
+        "char_end": 987,
+        "bbox": [
+          74.88,
+          415.04599999999994,
+          583.1143200000004,
+          476.67499999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Support the control link lever on a steel spacer on fj 45",
+      "source_number": 9,
+      "installs": [
+        "blower_drive_support",
+        "control_link_lever",
+        "drive_gear_spacer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 243,
+        "quote": "Support the control link lever on a steel spacer on fj 45",
+        "verified": true,
+        "char_start": 991,
+        "char_end": 1048,
+        "bbox": [
+          180.48000000000002,
+          457.12799999999993,
+          583.7576000000001,
+          493.5649999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Pack the needle bearings with grease, place a washer over each bearing and insert the control link lever between the two bosses in the housing (Fig. 1). Insert the control link lever shaft, then insert the shaft retainer in the notch of the shaft and fasten it to the housing with the retaining screw.",
+      "source_number": 10,
+      "installs": [
+        "needle_bearing",
+        "bearing_the_end_bearing",
+        "exhaust_valve_seat_insert",
+        "of_the_flywheel_housing",
+        "nut_securing_fig",
+        "connecting_link",
+        "drive_shaft_retainer",
+        "notch"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Pack the needle bearings with grease, place a washer over each bearing and insert the control link lever between the two bosses in the housing (Fig. 1). Insert the control link lever shaft, then insert the shaft retainer in the notch of ...",
+        "verified": true,
+        "char_start": 357,
+        "char_end": 658,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Place the connecting pin in the control link lever, then place the connecting link over the connecting pin and the pin in the differential lever. Secure the link to the differential lever with a washer and spring pin.",
+      "source_number": 11,
+      "installs": [
+        "connecting_pin",
+        "copper_plated_dowel_pin",
+        "governor_differential_lever",
+        "spring_pin"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Place the connecting pin in the control link lever, then place the connecting link over the connecting pin and the pin in the differential lever. Secure the link to the differential lever with a washer and spring pin.",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 880,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Thread the short link pin into the control link lever.",
+      "source_number": 12,
+      "installs": [
+        "bolt_thread",
+        "short",
+        "link_pin"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Thread the short link pin into the control link lever.",
+        "verified": true,
+        "char_start": 885,
+        "char_end": 939,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install the buffer screw and lock nut.",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 244,
+        "quote": "Install the buffer screw and lock nut.",
+        "verified": true,
+        "char_start": 944,
+        "char_end": 982,
+        "bbox": [
+          76.32,
+          643.935,
+          232.60384000000002,
+          651.935
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

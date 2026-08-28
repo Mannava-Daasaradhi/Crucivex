@@ -1,0 +1,441 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.235 - Lubricate the governor weight shaft with clean...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 235,
+        "quote": "Lubricate the governor weight shaft with clean engine oil and slide the riser assembly over the shaft. with the bearing end toward the serrated end of the shaft. Pack the bearing with grease.",
+        "verified": true,
+        "char_start": 1354,
+        "char_end": 1545,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 235,
+        "quote": "Lubricate the governor weight shaft with clean engine oil and slide the riser assembly over the shaft. with the bearing end toward the serrated end of the shaft. Pack the bearing with grease.",
+        "verified": true,
+        "char_start": 1354,
+        "char_end": 1545,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "riser_assembly",
+      "name": "Riser assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "riser_assembly",
+      "provenance": {
+        "page": 235,
+        "quote": "Lubricate the governor weight shaft with clean engine oil and slide the riser assembly over the shaft. with the bearing end toward the serrated end of the shaft. Pack the bearing with grease.",
+        "verified": true,
+        "char_start": 1354,
+        "char_end": 1545,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 235,
+        "quote": "Lubricate the governor weight shaft with clean engine oil and slide the riser assembly over the shaft. with the bearing end toward the serrated end of the shaft. Pack the bearing with grease.",
+        "verified": true,
+        "char_start": 1354,
+        "char_end": 1545,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 235,
+        "quote": "Use installer J 8984 as illustrated in Fig. 16 and press the shaft into the weight carrier. The tool will properly position the carrier on the shaft.",
+        "verified": true,
+        "char_start": 1549,
+        "char_end": 1698,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 235,
+        "quote": "Use installer J 8984 as illustrated in Fig. 16 and press the shaft into the weight carrier. The tool will properly position the carrier on the shaft.",
+        "verified": true,
+        "char_start": 1549,
+        "char_end": 1698,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_carrier",
+      "name": "Weight carrier",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_carrier",
+      "provenance": {
+        "page": 235,
+        "quote": "Use installer J 8984 as illustrated in Fig. 16 and press the shaft into the weight carrier. The tool will properly position the carrier on the shaft.",
+        "verified": true,
+        "char_start": 1549,
+        "char_end": 1698,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "low_speed_weight",
+      "name": "Low speed weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_weight",
+      "provenance": {
+        "page": 235,
+        "quote": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the ...",
+        "verified": true,
+        "char_start": 1702,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 235,
+        "quote": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the ...",
+        "verified": true,
+        "char_start": 1702,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_pin",
+      "name": "Weight pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_pin",
+      "provenance": {
+        "page": 235,
+        "quote": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the ...",
+        "verified": true,
+        "char_start": 1702,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "follower_retaining_ring",
+      "name": "Follower retaining ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_retaining_ring",
+      "provenance": {
+        "page": 235,
+        "quote": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the ...",
+        "verified": true,
+        "char_start": 1702,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 235,
+        "quote": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the ...",
+        "verified": true,
+        "char_start": 1702,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 235,
+        "quote": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the ...",
+        "verified": true,
+        "char_start": 1702,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 235,
+        "quote": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the ...",
+        "verified": true,
+        "char_start": 1702,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "just",
+      "name": "Just",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "just",
+      "provenance": {
+        "page": 235,
+        "quote": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the ...",
+        "verified": true,
+        "char_start": 1702,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 235,
+        "quote": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the ...",
+        "verified": true,
+        "char_start": 1702,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_weight",
+      "name": "High speed weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_weight",
+      "provenance": {
+        "page": 235,
+        "quote": "Install the high speed weights in a similar manner. The high speed weights are identified by the short cam arm. Fig. 17 - Installing Blower Drive Gear on Shaft",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2247,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 235,
+        "quote": "Install the high speed weights in a similar manner. The high speed weights are identified by the short cam arm. Fig. 17 - Installing Blower Drive Gear on Shaft",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2247,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "short",
+      "name": "Short",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "short",
+      "provenance": {
+        "page": 235,
+        "quote": "Install the high speed weights in a similar manner. The high speed weights are identified by the short cam arm. Fig. 17 - Installing Blower Drive Gear on Shaft",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2247,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_gear",
+      "name": "Blower drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_gear",
+      "provenance": {
+        "page": 235,
+        "quote": "Install the high speed weights in a similar manner. The high speed weights are identified by the short cam arm. Fig. 17 - Installing Blower Drive Gear on Shaft",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2247,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Lubricate the governor weight shaft with clean engine oil and slide the riser assembly over the shaft. with the bearing end toward the serrated end of the shaft. Pack the bearing with grease.",
+      "source_number": 1,
+      "installs": [
+        "governor_weight_shaft",
+        "valve_rocker_cover_clean",
+        "riser_assembly",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 235,
+        "quote": "Lubricate the governor weight shaft with clean engine oil and slide the riser assembly over the shaft. with the bearing end toward the serrated end of the shaft. Pack the bearing with grease.",
+        "verified": true,
+        "char_start": 1354,
+        "char_end": 1545,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Use installer J 8984 as illustrated in Fig. 16 and press the shaft into the weight carrier. The tool will properly position the carrier on the shaft.",
+      "source_number": 2,
+      "installs": [
+        "oil_seal_installer",
+        "nut_securing_fig",
+        "weight_carrier"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 235,
+        "quote": "Use installer J 8984 as illustrated in Fig. 16 and press the shaft into the weight carrier. The tool will properly position the carrier on the shaft.",
+        "verified": true,
+        "char_start": 1549,
+        "char_end": 1698,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the smaller hole in the carrier and through the weight. Then. drive the knurled end in just enough so the retaining ring can be installed on the pin.",
+      "source_number": 3,
+      "installs": [
+        "low_speed_weight",
+        "t_push_rod_cam",
+        "weight_pin",
+        "follower_retaining_ring",
+        "front_balance_weight",
+        "copper_plated_dowel_pin",
+        "of_the_oil_hole",
+        "just",
+        "bottom_oil_ring"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 235,
+        "quote": "Position the low speed weights. identified by the long cam arm. on opposite sides of the weight carrier. Drive the weight pins in place and install the retaining rings. To install a weight pin correctly, push the grooved end through the ...",
+        "verified": true,
+        "char_start": 1702,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the high speed weights in a similar manner. The high speed weights are identified by the short cam arm. Fig. 17 - Installing Blower Drive Gear on Shaft",
+      "source_number": 4,
+      "installs": [
+        "high_speed_weight",
+        "engine_speed",
+        "short",
+        "blower_drive_gear"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 235,
+        "quote": "Install the high speed weights in a similar manner. The high speed weights are identified by the short cam arm. Fig. 17 - Installing Blower Drive Gear on Shaft",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2247,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

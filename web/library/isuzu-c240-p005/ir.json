@@ -1,0 +1,178 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.21 - Apply a light coat of engine oil...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "o_ring",
+      "name": "O-ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "o_ring",
+      "provenance": {
+        "page": 21,
+        "quote": "Apply a light coat of engine oil to the O-ring",
+        "verified": true,
+        "char_start": 329,
+        "char_end": 375,
+        "bbox": [
+          300.0,
+          346.0148,
+          507.72183600000005,
+          355.8148
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "fuel_filter",
+      "name": "Fuel filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_filter",
+      "provenance": {
+        "page": 21,
+        "quote": "Supply fuel to the new fuel filter. This will facilitate air bleeding.",
+        "verified": true,
+        "char_start": 379,
+        "char_end": 449,
+        "bbox": [
+          300.00000000000006,
+          362.35490000000004,
+          454.4206993333334,
+          387.70480000000003
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply a light coat of engine oil to the O-ring",
+      "source_number": 1,
+      "installs": [
+        "o_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 21,
+        "quote": "Apply a light coat of engine oil to the O-ring",
+        "verified": true,
+        "char_start": 329,
+        "char_end": 375,
+        "bbox": [
+          300.0,
+          346.0148,
+          507.72183600000005,
+          355.8148
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Supply fuel to the new fuel filter. This will facilitate air bleeding.",
+      "source_number": 2,
+      "installs": [
+        "fuel_filter"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 21,
+        "quote": "Supply fuel to the new fuel filter. This will facilitate air bleeding.",
+        "verified": true,
+        "char_start": 379,
+        "char_end": 449,
+        "bbox": [
+          300.00000000000006,
+          362.35490000000004,
+          454.4206993333334,
+          387.70480000000003
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Turn in the new fuel filter until the filter O-ring is fitted against the sealing face.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 21,
+        "quote": "Turn in the new fuel filter until the filter O-ring is fitted against the sealing face.",
+        "verified": true,
+        "char_start": 453,
+        "char_end": 540,
+        "bbox": [
+          300.24,
+          393.8628,
+          547.8844839999999,
+          415.9298
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Use the filter wrench to turn in the fuel filter an ad- ditional 2/3 of a turn.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 21,
+        "quote": "Use the filter wrench to turn in the fuel filter an ad- ditional 2/3 of a turn.",
+        "verified": true,
+        "char_start": 544,
+        "char_end": 623,
+        "bbox": [
+          300.48,
+          422.1828,
+          545.6013419999999,
+          444.15156666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

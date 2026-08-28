@@ -1,0 +1,248 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.115 - Apply engine oil to the rocker arm...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "either_the_rocker_arm",
+      "name": "Either the rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "either_the_rocker_arm",
+      "provenance": {
+        "page": 115,
+        "quote": "Apply engine oil to the rocker arm and the valve spring.",
+        "verified": true,
+        "char_start": 358,
+        "char_end": 414,
+        "bbox": [
+          308.64,
+          359.7907,
+          552.5493966666666,
+          382.0895666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "valve_spring",
+      "name": "Valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_spring",
+      "provenance": {
+        "page": 115,
+        "quote": "Apply engine oil to the rocker arm and the valve spring.",
+        "verified": true,
+        "char_start": 358,
+        "char_end": 414,
+        "bbox": [
+          308.64,
+          359.7907,
+          552.5493966666666,
+          382.0895666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head_cover",
+      "name": "Cylinder head cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_cover",
+      "provenance": {
+        "page": 115,
+        "quote": "Install the cylinder head cover gasket to the head cover. Check to see that the head cover gasket has no loose areas.",
+        "verified": true,
+        "char_start": 418,
+        "char_end": 535,
+        "bbox": [
+          308.88,
+          390.02380000000005,
+          553.0409300000001,
+          440.4102666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 115,
+        "quote": "Install the cylinder head cover gasket to the head cover. Check to see that the head cover gasket has no loose areas.",
+        "verified": true,
+        "char_start": 418,
+        "char_end": 535,
+        "bbox": [
+          308.88,
+          390.02380000000005,
+          553.0409300000001,
+          440.4102666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 115,
+        "quote": "Install the cylinder head cover gasket to the head cover. Check to see that the head cover gasket has no loose areas.",
+        "verified": true,
+        "char_start": 418,
+        "char_end": 535,
+        "bbox": [
+          308.88,
+          390.02380000000005,
+          553.0409300000001,
+          440.4102666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 115,
+        "quote": "Tighten the cylinder head cover bolts to the specified torque. Cylinder Head Cover Bolt Torque kg-m (Ib.ft/N-m) 0.8 \u2014 1.8 (5.8 - 13.0/7.8 \u2014 17.6)",
+        "verified": true,
+        "char_start": 539,
+        "char_end": 684,
+        "bbox": [
+          289.68,
+          445.9576,
+          554.005852,
+          503.67126666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply engine oil to the rocker arm and the valve spring.",
+      "source_number": 1,
+      "installs": [
+        "either_the_rocker_arm",
+        "valve_spring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 115,
+        "quote": "Apply engine oil to the rocker arm and the valve spring.",
+        "verified": true,
+        "char_start": 358,
+        "char_end": 414,
+        "bbox": [
+          308.64,
+          359.7907,
+          552.5493966666666,
+          382.0895666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the cylinder head cover gasket to the head cover. Check to see that the head cover gasket has no loose areas.",
+      "source_number": 2,
+      "installs": [
+        "cylinder_head_cover",
+        "head_gasket",
+        "cylinder_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 115,
+        "quote": "Install the cylinder head cover gasket to the head cover. Check to see that the head cover gasket has no loose areas.",
+        "verified": true,
+        "char_start": 418,
+        "char_end": 535,
+        "bbox": [
+          308.88,
+          390.02380000000005,
+          553.0409300000001,
+          440.4102666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Tighten the cylinder head cover bolts to the specified torque. Cylinder Head Cover Bolt Torque kg-m (Ib.ft/N-m) 0.8 \u2014 1.8 (5.8 - 13.0/7.8 \u2014 17.6)",
+      "source_number": 3,
+      "installs": [
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 7.8,
+      "warning": null,
+      "provenance": {
+        "page": 115,
+        "quote": "Tighten the cylinder head cover bolts to the specified torque. Cylinder Head Cover Bolt Torque kg-m (Ib.ft/N-m) 0.8 \u2014 1.8 (5.8 - 13.0/7.8 \u2014 17.6)",
+        "verified": true,
+        "char_start": 539,
+        "char_end": 684,
+        "bbox": [
+          289.68,
+          445.9576,
+          554.005852,
+          503.67126666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

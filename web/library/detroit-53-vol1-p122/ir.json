@@ -1,0 +1,1228 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.236 - Install the blower and governor assembly on...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 236,
+        "quote": "Install the blower and governor assembly on the engine as outlined in Section 34.",
+        "verified": true,
+        "char_start": 363,
+        "char_end": 444,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_assembly",
+      "name": "Governor assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_assembly",
+      "provenance": {
+        "page": 236,
+        "quote": "Install the blower and governor assembly on the engine as outlined in Section 34.",
+        "verified": true,
+        "char_start": 363,
+        "char_end": 444,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 236,
+        "quote": "Install the blower and governor assembly on the engine as outlined in Section 34.",
+        "verified": true,
+        "char_start": 363,
+        "char_end": 444,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support_assembly",
+      "name": "Blower drive support assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support_assembly",
+      "provenance": {
+        "page": 236,
+        "quote": "Install the blower drive support assembly as outlined in Section 3.4 under Install Blower in 6V Engine.",
+        "verified": true,
+        "char_start": 448,
+        "char_end": 551,
+        "bbox": [
+          57.120000000000005,
+          438.60599999999994,
+          296.90448000000004,
+          458.6719999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "upper_fuel_rod",
+      "name": "Upper fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_fuel_rod",
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_rod_cover",
+      "name": "Fuel rod cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_rod_cover",
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_link_lever",
+      "name": "Control link lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_lever",
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "link_pin",
+      "name": "Link pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "link_pin",
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lower_fuel_rod",
+      "name": "Lower fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_fuel_rod",
+      "provenance": {
+        "page": 236,
+        "quote": "Attach. the. lower fuel rods to the injector control tube levers and to the upper fuel rods.",
+        "verified": true,
+        "char_start": 735,
+        "char_end": 827,
+        "bbox": [
+          57.60000000000002,
+          524.045,
+          297.4755,
+          543.837
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 236,
+        "quote": "Attach. the. lower fuel rods to the injector control tube levers and to the upper fuel rods.",
+        "verified": true,
+        "char_start": 735,
+        "char_end": 827,
+        "bbox": [
+          57.60000000000002,
+          524.045,
+          297.4755,
+          543.837
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 236,
+        "quote": "Slide the fuel rod cover hoses in place and secure them with the hose clamps.",
+        "verified": true,
+        "char_start": 831,
+        "char_end": 908,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "industrial_governor_spring",
+      "name": "Industrial governor spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "industrial_governor_spring",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idle",
+      "name": "Idle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idle",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_screw",
+      "name": "Speed adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_screw",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_plunger",
+      "name": "High speed spring plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_plunger",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_plunger",
+      "name": "End of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_plunger",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idle_speed_adjusting",
+      "name": "Idle speed adjusting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idle_speed_adjusting",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "low_speed_spring",
+      "name": "Low speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_spring",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "low_speed_spring_cap",
+      "name": "Low-speed spring cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_spring_cap",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_assembly",
+      "name": "Spring assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_assembly",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_nut_finger",
+      "name": "Lock nut finger-",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_nut_finger",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gap_adjusting_screw",
+      "name": "Gap adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gap_adjusting_screw",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 236,
+        "quote": "Place a new gasket on the governor housing and install the cover and lever assembly. Make sure the control link lever engages the pin on the differential lever. Also, be sure the pin in the speed control shaft enters the slot in the diff...",
+        "verified": true,
+        "char_start": 2465,
+        "char_end": 2928,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 236,
+        "quote": "Place a new gasket on the governor housing and install the cover and lever assembly. Make sure the control link lever engages the pin on the differential lever. Also, be sure the pin in the speed control shaft enters the slot in the diff...",
+        "verified": true,
+        "char_start": 2465,
+        "char_end": 2928,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_control_shaft",
+      "name": "Speed control shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_shaft",
+      "provenance": {
+        "page": 236,
+        "quote": "Place a new gasket on the governor housing and install the cover and lever assembly. Make sure the control link lever engages the pin on the differential lever. Also, be sure the pin in the speed control shaft enters the slot in the diff...",
+        "verified": true,
+        "char_start": 2465,
+        "char_end": 2928,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_slot",
+      "name": "Tbe slot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_slot",
+      "provenance": {
+        "page": 236,
+        "quote": "Place a new gasket on the governor housing and install the cover and lever assembly. Make sure the control link lever engages the pin on the differential lever. Also, be sure the pin in the speed control shaft enters the slot in the diff...",
+        "verified": true,
+        "char_start": 2465,
+        "char_end": 2928,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "stop_lever_shaft",
+      "name": "Stop lever shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "stop_lever_shaft",
+      "provenance": {
+        "page": 236,
+        "quote": "Place a new gasket on the governor housing and install the cover and lever assembly. Make sure the control link lever engages the pin on the differential lever. Also, be sure the pin in the speed control shaft enters the slot in the diff...",
+        "verified": true,
+        "char_start": 2465,
+        "char_end": 2928,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 236,
+        "quote": "Place a new gasket on the governor housing and install the cover and lever assembly. Make sure the control link lever engages the pin on the differential lever. Also, be sure the pin in the speed control shaft enters the slot in the diff...",
+        "verified": true,
+        "char_start": 2465,
+        "char_end": 2928,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_link",
+      "name": "Connecting link",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_link",
+      "provenance": {
+        "page": 236,
+        "quote": "Place a new gasket on the governor housing and install the cover and lever assembly. Make sure the control link lever engages the pin on the differential lever. Also, be sure the pin in the speed control shaft enters the slot in the diff...",
+        "verified": true,
+        "char_start": 2465,
+        "char_end": 2928,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 236,
+        "quote": "Place a new gasket on the governor housing and install the cover and lever assembly. Make sure the control link lever engages the pin on the differential lever. Also, be sure the pin in the speed control shaft enters the slot in the diff...",
+        "verified": true,
+        "char_start": 2465,
+        "char_end": 2928,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_linkage",
+      "name": "Governor linkage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_linkage",
+      "provenance": {
+        "page": 236,
+        "quote": "Connect the linkage to the governor control levers after the engine tune-up is performed.",
+        "verified": true,
+        "char_start": 2932,
+        "char_end": 3021,
+        "bbox": [
+          324.72,
+          660.0899999999999,
+          562.2672,
+          680.9739999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_control",
+      "name": "Governor control",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_control",
+      "provenance": {
+        "page": 236,
+        "quote": "Connect the linkage to the governor control levers after the engine tune-up is performed.",
+        "verified": true,
+        "char_start": 2932,
+        "char_end": 3021,
+        "bbox": [
+          324.72,
+          660.0899999999999,
+          562.2672,
+          680.9739999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the blower and governor assembly on the engine as outlined in Section 34.",
+      "source_number": 2,
+      "installs": [
+        "assembly_examine_the_blower",
+        "governor_assembly",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 236,
+        "quote": "Install the blower and governor assembly on the engine as outlined in Section 34.",
+        "verified": true,
+        "char_start": 363,
+        "char_end": 444,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the blower drive support assembly as outlined in Section 3.4 under Install Blower in 6V Engine.",
+      "source_number": 3,
+      "installs": [
+        "blower_drive_support_assembly"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 236,
+        "quote": "Install the blower drive support assembly as outlined in Section 3.4 under Install Blower in 6V Engine.",
+        "verified": true,
+        "char_start": 448,
+        "char_end": 551,
+        "bbox": [
+          57.120000000000005,
+          438.60599999999994,
+          296.90448000000004,
+          458.6719999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+      "source_number": 4,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "upper_fuel_rod",
+        "fuel_rod_cover",
+        "breather_tube_clamp",
+        "governor_fuel_rod",
+        "blower_the_engine_governor",
+        "control_link_lever",
+        "bolt_thread",
+        "link_pin",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 236,
+        "quote": "Insert the upper fuel rods through the fuel rod covers, hoses and clamps and attach the fuel rods to the governor control link lever. Then. thread the link pins into the lever.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 731,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Attach. the. lower fuel rods to the injector control tube levers and to the upper fuel rods.",
+      "source_number": 5,
+      "installs": [
+        "lower_fuel_rod",
+        "injector_control_tube"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 236,
+        "quote": "Attach. the. lower fuel rods to the injector control tube levers and to the upper fuel rods.",
+        "verified": true,
+        "char_start": 735,
+        "char_end": 827,
+        "bbox": [
+          57.60000000000002,
+          524.045,
+          297.4755,
+          543.837
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Slide the fuel rod cover hoses in place and secure them with the hose clamps.",
+      "source_number": 6,
+      "installs": [
+        "hose_clamp"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 236,
+        "quote": "Slide the fuel rod cover hoses in place and secure them with the hose clamps.",
+        "verified": true,
+        "char_start": 831,
+        "char_end": 908,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the close wound coils toward the idle screw end of the plunger). d. Lubricate the spring and plunger assembly with engine oil. Then, install the spring and plunger assembly in the spring retainer and secure it in place with a lock nut. Approximately 1/4\" of the idle speed adjusting screw should extend beyond the lock nut. e. Lubricate and insert the spring seat, low speed spring. and spring cap in the open end of the spring plunger. f. Place \u00e0 new gasket over the spring retainer and thread the retainer and spring assembly into the governor housing. Tighten the lock nut finger- tight until the engine tune-up is performed. TYPE B (Fig. 6): a. Thread the idle speed adjusting screw into the spring plunger. b. Reinstall the original shims over the spring plunger. c. Place the high speed spring over the spring plunger. d. Lubricate the spring and plunger assembly with engine oil. Then. place the spring retainer over the plunger and secure it with a lock nut. Approximately 1/4\" of the idle speed adjusting screw should extend beyond the lock nut. e. Lubricate and insert the spring seat. low speed spring and spring cap in the open end of the spring plunger. f. Thread the retainer and spring assembly into the governor housing. The cover and gasket are to be installed after the engine tune-up is performed.",
+      "source_number": 7,
+      "installs": [
+        "industrial_governor_spring",
+        "nut_securing_fig",
+        "bearing_lock_nut",
+        "high_speed_spring_retainer",
+        "idle",
+        "speed_adjusting_screw",
+        "high_speed_spring_plunger",
+        "engine_speed",
+        "end_of_the_spring",
+        "area_of_the_plunger",
+        "of_the_buffer_screw",
+        "end_of_the_plunger",
+        "drive_shaft_retainer",
+        "front_balance_weight_nut",
+        "idle_speed_adjusting",
+        "drive_spring_seat",
+        "low_speed_spring",
+        "low_speed_spring_cap",
+        "head_gasket",
+        "spring_assembly",
+        "disassemble_governor_housing",
+        "lock_nut_finger",
+        "locknut_finger_tight",
+        "gap_adjusting_screw",
+        "rotor_shim",
+        "insert_remover_valve_seat",
+        "clean_shipping_cap",
+        "of_the_flywheel_housing",
+        "underside_of_the_cover"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 236,
+        "quote": "Assemble the governor springs as follows: TYPE A (Fig. 6): a. Thread the lock nut on the spring retainer. b. Thread the idle speed adjusting screw into the spring plunger. c. Place the high speed spring over the spring plunger (with the ...",
+        "verified": true,
+        "char_start": 912,
+        "char_end": 2461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Place a new gasket on the governor housing and install the cover and lever assembly. Make sure the control link lever engages the pin on the differential lever. Also, be sure the pin in the speed control shaft enters the slot in the differential lever and that the pin in the stop lever shaft is engaged between the stop on the underside of the cover and the vertical extension of the control link lever. Then, secure the cover with seven screws and lock washers.",
+      "source_number": 8,
+      "installs": [
+        "copper_plated_dowel_pin",
+        "governor_differential_lever",
+        "speed_control_shaft",
+        "tbe_slot",
+        "stop_lever_shaft",
+        "solid_stop",
+        "connecting_link",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s03",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 236,
+        "quote": "Place a new gasket on the governor housing and install the cover and lever assembly. Make sure the control link lever engages the pin on the differential lever. Also, be sure the pin in the speed control shaft enters the slot in the diff...",
+        "verified": true,
+        "char_start": 2465,
+        "char_end": 2928,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Connect the linkage to the governor control levers after the engine tune-up is performed.",
+      "source_number": 9,
+      "installs": [
+        "governor_linkage",
+        "governor_control"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 236,
+        "quote": "Connect the linkage to the governor control levers after the engine tune-up is performed.",
+        "verified": true,
+        "char_start": 2932,
+        "char_end": 3021,
+        "bbox": [
+          324.72,
+          660.0899999999999,
+          562.2672,
+          680.9739999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Perform an engine tune-up as outlined in Section 14.",
+      "source_number": 10,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 236,
+        "quote": "Perform an engine tune-up as outlined in Section 14.",
+        "verified": true,
+        "char_start": 3026,
+        "char_end": 3078,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

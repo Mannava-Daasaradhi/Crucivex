@@ -1,0 +1,207 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.81 - Inspect the crankshaft journal surfaces and the...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 81,
+        "quote": "Inspect the crankshaft journal surfaces and the crankpin surfaces for excessive wear and damage.",
+        "verified": true,
+        "char_start": 1012,
+        "char_end": 1108,
+        "bbox": [
+          294.4800000000001,
+          524.7777000000001,
+          539.1256490000001,
+          546.9722666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "case_oil_seal",
+      "name": "Case oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "case_oil_seal",
+      "provenance": {
+        "page": 81,
+        "quote": "Inspect the oil seal fitting surfaces of the crankshaft front and rear ends for excessive wear and damage.",
+        "verified": true,
+        "char_start": 1112,
+        "char_end": 1218,
+        "bbox": [
+          294.4800000000001,
+          552.9627,
+          538.1820500000001,
+          575.1588
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Inspect the crankshaft journal surfaces and the crankpin surfaces for excessive wear and damage.",
+      "source_number": 1,
+      "installs": [
+        "crankshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 81,
+        "quote": "Inspect the crankshaft journal surfaces and the crankpin surfaces for excessive wear and damage.",
+        "verified": true,
+        "char_start": 1012,
+        "char_end": 1108,
+        "bbox": [
+          294.4800000000001,
+          524.7777000000001,
+          539.1256490000001,
+          546.9722666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Inspect the oil seal fitting surfaces of the crankshaft front and rear ends for excessive wear and damage.",
+      "source_number": 2,
+      "installs": [
+        "case_oil_seal"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 81,
+        "quote": "Inspect the oil seal fitting surfaces of the crankshaft front and rear ends for excessive wear and damage.",
+        "verified": true,
+        "char_start": 1112,
+        "char_end": 1218,
+        "bbox": [
+          294.4800000000001,
+          552.9627,
+          538.1820500000001,
+          575.1588
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Replace or repair the crankshaft if any excessive wear or damage is discovered.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 81,
+        "quote": "Replace or repair the crankshaft if any excessive wear or damage is discovered.",
+        "verified": true,
+        "char_start": 1222,
+        "char_end": 1301,
+        "bbox": [
+          294.4799999999999,
+          581.5099,
+          538.110984,
+          603.2443333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Inspect the crankshaft oil ports for obstructions.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 81,
+        "quote": "Inspect the crankshaft oil ports for obstructions.",
+        "verified": true,
+        "char_start": 1305,
+        "char_end": 1355,
+        "bbox": [
+          295.2,
+          609.2808,
+          517.488392,
+          619.0808000000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Use high pressure air to clean the oil ports is necess- ary.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 81,
+        "quote": "Use high pressure air to clean the oil ports is necess- ary.",
+        "verified": true,
+        "char_start": 1359,
+        "char_end": 1419,
+        "bbox": [
+          295.2,
+          625.3298,
+          538.322996,
+          647.4142666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

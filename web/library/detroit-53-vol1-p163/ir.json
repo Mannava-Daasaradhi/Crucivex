@@ -1,0 +1,983 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.281 - Place the drive gear (46), bearing housing...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 281,
+        "quote": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear...",
+        "verified": true,
+        "char_start": 1484,
+        "char_end": 1868,
+        "bbox": [
+          81.35999999999993,
+          657.491,
+          583.23,
+          710.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_housing",
+      "name": "Bearing housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_housing",
+      "provenance": {
+        "page": 281,
+        "quote": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear...",
+        "verified": true,
+        "char_start": 1484,
+        "char_end": 1868,
+        "bbox": [
+          81.35999999999993,
+          657.491,
+          583.23,
+          710.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 281,
+        "quote": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear...",
+        "verified": true,
+        "char_start": 1484,
+        "char_end": 1868,
+        "bbox": [
+          81.35999999999993,
+          657.491,
+          583.23,
+          710.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 281,
+        "quote": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear...",
+        "verified": true,
+        "char_start": 1484,
+        "char_end": 1868,
+        "bbox": [
+          81.35999999999993,
+          657.491,
+          583.23,
+          710.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spider",
+      "provenance": {
+        "page": 281,
+        "quote": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear...",
+        "verified": true,
+        "char_start": 1484,
+        "char_end": 1868,
+        "bbox": [
+          81.35999999999993,
+          657.491,
+          583.23,
+          710.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 281,
+        "quote": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear...",
+        "verified": true,
+        "char_start": 1484,
+        "char_end": 1868,
+        "bbox": [
+          81.35999999999993,
+          657.491,
+          583.23,
+          710.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 281,
+        "quote": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear...",
+        "verified": true,
+        "char_start": 1484,
+        "char_end": 1868,
+        "bbox": [
+          81.35999999999993,
+          657.491,
+          583.23,
+          710.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 281,
+        "quote": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear...",
+        "verified": true,
+        "char_start": 1484,
+        "char_end": 1868,
+        "bbox": [
+          81.35999999999993,
+          657.491,
+          583.23,
+          710.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 281,
+        "quote": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear...",
+        "verified": true,
+        "char_start": 1484,
+        "char_end": 1868,
+        "bbox": [
+          81.35999999999993,
+          657.491,
+          583.23,
+          710.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bolt (54) which retains the governor speed control lever (49) to the governor body. Remove the speed adjusting spring (39) and the speed control lever.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_speed_control",
+      "name": "Governor speed control",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_speed_control",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bolt (54) which retains the governor speed control lever (49) to the governor body. Remove the speed adjusting spring (39) and the speed control lever.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bolt (54) which retains the governor speed control lever (49) to the governor body. Remove the speed adjusting spring (39) and the speed control lever.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bolt (54) which retains the governor speed control lever (49) to the governor body. Remove the speed adjusting spring (39) and the speed control lever.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bolt (54) which retains the governor speed control lever (49) to the governor body. Remove the speed adjusting spring (39) and the speed control lever.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_spring",
+      "name": "Speed adjusting spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_spring",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bolt (54) which retains the governor speed control lever (49) to the governor body. Remove the speed adjusting spring (39) and the speed control lever.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_control_lever",
+      "name": "Speed control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_lever",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bolt (54) which retains the governor speed control lever (49) to the governor body. Remove the speed adjusting spring (39) and the speed control lever.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idle",
+      "name": "Idle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idle",
+      "provenance": {
+        "page": 282,
+        "quote": "If desired. the idle (36) and maximum (37) speed adjusting screws can be removed from the speed control lever at this ume.",
+        "verified": true,
+        "char_start": 171,
+        "char_end": 293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_screw",
+      "name": "Speed adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_screw",
+      "provenance": {
+        "page": 282,
+        "quote": "If desired. the idle (36) and maximum (37) speed adjusting screws can be removed from the speed control lever at this ume.",
+        "verified": true,
+        "char_start": 171,
+        "char_end": 293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 282,
+        "quote": "If desired. remove the buffer screw and spring assembly (42).",
+        "verified": true,
+        "char_start": 298,
+        "char_end": 359,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_assembly",
+      "name": "Spring assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_assembly",
+      "provenance": {
+        "page": 282,
+        "quote": "If desired. remove the buffer screw and spring assembly (42).",
+        "verified": true,
+        "char_start": 298,
+        "char_end": 359,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the operating fork (3) by removing the two special bolts (4) and lock washers which retain it to the rocker shaft (24).",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 490,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the operating fork (3) by removing the two special bolts (4) and lock washers which retain it to the rocker shaft (24).",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 490,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_shaft",
+      "name": "Rocker shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_shaft",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the operating fork (3) by removing the two special bolts (4) and lock washers which retain it to the rocker shaft (24).",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 490,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_plug",
+      "name": "Oil seal plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_plug",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the oil seal plug (17) by driving lightly with a small punch at the lower edge of the plug. thus forcing the upper edge outward. Then place a screw driver behind the plug and remove the plug. Remove the two oil seal plug gaskets (...",
+        "verified": true,
+        "char_start": 495,
+        "char_end": 870,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the oil seal plug (17) by driving lightly with a small punch at the lower edge of the plug. thus forcing the upper edge outward. Then place a screw driver behind the plug and remove the plug. Remove the two oil seal plug gaskets (...",
+        "verified": true,
+        "char_start": 495,
+        "char_end": 870,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the oil seal plug (17) by driving lightly with a small punch at the lower edge of the plug. thus forcing the upper edge outward. Then place a screw driver behind the plug and remove the plug. Remove the two oil seal plug gaskets (...",
+        "verified": true,
+        "char_start": 495,
+        "char_end": 870,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "screw_driver_behind",
+      "name": "Screw driver behind",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "screw_driver_behind",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the oil seal plug (17) by driving lightly with a small punch at the lower edge of the plug. thus forcing the upper edge outward. Then place a screw driver behind the plug and remove the plug. Remove the two oil seal plug gaskets (...",
+        "verified": true,
+        "char_start": 495,
+        "char_end": 870,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the oil seal plug (17) by driving lightly with a small punch at the lower edge of the plug. thus forcing the upper edge outward. Then place a screw driver behind the plug and remove the plug. Remove the two oil seal plug gaskets (...",
+        "verified": true,
+        "char_start": 495,
+        "char_end": 870,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the oil seal plug (17) by driving lightly with a small punch at the lower edge of the plug. thus forcing the upper edge outward. Then place a screw driver behind the plug and remove the plug. Remove the two oil seal plug gaskets (...",
+        "verified": true,
+        "char_start": 495,
+        "char_end": 870,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retaining_snap",
+      "name": "Bearing retaining snap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retaining_snap",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bearing retaining snap ring (18) from the rocker shaft (24). Then tap the rocker shaft lightly to withdraw it from the governor body.",
+        "verified": true,
+        "char_start": 875,
+        "char_end": 1019,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bearing retaining snap ring (18) from the rocker shaft (24). Then tap the rocker shaft lightly to withdraw it from the governor body.",
+        "verified": true,
+        "char_start": 875,
+        "char_end": 1019,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inner_bearing",
+      "name": "Inner bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner_bearing",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the inner bearing (19) from the governor body.",
+        "verified": true,
+        "char_start": 1024,
+        "char_end": 1077,
+        "bbox": [
+          59.28000000000003,
+          395.60999999999996,
+          296.80800000000005,
+          416.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "outer_bearing",
+      "name": "Outer bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outer_bearing",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the outer bearing (20) from the rocker shaft.",
+        "verified": true,
+        "char_start": 1082,
+        "char_end": 1134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the external snap ring from the rocker shaft and remove the oil seal (22) and oil seal retainer (23).",
+        "verified": true,
+        "char_start": 1139,
+        "char_end": 1247,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_retainer",
+      "name": "Oil seal retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_retainer",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the external snap ring from the rocker shaft and remove the oil seal (22) and oil seal retainer (23).",
+        "verified": true,
+        "char_start": 1139,
+        "char_end": 1247,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_shaft_lever",
+      "name": "Rocker shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_shaft_lever",
+      "provenance": {
+        "page": 282,
+        "quote": "If desired, remove the rocker shaft lever (27) from the rocker shaft by driving out the roll pin (25) and tapping the shaft gently to facilitate removal.",
+        "verified": true,
+        "char_start": 1252,
+        "char_end": 1405,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "roll_pin",
+      "name": "Roll pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "roll_pin",
+      "provenance": {
+        "page": 282,
+        "quote": "If desired, remove the rocker shaft lever (27) from the rocker shaft by driving out the roll pin (25) and tapping the shaft gently to facilitate removal.",
+        "verified": true,
+        "char_start": 1252,
+        "char_end": 1405,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear. Then press the drive gear from the shaft, using a brass rod between the NOTE: The bearing is a light press fit in the ram and the shaft. housing.",
+      "source_number": 6,
+      "installs": [
+        "fuel_pump_drive_gear",
+        "bearing_housing",
+        "bearing_the_end_bearing",
+        "of_the_flywheel_housing",
+        "spider",
+        "drive_shaft_assembly",
+        "assembly_rear_end_plate",
+        "end_of_the_shaft",
+        "bearing_pilot_rod"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The bearing is a light press fit in the ram and the shaft.",
+      "provenance": {
+        "page": 281,
+        "quote": "Place the drive gear (46), bearing housing (43) and the bearing (12) in the bearing housing (43). Then the spider and shaft assembly (10) in an arbor press? separate the bearing from the bearing housing. using split plates under the gear...",
+        "verified": true,
+        "char_start": 1484,
+        "char_end": 1868,
+        "bbox": [
+          81.35999999999993,
+          657.491,
+          583.23,
+          710.17
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the bolt (54) which retains the governor speed control lever (49) to the governor body. Remove the speed adjusting spring (39) and the speed control lever.",
+      "source_number": 10,
+      "installs": [
+        "engine_front_cover_bolt",
+        "governor_speed_control",
+        "of_the_stop_lever",
+        "blower_the_engine_governor",
+        "breather_body",
+        "speed_adjusting_spring",
+        "speed_control_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bolt (54) which retains the governor speed control lever (49) to the governor body. Remove the speed adjusting spring (39) and the speed control lever.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "If desired. the idle (36) and maximum (37) speed adjusting screws can be removed from the speed control lever at this ume.",
+      "source_number": 11,
+      "installs": [
+        "idle",
+        "speed_adjusting_screw"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 282,
+        "quote": "If desired. the idle (36) and maximum (37) speed adjusting screws can be removed from the speed control lever at this ume.",
+        "verified": true,
+        "char_start": 171,
+        "char_end": 293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "If desired. remove the buffer screw and spring assembly (42).",
+      "source_number": 12,
+      "installs": [
+        "of_the_buffer_screw",
+        "spring_assembly"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 282,
+        "quote": "If desired. remove the buffer screw and spring assembly (42).",
+        "verified": true,
+        "char_start": 298,
+        "char_end": 359,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the operating fork (3) by removing the two special bolts (4) and lock washers which retain it to the rocker shaft (24).",
+      "source_number": 13,
+      "installs": [
+        "governor_operating_fork",
+        "special_lock_washer",
+        "rocker_shaft"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the operating fork (3) by removing the two special bolts (4) and lock washers which retain it to the rocker shaft (24).",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 490,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the oil seal plug (17) by driving lightly with a small punch at the lower edge of the plug. thus forcing the upper edge outward. Then place a screw driver behind the plug and remove the plug. Remove the two oil seal plug gaskets (51). NOTE: If necessary, use a chisel and cut a slot in the center of the plug; then. using \u0430 screw driver, pry the plug from the housing.",
+      "source_number": 14,
+      "installs": [
+        "oil_seal_plug",
+        "edge_of_the_plug",
+        "hammer_spring_scale_upper",
+        "screw_driver_behind",
+        "crankshaft_front_oil_seal",
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: If necessary, use a chisel and cut a slot in the center of the plug; then.",
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the oil seal plug (17) by driving lightly with a small punch at the lower edge of the plug. thus forcing the upper edge outward. Then place a screw driver behind the plug and remove the plug. Remove the two oil seal plug gaskets (...",
+        "verified": true,
+        "char_start": 495,
+        "char_end": 870,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the bearing retaining snap ring (18) from the rocker shaft (24). Then tap the rocker shaft lightly to withdraw it from the governor body.",
+      "source_number": 15,
+      "installs": [
+        "bearing_retaining_snap",
+        "bottom_oil_ring"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the bearing retaining snap ring (18) from the rocker shaft (24). Then tap the rocker shaft lightly to withdraw it from the governor body.",
+        "verified": true,
+        "char_start": 875,
+        "char_end": 1019,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the inner bearing (19) from the governor body.",
+      "source_number": 16,
+      "installs": [
+        "inner_bearing"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the inner bearing (19) from the governor body.",
+        "verified": true,
+        "char_start": 1024,
+        "char_end": 1077,
+        "bbox": [
+          59.28000000000003,
+          395.60999999999996,
+          296.80800000000005,
+          416.287
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the outer bearing (20) from the rocker shaft.",
+      "source_number": 17,
+      "installs": [
+        "outer_bearing"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the outer bearing (20) from the rocker shaft.",
+        "verified": true,
+        "char_start": 1082,
+        "char_end": 1134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Remove the external snap ring from the rocker shaft and remove the oil seal (22) and oil seal retainer (23).",
+      "source_number": 18,
+      "installs": [
+        "external_snap_ring",
+        "oil_seal_retainer"
+      ],
+      "depends_on": [
+        "s05",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 282,
+        "quote": "Remove the external snap ring from the rocker shaft and remove the oil seal (22) and oil seal retainer (23).",
+        "verified": true,
+        "char_start": 1139,
+        "char_end": 1247,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "If desired, remove the rocker shaft lever (27) from the rocker shaft by driving out the roll pin (25) and tapping the shaft gently to facilitate removal.",
+      "source_number": 19,
+      "installs": [
+        "rocker_shaft_lever",
+        "roll_pin"
+      ],
+      "depends_on": [
+        "s01",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 282,
+        "quote": "If desired, remove the rocker shaft lever (27) from the rocker shaft by driving out the roll pin (25) and tapping the shaft gently to facilitate removal.",
+        "verified": true,
+        "char_start": 1252,
+        "char_end": 1405,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.157 - Remove the nozzle needle from the nozzle...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "nozzle_needle",
+      "name": "Nozzle needle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nozzle_needle",
+      "provenance": {
+        "page": 157,
+        "quote": "Remove the nozzle needle from the nozzle body.",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 210,
+        "bbox": [
+          313.2,
+          205.95600000000002,
+          539.4142666666668,
+          215.28933333333327
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 157,
+        "quote": "Check that the nozzle needle moves smoothly inside < the injection nozzle body. If the nozzle needle does not move smoothly, it must be replaced. \u00a9 Push Rod Inspection Check both push rod seating positions (needle valve and spring seat) ...",
+        "verified": true,
+        "char_start": 292,
+        "char_end": 643,
+        "bbox": [
+          142.08,
+          250.24900000000002,
+          553.21952,
+          397.45073333333335
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "turbocharger_assembly_valve",
+      "name": "Turbocharger assembly valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbocharger_assembly_valve",
+      "provenance": {
+        "page": 157,
+        "quote": "Check that the nozzle needle moves smoothly inside < the injection nozzle body. If the nozzle needle does not move smoothly, it must be replaced. \u00a9 Push Rod Inspection Check both push rod seating positions (needle valve and spring seat) ...",
+        "verified": true,
+        "char_start": 292,
+        "char_end": 643,
+        "bbox": [
+          142.08,
+          250.24900000000002,
+          553.21952,
+          397.45073333333335
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head_cover",
+      "name": "Cylinder head cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_cover",
+      "provenance": {
+        "page": 158,
+        "quote": "Body cover gasket 8. Gasket",
+        "verified": true,
+        "char_start": 147,
+        "char_end": 174,
+        "bbox": [
+          147.6,
+          560.0622000000001,
+          385.201632,
+          571.2622
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 158,
+        "quote": "Body cover gasket 8. Gasket",
+        "verified": true,
+        "char_start": 147,
+        "char_end": 174,
+        "bbox": [
+          147.6,
+          560.0622000000001,
+          385.201632,
+          571.2622
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the nozzle needle from the nozzle body.",
+      "source_number": 1,
+      "installs": [
+        "nozzle_needle"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 157,
+        "quote": "Remove the nozzle needle from the nozzle body.",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 210,
+        "bbox": [
+          313.2,
+          205.95600000000002,
+          539.4142666666668,
+          215.28933333333327
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Carefully wash the nozzle needle and the nozzle body in clean diesel fuel.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 157,
+        "quote": "Carefully wash the nozzle needle and the nozzle body in clean diesel fuel.",
+        "verified": true,
+        "char_start": 214,
+        "char_end": 288,
+        "bbox": [
+          309.8399999999999,
+          221.80290000000002,
+          552.9943239999999,
+          243.36980000000005
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Check that the nozzle needle moves smoothly inside < the injection nozzle body. If the nozzle needle does not move smoothly, it must be replaced. \u00a9 Push Rod Inspection Check both push rod seating positions (needle valve and spring seat) for excessive wear and cracking. If either of these two conditions are present, the push , a rod must be replaced.",
+      "source_number": 3,
+      "installs": [
+        "push_rod",
+        "turbocharger_assembly_valve"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 157,
+        "quote": "Check that the nozzle needle moves smoothly inside < the injection nozzle body. If the nozzle needle does not move smoothly, it must be replaced. \u00a9 Push Rod Inspection Check both push rod seating positions (needle valve and spring seat) ...",
+        "verified": true,
+        "char_start": 292,
+        "char_end": 643,
+        "bbox": [
+          142.08,
+          250.24900000000002,
+          553.21952,
+          397.45073333333335
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Body cover gasket 8. Gasket",
+      "source_number": 4,
+      "installs": [
+        "cylinder_head_cover",
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 158,
+        "quote": "Body cover gasket 8. Gasket",
+        "verified": true,
+        "char_start": 147,
+        "char_end": 174,
+        "bbox": [
+          147.6,
+          560.0622000000001,
+          385.201632,
+          571.2622
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

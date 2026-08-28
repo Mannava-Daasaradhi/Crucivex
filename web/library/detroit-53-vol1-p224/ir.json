@@ -1,0 +1,555 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.391 - Install the copper-plated dowel pin to the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 391,
+        "quote": "Install the copper-plated dowel pin to the full depth",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 260,
+        "bbox": [
+          358.08000000000004,
+          150.32999999999993,
+          585.9240000000001,
+          160.32999999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 391,
+        "quote": "Locate and mark the center of hole \"A\" as shown in Fig. 5. The center of hole \"A\" is where the center line REMOVE PLUG (B-B) of the horizontal oil gallery intersects with the",
+        "verified": true,
+        "char_start": 340,
+        "char_end": 514,
+        "bbox": [
+          267.84,
+          182.01,
+          587.9422000000001,
+          213.84799999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 391,
+        "quote": "Locate and mark the center of hole \"A\" as shown in Fig. 5. The center of hole \"A\" is where the center line REMOVE PLUG (B-B) of the horizontal oil gallery intersects with the",
+        "verified": true,
+        "char_start": 340,
+        "char_end": 514,
+        "bbox": [
+          267.84,
+          182.01,
+          587.9422000000001,
+          213.84799999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 391,
+        "quote": "Locate and mark the center of hole \"A\" as shown in Fig. 5. The center of hole \"A\" is where the center line REMOVE PLUG (B-B) of the horizontal oil gallery intersects with the",
+        "verified": true,
+        "char_start": 340,
+        "char_end": 514,
+        "bbox": [
+          267.84,
+          182.01,
+          587.9422000000001,
+          213.84799999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 391,
+        "quote": "Locate and mark the center of hole \"A\" as shown in Fig. 5. The center of hole \"A\" is where the center line REMOVE PLUG (B-B) of the horizontal oil gallery intersects with the",
+        "verified": true,
+        "char_start": 340,
+        "char_end": 514,
+        "bbox": [
+          267.84,
+          182.01,
+          587.9422000000001,
+          213.84799999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "either_an_end_mill",
+      "name": "Either an end mill",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "either_an_end_mill",
+      "provenance": {
+        "page": 391,
+        "quote": "Place either an end mill or a 3/4\u201d counterbore",
+        "verified": true,
+        "char_start": 975,
+        "char_end": 1021,
+        "bbox": [
+          360.24,
+          291.489,
+          584.2908,
+          300.489
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 391,
+        "quote": "Place either an end mill or a 3/4\u201d counterbore",
+        "verified": true,
+        "char_start": 975,
+        "char_end": 1021,
+        "bbox": [
+          360.24,
+          291.489,
+          584.2908,
+          300.489
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 391,
+        "quote": "Wash the end plate in clean fuel oil to remove the | PRESS PIN TO BOTTOM OF metal cuttings and dry it with compressed air. 4975 REAMEO HOLE",
+        "verified": true,
+        "char_start": 1304,
+        "char_end": 1443,
+        "bbox": [
+          227.04,
+          355.28999999999996,
+          586.0088999999999,
+          377.638
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 391,
+        "quote": "Wash the end plate in clean fuel oil to remove the | PRESS PIN TO BOTTOM OF metal cuttings and dry it with compressed air. 4975 REAMEO HOLE",
+        "verified": true,
+        "char_start": 1304,
+        "char_end": 1443,
+        "bbox": [
+          227.04,
+          355.28999999999996,
+          586.0088999999999,
+          377.638
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "metal_cutting",
+      "name": "Metal cutting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "metal_cutting",
+      "provenance": {
+        "page": 391,
+        "quote": "Wash the end plate in clean fuel oil to remove the | PRESS PIN TO BOTTOM OF metal cuttings and dry it with compressed air. 4975 REAMEO HOLE",
+        "verified": true,
+        "char_start": 1304,
+        "char_end": 1443,
+        "bbox": [
+          227.04,
+          355.28999999999996,
+          586.0088999999999,
+          377.638
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 391,
+        "quote": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush t...",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 2346,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 391,
+        "quote": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush t...",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 2346,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_assembly",
+      "name": "Blower assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_assembly",
+      "provenance": {
+        "page": 391,
+        "quote": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush t...",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 2346,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_end_plate",
+      "name": "Front end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_end_plate",
+      "provenance": {
+        "page": 391,
+        "quote": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush t...",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 2346,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pipe_plug",
+      "name": "Pipe plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pipe_plug",
+      "provenance": {
+        "page": 391,
+        "quote": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush t...",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 2346,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 391,
+        "quote": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush t...",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 2346,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 391,
+        "quote": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush t...",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 2346,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 391,
+        "quote": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush t...",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 2346,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder_of_the_reamer",
+      "name": "Shoulder of the reamer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder_of_the_reamer",
+      "provenance": {
+        "page": 391,
+        "quote": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush t...",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 2346,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the copper-plated dowel pin to the full depth",
+      "source_number": 2,
+      "installs": [
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 391,
+        "quote": "Install the copper-plated dowel pin to the full depth",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 260,
+        "bbox": [
+          358.08000000000004,
+          150.32999999999993,
+          585.9240000000001,
+          160.32999999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Locate and mark the center of hole \"A\" as shown in Fig. 5. The center of hole \"A\" is where the center line REMOVE PLUG (B-B) of the horizontal oil gallery intersects with the",
+      "source_number": 3,
+      "installs": [
+        "of_the_oil_hole",
+        "nut_securing_fig",
+        "tbe_lubricating_oil_line",
+        "edge_of_the_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 391,
+        "quote": "Locate and mark the center of hole \"A\" as shown in Fig. 5. The center of hole \"A\" is where the center line REMOVE PLUG (B-B) of the horizontal oil gallery intersects with the",
+        "verified": true,
+        "char_start": 340,
+        "char_end": 514,
+        "bbox": [
+          267.84,
+          182.01,
+          587.9422000000001,
+          213.84799999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place either an end mill or a 3/4\u201d counterbore",
+      "source_number": 4,
+      "installs": [
+        "either_an_end_mill",
+        "insert_counterbore"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 391,
+        "quote": "Place either an end mill or a 3/4\u201d counterbore",
+        "verified": true,
+        "char_start": 975,
+        "char_end": 1021,
+        "bbox": [
+          360.24,
+          291.489,
+          584.2908,
+          300.489
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Wash the end plate in clean fuel oil to remove the | PRESS PIN TO BOTTOM OF metal cuttings and dry it with compressed air. 4975 REAMEO HOLE",
+      "source_number": 5,
+      "installs": [
+        "assembly_rear_end_plate",
+        "valve_rocker_cover_clean",
+        "metal_cutting"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 391,
+        "quote": "Wash the end plate in clean fuel oil to remove the | PRESS PIN TO BOTTOM OF metal cuttings and dry it with compressed air. 4975 REAMEO HOLE",
+        "verified": true,
+        "char_start": 1304,
+        "char_end": 1443,
+        "bbox": [
+          227.04,
+          355.28999999999996,
+          586.0088999999999,
+          377.638
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush to .010 \u201d below the edge of the plate. It is important that the area around the tube be oil tight. When rebuilding a 6V blower assembly in the field, the front end plate can be reworked to provide 7. Reinstall the pipe plug in hole (B-B). improved lubrication, when desirable, in the area of the thrust washers. The rework procedure is as follows: 8. When assembling the blower, apply a liberal amount of Lubriplate. or equivalent, on the surfaces of the thrust washers. This will provide lubrication of the l. Remove the pipe plug from the horizontal oil gallery (B-B) of the end plate. Place a reamer in the thrust washers during initial start-up of the engine.",
+      "source_number": 6,
+      "installs": [
+        "end_of_each_tube",
+        "locknut_finger_tight",
+        "blower_assembly",
+        "front_end_plate",
+        "pipe_plug",
+        "crankshaft_thrust_washer",
+        "assembly_examine_the_blower",
+        "another_drive_flange_washer",
+        "shoulder_of_the_reamer"
+      ],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 391,
+        "quote": "Cut a piece of 3/8 \u201d LD. Bundy tubing 2.00 \" long. Coat the tubing with Gasola or an equivalent type Fig. 5 - Dimensions for Reworking Front End sealant. Press the tubing into the oil drain hole in the Plate (6V Engine) end plate flush t...",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 2346,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

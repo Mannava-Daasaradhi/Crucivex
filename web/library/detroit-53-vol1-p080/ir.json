@@ -1,0 +1,402 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.140 - Remove the blower and the blower drive...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 140,
+        "quote": "Remove the blower and the blower drive shaft as outlined above.",
+        "verified": true,
+        "char_start": 1189,
+        "char_end": 1252,
+        "bbox": [
+          350.64,
+          376.3639999999999,
+          588.14272,
+          395.28899999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_shaft",
+      "name": "Blower drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_shaft",
+      "provenance": {
+        "page": 140,
+        "quote": "Remove the blower and the blower drive shaft as outlined above.",
+        "verified": true,
+        "char_start": 1189,
+        "char_end": 1252,
+        "bbox": [
+          350.64,
+          376.3639999999999,
+          588.14272,
+          395.28899999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 140,
+        "quote": "Remove the blower and the blower drive shaft as outlined above.",
+        "verified": true,
+        "char_start": 1189,
+        "char_end": 1252,
+        "bbox": [
+          350.64,
+          376.3639999999999,
+          588.14272,
+          395.28899999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 140,
+        "quote": "Disconnect the lubricating oi] tube (Fig. 1) from the blower drive support.",
+        "verified": true,
+        "char_start": 1256,
+        "char_end": 1331,
+        "bbox": [
+          350.87999999999994,
+          408.68899999999996,
+          587.9288999999999,
+          429.23099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 140,
+        "quote": "Disconnect the lubricating oi] tube (Fig. 1) from the blower drive support.",
+        "verified": true,
+        "char_start": 1256,
+        "char_end": 1331,
+        "bbox": [
+          350.87999999999994,
+          408.68899999999996,
+          587.9288999999999,
+          429.23099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 140,
+        "quote": "Disconnect the lubricating oi] tube (Fig. 1) from the blower drive support.",
+        "verified": true,
+        "char_start": 1256,
+        "char_end": 1331,
+        "bbox": [
+          350.87999999999994,
+          408.68899999999996,
+          587.9288999999999,
+          429.23099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_gear",
+      "name": "Blower drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_gear",
+      "provenance": {
+        "page": 141,
+        "quote": "Support the blower drive gear in an arbor press (Fig. 3).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 60,
+        "bbox": [
+          327.5999999999999,
+          67.17099999999994,
+          567.5074999999999,
+          88.32999999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "short",
+      "name": "Short",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "short",
+      "provenance": {
+        "page": 141,
+        "quote": "Place a short 1-1/8 \" diameter brass rod on the end of the shaft and press the shaft out of the gear.",
+        "verified": true,
+        "char_start": 64,
+        "char_end": 165,
+        "bbox": [
+          327.6,
+          106.84899999999993,
+          566.95344,
+          126.00799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 141,
+        "quote": "Place a short 1-1/8 \" diameter brass rod on the end of the shaft and press the shaft out of the gear.",
+        "verified": true,
+        "char_start": 64,
+        "char_end": 165,
+        "bbox": [
+          327.6,
+          106.84899999999993,
+          566.95344,
+          126.00799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 141,
+        "quote": "Place a short 1-1/8 \" diameter brass rod on the end of the shaft and press the shaft out of the gear.",
+        "verified": true,
+        "char_start": 64,
+        "char_end": 165,
+        "bbox": [
+          327.6,
+          106.84899999999993,
+          566.95344,
+          126.00799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 141,
+        "quote": "Place a short 1-1/8 \" diameter brass rod on the end of the shaft and press the shaft out of the gear.",
+        "verified": true,
+        "char_start": 64,
+        "char_end": 165,
+        "bbox": [
+          327.6,
+          106.84899999999993,
+          566.95344,
+          126.00799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the blower and the blower drive shaft as outlined above.",
+      "source_number": 1,
+      "installs": [
+        "assembly_examine_the_blower",
+        "blower_drive_shaft",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 140,
+        "quote": "Remove the blower and the blower drive shaft as outlined above.",
+        "verified": true,
+        "char_start": 1189,
+        "char_end": 1252,
+        "bbox": [
+          350.64,
+          376.3639999999999,
+          588.14272,
+          395.28899999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Disconnect the lubricating oi] tube (Fig. 1) from the blower drive support.",
+      "source_number": 2,
+      "installs": [
+        "end_of_each_tube",
+        "nut_securing_fig",
+        "blower_drive_support"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 140,
+        "quote": "Disconnect the lubricating oi] tube (Fig. 1) from the blower drive support.",
+        "verified": true,
+        "char_start": 1256,
+        "char_end": 1331,
+        "bbox": [
+          350.87999999999994,
+          408.68899999999996,
+          587.9288999999999,
+          429.23099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Support the blower drive gear in an arbor press (Fig. 3).",
+      "source_number": 3,
+      "installs": [
+        "blower_drive_gear"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 141,
+        "quote": "Support the blower drive gear in an arbor press (Fig. 3).",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 60,
+        "bbox": [
+          327.5999999999999,
+          67.17099999999994,
+          567.5074999999999,
+          88.32999999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Place a short 1-1/8 \" diameter brass rod on the end of the shaft and press the shaft out of the gear.",
+      "source_number": 4,
+      "installs": [
+        "short",
+        "bearing_pilot_rod",
+        "end_of_the_shaft",
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 141,
+        "quote": "Place a short 1-1/8 \" diameter brass rod on the end of the shaft and press the shaft out of the gear.",
+        "verified": true,
+        "char_start": 64,
+        "char_end": 165,
+        "bbox": [
+          327.6,
+          106.84899999999993,
+          566.95344,
+          126.00799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

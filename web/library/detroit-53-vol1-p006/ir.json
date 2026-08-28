@@ -1,0 +1,225 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.27 - Install the plate(s) and water hole covers...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 27,
+        "quote": "Install the plate(s) and water hole covers as outlined in Method \"A\".",
+        "verified": true,
+        "char_start": 1903,
+        "char_end": 1972,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "water_hole_cover",
+      "name": "Water hole cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_hole_cover",
+      "provenance": {
+        "page": 27,
+        "quote": "Install the plate(s) and water hole covers as outlined in Method \"A\".",
+        "verified": true,
+        "char_start": 1903,
+        "char_end": 1972,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 27,
+        "quote": "Install the plate(s) and water hole covers as outlined in Method \"A\".",
+        "verified": true,
+        "char_start": 1903,
+        "char_end": 1972,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 27,
+        "quote": "Apply 60 psi air pressure to the water jacket and maintain this pressure for at least two hours to give the water and antifreeze mixture ample time to work its way through any cracks which may exist.",
+        "verified": true,
+        "char_start": 1976,
+        "char_end": 2175,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 27,
+        "quote": "At the end of this test period, examine the cylinder bores, air box, oil passages, crankcase and exterior of the block for presence of the water and antifreeze mixture which will indicate the presence of cracks. A cracked cylinder block ...",
+        "verified": true,
+        "char_start": 2179,
+        "char_end": 2448,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 28,
+        "quote": "Dry the cylinder liners with compressed air and coat them with oil to prevent rust.",
+        "verified": true,
+        "char_start": 143,
+        "char_end": 226,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the plate(s) and water hole covers as outlined in Method \"A\".",
+      "source_number": 2,
+      "installs": [
+        "assembly_rear_end_plate",
+        "water_hole_cover",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "Install the plate(s) and water hole covers as outlined in Method \"A\".",
+        "verified": true,
+        "char_start": 1903,
+        "char_end": 1972,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Apply 60 psi air pressure to the water jacket and maintain this pressure for at least two hours to give the water and antifreeze mixture ample time to work its way through any cracks which may exist.",
+      "source_number": 3,
+      "installs": [
+        "clamping_pressure"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "Apply 60 psi air pressure to the water jacket and maintain this pressure for at least two hours to give the water and antifreeze mixture ample time to work its way through any cracks which may exist.",
+        "verified": true,
+        "char_start": 1976,
+        "char_end": 2175,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "At the end of this test period, examine the cylinder bores, air box, oil passages, crankcase and exterior of the block for presence of the water and antifreeze mixture which will indicate the presence of cracks. A cracked cylinder block must be replaced by a new block.",
+      "source_number": 4,
+      "installs": [
+        "of_the_block"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "At the end of this test period, examine the cylinder bores, air box, oil passages, crankcase and exterior of the block for presence of the water and antifreeze mixture which will indicate the presence of cracks. A cracked cylinder block ...",
+        "verified": true,
+        "char_start": 2179,
+        "char_end": 2448,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "After the pressure test is completed, remove the",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "After the pressure test is completed, remove the",
+        "verified": true,
+        "char_start": 2452,
+        "char_end": 2500,
+        "bbox": [
+          366.47999999999996,
+          714.7669999999999,
+          592.00896,
+          722.7669999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Dry the cylinder liners with compressed air and coat them with oil to prevent rust.",
+      "source_number": 6,
+      "installs": [
+        "cylinder_liner"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 28,
+        "quote": "Dry the cylinder liners with compressed air and coat them with oil to prevent rust.",
+        "verified": true,
+        "char_start": 143,
+        "char_end": 226,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

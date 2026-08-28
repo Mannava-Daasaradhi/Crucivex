@@ -1,0 +1,1111 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.147 - Remove old gasket material from the flywheel...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "gasket_material",
+      "name": "Gasket material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gasket_material",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove old gasket material from the flywheel housing. Use care so that no gasket material falls into the gear train compartment.",
+        "verified": true,
+        "char_start": 2186,
+        "char_end": 2314,
+        "bbox": [
+          373.43999999999994,
+          548.01,
+          595.5204,
+          580.4499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove old gasket material from the flywheel housing. Use care so that no gasket material falls into the gear train compartment.",
+        "verified": true,
+        "char_start": 2186,
+        "char_end": 2314,
+        "bbox": [
+          373.43999999999994,
+          548.01,
+          595.5204,
+          580.4499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove old gasket material from the flywheel housing. Use care so that no gasket material falls into the gear train compartment.",
+        "verified": true,
+        "char_start": 2186,
+        "char_end": 2314,
+        "bbox": [
+          373.43999999999994,
+          548.01,
+          595.5204,
+          580.4499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "foreign_material",
+      "name": "Foreign material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "foreign_material",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove old gasket material from the flywheel housing. Use care so that no gasket material falls into the gear train compartment.",
+        "verified": true,
+        "char_start": 2186,
+        "char_end": 2314,
+        "bbox": [
+          373.43999999999994,
+          548.01,
+          595.5204,
+          580.4499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove old gasket material from the flywheel housing. Use care so that no gasket material falls into the gear train compartment.",
+        "verified": true,
+        "char_start": 2186,
+        "char_end": 2314,
+        "bbox": [
+          373.43999999999994,
+          548.01,
+          595.5204,
+          580.4499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cloth",
+      "name": "Cloth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cloth",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_plate",
+      "name": "Accessory drive plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_plate",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive",
+      "name": "Accessory drive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_accessory",
+      "name": "Of the accessory",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_accessory",
+      "provenance": {
+        "page": 147,
+        "quote": "Ifa gear\u2014driven accessory is used as shown in Figs. 2 and 3, install the accessory drive coupling. When replacing the drive hub on the accessory shaft, drive",
+        "verified": true,
+        "char_start": 2765,
+        "char_end": 2922,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 147,
+        "quote": "Ifa gear\u2014driven accessory is used as shown in Figs. 2 and 3, install the accessory drive coupling. When replacing the drive hub on the accessory shaft, drive",
+        "verified": true,
+        "char_start": 2765,
+        "char_end": 2922,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_coupling",
+      "name": "Accessory drive coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_coupling",
+      "provenance": {
+        "page": 147,
+        "quote": "Ifa gear\u2014driven accessory is used as shown in Figs. 2 and 3, install the accessory drive coupling. When replacing the drive hub on the accessory shaft, drive",
+        "verified": true,
+        "char_start": 2765,
+        "char_end": 2922,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_shown",
+      "name": "Accessory drive shown",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_shown",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "ball_bearing",
+      "name": "Ball bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ball_bearing",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_seal",
+      "name": "Of the seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_seal",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_shaft",
+      "name": "Accessory drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_shaft",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_retainer_assembly",
+      "name": "Drive retainer assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_retainer_assembly",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "woodruff_key",
+      "name": "Woodruff key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "woodruff_key",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "keyway",
+      "name": "Keyway",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "keyway",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_key",
+      "name": "Drive key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_key",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pulley_retaining_nut",
+      "name": "Pulley retaining nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pulley_retaining_nut",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "generator_drive_belt",
+      "name": "Generator drive belt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "generator_drive_belt",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_slot",
+      "name": "Tbe slot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_slot",
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_retainer",
+      "name": "Oil seal retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_retainer",
+      "provenance": {
+        "page": 148,
+        "quote": "Assemble the accessory drive shown in Fig. 4 as follows: a. Press a new oil seal in the oil seal retainer, if the seal was removed. Coat the mounting flange of the retainer lightly with grease and place a new gasket against the flange. A...",
+        "verified": true,
+        "char_start": 2520,
+        "char_end": 3659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 148,
+        "quote": "Assemble the accessory drive shown in Fig. 4 as follows: a. Press a new oil seal in the oil seal retainer, if the seal was removed. Coat the mounting flange of the retainer lightly with grease and place a new gasket against the flange. A...",
+        "verified": true,
+        "char_start": 2520,
+        "char_end": 3659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 148,
+        "quote": "Assemble the accessory drive shown in Fig. 4 as follows: a. Press a new oil seal in the oil seal retainer, if the seal was removed. Coat the mounting flange of the retainer lightly with grease and place a new gasket against the flange. A...",
+        "verified": true,
+        "char_start": 2520,
+        "char_end": 3659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pulley_retaining_bolt",
+      "name": "Pulley retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pulley_retaining_bolt",
+      "provenance": {
+        "page": 148,
+        "quote": "Assemble the accessory drive shown in Fig. 4 as follows: a. Press a new oil seal in the oil seal retainer, if the seal was removed. Coat the mounting flange of the retainer lightly with grease and place a new gasket against the flange. A...",
+        "verified": true,
+        "char_start": 2520,
+        "char_end": 3659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 148,
+        "quote": "Assemble the accessory drive shown in Fig. 4 as follows: a. Press a new oil seal in the oil seal retainer, if the seal was removed. Coat the mounting flange of the retainer lightly with grease and place a new gasket against the flange. A...",
+        "verified": true,
+        "char_start": 2520,
+        "char_end": 3659,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove old gasket material from the flywheel housing. Use care so that no gasket material falls into the gear train compartment.",
+      "source_number": 1,
+      "installs": [
+        "gasket_material",
+        "of_the_flywheel_housing",
+        "head_gasket",
+        "foreign_material",
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 147,
+        "quote": "Remove old gasket material from the flywheel housing. Use care so that no gasket material falls into the gear train compartment.",
+        "verified": true,
+        "char_start": 2186,
+        "char_end": 2314,
+        "bbox": [
+          373.43999999999994,
+          548.01,
+          595.5204,
+          580.4499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tapped holes in the camshaft or balance shaft gear. Then secure the plate and spacer, or drive hub, with four bolts (and lock washers or lock wire, if used). Remove the cloth from the flywheel housing opening.",
+      "source_number": 2,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "valve_rocker_cover_clean",
+        "cloth",
+        "engine_front_cover_bolt",
+        "bolt_hole",
+        "accessory_drive_plate",
+        "drive_gear_spacer",
+        "accessory_drive",
+        "blower_drive_hub",
+        "of_the_oil_hole",
+        "camshaft",
+        "end_of_the_shaft",
+        "assembly_rear_end_plate",
+        "special_lock_washer",
+        "lock_wire",
+        "hammer_puller_set_flywheel"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 147,
+        "quote": "Insert a clean, lintless cloth in the flywheel housing opening to prevent bolts from accidentally falling in the gear train. Align the bolt holes in the accessory drive plate and spacer (if used), or the accessory drive hub, with the tap...",
+        "verified": true,
+        "char_start": 2318,
+        "char_end": 2761,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Ifa gear\u2014driven accessory is used as shown in Figs. 2 and 3, install the accessory drive coupling. When replacing the drive hub on the accessory shaft, drive",
+      "source_number": 3,
+      "installs": [
+        "of_the_accessory",
+        "nut_securing_fig",
+        "accessory_drive_coupling"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 147,
+        "quote": "Ifa gear\u2014driven accessory is used as shown in Figs. 2 and 3, install the accessory drive coupling. When replacing the drive hub on the accessory shaft, drive",
+        "verified": true,
+        "char_start": 2765,
+        "char_end": 2922,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting flange side up. Press the double-row ball bearing straight in until the bearing contacts the shoulder in the bore of the retainer. Install the snap ring. On former accessory drives (Fig. 6), install the bearing with the protruding face of the inner race towards the retainer. Turn the retainer over and press the oil seal into the bore of the retainer with the lip of the seal toward the bearing. Turn the retainer over again, bearing side up, and press the accessory drive shaft in the bearing until the shoulder on the shaft contacts the bearing. Apply a light coat of grease to the mounting flange of the retainer and place a new gasket in position against the flange. Align the holes in the gasket with the bolt holes in the flange. Place the retainer and drive shaft assembly against the flywheel housing, rotating the shaft slightly, if necessary, to permit the teeth of the drive shaft to mesh with the teeth in the drive plate. Secure the retainer assembly to the flywheel housing with five bolts and lock washers. On current accessory drives, install the spacer over the shaft and against the bearing. \u00c9 E. {2 E Install the Woodruff key in the drive shaft. Start the pulley straight on the shaft, aligning the keyway in the pulley with the key on the shaft. Use a soft hammer to tap the pulley on the shaft. Thread the 3/4\"\u201416 pulley retaining nut on the end of the drive shaft and tighten it to 120-140 lb-ft (163-190 \u2116:\u0442 ) torque. Install the accessory on the engine and slip the drive belt over the pulleys. Position the accessory to provide the proper tension on the belt and secure it in place. When installing or adjusting an accessory drive belt(s), be sure the bolt at the accessory adjusting pivot point is properly tightened, as well as the bolt in the adjusting slot.",
+      "source_number": 4,
+      "installs": [
+        "accessory_drive_shown",
+        "spray_nozzle_outlined",
+        "drive_shaft_retainer",
+        "ball_bearing",
+        "press_the_shaft_straight",
+        "bearing_the_end_bearing",
+        "contact",
+        "shoulder",
+        "external_snap_ring",
+        "of_the_former",
+        "side_of_the_inner",
+        "crankshaft_front_oil_seal",
+        "of_the_seal",
+        "accessory_drive_shaft",
+        "drive_shaft_assembly",
+        "gear_train_teeth",
+        "drive_retainer_assembly",
+        "engine_front_cover_current",
+        "woodruff_key",
+        "crankshaft_splined_crankshaft_pulley",
+        "keyway",
+        "drive_key",
+        "bolt_thread",
+        "pulley_retaining_nut",
+        "generator_drive_belt",
+        "tbe_slot"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": 162.7,
+      "warning": null,
+      "provenance": {
+        "page": 148,
+        "quote": "If the accessory drive shown in Figs. 5 or 6 is used, assemble as follows: Install the accessory drive plate and spacer as a. outlined in Steps 1 and 2 above. Place the drive shaft retainer on the bed of an arbor press, with the mounting...",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 2516,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Assemble the accessory drive shown in Fig. 4 as follows: a. Press a new oil seal in the oil seal retainer, if the seal was removed. Coat the mounting flange of the retainer lightly with grease and place a new gasket against the flange. Align the holes in the gasket with the bolt holes in the flange. With the accessory drive hubin place (seeStep 2 above), slip the retainer and oil seal assembly over the end of the shaft. Use care not to damage the oil seal. Secure the retainer to the flywheel housing with five bolts and lock washers. Install the Woodruff key. Start the pulley straight on the shaft, aligning the keyway in the pulley with the key on the shaft. Use a soft hammer to tap the pulley on the shaft. Install the washers and the pulley retaining bolt and draw the bolt up tight. Install the accessory on the engine and slip the drive belt over the pulleys. Position the accessory to provide the proper tension on the belt and secure it in place. When installing or adjusting an accessory drive belt(s), be sure the bolt at the accessory adjusting pivot point is properly tightened, as well as the bolt in the adjusting slot.",
+      "source_number": 5,
+      "installs": [
+        "oil_seal_retainer",
+        "flange",
+        "another_drive_flange_washer",
+        "pulley_retaining_bolt",
+        "locknut_finger_tight"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 148,
+        "quote": "Assemble the accessory drive shown in Fig. 4 as follows: a. Press a new oil seal in the oil seal retainer, if the seal was removed. Coat the mounting flange of the retainer lightly with grease and place a new gasket against the flange. A...",
+        "verified": true,
+        "char_start": 2520,
+        "char_end": 3659,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

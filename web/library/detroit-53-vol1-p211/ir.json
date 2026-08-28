@@ -1,0 +1,640 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.368 - Remove the two bolts and pilots (43)...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the two bolts and pilots (43) securing the blower rotor gears to the blower rotor shafts.",
+        "verified": true,
+        "char_start": 838,
+        "char_end": 934,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the two bolts and pilots (43) securing the blower rotor gears to the blower rotor shafts.",
+        "verified": true,
+        "char_start": 838,
+        "char_end": 934,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_rotor_gear",
+      "name": "Blower rotor gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_rotor_gear",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the two bolts and pilots (43) securing the blower rotor gears to the blower rotor shafts.",
+        "verified": true,
+        "char_start": 838,
+        "char_end": 934,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_rotor",
+      "name": "Blower rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_rotor",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the two bolts and pilots (43) securing the blower rotor gears to the blower rotor shafts.",
+        "verified": true,
+        "char_start": 838,
+        "char_end": 934,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the two bolts and pilots (43) securing the blower rotor gears to the blower rotor shafts.",
+        "verified": true,
+        "char_start": 838,
+        "char_end": 934,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "large_hole",
+      "name": "Large hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "large_hole",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shop_towel",
+      "name": "Clean shop towel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shop_towel",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "roller_bearing",
+      "name": "Roller bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "roller_bearing",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the shims from the rotor shafts and note the number and thickness of the shims on one or both of the rotor shafts.",
+        "verified": true,
+        "char_start": 1637,
+        "char_end": 1758,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "left_hand_helix_rotor",
+      "name": "Left-hand helix rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "left_hand_helix_rotor",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the shims from the rotor shafts and note the number and thickness of the shims on one or both of the rotor shafts.",
+        "verified": true,
+        "char_start": 1637,
+        "char_end": 1758,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retainer",
+      "name": "Bearing retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the bolts securing the rotor shaft bearing retainers (71) to the rear end plate, then remove the retainers.",
+        "verified": true,
+        "char_start": 1762,
+        "char_end": 1876,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the bolts securing the rotor shaft bearing retainers (71) to the rear end plate, then remove the retainers.",
+        "verified": true,
+        "char_start": 1762,
+        "char_end": 1876,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_washer",
+      "name": "Special washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_washer",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the bolt and special washer (80) securing the ball bearing (former blower) or roller bearing (current blower) on the right-hand helix rotor shaft at the front end of the blower.",
+        "verified": true,
+        "char_start": 1880,
+        "char_end": 2064,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "ball_bearing",
+      "name": "Ball bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ball_bearing",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the bolt and special washer (80) securing the ball bearing (former blower) or roller bearing (current blower) on the right-hand helix rotor shaft at the front end of the blower.",
+        "verified": true,
+        "char_start": 1880,
+        "char_end": 2064,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the bolt and special washer (80) securing the ball bearing (former blower) or roller bearing (current blower) on the right-hand helix rotor shaft at the front end of the blower.",
+        "verified": true,
+        "char_start": 1880,
+        "char_end": 2064,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "helix",
+      "name": "Helix",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "helix",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the bolt and special washer (80) securing the ball bearing (former blower) or roller bearing (current blower) on the right-hand helix rotor shaft at the front end of the blower.",
+        "verified": true,
+        "char_start": 1880,
+        "char_end": 2064,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retainer_nut",
+      "name": "Bearing retainer nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer_nut",
+      "provenance": {
+        "page": 368,
+        "quote": "Bend the tang of the bearing retainer nut lock washer (81) up out of the notch in the bearing lock nut",
+        "verified": true,
+        "char_start": 2068,
+        "char_end": 2170,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 368,
+        "quote": "Bend the tang of the bearing retainer nut lock washer (81) up out of the notch in the bearing lock nut",
+        "verified": true,
+        "char_start": 2068,
+        "char_end": 2170,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "notch",
+      "name": "Notch",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "notch",
+      "provenance": {
+        "page": 368,
+        "quote": "Bend the tang of the bearing retainer nut lock washer (81) up out of the notch in the bearing lock nut",
+        "verified": true,
+        "char_start": 2068,
+        "char_end": 2170,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 368,
+        "quote": "Bend the tang of the bearing retainer nut lock washer (81) up out of the notch in the bearing lock nut",
+        "verified": true,
+        "char_start": 2068,
+        "char_end": 2170,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the two bolts and pilots (43) securing the blower rotor gears to the blower rotor shafts.",
+      "source_number": 2,
+      "installs": [
+        "engine_front_cover_bolt",
+        "needle_bearing_pilot",
+        "blower_rotor_gear",
+        "blower_rotor",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the two bolts and pilots (43) securing the blower rotor gears to the blower rotor shafts.",
+        "verified": true,
+        "char_start": 838,
+        "char_end": 934,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. Align the large holes in the puller flanges with the 3/8 \"7-24 tapped holes in the gears. Secure the pullers to the gears with four 3/8 ''-24 x 1 \u201d bolts. b. With the shop towels between the blower rotors J 7079.2 \u2014\u2014\u2014 i - 21672.11 Fig. 8 - Removing Oil Seal and Roller Bearing from Rear End Plate (Former Blower) and housing to prevent them from turning. turn the puller screws uniformly clockwise and pull the gears from the rotor shafts as shown in Fig. 5.",
+      "source_number": 3,
+      "installs": [
+        "nut_securing_fig",
+        "of_the_buffer_screw",
+        "fuel_pump_drive_gear",
+        "large_hole",
+        "of_the_oil_hole",
+        "clean_shop_towel",
+        "crankshaft_front_oil_seal",
+        "roller_bearing",
+        "assembly_rear_end_plate",
+        "of_the_former",
+        "assembly_examine_the_blower",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the blower rotor gears with pullers J 21672- 7 (Fig. 5). Both rotor gears must be pulled at the same ume as follows: a. Back the center screws out of both pullers, then place the flange end of the pullers against the rotor gears. ...",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 1633,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the shims from the rotor shafts and note the number and thickness of the shims on one or both of the rotor shafts.",
+      "source_number": 4,
+      "installs": [
+        "rotor_shim",
+        "left_hand_helix_rotor"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "note the number and thickness of the shims on one or both of the rotor shafts.",
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the shims from the rotor shafts and note the number and thickness of the shims on one or both of the rotor shafts.",
+        "verified": true,
+        "char_start": 1637,
+        "char_end": 1758,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the bolts securing the rotor shaft bearing retainers (71) to the rear end plate, then remove the retainers.",
+      "source_number": 5,
+      "installs": [
+        "bearing_retainer",
+        "drive_shaft_retainer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the bolts securing the rotor shaft bearing retainers (71) to the rear end plate, then remove the retainers.",
+        "verified": true,
+        "char_start": 1762,
+        "char_end": 1876,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the bolt and special washer (80) securing the ball bearing (former blower) or roller bearing (current blower) on the right-hand helix rotor shaft at the front end of the blower.",
+      "source_number": 6,
+      "installs": [
+        "special_washer",
+        "ball_bearing",
+        "engine_front_cover_current",
+        "helix"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 368,
+        "quote": "Remove the bolt and special washer (80) securing the ball bearing (former blower) or roller bearing (current blower) on the right-hand helix rotor shaft at the front end of the blower.",
+        "verified": true,
+        "char_start": 1880,
+        "char_end": 2064,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Bend the tang of the bearing retainer nut lock washer (81) up out of the notch in the bearing lock nut",
+      "source_number": 7,
+      "installs": [
+        "bearing_retainer_nut",
+        "special_lock_washer",
+        "notch",
+        "bearing_lock_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 368,
+        "quote": "Bend the tang of the bearing retainer nut lock washer (81) up out of the notch in the bearing lock nut",
+        "verified": true,
+        "char_start": 2068,
+        "char_end": 2170,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

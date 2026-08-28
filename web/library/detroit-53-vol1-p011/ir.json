@@ -1,0 +1,884 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.36 - Disconnect the exhaust piping at the exhaust...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "exhaust_piping",
+      "name": "Exhaust piping",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_piping",
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect the exhaust piping at the exhaust manifold.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 57,
+        "bbox": [
+          85.20000000000005,
+          70.04899999999998,
+          323.99170000000004,
+          90.98000000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_manifold",
+      "name": "Exhaust manifold",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_manifold",
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect the exhaust piping at the exhaust manifold.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 57,
+        "bbox": [
+          85.20000000000005,
+          70.04899999999998,
+          323.99170000000004,
+          90.98000000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_cleaner",
+      "name": "Air cleaner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_cleaner",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the air cleaner(s) or air silencer.",
+        "verified": true,
+        "char_start": 90,
+        "char_end": 132,
+        "bbox": [
+          95.75999999999999,
+          123.44399999999996,
+          271.80003,
+          132.44399999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_silencer",
+      "name": "Air silencer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_silencer",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the air cleaner(s) or air silencer.",
+        "verified": true,
+        "char_start": 90,
+        "char_end": 132,
+        "bbox": [
+          95.75999999999999,
+          123.44399999999996,
+          271.80003,
+          132.44399999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_line",
+      "name": "Fuel line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_line",
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect the fuel lines at the cylinder head.",
+        "verified": true,
+        "char_start": 136,
+        "char_end": 183,
+        "bbox": [
+          95.75999999999996,
+          143.2639999999999,
+          293.91349999999994,
+          153.2639999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect the fuel lines at the cylinder head.",
+        "verified": true,
+        "char_start": 136,
+        "char_end": 183,
+        "bbox": [
+          95.75999999999996,
+          143.2639999999999,
+          293.91349999999994,
+          153.2639999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "thermostat_housing",
+      "name": "Thermostat housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thermostat_housing",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the thermostat housing and the thermostat as an assembly.",
+        "verified": true,
+        "char_start": 187,
+        "char_end": 251,
+        "bbox": [
+          84.95999999999998,
+          165.12799999999993,
+          323.69460000000004,
+          184.91499999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 36,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 255,
+        "char_end": 295,
+        "bbox": [
+          95.28,
+          197.688,
+          274.54416,
+          205.688
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 36,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 255,
+        "char_end": 295,
+        "bbox": [
+          95.28,
+          197.688,
+          274.54416,
+          205.688
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect and remove the fuel rod between the governor and the injector control tube lever. Remove the fuel rod cover, if used.",
+        "verified": true,
+        "char_start": 299,
+        "char_end": 427,
+        "bbox": [
+          84.72,
+          217.44999999999993,
+          325.68594,
+          248.2929999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect and remove the fuel rod between the governor and the injector control tube lever. Remove the fuel rod cover, if used.",
+        "verified": true,
+        "char_start": 299,
+        "char_end": 427,
+        "bbox": [
+          84.72,
+          217.44999999999993,
+          325.68594,
+          248.2929999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect and remove the fuel rod between the governor and the injector control tube lever. Remove the fuel rod cover, if used.",
+        "verified": true,
+        "char_start": 299,
+        "char_end": 427,
+        "bbox": [
+          84.72,
+          217.44999999999993,
+          325.68594,
+          248.2929999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect and remove the fuel rod between the governor and the injector control tube lever. Remove the fuel rod cover, if used.",
+        "verified": true,
+        "char_start": 299,
+        "char_end": 427,
+        "bbox": [
+          84.72,
+          217.44999999999993,
+          325.68594,
+          248.2929999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_rod_cover",
+      "name": "Fuel rod cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_rod_cover",
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect and remove the fuel rod between the governor and the injector control tube lever. Remove the fuel rod cover, if used.",
+        "verified": true,
+        "char_start": 299,
+        "char_end": 427,
+        "bbox": [
+          84.72,
+          217.44999999999993,
+          325.68594,
+          248.2929999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the injector control tube and brackets as an assembly.",
+        "verified": true,
+        "char_start": 463,
+        "char_end": 524,
+        "bbox": [
+          84.95999999999998,
+          280.80999999999995,
+          324.70115999999996,
+          300.6069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 36,
+        "quote": "If the cylinder head is to be stripped for reconditioning of valves and valve seats or for a complete cylinder head overhaul, remove the fuel pipes and injectors at this time. Refer to Sections 2.1 or 2.1.1 for removal of the injectors.",
+        "verified": true,
+        "char_start": 529,
+        "char_end": 765,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 36,
+        "quote": "If the cylinder head is to be stripped for reconditioning of valves and valve seats or for a complete cylinder head overhaul, remove the fuel pipes and injectors at this time. Refer to Sections 2.1 or 2.1.1 for removal of the injectors.",
+        "verified": true,
+        "char_start": 529,
+        "char_end": 765,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "leaking_fuel_pipe",
+      "name": "Leaking fuel pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "leaking_fuel_pipe",
+      "provenance": {
+        "page": 36,
+        "quote": "If the cylinder head is to be stripped for reconditioning of valves and valve seats or for a complete cylinder head overhaul, remove the fuel pipes and injectors at this time. Refer to Sections 2.1 or 2.1.1 for removal of the injectors.",
+        "verified": true,
+        "char_start": 529,
+        "char_end": 765,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 36,
+        "quote": "If the cylinder head is to be stripped for reconditioning of valves and valve seats or for a complete cylinder head overhaul, remove the fuel pipes and injectors at this time. Refer to Sections 2.1 or 2.1.1 for removal of the injectors.",
+        "verified": true,
+        "char_start": 529,
+        "char_end": 765,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_bolt",
+      "name": "Cylinder head bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_bolt",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the cylinder head bolts. Then, lift the cylinder head off of the cylinder block, with lifter tool J 22062-01 (Fig. 2). CAUTION: When resting the cylinder head assembly on a bench, protect the cam follower rollers and the injector ...",
+        "verified": true,
+        "char_start": 770,
+        "char_end": 1080,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the cylinder head bolts. Then, lift the cylinder head off of the cylinder block, with lifter tool J 22062-01 (Fig. 2). CAUTION: When resting the cylinder head assembly on a bench, protect the cam follower rollers and the injector ...",
+        "verified": true,
+        "char_start": 770,
+        "char_end": 1080,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the cylinder head bolts. Then, lift the cylinder head off of the cylinder block, with lifter tool J 22062-01 (Fig. 2). CAUTION: When resting the cylinder head assembly on a bench, protect the cam follower rollers and the injector ...",
+        "verified": true,
+        "char_start": 770,
+        "char_end": 1080,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head_compression",
+      "name": "Cylinder head compression",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_compression",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the cylinder head compression gaskets, oil seals and water seals.",
+        "verified": true,
+        "char_start": 1085,
+        "char_end": 1157,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the cylinder head compression gaskets, oil seals and water seals.",
+        "verified": true,
+        "char_start": 1085,
+        "char_end": 1157,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the cylinder head compression gaskets, oil seals and water seals.",
+        "verified": true,
+        "char_start": 1085,
+        "char_end": 1157,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Disconnect the exhaust piping at the exhaust manifold.",
+      "source_number": 1,
+      "installs": [
+        "exhaust_piping",
+        "exhaust_manifold"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect the exhaust piping at the exhaust manifold.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 57,
+        "bbox": [
+          85.20000000000005,
+          70.04899999999998,
+          323.99170000000004,
+          90.98000000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Drain the cooling system.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Drain the cooling system.",
+        "verified": true,
+        "char_start": 61,
+        "char_end": 86,
+        "bbox": [
+          95.52000000000001,
+          101.84299999999996,
+          204.9324,
+          111.84299999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the air cleaner(s) or air silencer.",
+      "source_number": 3,
+      "installs": [
+        "air_cleaner",
+        "air_silencer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the air cleaner(s) or air silencer.",
+        "verified": true,
+        "char_start": 90,
+        "char_end": 132,
+        "bbox": [
+          95.75999999999999,
+          123.44399999999996,
+          271.80003,
+          132.44399999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Disconnect the fuel lines at the cylinder head.",
+      "source_number": 4,
+      "installs": [
+        "fuel_line",
+        "cylinder_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect the fuel lines at the cylinder head.",
+        "verified": true,
+        "char_start": 136,
+        "char_end": 183,
+        "bbox": [
+          95.75999999999996,
+          143.2639999999999,
+          293.91349999999994,
+          153.2639999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the thermostat housing and the thermostat as an assembly.",
+      "source_number": 5,
+      "installs": [
+        "thermostat_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the thermostat housing and the thermostat as an assembly.",
+        "verified": true,
+        "char_start": 187,
+        "char_end": 251,
+        "bbox": [
+          84.95999999999998,
+          165.12799999999993,
+          323.69460000000004,
+          184.91499999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Clean and remove the valve rocker cover.",
+      "source_number": 6,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "valve_rocker_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 255,
+        "char_end": 295,
+        "bbox": [
+          95.28,
+          197.688,
+          274.54416,
+          205.688
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Disconnect and remove the fuel rod between the governor and the injector control tube lever. Remove the fuel rod cover, if used.",
+      "source_number": 7,
+      "installs": [
+        "governor_fuel_rod",
+        "blower_the_engine_governor",
+        "injector_control_tube",
+        "of_the_stop_lever",
+        "fuel_rod_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Disconnect and remove the fuel rod between the governor and the injector control tube lever. Remove the fuel rod cover, if used.",
+        "verified": true,
+        "char_start": 299,
+        "char_end": 427,
+        "bbox": [
+          84.72,
+          217.44999999999993,
+          325.68594,
+          248.2929999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the exhaust manifold.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the exhaust manifold.",
+        "verified": true,
+        "char_start": 431,
+        "char_end": 459,
+        "bbox": [
+          95.75999999999999,
+          261.048,
+          225.86304,
+          269.048
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the injector control tube and brackets as an assembly.",
+      "source_number": 9,
+      "installs": [
+        "booster_spring_bracket"
+      ],
+      "depends_on": [
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the injector control tube and brackets as an assembly.",
+        "verified": true,
+        "char_start": 463,
+        "char_end": 524,
+        "bbox": [
+          84.95999999999998,
+          280.80999999999995,
+          324.70115999999996,
+          300.6069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "If the cylinder head is to be stripped for reconditioning of valves and valve seats or for a complete cylinder head overhaul, remove the fuel pipes and injectors at this time. Refer to Sections 2.1 or 2.1.1 for removal of the injectors.",
+      "source_number": 10,
+      "installs": [
+        "engine_front_cover_valve",
+        "insert_remover_valve_seat",
+        "leaking_fuel_pipe",
+        "end_of_the_injector"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "If the cylinder head is to be stripped for reconditioning of valves and valve seats or for a complete cylinder head overhaul, remove the fuel pipes and injectors at this time. Refer to Sections 2.1 or 2.1.1 for removal of the injectors.",
+        "verified": true,
+        "char_start": 529,
+        "char_end": 765,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Remove the cylinder head bolts. Then, lift the cylinder head off of the cylinder block, with lifter tool J 22062-01 (Fig. 2). CAUTION: When resting the cylinder head assembly on a bench, protect the cam follower rollers and the injector spray tips by resting the valve side of the head on 2\" thick wood blocks.",
+      "source_number": 11,
+      "installs": [
+        "head_bolt",
+        "of_the_block",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: When resting the cylinder head assembly on a bench, protect the cam follower rollers and the injector spray tips by resting the valve side of the head on 2\" thick wood blocks.",
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the cylinder head bolts. Then, lift the cylinder head off of the cylinder block, with lifter tool J 22062-01 (Fig. 2). CAUTION: When resting the cylinder head assembly on a bench, protect the cam follower rollers and the injector ...",
+        "verified": true,
+        "char_start": 770,
+        "char_end": 1080,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Remove the cylinder head compression gaskets, oil seals and water seals.",
+      "source_number": 12,
+      "installs": [
+        "cylinder_head_compression",
+        "head_gasket",
+        "crankshaft_front_oil_seal"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Remove the cylinder head compression gaskets, oil seals and water seals.",
+        "verified": true,
+        "char_start": 1085,
+        "char_end": 1157,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

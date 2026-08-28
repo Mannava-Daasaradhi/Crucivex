@@ -1,0 +1,647 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.320 - Affix a new gasket to the top...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 320,
+        "quote": "Affix a new gasket to the top of the governor drive housing.",
+        "verified": true,
+        "char_start": 2325,
+        "char_end": 2385,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_housing",
+      "name": "Governor drive housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_housing",
+      "provenance": {
+        "page": 320,
+        "quote": "Affix a new gasket to the top of the governor drive housing.",
+        "verified": true,
+        "char_start": 2325,
+        "char_end": 2385,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle_control_lever",
+      "name": "Throttle control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_control_lever",
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "ball_head",
+      "name": "Ball head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ball_head",
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spline",
+      "name": "Spline",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spline",
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_ball",
+      "name": "End of the ball",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_ball",
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_driven_shaft",
+      "name": "Governor driven shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_driven_shaft",
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 320,
+        "quote": "Install the governor to drive housing bolts and lock washers. Tighten the bolts to 13-17 lb-ft torque.",
+        "verified": true,
+        "char_start": 2713,
+        "char_end": 2815,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 320,
+        "quote": "Install the governor to drive housing bolts and lock washers. Tighten the bolts to 13-17 lb-ft torque.",
+        "verified": true,
+        "char_start": 2713,
+        "char_end": 2815,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_inlet_tube",
+      "name": "Oil inlet tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_inlet_tube",
+      "provenance": {
+        "page": 320,
+        "quote": "Connect the oil inlet tube assembly to the oil inlet elbow.",
+        "verified": true,
+        "char_start": 2819,
+        "char_end": 2878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_inlet_elbow",
+      "name": "Oil inlet elbow",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_inlet_elbow",
+      "provenance": {
+        "page": 320,
+        "quote": "Connect the oil inlet tube assembly to the oil inlet elbow.",
+        "verified": true,
+        "char_start": 2819,
+        "char_end": 2878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle_control_rod",
+      "name": "Throttle control rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_control_rod",
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the throttle control rod assembly to the throttle control cross shaft lever.",
+        "verified": true,
+        "char_start": 2882,
+        "char_end": 2965,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle",
+      "name": "Throttle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle",
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the throttle control rod assembly to the throttle control cross shaft lever.",
+        "verified": true,
+        "char_start": 2882,
+        "char_end": 2965,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the throttle control rod assembly to the throttle control cross shaft lever.",
+        "verified": true,
+        "char_start": 2882,
+        "char_end": 2965,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the fuel rod to the throttle control terminal lever.",
+        "verified": true,
+        "char_start": 2969,
+        "char_end": 3028,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle_control_terminal",
+      "name": "Throttle control terminal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_control_terminal",
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the fuel rod to the throttle control terminal lever.",
+        "verified": true,
+        "char_start": 2969,
+        "char_end": 3028,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle_contro",
+      "name": "Throttle contro",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_contro",
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the throttle contro] terminal lever retracting spring to the terminal lever.",
+        "verified": true,
+        "char_start": 3032,
+        "char_end": 3115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_terminal",
+      "name": "Edge of the terminal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_terminal",
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the throttle contro] terminal lever retracting spring to the terminal lever.",
+        "verified": true,
+        "char_start": 3032,
+        "char_end": 3115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lever_retracting_spring",
+      "name": "Lever retracting spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lever_retracting_spring",
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the throttle contro] terminal lever retracting spring to the terminal lever.",
+        "verified": true,
+        "char_start": 3032,
+        "char_end": 3115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "terminal_lever",
+      "name": "Terminal lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "terminal_lever",
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the throttle contro] terminal lever retracting spring to the terminal lever.",
+        "verified": true,
+        "char_start": 3032,
+        "char_end": 3115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 320,
+        "quote": "On a governor equipped with a synchronizing motor, connect the wires to the motor. After the governor has been installed, the engine must be tuned-up as outlined under Engine Tune-Up Procedures in Section 14.",
+        "verified": true,
+        "char_start": 3119,
+        "char_end": 3327,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 320,
+        "quote": "On a governor equipped with a synchronizing motor, connect the wires to the motor. After the governor has been installed, the engine must be tuned-up as outlined under Engine Tune-Up Procedures in Section 14.",
+        "verified": true,
+        "char_start": 3119,
+        "char_end": 3327,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Affix a new gasket to the top of the governor drive housing.",
+      "source_number": 1,
+      "installs": [
+        "head_gasket",
+        "governor_drive_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "Affix a new gasket to the top of the governor drive housing.",
+        "verified": true,
+        "char_start": 2325,
+        "char_end": 2385,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleeve; then enter the shaft straight in the sleeve and rest the governor on the gasket.",
+      "source_number": 2,
+      "installs": [
+        "blower_the_engine_governor",
+        "throttle_control_lever",
+        "ball_head",
+        "spline",
+        "end_of_the_ball",
+        "cylinder_head",
+        "end_of_the_shaft",
+        "governor_driven_shaft",
+        "crankshaft_front_sleeve",
+        "press_the_shaft_straight"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "Position the governor over the governor drive housing with the throttle control levers facing the rear of the engine. Turn the ball head assembly slightly to align splines of the ball head shaft with the splines in the driven shaft sleev...",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2709,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the governor to drive housing bolts and lock washers. Tighten the bolts to 13-17 lb-ft torque.",
+      "source_number": 3,
+      "installs": [
+        "engine_front_cover_bolt",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 17.6,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "Install the governor to drive housing bolts and lock washers. Tighten the bolts to 13-17 lb-ft torque.",
+        "verified": true,
+        "char_start": 2713,
+        "char_end": 2815,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Connect the oil inlet tube assembly to the oil inlet elbow.",
+      "source_number": 4,
+      "installs": [
+        "oil_inlet_tube",
+        "oil_inlet_elbow"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "Connect the oil inlet tube assembly to the oil inlet elbow.",
+        "verified": true,
+        "char_start": 2819,
+        "char_end": 2878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Attach the throttle control rod assembly to the throttle control cross shaft lever.",
+      "source_number": 5,
+      "installs": [
+        "throttle_control_rod",
+        "throttle",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the throttle control rod assembly to the throttle control cross shaft lever.",
+        "verified": true,
+        "char_start": 2882,
+        "char_end": 2965,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Attach the fuel rod to the throttle control terminal lever.",
+      "source_number": 6,
+      "installs": [
+        "governor_fuel_rod",
+        "throttle_control_terminal"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the fuel rod to the throttle control terminal lever.",
+        "verified": true,
+        "char_start": 2969,
+        "char_end": 3028,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Attach the throttle contro] terminal lever retracting spring to the terminal lever.",
+      "source_number": 7,
+      "installs": [
+        "throttle_contro",
+        "edge_of_the_terminal",
+        "lever_retracting_spring",
+        "terminal_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "Attach the throttle contro] terminal lever retracting spring to the terminal lever.",
+        "verified": true,
+        "char_start": 3032,
+        "char_end": 3115,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "On a governor equipped with a synchronizing motor, connect the wires to the motor. After the governor has been installed, the engine must be tuned-up as outlined under Engine Tune-Up Procedures in Section 14.",
+      "source_number": 8,
+      "installs": [
+        "lock_wire",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "On a governor equipped with a synchronizing motor, connect the wires to the motor. After the governor has been installed, the engine must be tuned-up as outlined under Engine Tune-Up Procedures in Section 14.",
+        "verified": true,
+        "char_start": 3119,
+        "char_end": 3327,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 data/
 .venv/
 engine/
+node_modules/
 __pycache__/
 *.pyc
 *.pyo

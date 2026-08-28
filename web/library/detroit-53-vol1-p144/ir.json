@@ -1,0 +1,1030 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.259 - Disconnect the throttle control rod and the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "throttle_control_rod",
+      "name": "Throttle control rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_control_rod",
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the throttle control rod and the booster spring (Fig. 1) from the speed control lever.",
+        "verified": true,
+        "char_start": 1593,
+        "char_end": 1690,
+        "bbox": [
+          316.0800000000001,
+          203.289,
+          554.8412400000001,
+          223.20999999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "booster_spring",
+      "name": "Booster spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring",
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the throttle control rod and the booster spring (Fig. 1) from the speed control lever.",
+        "verified": true,
+        "char_start": 1593,
+        "char_end": 1690,
+        "bbox": [
+          316.0800000000001,
+          203.289,
+          554.8412400000001,
+          223.20999999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the throttle control rod and the booster spring (Fig. 1) from the speed control lever.",
+        "verified": true,
+        "char_start": 1593,
+        "char_end": 1690,
+        "bbox": [
+          316.0800000000001,
+          203.289,
+          554.8412400000001,
+          223.20999999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_control_lever",
+      "name": "Speed control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_lever",
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the throttle control rod and the booster spring (Fig. 1) from the speed control lever.",
+        "verified": true,
+        "char_start": 1593,
+        "char_end": 1690,
+        "bbox": [
+          316.0800000000001,
+          203.289,
+          554.8412400000001,
+          223.20999999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the retracung spring from the stop lever \u041e\u0433 cover screw.",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 1761,
+        "bbox": [
+          316.0799999999999,
+          234.2109999999999,
+          555.491,
+          255.12999999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the retracung spring from the stop lever \u041e\u0433 cover screw.",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 1761,
+        "bbox": [
+          316.0799999999999,
+          234.2109999999999,
+          555.491,
+          255.12999999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_cover_screw",
+      "name": "Valve cover screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_cover_screw",
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the retracung spring from the stop lever \u041e\u0433 cover screw.",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 1761,
+        "bbox": [
+          316.0799999999999,
+          234.2109999999999,
+          555.491,
+          255.12999999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "attaching_screw",
+      "name": "Attaching screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "attaching_screw",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the attaching screws and lock washers and lift the cover and lever assembly and the gasket from the governor housing.",
+        "verified": true,
+        "char_start": 1765,
+        "char_end": 1889,
+        "bbox": [
+          316.08000000000004,
+          266.25199999999995,
+          554.6436000000001,
+          297.99299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the attaching screws and lock washers and lift the cover and lever assembly and the gasket from the governor housing.",
+        "verified": true,
+        "char_start": 1765,
+        "char_end": 1889,
+        "bbox": [
+          316.08000000000004,
+          266.25199999999995,
+          554.6436000000001,
+          297.99299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the attaching screws and lock washers and lift the cover and lever assembly and the gasket from the governor housing.",
+        "verified": true,
+        "char_start": 1765,
+        "char_end": 1889,
+        "bbox": [
+          316.08000000000004,
+          266.25199999999995,
+          554.6436000000001,
+          297.99299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the attaching screws and lock washers and lift the cover and lever assembly and the gasket from the governor housing.",
+        "verified": true,
+        "char_start": 1765,
+        "char_end": 1889,
+        "bbox": [
+          316.08000000000004,
+          266.25199999999995,
+          554.6436000000001,
+          297.99299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the attaching screws and lock washers and lift the cover and lever assembly and the gasket from the governor housing.",
+        "verified": true,
+        "char_start": 1765,
+        "char_end": 1889,
+        "bbox": [
+          316.08000000000004,
+          266.25199999999995,
+          554.6436000000001,
+          297.99299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flywheel_attaching_bolt",
+      "name": "Flywheel attaching bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_attaching_bolt",
+      "provenance": {
+        "page": 259,
+        "quote": "Loosen the two attaching bolts and lock washers and withdraw the variable speed spring housing and lever assembly and gasket from the governor.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2036,
+        "bbox": [
+          315.11999999999995,
+          309.21199999999993,
+          555.082,
+          341.1379999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "variable_speed_spring",
+      "name": "Variable speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "variable_speed_spring",
+      "provenance": {
+        "page": 259,
+        "quote": "Loosen the two attaching bolts and lock washers and withdraw the variable speed spring housing and lever assembly and gasket from the governor.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2036,
+        "bbox": [
+          315.11999999999995,
+          309.21199999999993,
+          555.082,
+          341.1379999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 259,
+        "quote": "Loosen the two attaching bolts and lock washers and withdraw the variable speed spring housing and lever assembly and gasket from the governor.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2036,
+        "bbox": [
+          315.11999999999995,
+          309.21199999999993,
+          555.082,
+          341.1379999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 259,
+        "quote": "Loosen the two attaching bolts and lock washers and withdraw the variable speed spring housing and lever assembly and gasket from the governor.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2036,
+        "bbox": [
+          315.11999999999995,
+          309.21199999999993,
+          555.082,
+          341.1379999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the spring retainer, shims. variable speed spring(s), stops and spring plunger.",
+        "verified": true,
+        "char_start": 2040,
+        "char_end": 2126,
+        "bbox": [
+          315.60000000000014,
+          352.17099999999994,
+          554.4295000000002,
+          372.9599999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the spring retainer, shims. variable speed spring(s), stops and spring plunger.",
+        "verified": true,
+        "char_start": 2040,
+        "char_end": 2126,
+        "bbox": [
+          315.60000000000014,
+          352.17099999999994,
+          554.4295000000002,
+          372.9599999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the spring retainer, shims. variable speed spring(s), stops and spring plunger.",
+        "verified": true,
+        "char_start": 2040,
+        "char_end": 2126,
+        "bbox": [
+          315.60000000000014,
+          352.17099999999994,
+          554.4295000000002,
+          372.9599999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "high_speed_spring_plunger",
+      "name": "High speed spring plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_plunger",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the spring retainer, shims. variable speed spring(s), stops and spring plunger.",
+        "verified": true,
+        "char_start": 2040,
+        "char_end": 2126,
+        "bbox": [
+          315.60000000000014,
+          352.17099999999994,
+          554.4295000000002,
+          372.9599999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 259,
+        "quote": "Loosen the hose clamps and slide the hoses back on the fuel rod covers.",
+        "verified": true,
+        "char_start": 2130,
+        "char_end": 2201,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_rod_cover",
+      "name": "Fuel rod cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_rod_cover",
+      "provenance": {
+        "page": 259,
+        "quote": "Loosen the hose clamps and slide the hoses back on the fuel rod covers.",
+        "verified": true,
+        "char_start": 2130,
+        "char_end": 2201,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the valve rocker cover from each cylinder head.",
+        "verified": true,
+        "char_start": 2205,
+        "char_end": 2259,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the valve rocker cover from each cylinder head.",
+        "verified": true,
+        "char_start": 2205,
+        "char_end": 2259,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lower_fuel_rod",
+      "name": "Lower fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_fuel_rod",
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+        "verified": true,
+        "char_start": 2263,
+        "char_end": 2365,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+        "verified": true,
+        "char_start": 2263,
+        "char_end": 2365,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "upper_fuel_rod",
+      "name": "Upper fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_fuel_rod",
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+        "verified": true,
+        "char_start": 2263,
+        "char_end": 2365,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "threaded_pin",
+      "name": "Threaded pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "threaded_pin",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the threaded pins which connect the upper fuel rods to the control link lever. Remove the fuel rods.",
+        "verified": true,
+        "char_start": 2369,
+        "char_end": 2476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_link_lever",
+      "name": "Control link lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_lever",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the threaded pins which connect the upper fuel rods to the control link lever. Remove the fuel rods.",
+        "verified": true,
+        "char_start": 2369,
+        "char_end": 2476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the threaded pins which connect the upper fuel rods to the control link lever. Remove the fuel rods.",
+        "verified": true,
+        "char_start": 2369,
+        "char_end": 2476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the six bolts and lock washers which attach the governor housing to the blower rear end plate. Studs and nuts were used in place of one or two of the bolts on early units. Remove the governor housing and gasket.",
+        "verified": true,
+        "char_start": 2916,
+        "char_end": 3134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the six bolts and lock washers which attach the governor housing to the blower rear end plate. Studs and nuts were used in place of one or two of the bolts on early units. Remove the governor housing and gasket.",
+        "verified": true,
+        "char_start": 2916,
+        "char_end": 3134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the six bolts and lock washers which attach the governor housing to the blower rear end plate. Studs and nuts were used in place of one or two of the bolts on early units. Remove the governor housing and gasket.",
+        "verified": true,
+        "char_start": 2916,
+        "char_end": 3134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the six bolts and lock washers which attach the governor housing to the blower rear end plate. Studs and nuts were used in place of one or two of the bolts on early units. Remove the governor housing and gasket.",
+        "verified": true,
+        "char_start": 2916,
+        "char_end": 3134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_bolt",
+      "name": "Of the bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bolt",
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the six bolts and lock washers which attach the governor housing to the blower rear end plate. Studs and nuts were used in place of one or two of the bolts on early units. Remove the governor housing and gasket.",
+        "verified": true,
+        "char_start": 2916,
+        "char_end": 3134,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Disconnect the throttle control rod and the booster spring (Fig. 1) from the speed control lever.",
+      "source_number": 1,
+      "installs": [
+        "throttle_control_rod",
+        "booster_spring",
+        "nut_securing_fig",
+        "speed_control_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the throttle control rod and the booster spring (Fig. 1) from the speed control lever.",
+        "verified": true,
+        "char_start": 1593,
+        "char_end": 1690,
+        "bbox": [
+          316.0800000000001,
+          203.289,
+          554.8412400000001,
+          223.20999999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Disconnect the retracung spring from the stop lever \u041e\u0433 cover screw.",
+      "source_number": 2,
+      "installs": [
+        "end_of_the_spring",
+        "of_the_stop_lever",
+        "valve_cover_screw"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the retracung spring from the stop lever \u041e\u0433 cover screw.",
+        "verified": true,
+        "char_start": 1694,
+        "char_end": 1761,
+        "bbox": [
+          316.0799999999999,
+          234.2109999999999,
+          555.491,
+          255.12999999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the attaching screws and lock washers and lift the cover and lever assembly and the gasket from the governor housing.",
+      "source_number": 3,
+      "installs": [
+        "attaching_screw",
+        "special_lock_washer",
+        "underside_of_the_cover",
+        "head_gasket",
+        "disassemble_governor_housing"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the attaching screws and lock washers and lift the cover and lever assembly and the gasket from the governor housing.",
+        "verified": true,
+        "char_start": 1765,
+        "char_end": 1889,
+        "bbox": [
+          316.08000000000004,
+          266.25199999999995,
+          554.6436000000001,
+          297.99299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Loosen the two attaching bolts and lock washers and withdraw the variable speed spring housing and lever assembly and gasket from the governor.",
+      "source_number": 4,
+      "installs": [
+        "flywheel_attaching_bolt",
+        "variable_speed_spring",
+        "of_the_flywheel_housing",
+        "blower_the_engine_governor"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 259,
+        "quote": "Loosen the two attaching bolts and lock washers and withdraw the variable speed spring housing and lever assembly and gasket from the governor.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2036,
+        "bbox": [
+          315.11999999999995,
+          309.21199999999993,
+          555.082,
+          341.1379999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the spring retainer, shims. variable speed spring(s), stops and spring plunger.",
+      "source_number": 5,
+      "installs": [
+        "high_speed_spring_retainer",
+        "rotor_shim",
+        "solid_stop",
+        "high_speed_spring_plunger"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the spring retainer, shims. variable speed spring(s), stops and spring plunger.",
+        "verified": true,
+        "char_start": 2040,
+        "char_end": 2126,
+        "bbox": [
+          315.60000000000014,
+          352.17099999999994,
+          554.4295000000002,
+          372.9599999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Loosen the hose clamps and slide the hoses back on the fuel rod covers.",
+      "source_number": 6,
+      "installs": [
+        "hose_clamp",
+        "fuel_rod_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 259,
+        "quote": "Loosen the hose clamps and slide the hoses back on the fuel rod covers.",
+        "verified": true,
+        "char_start": 2130,
+        "char_end": 2201,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the valve rocker cover from each cylinder head.",
+      "source_number": 7,
+      "installs": [
+        "valve_rocker_cover",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the valve rocker cover from each cylinder head.",
+        "verified": true,
+        "char_start": 2205,
+        "char_end": 2259,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+      "source_number": 8,
+      "installs": [
+        "lower_fuel_rod",
+        "injector_control_tube",
+        "upper_fuel_rod"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 259,
+        "quote": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+        "verified": true,
+        "char_start": 2263,
+        "char_end": 2365,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the threaded pins which connect the upper fuel rods to the control link lever. Remove the fuel rods.",
+      "source_number": 9,
+      "installs": [
+        "threaded_pin",
+        "control_link_lever",
+        "governor_fuel_rod"
+      ],
+      "depends_on": [
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the threaded pins which connect the upper fuel rods to the control link lever. Remove the fuel rods.",
+        "verified": true,
+        "char_start": 2369,
+        "char_end": 2476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Remove the six bolts and lock washers which attach the governor housing to the blower rear end plate. Studs and nuts were used in place of one or two of the bolts on early units. Remove the governor housing and gasket.",
+      "source_number": 13,
+      "installs": [
+        "engine_front_cover_bolt",
+        "assembly_examine_the_blower",
+        "assembly_rear_end_plate",
+        "front_balance_weight_nut",
+        "of_the_bolt"
+      ],
+      "depends_on": [
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 259,
+        "quote": "Remove the six bolts and lock washers which attach the governor housing to the blower rear end plate. Studs and nuts were used in place of one or two of the bolts on early units. Remove the governor housing and gasket.",
+        "verified": true,
+        "char_start": 2916,
+        "char_end": 3134,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

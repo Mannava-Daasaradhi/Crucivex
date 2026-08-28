@@ -1,0 +1,1034 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.353 - Remove the screws and lock washers which...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the screws and lock washers which attach the governor cover to the governor housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 1863,
+        "char_end": 1983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the screws and lock washers which attach the governor cover to the governor housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 1863,
+        "char_end": 1983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the screws and lock washers which attach the governor cover to the governor housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 1863,
+        "char_end": 1983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the screws and lock washers which attach the governor cover to the governor housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 1863,
+        "char_end": 1983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the screws and lock washers which attach the governor cover to the governor housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 1863,
+        "char_end": 1983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the screws and lock washers which attach the governor cover to the governor housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 1863,
+        "char_end": 1983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the two bolts and lock washers which hold J 5825.01 Fig. 5 - Removing Blower Rotor Gears",
+        "verified": true,
+        "char_start": 1987,
+        "char_end": 2082,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the two bolts and lock washers which hold J 5825.01 Fig. 5 - Removing Blower Rotor Gears",
+        "verified": true,
+        "char_start": 1987,
+        "char_end": 2082,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_rotor_gear",
+      "name": "Blower rotor gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_rotor_gear",
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the two bolts and lock washers which hold J 5825.01 Fig. 5 - Removing Blower Rotor Gears",
+        "verified": true,
+        "char_start": 1987,
+        "char_end": 2082,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_assembly",
+      "name": "Spring assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_assembly",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the spring assembly from the governor.",
+        "verified": true,
+        "char_start": 85,
+        "char_end": 130,
+        "bbox": [
+          94.56,
+          118.94599999999991,
+          303.01752,
+          127.94599999999991
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the spring assembly from the governor.",
+        "verified": true,
+        "char_start": 85,
+        "char_end": 130,
+        "bbox": [
+          94.56,
+          118.94599999999991,
+          303.01752,
+          127.94599999999991
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 354,
+        "quote": "Loosen the hose clamps and slide the hoses back on the fuel rod covers.",
+        "verified": true,
+        "char_start": 134,
+        "char_end": 205,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_rod_cover",
+      "name": "Fuel rod cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_rod_cover",
+      "provenance": {
+        "page": 354,
+        "quote": "Loosen the hose clamps and slide the hoses back on the fuel rod covers.",
+        "verified": true,
+        "char_start": 134,
+        "char_end": 205,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 354,
+        "quote": "Clean and remove the valve rocker cover from each cylinder head.",
+        "verified": true,
+        "char_start": 209,
+        "char_end": 273,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 354,
+        "quote": "Clean and remove the valve rocker cover from each cylinder head.",
+        "verified": true,
+        "char_start": 209,
+        "char_end": 273,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 354,
+        "quote": "Clean and remove the valve rocker cover from each cylinder head.",
+        "verified": true,
+        "char_start": 209,
+        "char_end": 273,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lower_fuel_rod",
+      "name": "Lower fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_fuel_rod",
+      "provenance": {
+        "page": 354,
+        "quote": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+        "verified": true,
+        "char_start": 277,
+        "char_end": 379,
+        "bbox": [
+          82.56,
+          209.56399999999996,
+          323.6288,
+          228.49599999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 354,
+        "quote": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+        "verified": true,
+        "char_start": 277,
+        "char_end": 379,
+        "bbox": [
+          82.56,
+          209.56399999999996,
+          323.6288,
+          228.49599999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 354,
+        "quote": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+        "verified": true,
+        "char_start": 277,
+        "char_end": 379,
+        "bbox": [
+          82.56,
+          209.56399999999996,
+          323.6288,
+          228.49599999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "upper_fuel_rod",
+      "name": "Upper fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_fuel_rod",
+      "provenance": {
+        "page": 354,
+        "quote": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+        "verified": true,
+        "char_start": 277,
+        "char_end": 379,
+        "bbox": [
+          82.56,
+          209.56399999999996,
+          323.6288,
+          228.49599999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "threaded_pin",
+      "name": "Threaded pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "threaded_pin",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the threaded pins connecting the fuel rods to the control link lever. Remove the upper fuel rods.",
+        "verified": true,
+        "char_start": 383,
+        "char_end": 487,
+        "bbox": [
+          83.28000000000003,
+          241.92499999999995,
+          323.55348000000004,
+          262.095
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the threaded pins connecting the fuel rods to the control link lever. Remove the upper fuel rods.",
+        "verified": true,
+        "char_start": 383,
+        "char_end": 487,
+        "bbox": [
+          83.28000000000003,
+          241.92499999999995,
+          323.55348000000004,
+          262.095
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "control_link_lever",
+      "name": "Control link lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_lever",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the threaded pins connecting the fuel rods to the control link lever. Remove the upper fuel rods.",
+        "verified": true,
+        "char_start": 383,
+        "char_end": 487,
+        "bbox": [
+          83.28000000000003,
+          241.92499999999995,
+          323.55348000000004,
+          262.095
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_cover",
+      "name": "Blower drive cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_cover",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the blower drive cover plate. Remove the snap ring and withdraw the blower drive shaft from the housing.",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the blower drive cover plate. Remove the snap ring and withdraw the blower drive shaft from the housing.",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the blower drive cover plate. Remove the snap ring and withdraw the blower drive shaft from the housing.",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_shaft",
+      "name": "Blower drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_shaft",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the blower drive cover plate. Remove the snap ring and withdraw the blower drive shaft from the housing.",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the blower drive cover plate. Remove the snap ring and withdraw the blower drive shaft from the housing.",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the ...",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 1111,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support_assembly",
+      "name": "Blower drive support assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support_assembly",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the ...",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 1111,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_assembly",
+      "name": "Governor drive assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_assembly",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the ...",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 1111,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_shaft",
+      "name": "Accessory drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_shaft",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the ...",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 1111,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the ...",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 1111,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the ...",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 1111,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the ...",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 1111,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the ...",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 1111,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the ...",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 1111,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the four bolts and flat washers which attach the blower to the top face of the cylinder block. Lift the blower and governor assembly from the engine (Fig. 4). -= d 98 =",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1291,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the four bolts and flat washers which attach the blower to the top face of the cylinder block. Lift the blower and governor assembly from the engine (Fig. 4). -= d 98 =",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1291,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_assembly",
+      "name": "Governor assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_assembly",
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the four bolts and flat washers which attach the blower to the top face of the cylinder block. Lift the blower and governor assembly from the engine (Fig. 4). -= d 98 =",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1291,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the screws and lock washers which attach the governor cover to the governor housing. Remove the cover and gasket.",
+      "source_number": 2,
+      "installs": [
+        "of_the_buffer_screw",
+        "special_lock_washer",
+        "governor_cover",
+        "disassemble_governor_housing",
+        "underside_of_the_cover",
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the screws and lock washers which attach the governor cover to the governor housing. Remove the cover and gasket.",
+        "verified": true,
+        "char_start": 1863,
+        "char_end": 1983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the two bolts and lock washers which hold J 5825.01 Fig. 5 - Removing Blower Rotor Gears",
+      "source_number": 3,
+      "installs": [
+        "engine_front_cover_bolt",
+        "nut_securing_fig",
+        "blower_rotor_gear"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 353,
+        "quote": "Remove the two bolts and lock washers which hold J 5825.01 Fig. 5 - Removing Blower Rotor Gears",
+        "verified": true,
+        "char_start": 1987,
+        "char_end": 2082,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the spring assembly from the governor.",
+      "source_number": 4,
+      "installs": [
+        "spring_assembly",
+        "blower_the_engine_governor"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the spring assembly from the governor.",
+        "verified": true,
+        "char_start": 85,
+        "char_end": 130,
+        "bbox": [
+          94.56,
+          118.94599999999991,
+          303.01752,
+          127.94599999999991
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Loosen the hose clamps and slide the hoses back on the fuel rod covers.",
+      "source_number": 5,
+      "installs": [
+        "hose_clamp",
+        "fuel_rod_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Loosen the hose clamps and slide the hoses back on the fuel rod covers.",
+        "verified": true,
+        "char_start": 134,
+        "char_end": 205,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Clean and remove the valve rocker cover from each cylinder head.",
+      "source_number": 6,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "valve_rocker_cover",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Clean and remove the valve rocker cover from each cylinder head.",
+        "verified": true,
+        "char_start": 209,
+        "char_end": 273,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+      "source_number": 7,
+      "installs": [
+        "lower_fuel_rod",
+        "injector_control_tube",
+        "of_the_stop_lever",
+        "upper_fuel_rod"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Disconnect the lower fuel rod from each injector control tube lever and also from each upper fuel rod.",
+        "verified": true,
+        "char_start": 277,
+        "char_end": 379,
+        "bbox": [
+          82.56,
+          209.56399999999996,
+          323.6288,
+          228.49599999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the threaded pins connecting the fuel rods to the control link lever. Remove the upper fuel rods.",
+      "source_number": 8,
+      "installs": [
+        "threaded_pin",
+        "governor_fuel_rod",
+        "control_link_lever"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the threaded pins connecting the fuel rods to the control link lever. Remove the upper fuel rods.",
+        "verified": true,
+        "char_start": 383,
+        "char_end": 487,
+        "bbox": [
+          83.28000000000003,
+          241.92499999999995,
+          323.55348000000004,
+          262.095
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the blower drive cover plate. Remove the snap ring and withdraw the blower drive shaft from the housing.",
+      "source_number": 9,
+      "installs": [
+        "blower_drive_cover",
+        "assembly_rear_end_plate",
+        "external_snap_ring",
+        "blower_drive_shaft",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the blower drive cover plate. Remove the snap ring and withdraw the blower drive shaft from the housing.",
+        "verified": true,
+        "char_start": 491,
+        "char_end": 602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the serrated end of the governor weight shaft will pass around the governor operating fork. Remove the drive support from the engine. LI. The governor is doweled to the cylinder block rear end plate. Use a suitable tool to press or drive the dowel pin from the end plate.",
+      "source_number": 10,
+      "installs": [
+        "copper_washer",
+        "blower_drive_support_assembly",
+        "governor_drive_assembly",
+        "accessory_drive_shaft",
+        "governor_weight_shaft",
+        "governor_operating_fork",
+        "blower_drive_support",
+        "of_the_block",
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the two bolts and copper washers securing the blower drive support assembly. Then withdraw the drive assembly until the splined end of the drive shaft is free from the drive plate (Fig. 3). Turn the drive assembly slightly so the ...",
+        "verified": true,
+        "char_start": 607,
+        "char_end": 1111,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Remove the four bolts and flat washers which attach the blower to the top face of the cylinder block. Lift the blower and governor assembly from the engine (Fig. 4). -= d 98 =",
+      "source_number": 12,
+      "installs": [
+        "flat_washer",
+        "assembly_examine_the_blower",
+        "governor_assembly"
+      ],
+      "depends_on": [
+        "s02",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the four bolts and flat washers which attach the blower to the top face of the cylinder block. Lift the blower and governor assembly from the engine (Fig. 4). -= d 98 =",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1291,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Remove the six bolts and lock washers which attach the governor housing to the blower rear end plate. Remove the governor and gasket.",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s08",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 354,
+        "quote": "Remove the six bolts and lock washers which attach the governor housing to the blower rear end plate. Remove the governor and gasket.",
+        "verified": true,
+        "char_start": 1492,
+        "char_end": 1625,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

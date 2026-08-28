@@ -1,0 +1,558 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.151 - Remove the bearing cap and wipe the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "lower_bearing_cap",
+      "name": "Lower bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_bearing_cap",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bearing_shell",
+      "name": "Connecting rod bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing_shell",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "main",
+      "name": "Main",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "where_the_main_bearing",
+      "name": "Where the main bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "where_the_main_bearing",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head_due",
+      "name": "Cylinder head due",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_due",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_bearing",
+      "name": "Of the bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bearing",
+      "provenance": {
+        "page": 151,
+        "quote": "Place a piece of the plastic strip the full width of the bearing shell, about 1/4\" off center (Fig. 1).",
+        "verified": true,
+        "char_start": 813,
+        "char_end": 916,
+        "bbox": [
+          369.84,
+          408.93199999999996,
+          591.9372,
+          430.09
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_about",
+      "name": "Crankshaft about",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_about",
+      "provenance": {
+        "page": 151,
+        "quote": "Place a piece of the plastic strip the full width of the bearing shell, about 1/4\" off center (Fig. 1).",
+        "verified": true,
+        "char_start": 813,
+        "char_end": 916,
+        "bbox": [
+          369.84,
+          408.93199999999996,
+          591.9372,
+          430.09
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 151,
+        "quote": "Place a piece of the plastic strip the full width of the bearing shell, about 1/4\" off center (Fig. 1).",
+        "verified": true,
+        "char_start": 813,
+        "char_end": 916,
+        "bbox": [
+          369.84,
+          408.93199999999996,
+          591.9372,
+          430.09
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 151,
+        "quote": "Rotate the crankshaft about 30\u00b0 from bottom dead center and reinstall the bearing cap. Tighten the bolts to the specified torque.",
+        "verified": true,
+        "char_start": 920,
+        "char_end": 1049,
+        "bbox": [
+          369.84000000000003,
+          442.929,
+          591.2394,
+          474.15299999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "number",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap. The flattened plastic strip will be found adhering to either the bearing shell or the crankshaft. Fig. 1 - Using Plastic Strip to Measure Bearing-to-Crankshaft Clearance 5. Compare the width of the flattened plast...",
+        "verified": true,
+        "char_start": 1053,
+        "char_end": 1917,
+        "bbox": [
+          69.35999999999996,
+          487.21099999999996,
+          592.9873799999998,
+          618.7299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bearing",
+      "name": "Connecting rod bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap. The flattened plastic strip will be found adhering to either the bearing shell or the crankshaft. Fig. 1 - Using Plastic Strip to Measure Bearing-to-Crankshaft Clearance 5. Compare the width of the flattened plast...",
+        "verified": true,
+        "char_start": 1053,
+        "char_end": 1917,
+        "bbox": [
+          69.35999999999996,
+          487.21099999999996,
+          592.9873799999998,
+          618.7299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap. The flattened plastic strip will be found adhering to either the bearing shell or the crankshaft. Fig. 1 - Using Plastic Strip to Measure Bearing-to-Crankshaft Clearance 5. Compare the width of the flattened plast...",
+        "verified": true,
+        "char_start": 1053,
+        "char_end": 1917,
+        "bbox": [
+          69.35999999999996,
+          487.21099999999996,
+          592.9873799999998,
+          618.7299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft and the flywheel, an erroneous reading, due to the weight of the crankshaft and flywheel, can be eliminated by supporting the weight of the crankshaft with a jack under the counterweight adjoining the bearing being checked.",
+      "source_number": 1,
+      "installs": [
+        "lower_bearing_cap",
+        "connecting_rod_bearing_shell",
+        "halve_of_the_crankshaft",
+        "main",
+        "bearing_the_end_bearing",
+        "where_the_main_bearing",
+        "clean_shipping_cap",
+        "front_balance_weight",
+        "hammer_puller_set_flywheel",
+        "cylinder_head_due"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap and wipe the oil from the bearing shell and the crankshaft journal. When checking the main bearing clearances with the engine in a position where the main bearing caps are supporting the weight of the crankshaft an...",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 809,
+        "bbox": [
+          369.84,
+          280.45099999999996,
+          593.2213800000002,
+          400.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place a piece of the plastic strip the full width of the bearing shell, about 1/4\" off center (Fig. 1).",
+      "source_number": 2,
+      "installs": [
+        "of_the_bearing",
+        "crankshaft_about",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 151,
+        "quote": "Place a piece of the plastic strip the full width of the bearing shell, about 1/4\" off center (Fig. 1).",
+        "verified": true,
+        "char_start": 813,
+        "char_end": 916,
+        "bbox": [
+          369.84,
+          408.93199999999996,
+          591.9372,
+          430.09
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Rotate the crankshaft about 30\u00b0 from bottom dead center and reinstall the bearing cap. Tighten the bolts to the specified torque.",
+      "source_number": 3,
+      "installs": [
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 151,
+        "quote": "Rotate the crankshaft about 30\u00b0 from bottom dead center and reinstall the bearing cap. Tighten the bolts to the specified torque.",
+        "verified": true,
+        "char_start": 920,
+        "char_end": 1049,
+        "bbox": [
+          369.84000000000003,
+          442.929,
+          591.2394,
+          474.15299999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the bearing cap. The flattened plastic strip will be found adhering to either the bearing shell or the crankshaft. Fig. 1 - Using Plastic Strip to Measure Bearing-to-Crankshaft Clearance 5. Compare the width of the flattened plastic strip at its widest point with the graduations on the envelope A strip of soft plastic squeezed between the crankshaft (Fig. 1). The number within the graduation on the journal and the connecting rod bearing or main bearing may envelope indicates the bearing clearance in be used to measure the bearing clearances. thousandths of an inch. Taper may be indicated when one end of the flattened plastic strip is wider Measure The strip is a specially molded plastic \u201cwire\u201d each end of the plastic; the difference between the manufactured commercially and is available in three sizes readings is the approximate amount of taper.",
+      "source_number": 4,
+      "installs": [
+        "number",
+        "connecting_rod_bearing",
+        "lock_wire"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 151,
+        "quote": "Remove the bearing cap. The flattened plastic strip will be found adhering to either the bearing shell or the crankshaft. Fig. 1 - Using Plastic Strip to Measure Bearing-to-Crankshaft Clearance 5. Compare the width of the flattened plast...",
+        "verified": true,
+        "char_start": 1053,
+        "char_end": 1917,
+        "bbox": [
+          69.35999999999996,
+          487.21099999999996,
+          592.9873799999998,
+          618.7299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

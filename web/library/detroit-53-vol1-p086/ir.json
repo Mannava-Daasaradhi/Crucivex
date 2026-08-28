@@ -1,0 +1,416 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.149 - Remove the pulleys from the front end...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the pulleys from the front end of the camshaft and balance shaft (In-line engine) or the camshafts aoe CMS",
+        "verified": true,
+        "char_start": 53,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the pulleys from the front end of the camshaft and balance shaft (In-line engine) or the camshafts aoe CMS",
+        "verified": true,
+        "char_start": 53,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the pulleys from the front end of the camshaft and balance shaft (In-line engine) or the camshafts aoe CMS",
+        "verified": true,
+        "char_start": 53,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the pulleys from the front end of the camshaft and balance shaft (In-line engine) or the camshafts aoe CMS",
+        "verified": true,
+        "char_start": 53,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "upper_front_cover_to_cylinder",
+      "name": "Upper front cover-to-cylinder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_front_cover_to_cylinder",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the upper front cover-to-cylinder block attaching bolts.",
+        "verified": true,
+        "char_start": 267,
+        "char_end": 330,
+        "bbox": [
+          368.40000000000003,
+          188.65099999999995,
+          590.0736,
+          208.80899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the upper front cover-to-cylinder block attaching bolts.",
+        "verified": true,
+        "char_start": 267,
+        "char_end": 330,
+        "bbox": [
+          368.40000000000003,
+          188.65099999999995,
+          590.0736,
+          208.80899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flywheel_attaching_bolt",
+      "name": "Flywheel attaching bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_attaching_bolt",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the upper front cover-to-cylinder block attaching bolts.",
+        "verified": true,
+        "char_start": 267,
+        "char_end": 330,
+        "bbox": [
+          368.40000000000003,
+          188.65099999999995,
+          590.0736,
+          208.80899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 149,
+        "quote": "Tap the cover and dowel pin assembly away from the cylinder block.",
+        "verified": true,
+        "char_start": 334,
+        "char_end": 400,
+        "bbox": [
+          368.15999999999997,
+          217.89299999999992,
+          591.372,
+          239.04899999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 149,
+        "quote": "Tap the cover and dowel pin assembly away from the cylinder block.",
+        "verified": true,
+        "char_start": 334,
+        "char_end": 400,
+        "bbox": [
+          368.15999999999997,
+          217.89299999999992,
+          591.372,
+          239.04899999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "woodruff_key",
+      "name": "Woodruff key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "woodruff_key",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the Woodruff keys and oil seal spacers from the shafts. ZA 6. Remove all traces of the old gasket material from the cylinder block and cover.",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 552,
+        "bbox": [
+          262.8,
+          249.2489999999999,
+          591.2169299999998,
+          299.529
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the Woodruff keys and oil seal spacers from the shafts. ZA 6. Remove all traces of the old gasket material from the cylinder block and cover.",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 552,
+        "bbox": [
+          262.8,
+          249.2489999999999,
+          591.2169299999998,
+          299.529
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the Woodruff keys and oil seal spacers from the shafts. ZA 6. Remove all traces of the old gasket material from the cylinder block and cover.",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 552,
+        "bbox": [
+          262.8,
+          249.2489999999999,
+          591.2169299999998,
+          299.529
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gasket_material",
+      "name": "Gasket material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gasket_material",
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the Woodruff keys and oil seal spacers from the shafts. ZA 6. Remove all traces of the old gasket material from the cylinder block and cover.",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 552,
+        "bbox": [
+          262.8,
+          249.2489999999999,
+          591.2169299999998,
+          299.529
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the pulleys from the front end of the camshaft and balance shaft (In-line engine) or the camshafts aoe CMS",
+      "source_number": 2,
+      "installs": [
+        "crankshaft_splined_crankshaft_pulley",
+        "camshaft",
+        "end_of_the_shaft",
+        "tbe_lubricating_oil_line"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the pulleys from the front end of the camshaft and balance shaft (In-line engine) or the camshafts aoe CMS",
+        "verified": true,
+        "char_start": 53,
+        "char_end": 166,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the upper front cover-to-cylinder block attaching bolts.",
+      "source_number": 3,
+      "installs": [
+        "upper_front_cover_to_cylinder",
+        "of_the_block",
+        "flywheel_attaching_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the upper front cover-to-cylinder block attaching bolts.",
+        "verified": true,
+        "char_start": 267,
+        "char_end": 330,
+        "bbox": [
+          368.40000000000003,
+          188.65099999999995,
+          590.0736,
+          208.80899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Tap the cover and dowel pin assembly away from the cylinder block.",
+      "source_number": 4,
+      "installs": [
+        "underside_of_the_cover",
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 149,
+        "quote": "Tap the cover and dowel pin assembly away from the cylinder block.",
+        "verified": true,
+        "char_start": 334,
+        "char_end": 400,
+        "bbox": [
+          368.15999999999997,
+          217.89299999999992,
+          591.372,
+          239.04899999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the Woodruff keys and oil seal spacers from the shafts. ZA 6. Remove all traces of the old gasket material from the cylinder block and cover.",
+      "source_number": 5,
+      "installs": [
+        "woodruff_key",
+        "crankshaft_front_oil_seal",
+        "drive_gear_spacer",
+        "gasket_material"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 149,
+        "quote": "Remove the Woodruff keys and oil seal spacers from the shafts. ZA 6. Remove all traces of the old gasket material from the cylinder block and cover.",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 552,
+        "bbox": [
+          262.8,
+          249.2489999999999,
+          591.2169299999998,
+          299.529
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

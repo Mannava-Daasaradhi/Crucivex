@@ -1,0 +1,413 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.283 - Support the governor drive gear on an...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the governor drive gear on an arbor press; then, press the spider and shaft assembly (10) into the drive gear (46) until the gear bottoms the spacer against the bearing (12).",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1054,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_gear",
+      "name": "Governor drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_gear",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the governor drive gear on an arbor press; then, press the spider and shaft assembly (10) into the drive gear (46) until the gear bottoms the spacer against the bearing (12).",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1054,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spider",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the governor drive gear on an arbor press; then, press the spider and shaft assembly (10) into the drive gear (46) until the gear bottoms the spacer against the bearing (12).",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1054,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the governor drive gear on an arbor press; then, press the spider and shaft assembly (10) into the drive gear (46) until the gear bottoms the spacer against the bearing (12).",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1054,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the governor drive gear on an arbor press; then, press the spider and shaft assembly (10) into the drive gear (46) until the gear bottoms the spacer against the bearing (12).",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1054,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the governor drive gear on an arbor press; then, press the spider and shaft assembly (10) into the drive gear (46) until the gear bottoms the spacer against the bearing (12).",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1054,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flyweight",
+      "name": "Flyweight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flyweight",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the flyweights (7) on the spider and shaft assembly with supporung pins (8). Install the hair pin clips or retainer rings (9) in the grooves of the supporting pins. NOTE: When viewing the spider and shaft assembly from the gear e...",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1496,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the flyweights (7) on the spider and shaft assembly with supporung pins (8). Install the hair pin clips or retainer rings (9) in the grooves of the supporting pins. NOTE: When viewing the spider and shaft assembly from the gear e...",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1496,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hair_pin_clip",
+      "name": "Hair pin clip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hair_pin_clip",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the flyweights (7) on the spider and shaft assembly with supporung pins (8). Install the hair pin clips or retainer rings (9) in the grooves of the supporting pins. NOTE: When viewing the spider and shaft assembly from the gear e...",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1496,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the flyweights (7) on the spider and shaft assembly with supporung pins (8). Install the hair pin clips or retainer rings (9) in the grooves of the supporting pins. NOTE: When viewing the spider and shaft assembly from the gear e...",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1496,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the flyweights (7) on the spider and shaft assembly with supporung pins (8). Install the hair pin clips or retainer rings (9) in the grooves of the supporting pins. NOTE: When viewing the spider and shaft assembly from the gear e...",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1496,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the flyweights (7) on the spider and shaft assembly with supporung pins (8). Install the hair pin clips or retainer rings (9) in the grooves of the supporting pins. NOTE: When viewing the spider and shaft assembly from the gear e...",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1496,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6) into the bearing race until the race seats on the shoulder of the riser.",
+        "verified": true,
+        "char_start": 1501,
+        "char_end": 1676,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inboard_thrust_bearing",
+      "name": "Inboard thrust bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inboard_thrust_bearing",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6) into the bearing race until the race seats on the shoulder of the riser.",
+        "verified": true,
+        "char_start": 1501,
+        "char_end": 1676,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6) into the bearing race until the race seats on the shoulder of the riser.",
+        "verified": true,
+        "char_start": 1501,
+        "char_end": 1676,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6) into the bearing race until the race seats on the shoulder of the riser.",
+        "verified": true,
+        "char_start": 1501,
+        "char_end": 1676,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6) into the bearing race until the race seats on the shoulder of the riser.",
+        "verified": true,
+        "char_start": 1501,
+        "char_end": 1676,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 283,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6) into the bearing race until the race seats on the shoulder of the riser.",
+        "verified": true,
+        "char_start": 1501,
+        "char_end": 1676,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Support the governor drive gear on an arbor press; then, press the spider and shaft assembly (10) into the drive gear (46) until the gear bottoms the spacer against the bearing (12).",
+      "source_number": 14,
+      "installs": [
+        "blower_drive_support",
+        "governor_drive_gear",
+        "spider",
+        "drive_shaft_assembly",
+        "fuel_pump_drive_gear",
+        "drive_gear_spacer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 283,
+        "quote": "Support the governor drive gear on an arbor press; then, press the spider and shaft assembly (10) into the drive gear (46) until the gear bottoms the spacer against the bearing (12).",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1054,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the flyweights (7) on the spider and shaft assembly with supporung pins (8). Install the hair pin clips or retainer rings (9) in the grooves of the supporting pins. NOTE: When viewing the spider and shaft assembly from the gear end, the right support pin hole has a smaller inside diameter. The serrated end of the supporting pin is inserted through the larger diameter hole, through the weight, and driven into the smaller hole.",
+      "source_number": 15,
+      "installs": [
+        "flyweight",
+        "copper_plated_dowel_pin",
+        "hair_pin_clip",
+        "drive_shaft_retainer",
+        "piston_ring",
+        "of_the_groove"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: When viewing the spider and shaft assembly from the gear end, the right support pin hole has a smaller inside diameter.",
+      "provenance": {
+        "page": 283,
+        "quote": "Install the flyweights (7) on the spider and shaft assembly with supporung pins (8). Install the hair pin clips or retainer rings (9) in the grooves of the supporting pins. NOTE: When viewing the spider and shaft assembly from the gear e...",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1496,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6) into the bearing race until the race seats on the shoulder of the riser.",
+      "source_number": 16,
+      "installs": [
+        "side_of_the_inner",
+        "inboard_thrust_bearing",
+        "governor_riser",
+        "bearing_the_end_bearing",
+        "insert_remover_valve_seat",
+        "shoulder"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 283,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6) into the bearing race until the race seats on the shoulder of the riser.",
+        "verified": true,
+        "char_start": 1501,
+        "char_end": 1676,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Slide the riser (6) on the spider and shaft assembly",
+      "source_number": 17,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 283,
+        "quote": "Slide the riser (6) on the spider and shaft assembly",
+        "verified": true,
+        "char_start": 1681,
+        "char_end": 1733,
+        "bbox": [
+          366.47999999999996,
+          124.08799999999997,
+          586.3236,
+          133.08799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

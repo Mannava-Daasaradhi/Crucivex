@@ -1,0 +1,528 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.256 - Instali the fivweights (7) on the spider...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "spider",
+      "name": "Spider",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spider",
+      "provenance": {
+        "page": 256,
+        "quote": "Instali the fivweights (7) on the spider and shaft assembly with supporting pins (8). Retain the pins in place with hair pin clips or retainer rings (9) at the unknurled ends.",
+        "verified": true,
+        "char_start": 3141,
+        "char_end": 3316,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 256,
+        "quote": "Instali the fivweights (7) on the spider and shaft assembly with supporting pins (8). Retain the pins in place with hair pin clips or retainer rings (9) at the unknurled ends.",
+        "verified": true,
+        "char_start": 3141,
+        "char_end": 3316,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 256,
+        "quote": "Instali the fivweights (7) on the spider and shaft assembly with supporting pins (8). Retain the pins in place with hair pin clips or retainer rings (9) at the unknurled ends.",
+        "verified": true,
+        "char_start": 3141,
+        "char_end": 3316,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hair_pin_clip",
+      "name": "Hair pin clip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hair_pin_clip",
+      "provenance": {
+        "page": 256,
+        "quote": "Instali the fivweights (7) on the spider and shaft assembly with supporting pins (8). Retain the pins in place with hair pin clips or retainer rings (9) at the unknurled ends.",
+        "verified": true,
+        "char_start": 3141,
+        "char_end": 3316,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 256,
+        "quote": "Instali the fivweights (7) on the spider and shaft assembly with supporting pins (8). Retain the pins in place with hair pin clips or retainer rings (9) at the unknurled ends.",
+        "verified": true,
+        "char_start": 3141,
+        "char_end": 3316,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 256,
+        "quote": "Instali the fivweights (7) on the spider and shaft assembly with supporting pins (8). Retain the pins in place with hair pin clips or retainer rings (9) at the unknurled ends.",
+        "verified": true,
+        "char_start": 3141,
+        "char_end": 3316,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6)",
+        "verified": true,
+        "char_start": 3321,
+        "char_end": 3423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6)",
+        "verified": true,
+        "char_start": 3321,
+        "char_end": 3423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inboard_thrust_bearing",
+      "name": "Inboard thrust bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inboard_thrust_bearing",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6)",
+        "verified": true,
+        "char_start": 3321,
+        "char_end": 3423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6)",
+        "verified": true,
+        "char_start": 3321,
+        "char_end": 3423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "ball_assembly",
+      "name": "Ball assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ball_assembly",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the ball assembly and outer race of the three-piece bearing (5) on the riser (6).",
+        "verified": true,
+        "char_start": 194,
+        "char_end": 283,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "outer_race",
+      "name": "Outer race",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outer_race",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the ball assembly and outer race of the three-piece bearing (5) on the riser (6).",
+        "verified": true,
+        "char_start": 194,
+        "char_end": 283,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 257,
+        "quote": "Install the ball assembly and outer race of the three-piece bearing (5) on the riser (6).",
+        "verified": true,
+        "char_start": 194,
+        "char_end": 283,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_housing",
+      "name": "Bearing housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_housing",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "attaching_screw_hole",
+      "name": "Attaching screw hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "attaching_screw_hole",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "countersunk_screw",
+      "name": "Countersunk screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "countersunk_screw",
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Instali the fivweights (7) on the spider and shaft assembly with supporting pins (8). Retain the pins in place with hair pin clips or retainer rings (9) at the unknurled ends.",
+      "source_number": 18,
+      "installs": [
+        "spider",
+        "drive_shaft_assembly",
+        "copper_plated_dowel_pin",
+        "hair_pin_clip",
+        "drive_shaft_retainer",
+        "piston_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Instali the fivweights (7) on the spider and shaft assembly with supporting pins (8). Retain the pins in place with hair pin clips or retainer rings (9) at the unknurled ends.",
+        "verified": true,
+        "char_start": 3141,
+        "char_end": 3316,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6)",
+      "source_number": 19,
+      "installs": [
+        "blower_drive_support",
+        "side_of_the_inner",
+        "inboard_thrust_bearing",
+        "governor_riser"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 256,
+        "quote": "Support the inner race of the three-piece thrust bearing (5) on an arbor press and press the riser (6)",
+        "verified": true,
+        "char_start": 3321,
+        "char_end": 3423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Slide the riser (6) on the spider and shaft assembly (10).",
+      "source_number": 20,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 257,
+        "quote": "Slide the riser (6) on the spider and shaft assembly (10).",
+        "verified": true,
+        "char_start": 131,
+        "char_end": 189,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the ball assembly and outer race of the three-piece bearing (5) on the riser (6).",
+      "source_number": 21,
+      "installs": [
+        "ball_assembly",
+        "outer_race",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 257,
+        "quote": "Install the ball assembly and outer race of the three-piece bearing (5) on the riser (6).",
+        "verified": true,
+        "char_start": 194,
+        "char_end": 283,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through the bushing in the governor body. install the countersunk screw (44) to retain the bearing housing to the governor body.",
+      "source_number": 22,
+      "installs": [
+        "bearing_housing",
+        "attaching_screw_hole",
+        "of_the_oil_hole",
+        "disassemble_governor_housing",
+        "end_of_the_shaft",
+        "of_the_flywheel_housing",
+        "blower_the_engine_governor",
+        "breather_body",
+        "fuel_pump",
+        "connecting_rod_bushing",
+        "countersunk_screw"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 257,
+        "quote": "Turn the bearing housing (48) around to align the attaching screw hole with the tapped hole in the governor housing. Then slide the shaft and bearing housing assembly into the governor body. The fuel pump end of the shaft extends through...",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 646,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

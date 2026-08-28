@@ -1,0 +1,993 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Test manual - short block assembly",
+  "source_document": "test_manual.pdf",
+  "parts": [
+    {
+      "id": "crankcase",
+      "name": "Crankcase",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankcase",
+      "provenance": {
+        "page": 1,
+        "quote": "Mount the crankcase on the engine stand with the cylinder deck facing up and the sump opening clear of the stand arm.",
+        "verified": true,
+        "char_start": 225,
+        "char_end": 342,
+        "bbox": [
+          62.0,
+          166.98720000000003,
+          532.6591999999999,
+          191.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 1,
+        "quote": "Lubricate the main journals with clean engine oil and lay the crankshaft into the case, seating it fully in both main bearings.",
+        "verified": true,
+        "char_start": 346,
+        "char_end": 473,
+        "bbox": [
+          62.0,
+          202.78719999999998,
+          525.6991999999998,
+          227.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 1,
+        "quote": "Install the camshaft, aligning the punch mark on the cam gear with the corresponding mark on the crank gear. WARNING: mis-timed valves will contact the piston on the first rotation.",
+        "verified": true,
+        "char_start": 477,
+        "char_end": 658,
+        "bbox": [
+          62.0,
+          238.58720000000005,
+          513.4112000000001,
+          263.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 2,
+        "quote": "Position the connecting rod on the crank pin with the oil dipper facing the camshaft side of the case.",
+        "verified": true,
+        "char_start": 22,
+        "char_end": 124,
+        "bbox": [
+          72.6752,
+          104.78719999999998,
+          495.296,
+          114.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "rod_cap",
+      "name": "Connecting rod cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rod_cap",
+      "provenance": {
+        "page": 2,
+        "quote": "Fit the connecting rod cap, matching the alignment marks stamped on the rod and the cap. The marks must be on the same side.",
+        "verified": true,
+        "char_start": 128,
+        "char_end": 252,
+        "bbox": [
+          62.0,
+          125.18719999999996,
+          528.8864000000002,
+          150.18720000000008
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "rod_bolt",
+      "name": "Connecting rod bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rod_bolt",
+      "provenance": {
+        "page": 2,
+        "quote": "Tighten the connecting rod bolts to 12 N.m in two even stages using a torque wrench. Do not exceed the specified figure.",
+        "verified": true,
+        "char_start": 256,
+        "char_end": 376,
+        "bbox": [
+          62.0,
+          160.98720000000003,
+          516.1088,
+          185.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "cylinder_barrel",
+      "name": "Cylinder barrel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_barrel",
+      "provenance": {
+        "page": 2,
+        "quote": "Fit the cylinder barrel to the crankcase deck and draw it down evenly onto the register.",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 492,
+        "bbox": [
+          72.6752,
+          223.18719999999996,
+          438.70400000000006,
+          232.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 2,
+        "quote": "Fit the three compression rings to the piston with the ring gaps staggered at 120 degrees, using a ring expander.",
+        "verified": true,
+        "char_start": 496,
+        "char_end": 609,
+        "bbox": [
+          62.0,
+          243.58720000000005,
+          504.35840000000013,
+          268.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "piston",
+      "name": "Piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston",
+      "provenance": {
+        "page": 2,
+        "quote": "Fit the three compression rings to the piston with the ring gaps staggered at 120 degrees, using a ring expander.",
+        "verified": true,
+        "char_start": 496,
+        "char_end": 609,
+        "bbox": [
+          62.0,
+          243.58720000000005,
+          504.35840000000013,
+          268.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "wrist_pin",
+      "name": "Wrist pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wrist_pin",
+      "provenance": {
+        "page": 2,
+        "quote": "Compress the rings and slide the piston into the bore, then connect it to the connecting rod with the wrist pin and fit new circlips.",
+        "verified": true,
+        "char_start": 614,
+        "char_end": 747,
+        "bbox": [
+          62.0,
+          279.3872,
+          520.8992,
+          304.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "intake_valve",
+      "name": "Intake valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "intake_valve",
+      "provenance": {
+        "page": 3,
+        "quote": "Lap the intake valve into its seat until a continuous grey band is visible around the full circumference of the face.",
+        "verified": true,
+        "char_start": 20,
+        "char_end": 137,
+        "bbox": [
+          62.0,
+          104.78719999999998,
+          529.4336,
+          129.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve",
+      "name": "Exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve",
+      "provenance": {
+        "page": 3,
+        "quote": "Lap the exhaust valve into its seat using the same method. The exhaust valve runs hotter and must seat perfectly.",
+        "verified": true,
+        "char_start": 142,
+        "char_end": 255,
+        "bbox": [
+          62.0,
+          140.58720000000005,
+          519.8432000000001,
+          165.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "valve_spring",
+      "name": "Valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_spring",
+      "provenance": {
+        "page": 3,
+        "quote": "Fit the valve springs and retainers, compressing each spring with a valve spring compressor to seat the keepers.",
+        "verified": true,
+        "char_start": 260,
+        "char_end": 372,
+        "bbox": [
+          62.0,
+          176.3872,
+          516.0512,
+          201.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 3,
+        "quote": "Place a new cylinder head gasket on the deck, dry. CAUTION: do not reuse the old gasket and do not apply sealant.",
+        "verified": true,
+        "char_start": 395,
+        "char_end": 508,
+        "bbox": [
+          62.0,
+          238.58720000000005,
+          509.70559999999995,
+          263.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 3,
+        "quote": "Lower the cylinder head onto the gasket without disturbing it, locating it on the two dowels.",
+        "verified": true,
+        "char_start": 513,
+        "char_end": 606,
+        "bbox": [
+          78.0128,
+          274.3872,
+          461.13919999999985,
+          283.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "head_bolt",
+      "name": "Cylinder head bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_bolt",
+      "provenance": {
+        "page": 3,
+        "quote": "Tighten the cylinder head bolts to 24 N.m (17.7 lb-ft) in a crossing pattern, in two stages. Uneven torque will distort the deck.",
+        "verified": true,
+        "char_start": 611,
+        "char_end": 740,
+        "bbox": [
+          62.0,
+          294.7872,
+          518.2207999999999,
+          319.7872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "spark_plug",
+      "name": "Spark plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spark_plug",
+      "provenance": {
+        "page": 4,
+        "quote": "Fit the spark plug and tighten to 18 N.m. Check the electrode gap before fitting.",
+        "verified": true,
+        "char_start": 23,
+        "char_end": 104,
+        "bbox": [
+          78.0128,
+          104.78719999999998,
+          413.65760000000006,
+          114.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "flywheel",
+      "name": "Flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel",
+      "provenance": {
+        "page": 4,
+        "quote": "Fit the flywheel to the tapered crank end, ensuring the key is fully seated, and tighten the nut to 75 N.m with a torque wrench.",
+        "verified": true,
+        "char_start": 109,
+        "char_end": 237,
+        "bbox": [
+          62.0,
+          125.18719999999996,
+          514.5151999999998,
+          150.18720000000008
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Mount the crankcase on the engine stand with the cylinder deck facing up and the sump opening clear of the stand arm.",
+      "installs": [
+        "crankcase"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Mount the crankcase on the engine stand with the cylinder deck facing up and the sump opening clear of the stand arm.",
+        "verified": true,
+        "char_start": 225,
+        "char_end": 342,
+        "bbox": [
+          62.0,
+          166.98720000000003,
+          532.6591999999999,
+          191.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Lubricate the main journals with clean engine oil and lay the crankshaft into the case, seating it fully in both main bearings.",
+      "installs": [
+        "crankshaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Lubricate the main journals with clean engine oil and lay the crankshaft into the case, seating it fully in both main bearings.",
+        "verified": true,
+        "char_start": 346,
+        "char_end": 473,
+        "bbox": [
+          62.0,
+          202.78719999999998,
+          525.6991999999998,
+          227.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the camshaft, aligning the punch mark on the cam gear with the corresponding mark on the crank gear. WARNING: mis-timed valves will contact the piston on the first rotation.",
+      "installs": [
+        "camshaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "WARNING: mis-timed valves will contact the piston on the first rotation.",
+      "provenance": {
+        "page": 1,
+        "quote": "Install the camshaft, aligning the punch mark on the cam gear with the corresponding mark on the crank gear. WARNING: mis-timed valves will contact the piston on the first rotation.",
+        "verified": true,
+        "char_start": 477,
+        "char_end": 658,
+        "bbox": [
+          62.0,
+          238.58720000000005,
+          513.4112000000001,
+          263.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Rotate the crankshaft two full turns by hand and confirm it turns freely with no binding before continuing.",
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 1,
+        "quote": "Rotate the crankshaft two full turns by hand and confirm it turns freely with no binding before continuing.",
+        "verified": true,
+        "char_start": 662,
+        "char_end": 769,
+        "bbox": [
+          72.6752,
+          274.3872,
+          513.4208,
+          283.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Position the connecting rod on the crank pin with the oil dipper facing the camshaft side of the case.",
+      "installs": [
+        "connecting_rod"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 2,
+        "quote": "Position the connecting rod on the crank pin with the oil dipper facing the camshaft side of the case.",
+        "verified": true,
+        "char_start": 22,
+        "char_end": 124,
+        "bbox": [
+          72.6752,
+          104.78719999999998,
+          495.296,
+          114.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Fit the connecting rod cap, matching the alignment marks stamped on the rod and the cap. The marks must be on the same side.",
+      "installs": [
+        "rod_cap"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 2,
+        "quote": "Fit the connecting rod cap, matching the alignment marks stamped on the rod and the cap. The marks must be on the same side.",
+        "verified": true,
+        "char_start": 128,
+        "char_end": 252,
+        "bbox": [
+          62.0,
+          125.18719999999996,
+          528.8864000000002,
+          150.18720000000008
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Tighten the connecting rod bolts to 12 N.m in two even stages using a torque wrench. Do not exceed the specified figure.",
+      "installs": [
+        "rod_bolt"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": "torque wrench",
+      "torque_nm": 12.0,
+      "warning": "Do not exceed the specified figure.",
+      "provenance": {
+        "page": 2,
+        "quote": "Tighten the connecting rod bolts to 12 N.m in two even stages using a torque wrench. Do not exceed the specified figure.",
+        "verified": true,
+        "char_start": 256,
+        "char_end": 376,
+        "bbox": [
+          62.0,
+          160.98720000000003,
+          516.1088,
+          185.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Fit the cylinder barrel to the crankcase deck and draw it down evenly onto the register.",
+      "installs": [
+        "cylinder_barrel"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 2,
+        "quote": "Fit the cylinder barrel to the crankcase deck and draw it down evenly onto the register.",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 492,
+        "bbox": [
+          72.6752,
+          223.18719999999996,
+          438.70400000000006,
+          232.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Fit the three compression rings to the piston with the ring gaps staggered at 120 degrees, using a ring expander.",
+      "installs": [
+        "piston_ring",
+        "piston"
+      ],
+      "depends_on": [],
+      "tool": "ring expander",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 2,
+        "quote": "Fit the three compression rings to the piston with the ring gaps staggered at 120 degrees, using a ring expander.",
+        "verified": true,
+        "char_start": 496,
+        "char_end": 609,
+        "bbox": [
+          62.0,
+          243.58720000000005,
+          504.35840000000013,
+          268.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Compress the rings and slide the piston into the bore, then connect it to the connecting rod with the wrist pin and fit new circlips.",
+      "installs": [
+        "wrist_pin"
+      ],
+      "depends_on": [
+        "s05",
+        "s08",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 2,
+        "quote": "Compress the rings and slide the piston into the bore, then connect it to the connecting rod with the wrist pin and fit new circlips.",
+        "verified": true,
+        "char_start": 614,
+        "char_end": 747,
+        "bbox": [
+          62.0,
+          279.3872,
+          520.8992,
+          304.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Lap the intake valve into its seat until a continuous grey band is visible around the full circumference of the face.",
+      "installs": [
+        "intake_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 3,
+        "quote": "Lap the intake valve into its seat until a continuous grey band is visible around the full circumference of the face.",
+        "verified": true,
+        "char_start": 20,
+        "char_end": 137,
+        "bbox": [
+          62.0,
+          104.78719999999998,
+          529.4336,
+          129.78719999999998
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Lap the exhaust valve into its seat using the same method. The exhaust valve runs hotter and must seat perfectly.",
+      "installs": [
+        "exhaust_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 3,
+        "quote": "Lap the exhaust valve into its seat using the same method. The exhaust valve runs hotter and must seat perfectly.",
+        "verified": true,
+        "char_start": 142,
+        "char_end": 255,
+        "bbox": [
+          62.0,
+          140.58720000000005,
+          519.8432000000001,
+          165.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Fit the valve springs and retainers, compressing each spring with a valve spring compressor to seat the keepers.",
+      "installs": [
+        "valve_spring"
+      ],
+      "depends_on": [
+        "s11",
+        "s12"
+      ],
+      "tool": "valve spring compressor",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 3,
+        "quote": "Fit the valve springs and retainers, compressing each spring with a valve spring compressor to seat the keepers.",
+        "verified": true,
+        "char_start": 260,
+        "char_end": 372,
+        "bbox": [
+          62.0,
+          176.3872,
+          516.0512,
+          201.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Place a new cylinder head gasket on the deck, dry. CAUTION: do not reuse the old gasket and do not apply sealant.",
+      "installs": [
+        "head_gasket"
+      ],
+      "depends_on": [
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: do not reuse the old gasket and do not apply sealant.",
+      "provenance": {
+        "page": 3,
+        "quote": "Place a new cylinder head gasket on the deck, dry. CAUTION: do not reuse the old gasket and do not apply sealant.",
+        "verified": true,
+        "char_start": 395,
+        "char_end": 508,
+        "bbox": [
+          62.0,
+          238.58720000000005,
+          509.70559999999995,
+          263.58720000000005
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Lower the cylinder head onto the gasket without disturbing it, locating it on the two dowels.",
+      "installs": [
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s14"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 3,
+        "quote": "Lower the cylinder head onto the gasket without disturbing it, locating it on the two dowels.",
+        "verified": true,
+        "char_start": 513,
+        "char_end": 606,
+        "bbox": [
+          78.0128,
+          274.3872,
+          461.13919999999985,
+          283.98720000000003
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "Tighten the cylinder head bolts to 24 N.m (17.7 lb-ft) in a crossing pattern, in two stages. Uneven torque will distort the deck.",
+      "installs": [
+        "head_bolt"
+      ],
+      "depends_on": [
+        "s15"
+      ],
+      "tool": null,
+      "torque_nm": 24.0,
+      "warning": null,
+      "provenance": {
+        "page": 3,
+        "quote": "Tighten the cylinder head bolts to 24 N.m (17.7 lb-ft) in a crossing pattern, in two stages. Uneven torque will distort the deck.",
+        "verified": true,
+        "char_start": 611,
+        "char_end": 740,
+        "bbox": [
+          62.0,
+          294.7872,
+          518.2207999999999,
+          319.7872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s17",
+      "index": 16,
+      "text": "Fit the spark plug and tighten to 18 N.m. Check the electrode gap before fitting.",
+      "installs": [
+        "spark_plug"
+      ],
+      "depends_on": [
+        "s15"
+      ],
+      "tool": null,
+      "torque_nm": 18.0,
+      "warning": null,
+      "provenance": {
+        "page": 4,
+        "quote": "Fit the spark plug and tighten to 18 N.m. Check the electrode gap before fitting.",
+        "verified": true,
+        "char_start": 23,
+        "char_end": 104,
+        "bbox": [
+          78.0128,
+          104.78719999999998,
+          413.65760000000006,
+          114.3872
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    },
+    {
+      "id": "s18",
+      "index": 17,
+      "text": "Fit the flywheel to the tapered crank end, ensuring the key is fully seated, and tighten the nut to 75 N.m with a torque wrench.",
+      "installs": [
+        "flywheel"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": "torque wrench",
+      "torque_nm": 75.0,
+      "warning": null,
+      "provenance": {
+        "page": 4,
+        "quote": "Fit the flywheel to the tapered crank end, ensuring the key is fully seated, and tighten the nut to 75 N.m with a torque wrench.",
+        "verified": true,
+        "char_start": 109,
+        "char_end": 237,
+        "bbox": [
+          62.0,
+          125.18719999999996,
+          514.5151999999998,
+          150.18720000000008
+        ],
+        "page_size": [
+          595.0,
+          842.0
+        ]
+      }
+    }
+  ]
+}

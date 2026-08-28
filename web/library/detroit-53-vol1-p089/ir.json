@@ -1,0 +1,794 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.159 - Check for carbon deposits, a bent valve...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "carbon_deposit",
+      "name": "Carbon deposit",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "carbon_deposit",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bent",
+      "name": "Bent",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bent",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_guide",
+      "name": "Exhaust valve guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_guide",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head_due",
+      "name": "Cylinder head due",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_due",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bent_guide",
+      "name": "Bent guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bent_guide",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "too",
+      "name": "Too",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "too",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "only_the_carbon",
+      "name": "Only the carbon",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "only_the_carbon",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "worn_guide",
+      "name": "Worn guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn_guide",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for excessive valve-to-guide clearance, bent overloads, inadequate cooling or improper timing valve guide or carbon deposits. Replace a bent or which results in carbonization of the lubricating oil. worn guide. Clean the carbon fro...",
+        "verified": true,
+        "char_start": 831,
+        "char_end": 1248,
+        "bbox": [
+          101.51999999999998,
+          448.60799999999995,
+          589.43112,
+          505.10499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for excessive valve-to-guide clearance, bent overloads, inadequate cooling or improper timing valve guide or carbon deposits. Replace a bent or which results in carbonization of the lubricating oil. worn guide. Clean the carbon fro...",
+        "verified": true,
+        "char_start": 831,
+        "char_end": 1248,
+        "bbox": [
+          101.51999999999998,
+          448.60799999999995,
+          589.43112,
+          505.10499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "pitted",
+      "name": "Pitted",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pitted",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for excessive valve-to-guide clearance, bent overloads, inadequate cooling or improper timing valve guide or carbon deposits. Replace a bent or which results in carbonization of the lubricating oil. worn guide. Clean the carbon fro...",
+        "verified": true,
+        "char_start": 831,
+        "char_end": 1248,
+        "bbox": [
+          101.51999999999998,
+          448.60799999999995,
+          589.43112,
+          505.10499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "worn_valve_guide",
+      "name": "Worn valve guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn_valve_guide",
+      "provenance": {
+        "page": 159,
+        "quote": "Check the operating conditions of the engine for overload, inadequate cooling or improper timing. Check for a worn valve guide or excessive exhaust Reface the valve and insert. Replace the valve if it is back pressure. Replace a worn gui...",
+        "verified": true,
+        "char_start": 1252,
+        "char_end": 1675,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 159,
+        "quote": "Check the operating conditions of the engine for overload, inadequate cooling or improper timing. Check for a worn valve guide or excessive exhaust Reface the valve and insert. Replace the valve if it is back pressure. Replace a worn gui...",
+        "verified": true,
+        "char_start": 1252,
+        "char_end": 1675,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 159,
+        "quote": "Check the operating conditions of the engine for overload, inadequate cooling or improper timing. Check for a worn valve guide or excessive exhaust Reface the valve and insert. Replace the valve if it is back pressure. Replace a worn gui...",
+        "verified": true,
+        "char_start": 1252,
+        "char_end": 1675,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for contact between the valve head and the piston as a result of incorrect valve clearance, an Check for a bent valve stem or guide, metal chips or improperly positioned exhaust valve bridge (four dirt, or for lack of lubrication. ...",
+        "verified": true,
+        "char_start": 1679,
+        "char_end": 2256,
+        "bbox": [
+          101.51999999999995,
+          562.3299999999999,
+          589.3757099999998,
+          640.1809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for contact between the valve head and the piston as a result of incorrect valve clearance, an Check for a bent valve stem or guide, metal chips or improperly positioned exhaust valve bridge (four dirt, or for lack of lubrication. ...",
+        "verified": true,
+        "char_start": 1679,
+        "char_end": 2256,
+        "bbox": [
+          101.51999999999995,
+          562.3299999999999,
+          589.3757099999998,
+          640.1809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "runout_exhaust_valve_stem",
+      "name": "Runout exhaust valve stem",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "runout_exhaust_valve_stem",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for contact between the valve head and the piston as a result of incorrect valve clearance, an Check for a bent valve stem or guide, metal chips or improperly positioned exhaust valve bridge (four dirt, or for lack of lubrication. ...",
+        "verified": true,
+        "char_start": 1679,
+        "char_end": 2256,
+        "bbox": [
+          101.51999999999995,
+          562.3299999999999,
+          589.3757099999998,
+          640.1809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_an_exhaust_valve",
+      "name": "Insert an exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_an_exhaust_valve",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for contact between the valve head and the piston as a result of incorrect valve clearance, an Check for a bent valve stem or guide, metal chips or improperly positioned exhaust valve bridge (four dirt, or for lack of lubrication. ...",
+        "verified": true,
+        "char_start": 1679,
+        "char_end": 2256,
+        "bbox": [
+          101.51999999999995,
+          562.3299999999999,
+          589.3757099999998,
+          640.1809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "e_cylinder_insert_head",
+      "name": "E cylinder insert head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "e_cylinder_insert_head",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for contact between the valve head and the piston as a result of incorrect valve clearance, an Check for a bent valve stem or guide, metal chips or improperly positioned exhaust valve bridge (four dirt, or for lack of lubrication. ...",
+        "verified": true,
+        "char_start": 1679,
+        "char_end": 2256,
+        "bbox": [
+          101.51999999999995,
+          562.3299999999999,
+          589.3757099999998,
+          640.1809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cloth",
+      "name": "Cloth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cloth",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for contact between the valve head and the piston as a result of incorrect valve clearance, an Check for a bent valve stem or guide, metal chips or improperly positioned exhaust valve bridge (four dirt, or for lack of lubrication. ...",
+        "verified": true,
+        "char_start": 1679,
+        "char_end": 2256,
+        "bbox": [
+          101.51999999999995,
+          562.3299999999999,
+          589.3757099999998,
+          640.1809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "low_speed_spring_cap",
+      "name": "Low-speed spring cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "low_speed_spring_cap",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for contact between the valve head and the piston as a result of incorrect valve clearance, an Check for a bent valve stem or guide, metal chips or improperly positioned exhaust valve bridge (four dirt, or for lack of lubrication. ...",
+        "verified": true,
+        "char_start": 1679,
+        "char_end": 2256,
+        "bbox": [
+          101.51999999999995,
+          562.3299999999999,
+          589.3757099999998,
+          640.1809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for excessive valve-to-guide clearance, defective valve spring or etching of the valve stem at",
+        "verified": true,
+        "char_start": 2260,
+        "char_end": 2360,
+        "bbox": [
+          101.52000000000004,
+          636.6089999999999,
+          321.49199999999996,
+          656.7789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 159,
+        "quote": "Check for a gear train failure or for improper gear the weld. Improper valve clearance is also a cause of train timing. this type of failure. Check the guide, insert, cylinder head and piston for damage. Replace damaged parts.",
+        "verified": true,
+        "char_start": 2365,
+        "char_end": 2591,
+        "bbox": [
+          101.52000000000001,
+          654.151,
+          588.6276,
+          690.3789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_guide_oil_seal",
+      "name": "Valve guide oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_guide_oil_seal",
+      "provenance": {
+        "page": 159,
+        "quote": "Check the operation of the engine for excessive idling eli 6. Replace a worn valve guide. Check and replace the and resultant low engine exhaust back pressure. valve, if necessary. Install valve guide oil seals.",
+        "verified": true,
+        "char_start": 2596,
+        "char_end": 2807,
+        "bbox": [
+          37.44,
+          688.3399999999999,
+          589.1013600000001,
+          719.769
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too heavy a fuel. Rusty brown valve heads with carbon deposits forming narrow reface the valve. Replace the valve, if necessary. collars near the guides indicate hot operation due to",
+      "source_number": 1,
+      "installs": [
+        "carbon_deposit",
+        "bent",
+        "exhaust_valve_guide",
+        "end_of_the_spring",
+        "cam_follower_guide",
+        "cylinder_head_due",
+        "bent_guide",
+        "valve_rocker_cover_clean",
+        "too",
+        "engine_front_cover_valve",
+        "cylinder_head",
+        "only_the_carbon"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 159,
+        "quote": "Check for carbon deposits, a bent valve guide, defective spring or antifreeze (ethylene glycol) in the to the guides indicates cold operation due to light lubricating oil. Replace a bent guide. Clean-up and loads or to the use of too hea...",
+        "verified": true,
+        "char_start": 415,
+        "char_end": 827,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Check for excessive valve-to-guide clearance, bent overloads, inadequate cooling or improper timing valve guide or carbon deposits. Replace a bent or which results in carbonization of the lubricating oil. worn guide. Clean the carbon from the valve. Reface Clean-up the valves, guides and inserts. Reface the or replace the valve, if necessary. valves and inserts or replace them if they are warped, pitted or scored.",
+      "source_number": 2,
+      "installs": [
+        "worn_guide",
+        "exhaust_valve_seat_insert",
+        "pitted"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 159,
+        "quote": "Check for excessive valve-to-guide clearance, bent overloads, inadequate cooling or improper timing valve guide or carbon deposits. Replace a bent or which results in carbonization of the lubricating oil. worn guide. Clean the carbon fro...",
+        "verified": true,
+        "char_start": 831,
+        "char_end": 1248,
+        "bbox": [
+          101.51999999999998,
+          448.60799999999995,
+          589.43112,
+          505.10499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Check the operating conditions of the engine for overload, inadequate cooling or improper timing. Check for a worn valve guide or excessive exhaust Reface the valve and insert. Replace the valve if it is back pressure. Replace a worn guide. Check the valve warped or too badly pitted. Use a harder-face valve if seat for improper seating. Reface the valve and insert operating conditions warrant. or, if necessary, replace.",
+      "source_number": 3,
+      "installs": [
+        "worn_valve_guide",
+        "clamping_pressure",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 159,
+        "quote": "Check the operating conditions of the engine for overload, inadequate cooling or improper timing. Check for a worn valve guide or excessive exhaust Reface the valve and insert. Replace the valve if it is back pressure. Replace a worn gui...",
+        "verified": true,
+        "char_start": 1252,
+        "char_end": 1675,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check for contact between the valve head and the piston as a result of incorrect valve clearance, an Check for a bent valve stem or guide, metal chips or improperly positioned exhaust valve bridge (four dirt, or for lack of lubrication. Clean up the valve valve head) or a defective spring. Check the valve stem with crocus cloth wet with fuel oil or replace the guide, insert, cylinder head and piston for damage. valve. Replace the guide. When installing a valve, use Replace damaged parts. care in depressing the spring so that the spring cap DOES NOT scrape the valve stem.",
+      "source_number": 4,
+      "installs": [
+        "contact",
+        "of_the_selected_piston",
+        "runout_exhaust_valve_stem",
+        "insert_an_exhaust_valve",
+        "e_cylinder_insert_head",
+        "cloth",
+        "low_speed_spring_cap"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 159,
+        "quote": "Check for contact between the valve head and the piston as a result of incorrect valve clearance, an Check for a bent valve stem or guide, metal chips or improperly positioned exhaust valve bridge (four dirt, or for lack of lubrication. ...",
+        "verified": true,
+        "char_start": 1679,
+        "char_end": 2256,
+        "bbox": [
+          101.51999999999995,
+          562.3299999999999,
+          589.3757099999998,
+          640.1809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Check for excessive valve-to-guide clearance, defective valve spring or etching of the valve stem at",
+      "source_number": 5,
+      "installs": [
+        "exhaust_valve_spring"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 159,
+        "quote": "Check for excessive valve-to-guide clearance, defective valve spring or etching of the valve stem at",
+        "verified": true,
+        "char_start": 2260,
+        "char_end": 2360,
+        "bbox": [
+          101.52000000000004,
+          636.6089999999999,
+          321.49199999999996,
+          656.7789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Check for a gear train failure or for improper gear the weld. Improper valve clearance is also a cause of train timing. this type of failure. Check the guide, insert, cylinder head and piston for damage. Replace damaged parts.",
+      "source_number": 10,
+      "installs": [
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 159,
+        "quote": "Check for a gear train failure or for improper gear the weld. Improper valve clearance is also a cause of train timing. this type of failure. Check the guide, insert, cylinder head and piston for damage. Replace damaged parts.",
+        "verified": true,
+        "char_start": 2365,
+        "char_end": 2591,
+        "bbox": [
+          101.52000000000001,
+          654.151,
+          588.6276,
+          690.3789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Check the operation of the engine for excessive idling eli 6. Replace a worn valve guide. Check and replace the and resultant low engine exhaust back pressure. valve, if necessary. Install valve guide oil seals.",
+      "source_number": 11,
+      "installs": [
+        "valve_guide_oil_seal"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 159,
+        "quote": "Check the operation of the engine for excessive idling eli 6. Replace a worn valve guide. Check and replace the and resultant low engine exhaust back pressure. valve, if necessary. Install valve guide oil seals.",
+        "verified": true,
+        "char_start": 2596,
+        "char_end": 2807,
+        "bbox": [
+          37.44,
+          688.3399999999999,
+          589.1013600000001,
+          719.769
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

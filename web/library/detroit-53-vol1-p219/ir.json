@@ -1,0 +1,1190 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.385 - Position the inboard thrust bearing (19) against...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "inboard_thrust_bearing",
+      "name": "Inboard thrust bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inboard_thrust_bearing",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the inboard thrust bearing (19) against the center housing with the hole and cut-outs in the bearing in alignment with the pins (25) in the center housing.",
+        "verified": true,
+        "char_start": 2214,
+        "char_end": 2378,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the inboard thrust bearing (19) against the center housing with the hole and cut-outs in the bearing in alignment with the pins (25) in the center housing.",
+        "verified": true,
+        "char_start": 2214,
+        "char_end": 2378,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the inboard thrust bearing (19) against the center housing with the hole and cut-outs in the bearing in alignment with the pins (25) in the center housing.",
+        "verified": true,
+        "char_start": 2214,
+        "char_end": 2378,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the inboard thrust bearing (19) against the center housing with the hole and cut-outs in the bearing in alignment with the pins (25) in the center housing.",
+        "verified": true,
+        "char_start": 2214,
+        "char_end": 2378,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the inboard thrust bearing (19) against the center housing with the hole and cut-outs in the bearing in alignment with the pins (25) in the center housing.",
+        "verified": true,
+        "char_start": 2214,
+        "char_end": 2378,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "thrust_collar",
+      "name": "Thrust collar",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thrust_collar",
+      "provenance": {
+        "page": 385,
+        "quote": "Install the thrust collar (18) snugly against the thrust bearing (19). Lubricate the thrust collar and bearing with clean engine oil.",
+        "verified": true,
+        "char_start": 2382,
+        "char_end": 2515,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 385,
+        "quote": "Install the thrust collar (18) snugly against the thrust bearing (19). Lubricate the thrust collar and bearing with clean engine oil.",
+        "verified": true,
+        "char_start": 2382,
+        "char_end": 2515,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new seal ring (17) in the groove in the backplate assembly (14).",
+        "verified": true,
+        "char_start": 2519,
+        "char_end": 2593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new seal ring (17) in the groove in the backplate assembly (14).",
+        "verified": true,
+        "char_start": 2519,
+        "char_end": 2593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "backplate_assembly",
+      "name": "Backplate assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "backplate_assembly",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new seal ring (17) in the groove in the backplate assembly (14).",
+        "verified": true,
+        "char_start": 2519,
+        "char_end": 2593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_feed_hole",
+      "name": "Oil feed hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_feed_hole",
+      "provenance": {
+        "page": 385,
+        "quote": "Align the oil feed holes in the center housing (26) and the backplate assembly and install the backplate, using four bolts (12) and new lockplates (13). Tighten the bolts to 75-90 Ib-in torque and bend the lockplate tangs up against the ...",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "center_housing",
+      "name": "Center housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_housing",
+      "provenance": {
+        "page": 385,
+        "quote": "Align the oil feed holes in the center housing (26) and the backplate assembly and install the backplate, using four bolts (12) and new lockplates (13). Tighten the bolts to 75-90 Ib-in torque and bend the lockplate tangs up against the ...",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "backplate",
+      "name": "Backplate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "backplate",
+      "provenance": {
+        "page": 385,
+        "quote": "Align the oil feed holes in the center housing (26) and the backplate assembly and install the backplate, using four bolts (12) and new lockplates (13). Tighten the bolts to 75-90 Ib-in torque and bend the lockplate tangs up against the ...",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 385,
+        "quote": "Align the oil feed holes in the center housing (26) and the backplate assembly and install the backplate, using four bolts (12) and new lockplates (13). Tighten the bolts to 75-90 Ib-in torque and bend the lockplate tangs up against the ...",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_bolt",
+      "name": "Of the bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bolt",
+      "provenance": {
+        "page": 385,
+        "quote": "Align the oil feed holes in the center housing (26) and the backplate assembly and install the backplate, using four bolts (12) and new lockplates (13). Tighten the bolts to 75-90 Ib-in torque and bend the lockplate tangs up against the ...",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 385,
+        "quote": "Align the oil feed holes in the center housing (26) and the backplate assembly and install the backplate, using four bolts (12) and new lockplates (13). Tighten the bolts to 75-90 Ib-in torque and bend the lockplate tangs up against the ...",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new piston ring (11) on the wheel shaft assembly (9).",
+        "verified": true,
+        "char_start": 2861,
+        "char_end": 2924,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "wheel_shaft_assembly",
+      "name": "Wheel shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wheel_shaft_assembly",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new piston ring (11) on the wheel shaft assembly (9).",
+        "verified": true,
+        "char_start": 2861,
+        "char_end": 2924,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "wheel_shroud",
+      "name": "Wheel shroud",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wheel_shroud",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the wheel shroud (10) against the center housing (26) and insert the wheel shaft assembly (9) through the wheel shroud and into the center housing. CAUTION: Be careful not to scuff or scratch the bearings when installing the sha...",
+        "verified": true,
+        "char_start": 2929,
+        "char_end": 3417,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the wheel shroud (10) against the center housing (26) and insert the wheel shaft assembly (9) through the wheel shroud and into the center housing. CAUTION: Be careful not to scuff or scratch the bearings when installing the sha...",
+        "verified": true,
+        "char_start": 2929,
+        "char_end": 3417,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "compressor_wheel",
+      "name": "Compressor wheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "compressor_wheel",
+      "provenance": {
+        "page": 385,
+        "quote": "Heat the compressor wheel in an oven or hot oil bath to 325-375 \u00b0F. for no more than 10 minutes.",
+        "verified": true,
+        "char_start": 3422,
+        "char_end": 3518,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "more",
+      "name": "More",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "more",
+      "provenance": {
+        "page": 385,
+        "quote": "Heat the compressor wheel in an oven or hot oil bath to 325-375 \u00b0F. for no more than 10 minutes.",
+        "verified": true,
+        "char_start": 3422,
+        "char_end": 3518,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blade_of_turbine_wheel",
+      "name": "Blade of turbine wheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blade_of_turbine_wheel",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the turbine wheel (9) of the center housing assembly in the holding fixture (Fig. 6).",
+        "verified": true,
+        "char_start": 3523,
+        "char_end": 3617,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fixture",
+      "name": "Fixture",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fixture",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the turbine wheel (9) of the center housing assembly in the holding fixture (Fig. 6).",
+        "verified": true,
+        "char_start": 3523,
+        "char_end": 3617,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the turbine wheel (9) of the center housing assembly in the holding fixture (Fig. 6).",
+        "verified": true,
+        "char_start": 3523,
+        "char_end": 3617,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the compressor wheel over the shaft and install the wheel retaining nut. Tighten the nut to 120 Ib-in torque. After the compressor wheel has cooled to room temperature, remove the retaining nut.",
+        "verified": true,
+        "char_start": 3622,
+        "char_end": 3825,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "wheel_retaining_nut",
+      "name": "Wheel retaining nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wheel_retaining_nut",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the compressor wheel over the shaft and install the wheel retaining nut. Tighten the nut to 120 Ib-in torque. After the compressor wheel has cooled to room temperature, remove the retaining nut.",
+        "verified": true,
+        "char_start": 3622,
+        "char_end": 3825,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the compressor wheel over the shaft and install the wheel retaining nut. Tighten the nut to 120 Ib-in torque. After the compressor wheel has cooled to room temperature, remove the retaining nut.",
+        "verified": true,
+        "char_start": 3622,
+        "char_end": 3825,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gear_retaining_nut",
+      "name": "Gear retaining nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_retaining_nut",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the compressor wheel over the shaft and install the wheel retaining nut. Tighten the nut to 120 Ib-in torque. After the compressor wheel has cooled to room temperature, remove the retaining nut.",
+        "verified": true,
+        "char_start": 3622,
+        "char_end": 3825,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 386,
+        "quote": "Check the face of the retaining nut and the wheel face to make sure they are smooth and clean. Lightly oil the shaft threads and washer face and reinstall the nut. Tighten the nut to 18-20 Ib-in torque. Continue to tighten until the shaf...",
+        "verified": true,
+        "char_start": 59,
+        "char_end": 434,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 386,
+        "quote": "Check bearing axial end play: a. Clamp the center housing assembly in a bench vise equipped with soft jaws as shown in Fig. 7. b. Fasten the dial indicator and magnetic base (J 7872) to the center housing so that the indicator tip rests ...",
+        "verified": true,
+        "char_start": 439,
+        "char_end": 961,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "base",
+      "name": "Base",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "base",
+      "provenance": {
+        "page": 386,
+        "quote": "Check bearing axial end play: a. Clamp the center housing assembly in a bench vise equipped with soft jaws as shown in Fig. 7. b. Fasten the dial indicator and magnetic base (J 7872) to the center housing so that the indicator tip rests ...",
+        "verified": true,
+        "char_start": 439,
+        "char_end": 961,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 386,
+        "quote": "Check bearing axial end play: a. Clamp the center housing assembly in a bench vise equipped with soft jaws as shown in Fig. 7. b. Fasten the dial indicator and magnetic base (J 7872) to the center housing so that the indicator tip rests ...",
+        "verified": true,
+        "char_start": 439,
+        "char_end": 961,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "turbine_housing",
+      "name": "Turbine housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbine_housing",
+      "provenance": {
+        "page": 386,
+        "quote": "Position the turbine housing (6) against the center housing (26) and secure it in place with four clamps (5), four lockplates (4) and eight bolts (3). Tighten the bolts to 160-190 Ib-in torque. Bend the lockplate tabs up against the flat...",
+        "verified": true,
+        "char_start": 966,
+        "char_end": 1222,
+        "bbox": [
+          83.52000000000004,
+          615.329,
+          324.15711,
+          669.4509999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "compressor_housing",
+      "name": "Compressor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "compressor_housing",
+      "provenance": {
+        "page": 386,
+        "quote": "Position the compressor housing (2) against the center housing (26) and secure it in place with the \u201c\u0423\u201d band coupling (1). Tighten the nut on the coupling to 30-45 Ib-in torque.",
+        "verified": true,
+        "char_start": 1227,
+        "char_end": 1404,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_coupling",
+      "name": "Accessory drive coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_coupling",
+      "provenance": {
+        "page": 386,
+        "quote": "Position the compressor housing (2) against the center housing (26) and secure it in place with the \u201c\u0423\u201d band coupling (1). Tighten the nut on the coupling to 30-45 Ib-in torque.",
+        "verified": true,
+        "char_start": 1227,
+        "char_end": 1404,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotating_assembly",
+      "name": "Rotating assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotating_assembly",
+      "provenance": {
+        "page": 386,
+        "quote": "After assembly, push the rotating assembly as far as possible from the turbine end. Then rotate the assembly and check for bind. Push the rotating assembly in the opposite direction and repeat the check.",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 1612,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bind",
+      "name": "Bind",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bind",
+      "provenance": {
+        "page": 386,
+        "quote": "After assembly, push the rotating assembly as far as possible from the turbine end. Then rotate the assembly and check for bind. Push the rotating assembly in the opposite direction and repeat the check.",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 1612,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 386,
+        "quote": "Check shaft radial movement: a. Position the magnetic base J 7872-2 with the swivel adaptor J 7872-3 on the flat surface of the turbine housing inlet flange as shown in Fig. 8. b. Fasten the extension rod J 22758 to the dial indicator J ...",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 2626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 386,
+        "quote": "Check shaft radial movement: a. Position the magnetic base J 7872-2 with the swivel adaptor J 7872-3 on the flat surface of the turbine housing inlet flange as shown in Fig. 8. b. Fasten the extension rod J 22758 to the dial indicator J ...",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 2626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 386,
+        "quote": "Check shaft radial movement: a. Position the magnetic base J 7872-2 with the swivel adaptor J 7872-3 on the flat surface of the turbine housing inlet flange as shown in Fig. 8. b. Fasten the extension rod J 22758 to the dial indicator J ...",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 2626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "extension_rod",
+      "name": "Extension rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "extension_rod",
+      "provenance": {
+        "page": 386,
+        "quote": "Check shaft radial movement: a. Position the magnetic base J 7872-2 with the swivel adaptor J 7872-3 on the flat surface of the turbine housing inlet flange as shown in Fig. 8. b. Fasten the extension rod J 22758 to the dial indicator J ...",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 2626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 386,
+        "quote": "Check shaft radial movement: a. Position the magnetic base J 7872-2 with the swivel adaptor J 7872-3 on the flat surface of the turbine housing inlet flange as shown in Fig. 8. b. Fasten the extension rod J 22758 to the dial indicator J ...",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 2626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 386,
+        "quote": "Check shaft radial movement: a. Position the magnetic base J 7872-2 with the swivel adaptor J 7872-3 on the flat surface of the turbine housing inlet flange as shown in Fig. 8. b. Fasten the extension rod J 22758 to the dial indicator J ...",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 2626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "battery_charging_generator_mounting",
+      "name": "Battery-charging generator mounting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "battery_charging_generator_mounting",
+      "provenance": {
+        "page": 386,
+        "quote": "Check shaft radial movement: a. Position the magnetic base J 7872-2 with the swivel adaptor J 7872-3 on the flat surface of the turbine housing inlet flange as shown in Fig. 8. b. Fasten the extension rod J 22758 to the dial indicator J ...",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 2626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "turbocharger",
+      "name": "Turbocharger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbocharger",
+      "provenance": {
+        "page": 386,
+        "quote": "If it is to be stored. lubricate the turbocharger internally and install protective covers on all openings.",
+        "verified": true,
+        "char_start": 2631,
+        "char_end": 2738,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "protective_cover",
+      "name": "Protective cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "protective_cover",
+      "provenance": {
+        "page": 386,
+        "quote": "If it is to be stored. lubricate the turbocharger internally and install protective covers on all openings.",
+        "verified": true,
+        "char_start": 2631,
+        "char_end": 2738,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Position the inboard thrust bearing (19) against the center housing with the hole and cut-outs in the bearing in alignment with the pins (25) in the center housing.",
+      "source_number": 5,
+      "installs": [
+        "inboard_thrust_bearing",
+        "of_the_oil_hole",
+        "bearing_the_end_bearing",
+        "copper_plated_dowel_pin",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Position the inboard thrust bearing (19) against the center housing with the hole and cut-outs in the bearing in alignment with the pins (25) in the center housing.",
+        "verified": true,
+        "char_start": 2214,
+        "char_end": 2378,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the thrust collar (18) snugly against the thrust bearing (19). Lubricate the thrust collar and bearing with clean engine oil.",
+      "source_number": 6,
+      "installs": [
+        "thrust_collar",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Install the thrust collar (18) snugly against the thrust bearing (19). Lubricate the thrust collar and bearing with clean engine oil.",
+        "verified": true,
+        "char_start": 2382,
+        "char_end": 2515,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install a new seal ring (17) in the groove in the backplate assembly (14).",
+      "source_number": 7,
+      "installs": [
+        "seal_ring",
+        "of_the_groove",
+        "backplate_assembly"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new seal ring (17) in the groove in the backplate assembly (14).",
+        "verified": true,
+        "char_start": 2519,
+        "char_end": 2593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Align the oil feed holes in the center housing (26) and the backplate assembly and install the backplate, using four bolts (12) and new lockplates (13). Tighten the bolts to 75-90 Ib-in torque and bend the lockplate tangs up against the side of the bolt heads.",
+      "source_number": 8,
+      "installs": [
+        "oil_feed_hole",
+        "center_housing",
+        "backplate",
+        "engine_front_cover_bolt",
+        "of_the_bolt",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Align the oil feed holes in the center housing (26) and the backplate assembly and install the backplate, using four bolts (12) and new lockplates (13). Tighten the bolts to 75-90 Ib-in torque and bend the lockplate tangs up against the ...",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install a new piston ring (11) on the wheel shaft assembly (9).",
+      "source_number": 9,
+      "installs": [
+        "piston_ring",
+        "wheel_shaft_assembly"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new piston ring (11) on the wheel shaft assembly (9).",
+        "verified": true,
+        "char_start": 2861,
+        "char_end": 2924,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Position the wheel shroud (10) against the center housing (26) and insert the wheel shaft assembly (9) through the wheel shroud and into the center housing. CAUTION: Be careful not to scuff or scratch the bearings when installing the shaft. Do not use force to compress the piston ring into place. A gentle rocking and pushing action will allow the piston ring to seat and the shaft to bottom. A thin tool may be used as an aid in compressing the piston ring if difficulty is encountered.",
+      "source_number": 10,
+      "installs": [
+        "wheel_shroud",
+        "exhaust_valve_seat_insert"
+      ],
+      "depends_on": [
+        "s01",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Be careful not to scuff or scratch the bearings when installing the shaft.",
+      "provenance": {
+        "page": 385,
+        "quote": "Position the wheel shroud (10) against the center housing (26) and insert the wheel shaft assembly (9) through the wheel shroud and into the center housing. CAUTION: Be careful not to scuff or scratch the bearings when installing the sha...",
+        "verified": true,
+        "char_start": 2929,
+        "char_end": 3417,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Heat the compressor wheel in an oven or hot oil bath to 325-375 \u00b0F. for no more than 10 minutes.",
+      "source_number": 11,
+      "installs": [
+        "compressor_wheel",
+        "more"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Heat the compressor wheel in an oven or hot oil bath to 325-375 \u00b0F. for no more than 10 minutes.",
+        "verified": true,
+        "char_start": 3422,
+        "char_end": 3518,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Position the turbine wheel (9) of the center housing assembly in the holding fixture (Fig. 6).",
+      "source_number": 12,
+      "installs": [
+        "blade_of_turbine_wheel",
+        "fixture",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Position the turbine wheel (9) of the center housing assembly in the holding fixture (Fig. 6).",
+        "verified": true,
+        "char_start": 3523,
+        "char_end": 3617,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Position the compressor wheel over the shaft and install the wheel retaining nut. Tighten the nut to 120 Ib-in torque. After the compressor wheel has cooled to room temperature, remove the retaining nut.",
+      "source_number": 13,
+      "installs": [
+        "end_of_the_shaft",
+        "wheel_retaining_nut",
+        "front_balance_weight_nut",
+        "gear_retaining_nut"
+      ],
+      "depends_on": [
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Position the compressor wheel over the shaft and install the wheel retaining nut. Tighten the nut to 120 Ib-in torque. After the compressor wheel has cooled to room temperature, remove the retaining nut.",
+        "verified": true,
+        "char_start": 3622,
+        "char_end": 3825,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Check the face of the retaining nut and the wheel face to make sure they are smooth and clean. Lightly oil the shaft threads and washer face and reinstall the nut. Tighten the nut to 18-20 Ib-in torque. Continue to tighten until the shaft increases in length .008 \u201d- 009 \"'. CAUTION: Tighten the retaining nut in such a manner so as not to impose a bending load on the shaft.",
+      "source_number": 14,
+      "installs": [
+        "bolt_thread"
+      ],
+      "depends_on": [
+        "s02",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Tighten the retaining nut in such a manner so as not to impose a bending load on the shaft.",
+      "provenance": {
+        "page": 386,
+        "quote": "Check the face of the retaining nut and the wheel face to make sure they are smooth and clean. Lightly oil the shaft threads and washer face and reinstall the nut. Tighten the nut to 18-20 Ib-in torque. Continue to tighten until the shaf...",
+        "verified": true,
+        "char_start": 59,
+        "char_end": 434,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Check bearing axial end play: a. Clamp the center housing assembly in a bench vise equipped with soft jaws as shown in Fig. 7. b. Fasten the dial indicator and magnetic base (J 7872) to the center housing so that the indicator tip rests on the end of the rotating shaft on the compressor side. c. Move the shaft axially back and forth by hand. The total indicator reading should be between .004 \u201d and .007 \"'. If the dial indicator readings do not fall within the specified limits, repair or replace the rotating assembly.",
+      "source_number": 15,
+      "installs": [
+        "breather_tube_clamp",
+        "base",
+        "indicate_the_spray_tip"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s08",
+        "s09"
+      ],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": "do not fall within the specified limits, repair or replace the rotating assembly.",
+      "provenance": {
+        "page": 386,
+        "quote": "Check bearing axial end play: a. Clamp the center housing assembly in a bench vise equipped with soft jaws as shown in Fig. 7. b. Fasten the dial indicator and magnetic base (J 7872) to the center housing so that the indicator tip rests ...",
+        "verified": true,
+        "char_start": 439,
+        "char_end": 961,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Position the turbine housing (6) against the center housing (26) and secure it in place with four clamps (5), four lockplates (4) and eight bolts (3). Tighten the bolts to 160-190 Ib-in torque. Bend the lockplate tabs up against the flat on the bolt heads.",
+      "source_number": 16,
+      "installs": [
+        "turbine_housing"
+      ],
+      "depends_on": [
+        "s04",
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 386,
+        "quote": "Position the turbine housing (6) against the center housing (26) and secure it in place with four clamps (5), four lockplates (4) and eight bolts (3). Tighten the bolts to 160-190 Ib-in torque. Bend the lockplate tabs up against the flat...",
+        "verified": true,
+        "char_start": 966,
+        "char_end": 1222,
+        "bbox": [
+          83.52000000000004,
+          615.329,
+          324.15711,
+          669.4509999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Position the compressor housing (2) against the center housing (26) and secure it in place with the \u201c\u0423\u201d band coupling (1). Tighten the nut on the coupling to 30-45 Ib-in torque.",
+      "source_number": 17,
+      "installs": [
+        "compressor_housing",
+        "accessory_drive_coupling"
+      ],
+      "depends_on": [
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 386,
+        "quote": "Position the compressor housing (2) against the center housing (26) and secure it in place with the \u201c\u0423\u201d band coupling (1). Tighten the nut on the coupling to 30-45 Ib-in torque.",
+        "verified": true,
+        "char_start": 1227,
+        "char_end": 1404,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "After assembly, push the rotating assembly as far as possible from the turbine end. Then rotate the assembly and check for bind. Push the rotating assembly in the opposite direction and repeat the check.",
+      "source_number": 18,
+      "installs": [
+        "rotating_assembly",
+        "bind"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 386,
+        "quote": "After assembly, push the rotating assembly as far as possible from the turbine end. Then rotate the assembly and check for bind. Push the rotating assembly in the opposite direction and repeat the check.",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 1612,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Check shaft radial movement: a. Position the magnetic base J 7872-2 with the swivel adaptor J 7872-3 on the flat surface of the turbine housing inlet flange as shown in Fig. 8. b. Fasten the extension rod J 22758 to the dial indicator J 8001-3 and attach the dial indicator to the swivel adaptor. c. Insert the extension rod into the oil drain tube mounting pad opening so that it is against the wheel shaft and is perpendicular to the shaft. CAUTION: Make sure the extension rod does not make contact with the sides of the center housing, otherwise it will be impossible to obtain an accurate reading. d. Grasp each end of the rotating assembly and, applying equal pressure at each end, move the rotating shaft first toward and then away from the dial indicator, creating a transverse movement in the shaft. The dial indicator displacement should be more than .003 \" and less than .007 \". If the displacement does not fall within the specified limits. disassemble and repair or replace the rotating assembly.",
+      "source_number": 19,
+      "installs": [
+        "flat",
+        "fuel_oil_inlet",
+        "flange",
+        "extension_rod",
+        "bearing_pilot_rod",
+        "end_of_each_tube",
+        "battery_charging_generator_mounting"
+      ],
+      "depends_on": [
+        "s06",
+        "s08",
+        "s09",
+        "s11",
+        "s12"
+      ],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": "CAUTION: Make sure the extension rod does not make contact with the sides of the center housing, otherwise it will be impossible to obtain an accurate reading.",
+      "provenance": {
+        "page": 386,
+        "quote": "Check shaft radial movement: a. Position the magnetic base J 7872-2 with the swivel adaptor J 7872-3 on the flat surface of the turbine housing inlet flange as shown in Fig. 8. b. Fasten the extension rod J 22758 to the dial indicator J ...",
+        "verified": true,
+        "char_start": 1617,
+        "char_end": 2626,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "If it is to be stored. lubricate the turbocharger internally and install protective covers on all openings.",
+      "source_number": 20,
+      "installs": [
+        "turbocharger",
+        "protective_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 386,
+        "quote": "If it is to be stored. lubricate the turbocharger internally and install protective covers on all openings.",
+        "verified": true,
+        "char_start": 2631,
+        "char_end": 2738,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

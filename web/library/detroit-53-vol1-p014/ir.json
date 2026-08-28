@@ -1,0 +1,395 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.38 - Exhaust manifold studs. Fig. 5 - Correct...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "exhaust_manifold",
+      "name": "Exhaust manifold",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_manifold",
+      "provenance": {
+        "page": 38,
+        "quote": "Exhaust manifold studs. Fig. 5 - Correct Installation of Water Nozzles in Four-Valve Cylinder Head",
+        "verified": true,
+        "char_start": 1969,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 38,
+        "quote": "Exhaust manifold studs. Fig. 5 - Correct Installation of Water Nozzles in Four-Valve Cylinder Head",
+        "verified": true,
+        "char_start": 1969,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "water_nozzle",
+      "name": "Water nozzle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_nozzle",
+      "provenance": {
+        "page": 38,
+        "quote": "Exhaust manifold studs. Fig. 5 - Correct Installation of Water Nozzles in Four-Valve Cylinder Head",
+        "verified": true,
+        "char_start": 1969,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_cylinder",
+      "name": "Valve cylinder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_cylinder",
+      "provenance": {
+        "page": 38,
+        "quote": "Exhaust manifold studs. Fig. 5 - Correct Installation of Water Nozzles in Four-Valve Cylinder Head",
+        "verified": true,
+        "char_start": 1969,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 38,
+        "quote": "Exhaust manifold studs. Fig. 5 - Correct Installation of Water Nozzles in Four-Valve Cylinder Head",
+        "verified": true,
+        "char_start": 1969,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_an_exhaust_valve",
+      "name": "Insert an exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_an_exhaust_valve",
+      "provenance": {
+        "page": 38,
+        "quote": "Exhaust valves and springs (Section 1.2.2).",
+        "verified": true,
+        "char_start": 2071,
+        "char_end": 2114,
+        "bbox": [
+          357.12,
+          305.04499999999996,
+          542.2021000000001,
+          315.04499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 38,
+        "quote": "Exhaust valves and springs (Section 1.2.2).",
+        "verified": true,
+        "char_start": 2071,
+        "char_end": 2114,
+        "bbox": [
+          357.12,
+          305.04499999999996,
+          542.2021000000001,
+          315.04499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_injector",
+      "name": "Fuel injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_injector",
+      "provenance": {
+        "page": 38,
+        "quote": "Install the fuel injectors at this time or after installing the cylinder head (Sections 2.1 or 2.1.1).",
+        "verified": true,
+        "char_start": 2118,
+        "char_end": 2220,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 38,
+        "quote": "Cam followers, cam follower guides, push rod assemblies, rocker arm shafts and rocker arms; do not tighten the rocker arm bracket bolts at this time (Section 1.2.1).",
+        "verified": true,
+        "char_start": 2224,
+        "char_end": 2389,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 38,
+        "quote": "Cam followers, cam follower guides, push rod assemblies, rocker arm shafts and rocker arms; do not tighten the rocker arm bracket bolts at this time (Section 1.2.1).",
+        "verified": true,
+        "char_start": 2224,
+        "char_end": 2389,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 38,
+        "quote": "Cam followers, cam follower guides, push rod assemblies, rocker arm shafts and rocker arms; do not tighten the rocker arm bracket bolts at this time (Section 1.2.1).",
+        "verified": true,
+        "char_start": 2224,
+        "char_end": 2389,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm_shaft",
+      "name": "Rocker arm shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm_shaft",
+      "provenance": {
+        "page": 38,
+        "quote": "Cam followers, cam follower guides, push rod assemblies, rocker arm shafts and rocker arms; do not tighten the rocker arm bracket bolts at this time (Section 1.2.1).",
+        "verified": true,
+        "char_start": 2224,
+        "char_end": 2389,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 38,
+        "quote": "Cam followers, cam follower guides, push rod assemblies, rocker arm shafts and rocker arms; do not tighten the rocker arm bracket bolts at this time (Section 1.2.1).",
+        "verified": true,
+        "char_start": 2224,
+        "char_end": 2389,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 38,
+        "quote": "Place new washers on the fuel connectors. then install the fuel connectors and tighten them to 20-28 lb-ft torque.",
+        "verified": true,
+        "char_start": 2393,
+        "char_end": 2507,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_connector",
+      "name": "Fuel connector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_connector",
+      "provenance": {
+        "page": 38,
+        "quote": "Place new washers on the fuel connectors. then install the fuel connectors and tighten them to 20-28 lb-ft torque.",
+        "verified": true,
+        "char_start": 2393,
+        "char_end": 2507,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Exhaust manifold studs. Fig. 5 - Correct Installation of Water Nozzles in Four-Valve Cylinder Head",
+      "source_number": 1,
+      "installs": [
+        "exhaust_manifold",
+        "nut_securing_fig",
+        "water_nozzle",
+        "valve_cylinder",
+        "cylinder_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Exhaust manifold studs. Fig. 5 - Correct Installation of Water Nozzles in Four-Valve Cylinder Head",
+        "verified": true,
+        "char_start": 1969,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Exhaust valves and springs (Section 1.2.2).",
+      "source_number": 2,
+      "installs": [
+        "insert_an_exhaust_valve",
+        "end_of_the_spring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Exhaust valves and springs (Section 1.2.2).",
+        "verified": true,
+        "char_start": 2071,
+        "char_end": 2114,
+        "bbox": [
+          357.12,
+          305.04499999999996,
+          542.2021000000001,
+          315.04499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the fuel injectors at this time or after installing the cylinder head (Sections 2.1 or 2.1.1).",
+      "source_number": 3,
+      "installs": [
+        "fuel_injector"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Install the fuel injectors at this time or after installing the cylinder head (Sections 2.1 or 2.1.1).",
+        "verified": true,
+        "char_start": 2118,
+        "char_end": 2220,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Cam followers, cam follower guides, push rod assemblies, rocker arm shafts and rocker arms; do not tighten the rocker arm bracket bolts at this time (Section 1.2.1).",
+      "source_number": 4,
+      "installs": [
+        "cam_follower",
+        "cam_follower_guide",
+        "push_rod",
+        "rocker_arm_shaft",
+        "rocker_arm"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "do not tighten the rocker arm bracket bolts at this time (Section 1.",
+      "provenance": {
+        "page": 38,
+        "quote": "Cam followers, cam follower guides, push rod assemblies, rocker arm shafts and rocker arms; do not tighten the rocker arm bracket bolts at this time (Section 1.2.1).",
+        "verified": true,
+        "char_start": 2224,
+        "char_end": 2389,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Place new washers on the fuel connectors. then install the fuel connectors and tighten them to 20-28 lb-ft torque.",
+      "source_number": 5,
+      "installs": [
+        "another_drive_flange_washer",
+        "fuel_connector"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": null,
+      "provenance": {
+        "page": 38,
+        "quote": "Place new washers on the fuel connectors. then install the fuel connectors and tighten them to 20-28 lb-ft torque.",
+        "verified": true,
+        "char_start": 2393,
+        "char_end": 2507,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

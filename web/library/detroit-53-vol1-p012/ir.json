@@ -1,0 +1,489 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.36 - Fuel injectors, if not previously removed",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "fuel_injector",
+      "name": "Fuel injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_injector",
+      "provenance": {
+        "page": 36,
+        "quote": "Fuel injectors, if not previously removed.",
+        "verified": true,
+        "char_start": 1296,
+        "char_end": 1338,
+        "bbox": [
+          96.96000000000001,
+          600.6149999999999,
+          273.66959999999995,
+          610.6149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_connector",
+      "name": "Fuel connector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_connector",
+      "provenance": {
+        "page": 36,
+        "quote": "Fuel connectors.",
+        "verified": true,
+        "char_start": 1342,
+        "char_end": 1358,
+        "bbox": [
+          96.96000000000001,
+          621.093,
+          164.0324,
+          631.093
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 36,
+        "quote": "Cam follower guides and cam followers.",
+        "verified": true,
+        "char_start": 1362,
+        "char_end": 1400,
+        "bbox": [
+          96.96000000000001,
+          642.2249999999999,
+          270.24899999999997,
+          652.2249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 36,
+        "quote": "Cam follower guides and cam followers.",
+        "verified": true,
+        "char_start": 1362,
+        "char_end": 1400,
+        "bbox": [
+          96.96000000000001,
+          642.2249999999999,
+          270.24899999999997,
+          652.2249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 36,
+        "quote": "Rocker arms, rocker arm shafts, brackets, push rods, push rod springs, spring seats and spring seat retainers.",
+        "verified": true,
+        "char_start": 1404,
+        "char_end": 1514,
+        "bbox": [
+          86.16,
+          665.212,
+          326.39399999999995,
+          694.328
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rocker_arm_shaft",
+      "name": "Rocker arm shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm_shaft",
+      "provenance": {
+        "page": 36,
+        "quote": "Rocker arms, rocker arm shafts, brackets, push rods, push rod springs, spring seats and spring seat retainers.",
+        "verified": true,
+        "char_start": 1404,
+        "char_end": 1514,
+        "bbox": [
+          86.16,
+          665.212,
+          326.39399999999995,
+          694.328
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 36,
+        "quote": "Rocker arms, rocker arm shafts, brackets, push rods, push rod springs, spring seats and spring seat retainers.",
+        "verified": true,
+        "char_start": 1404,
+        "char_end": 1514,
+        "bbox": [
+          86.16,
+          665.212,
+          326.39399999999995,
+          694.328
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 36,
+        "quote": "Rocker arms, rocker arm shafts, brackets, push rods, push rod springs, spring seats and spring seat retainers.",
+        "verified": true,
+        "char_start": 1404,
+        "char_end": 1514,
+        "bbox": [
+          86.16,
+          665.212,
+          326.39399999999995,
+          694.328
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "push_rod_spring",
+      "name": "Push rod spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod_spring",
+      "provenance": {
+        "page": 36,
+        "quote": "Rocker arms, rocker arm shafts, brackets, push rods, push rod springs, spring seats and spring seat retainers.",
+        "verified": true,
+        "char_start": 1404,
+        "char_end": 1514,
+        "bbox": [
+          86.16,
+          665.212,
+          326.39399999999995,
+          694.328
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 36,
+        "quote": "Rocker arms, rocker arm shafts, brackets, push rods, push rod springs, spring seats and spring seat retainers.",
+        "verified": true,
+        "char_start": 1404,
+        "char_end": 1514,
+        "bbox": [
+          86.16,
+          665.212,
+          326.39399999999995,
+          694.328
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spring_seat_retainer",
+      "name": "Spring seat retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_seat_retainer",
+      "provenance": {
+        "page": 36,
+        "quote": "Rocker arms, rocker arm shafts, brackets, push rods, push rod springs, spring seats and spring seat retainers.",
+        "verified": true,
+        "char_start": 1404,
+        "char_end": 1514,
+        "bbox": [
+          86.16,
+          665.212,
+          326.39399999999995,
+          694.328
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_an_exhaust_valve",
+      "name": "Insert an exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_an_exhaust_valve",
+      "provenance": {
+        "page": 36,
+        "quote": "Exhaust valves and valve springs. Fig. 2 - Lifting Cylinder Head Assembly Off",
+        "verified": true,
+        "char_start": 1518,
+        "char_end": 1595,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 36,
+        "quote": "Exhaust valves and valve springs. Fig. 2 - Lifting Cylinder Head Assembly Off",
+        "verified": true,
+        "char_start": 1518,
+        "char_end": 1595,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 36,
+        "quote": "Exhaust valves and valve springs. Fig. 2 - Lifting Cylinder Head Assembly Off",
+        "verified": true,
+        "char_start": 1518,
+        "char_end": 1595,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 36,
+        "quote": "Exhaust valves and valve springs. Fig. 2 - Lifting Cylinder Head Assembly Off",
+        "verified": true,
+        "char_start": 1518,
+        "char_end": 1595,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Fuel injectors, if not previously removed.",
+      "source_number": 1,
+      "installs": [
+        "fuel_injector"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Fuel injectors, if not previously removed.",
+        "verified": true,
+        "char_start": 1296,
+        "char_end": 1338,
+        "bbox": [
+          96.96000000000001,
+          600.6149999999999,
+          273.66959999999995,
+          610.6149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Fuel connectors.",
+      "source_number": 2,
+      "installs": [
+        "fuel_connector"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Fuel connectors.",
+        "verified": true,
+        "char_start": 1342,
+        "char_end": 1358,
+        "bbox": [
+          96.96000000000001,
+          621.093,
+          164.0324,
+          631.093
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Cam follower guides and cam followers.",
+      "source_number": 3,
+      "installs": [
+        "cam_follower_guide",
+        "cam_follower"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Cam follower guides and cam followers.",
+        "verified": true,
+        "char_start": 1362,
+        "char_end": 1400,
+        "bbox": [
+          96.96000000000001,
+          642.2249999999999,
+          270.24899999999997,
+          652.2249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Rocker arms, rocker arm shafts, brackets, push rods, push rod springs, spring seats and spring seat retainers.",
+      "source_number": 4,
+      "installs": [
+        "rocker_arm",
+        "rocker_arm_shaft",
+        "booster_spring_bracket",
+        "push_rod",
+        "push_rod_spring",
+        "drive_spring_seat",
+        "spring_seat_retainer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Rocker arms, rocker arm shafts, brackets, push rods, push rod springs, spring seats and spring seat retainers.",
+        "verified": true,
+        "char_start": 1404,
+        "char_end": 1514,
+        "bbox": [
+          86.16,
+          665.212,
+          326.39399999999995,
+          694.328
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Exhaust valves and valve springs. Fig. 2 - Lifting Cylinder Head Assembly Off",
+      "source_number": 5,
+      "installs": [
+        "insert_an_exhaust_valve",
+        "exhaust_valve_spring",
+        "nut_securing_fig",
+        "cylinder_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 36,
+        "quote": "Exhaust valves and valve springs. Fig. 2 - Lifting Cylinder Head Assembly Off",
+        "verified": true,
+        "char_start": 1518,
+        "char_end": 1595,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

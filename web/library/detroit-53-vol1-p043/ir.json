@@ -1,0 +1,357 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.81 - Install a new oil seal as outlined...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 81,
+        "quote": "Install a new oil seal as outlined in Section 1.32.",
+        "verified": true,
+        "char_start": 71,
+        "char_end": 122,
+        "bbox": [
+          63.84,
+          102.19499999999994,
+          276.64560000000006,
+          110.19499999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 81,
+        "quote": "Install a new oil seal as outlined in Section 1.32.",
+        "verified": true,
+        "char_start": 71,
+        "char_end": 122,
+        "bbox": [
+          63.84,
+          102.19499999999994,
+          276.64560000000006,
+          110.19499999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 81,
+        "quote": "Install a new seal ring on the bearing support.",
+        "verified": true,
+        "char_start": 126,
+        "char_end": 173,
+        "bbox": [
+          63.839999999999996,
+          121.10299999999995,
+          263.3888,
+          131.10299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 81,
+        "quote": "Install a new seal ring on the bearing support.",
+        "verified": true,
+        "char_start": 126,
+        "char_end": 173,
+        "bbox": [
+          63.839999999999996,
+          121.10299999999995,
+          263.3888,
+          131.10299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 81,
+        "quote": "Install a new seal ring on the bearing support.",
+        "verified": true,
+        "char_start": 126,
+        "char_end": 173,
+        "bbox": [
+          63.839999999999996,
+          121.10299999999995,
+          263.3888,
+          131.10299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_support_assembly",
+      "name": "Bearing support assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_support_assembly",
+      "provenance": {
+        "page": 81,
+        "quote": "Install the bearing support assembly on the engine front cover as outlined in Section. 1.3.5.",
+        "verified": true,
+        "char_start": 177,
+        "char_end": 270,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover",
+      "name": "Engine front cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover",
+      "provenance": {
+        "page": 81,
+        "quote": "Install the bearing support assembly on the engine front cover as outlined in Section. 1.3.5.",
+        "verified": true,
+        "char_start": 177,
+        "char_end": 270,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "trunnion_support",
+      "name": "Trunnion support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "trunnion_support",
+      "provenance": {
+        "page": 81,
+        "quote": "Install the trunnion support.",
+        "verified": true,
+        "char_start": 274,
+        "char_end": 303,
+        "bbox": [
+          333.36,
+          99.42099999999994,
+          453.98160000000007,
+          109.42099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 81,
+        "quote": "Install the crankshaft pulley (Section 1.3.7).",
+        "verified": true,
+        "char_start": 307,
+        "char_end": 353,
+        "bbox": [
+          333.36,
+          120.06099999999992,
+          524.4847000000001,
+          130.06099999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install a new oil seal as outlined in Section 1.32.",
+      "source_number": 2,
+      "installs": [
+        "crankshaft_front_oil_seal",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 81,
+        "quote": "Install a new oil seal as outlined in Section 1.32.",
+        "verified": true,
+        "char_start": 71,
+        "char_end": 122,
+        "bbox": [
+          63.84,
+          102.19499999999994,
+          276.64560000000006,
+          110.19499999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install a new seal ring on the bearing support.",
+      "source_number": 3,
+      "installs": [
+        "seal_ring",
+        "bearing_the_end_bearing",
+        "blower_drive_support"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 81,
+        "quote": "Install a new seal ring on the bearing support.",
+        "verified": true,
+        "char_start": 126,
+        "char_end": 173,
+        "bbox": [
+          63.839999999999996,
+          121.10299999999995,
+          263.3888,
+          131.10299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the bearing support assembly on the engine front cover as outlined in Section. 1.3.5.",
+      "source_number": 4,
+      "installs": [
+        "bearing_support_assembly",
+        "engine_front_cover"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 81,
+        "quote": "Install the bearing support assembly on the engine front cover as outlined in Section. 1.3.5.",
+        "verified": true,
+        "char_start": 177,
+        "char_end": 270,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the trunnion support.",
+      "source_number": 5,
+      "installs": [
+        "trunnion_support"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 81,
+        "quote": "Install the trunnion support.",
+        "verified": true,
+        "char_start": 274,
+        "char_end": 303,
+        "bbox": [
+          333.36,
+          99.42099999999994,
+          453.98160000000007,
+          109.42099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the crankshaft pulley (Section 1.3.7).",
+      "source_number": 6,
+      "installs": [
+        "crankshaft_splined_crankshaft_pulley"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 81,
+        "quote": "Install the crankshaft pulley (Section 1.3.7).",
+        "verified": true,
+        "char_start": 307,
+        "char_end": 353,
+        "bbox": [
+          333.36,
+          120.06099999999992,
+          524.4847000000001,
+          130.06099999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

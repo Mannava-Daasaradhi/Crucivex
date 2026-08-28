@@ -1,0 +1,989 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.60 - Remove all of the accessories and assemblies...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove all of the accessories and assemblies with (Fig. 3). their attaching parts as necessary to permit the engine | to be mounted on an overhaul stand. 20. Refer to Section 1.7.5 for removal of the crankshaft timing gear and Section 4....",
+        "verified": true,
+        "char_start": 393,
+        "char_end": 639,
+        "bbox": [
+          45.839999999999975,
+          320.6339999999999,
+          557.2158000000001,
+          359.4109999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_timing_gear",
+      "name": "Crankshaft timing gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_timing_gear",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove all of the accessories and assemblies with (Fig. 3). their attaching parts as necessary to permit the engine | to be mounted on an overhaul stand. 20. Refer to Section 1.7.5 for removal of the crankshaft timing gear and Section 4....",
+        "verified": true,
+        "char_start": 393,
+        "char_end": 639,
+        "bbox": [
+          45.839999999999975,
+          320.6339999999999,
+          557.2158000000001,
+          359.4109999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_pump_drive",
+      "name": "Oil pump drive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pump_drive",
+      "provenance": {
+        "page": 60,
+        "quote": "Mount the engine on an overhaul stand and fasten procedure covering removal of the oil pump drive it securely to the mounting plate. gear. CAUTION: Be absolutely sure the engine is securely attached to the stand before releasing the lift...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1003,
+        "bbox": [
+          45.84000000000003,
+          363.26499999999993,
+          556.5364500000001,
+          448.5679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "battery_charging_generator_mounting",
+      "name": "Battery-charging generator mounting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "battery_charging_generator_mounting",
+      "provenance": {
+        "page": 60,
+        "quote": "Mount the engine on an overhaul stand and fasten procedure covering removal of the oil pump drive it securely to the mounting plate. gear. CAUTION: Be absolutely sure the engine is securely attached to the stand before releasing the lift...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1003,
+        "bbox": [
+          45.84000000000003,
+          363.26499999999993,
+          556.5364500000001,
+          448.5679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 60,
+        "quote": "Mount the engine on an overhaul stand and fasten procedure covering removal of the oil pump drive it securely to the mounting plate. gear. CAUTION: Be absolutely sure the engine is securely attached to the stand before releasing the lift...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1003,
+        "bbox": [
+          45.84000000000003,
+          363.26499999999993,
+          556.5364500000001,
+          448.5679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 60,
+        "quote": "Mount the engine on an overhaul stand and fasten procedure covering removal of the oil pump drive it securely to the mounting plate. gear. CAUTION: Be absolutely sure the engine is securely attached to the stand before releasing the lift...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1003,
+        "bbox": [
+          45.84000000000003,
+          363.26499999999993,
+          556.5364500000001,
+          448.5679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_pan",
+      "name": "Oil pan",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pan",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the oil pan.",
+        "verified": true,
+        "char_start": 1007,
+        "char_end": 1026,
+        "bbox": [
+          56.88,
+          460.16299999999995,
+          142.1876,
+          470.16299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_pump_inlet",
+      "name": "Oil pump inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pump_inlet",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the oil pump inlet pipe and screen.",
+        "verified": true,
+        "char_start": 1030,
+        "char_end": 1072,
+        "bbox": [
+          56.64,
+          482.24999999999994,
+          245.8023,
+          492.24999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the flywheel and flywheel housing.",
+        "verified": true,
+        "char_start": 1076,
+        "char_end": 1117,
+        "bbox": [
+          56.400000000000006,
+          503.95099999999996,
+          244.1216,
+          513.951
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the flywheel and flywheel housing.",
+        "verified": true,
+        "char_start": 1076,
+        "char_end": 1117,
+        "bbox": [
+          56.400000000000006,
+          503.95099999999996,
+          244.1216,
+          513.951
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the crankshaft pulley.",
+        "verified": true,
+        "char_start": 1122,
+        "char_end": 1151,
+        "bbox": [
+          61.680000000000014,
+          525.7819999999999,
+          193.0477,
+          535.7819999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_engine_support",
+      "name": "Front engine support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_engine_support",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the front engine support, if used.",
+        "verified": true,
+        "char_start": 1156,
+        "char_end": 1197,
+        "bbox": [
+          61.68,
+          547.77,
+          243.55149999999998,
+          557.77
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_lower_front",
+      "name": "Engine lower front",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_lower_front",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the engine lower front cover and oil pump assembly.",
+        "verified": true,
+        "char_start": 1202,
+        "char_end": 1260,
+        "bbox": [
+          45.359999999999985,
+          569.732,
+          286.332,
+          590.286
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the engine lower front cover and oil pump assembly.",
+        "verified": true,
+        "char_start": 1202,
+        "char_end": 1260,
+        "bbox": [
+          45.359999999999985,
+          569.732,
+          286.332,
+          590.286
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the engine lower front cover and oil pump assembly.",
+        "verified": true,
+        "char_start": 1202,
+        "char_end": 1260,
+        "bbox": [
+          45.359999999999985,
+          569.732,
+          286.332,
+          590.286
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the cylinder head(s).",
+        "verified": true,
+        "char_start": 1265,
+        "char_end": 1293,
+        "bbox": [
+          61.44,
+          603.346,
+          186.59832,
+          612.3459999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "main_bearing_cap",
+      "name": "Main bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main_bearing_cap",
+      "provenance": {
+        "page": 60,
+        "quote": "On the V-type engines, remove the main bearing cap stabilizers.",
+        "verified": true,
+        "char_start": 1298,
+        "char_end": 1361,
+        "bbox": [
+          44.880000000000024,
+          625.451,
+          287.47341,
+          645.144
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "stabilizer",
+      "name": "Stabilizer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "stabilizer",
+      "provenance": {
+        "page": 60,
+        "quote": "On the V-type engines, remove the main bearing cap stabilizers.",
+        "verified": true,
+        "char_start": 1298,
+        "char_end": 1361,
+        "bbox": [
+          44.880000000000024,
+          625.451,
+          287.47341,
+          645.144
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bearing",
+      "name": "Connecting rod bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the connecting rod bearing caps.",
+        "verified": true,
+        "char_start": 1366,
+        "char_end": 1405,
+        "bbox": [
+          61.44,
+          657.069,
+          241.44749999999996,
+          667.069
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the connecting rod bearing caps.",
+        "verified": true,
+        "char_start": 1366,
+        "char_end": 1405,
+        "bbox": [
+          61.44,
+          657.069,
+          241.44749999999996,
+          667.069
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the main bearing caps. Fig. 3 - Lifting or Lowering Crankshaft from/",
+        "verified": true,
+        "char_start": 1410,
+        "char_end": 1485,
+        "bbox": [
+          61.68,
+          678.81,
+          533.6400000000001,
+          700.088
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the thrust washers from each side of the into Cylinder Block rear main bearing.",
+        "verified": true,
+        "char_start": 1490,
+        "char_end": 1576,
+        "bbox": [
+          45.120000000000005,
+          701.8919999999999,
+          477.6244,
+          721.443
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the thrust washers from each side of the into Cylinder Block rear main bearing.",
+        "verified": true,
+        "char_start": 1490,
+        "char_end": 1576,
+        "bbox": [
+          45.120000000000005,
+          701.8919999999999,
+          477.6244,
+          721.443
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rear_main_bearing",
+      "name": "Rear main bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rear_main_bearing",
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the thrust washers from each side of the into Cylinder Block rear main bearing.",
+        "verified": true,
+        "char_start": 1490,
+        "char_end": 1576,
+        "bbox": [
+          45.120000000000005,
+          701.8919999999999,
+          477.6244,
+          721.443
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove all of the accessories and assemblies with (Fig. 3). their attaching parts as necessary to permit the engine | to be mounted on an overhaul stand. 20. Refer to Section 1.7.5 for removal of the crankshaft timing gear and Section 4.1 for the",
+      "source_number": 5,
+      "installs": [
+        "nut_securing_fig",
+        "crankshaft_timing_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove all of the accessories and assemblies with (Fig. 3). their attaching parts as necessary to permit the engine | to be mounted on an overhaul stand. 20. Refer to Section 1.7.5 for removal of the crankshaft timing gear and Section 4....",
+        "verified": true,
+        "char_start": 393,
+        "char_end": 639,
+        "bbox": [
+          45.839999999999975,
+          320.6339999999999,
+          557.2158000000001,
+          359.4109999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Mount the engine on an overhaul stand and fasten procedure covering removal of the oil pump drive it securely to the mounting plate. gear. CAUTION: Be absolutely sure the engine is securely attached to the stand before releasing the lifting sling. Severe injury to personnel and destruction of engine parts will result if the engine breaks away from the stand.",
+      "source_number": 6,
+      "installs": [
+        "oil_pump_drive",
+        "battery_charging_generator_mounting",
+        "assembly_rear_end_plate",
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Be absolutely sure the engine is securely attached to the stand before releasing the lifting sling.",
+      "provenance": {
+        "page": 60,
+        "quote": "Mount the engine on an overhaul stand and fasten procedure covering removal of the oil pump drive it securely to the mounting plate. gear. CAUTION: Be absolutely sure the engine is securely attached to the stand before releasing the lift...",
+        "verified": true,
+        "char_start": 643,
+        "char_end": 1003,
+        "bbox": [
+          45.84000000000003,
+          363.26499999999993,
+          556.5364500000001,
+          448.5679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the oil pan.",
+      "source_number": 7,
+      "installs": [
+        "oil_pan"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the oil pan.",
+        "verified": true,
+        "char_start": 1007,
+        "char_end": 1026,
+        "bbox": [
+          56.88,
+          460.16299999999995,
+          142.1876,
+          470.16299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the oil pump inlet pipe and screen.",
+      "source_number": 8,
+      "installs": [
+        "oil_pump_inlet"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the oil pump inlet pipe and screen.",
+        "verified": true,
+        "char_start": 1030,
+        "char_end": 1072,
+        "bbox": [
+          56.64,
+          482.24999999999994,
+          245.8023,
+          492.24999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the flywheel and flywheel housing.",
+      "source_number": 9,
+      "installs": [
+        "hammer_puller_set_flywheel",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the flywheel and flywheel housing.",
+        "verified": true,
+        "char_start": 1076,
+        "char_end": 1117,
+        "bbox": [
+          56.400000000000006,
+          503.95099999999996,
+          244.1216,
+          513.951
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the crankshaft pulley.",
+      "source_number": 10,
+      "installs": [
+        "crankshaft_splined_crankshaft_pulley"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the crankshaft pulley.",
+        "verified": true,
+        "char_start": 1122,
+        "char_end": 1151,
+        "bbox": [
+          61.680000000000014,
+          525.7819999999999,
+          193.0477,
+          535.7819999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the front engine support, if used.",
+      "source_number": 11,
+      "installs": [
+        "front_engine_support"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the front engine support, if used.",
+        "verified": true,
+        "char_start": 1156,
+        "char_end": 1197,
+        "bbox": [
+          61.68,
+          547.77,
+          243.55149999999998,
+          557.77
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the engine lower front cover and oil pump assembly.",
+      "source_number": 12,
+      "installs": [
+        "engine_lower_front",
+        "underside_of_the_cover",
+        "lubricating_oil_pump"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the engine lower front cover and oil pump assembly.",
+        "verified": true,
+        "char_start": 1202,
+        "char_end": 1260,
+        "bbox": [
+          45.359999999999985,
+          569.732,
+          286.332,
+          590.286
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the cylinder head(s).",
+      "source_number": 13,
+      "installs": [
+        "cylinder_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the cylinder head(s).",
+        "verified": true,
+        "char_start": 1265,
+        "char_end": 1293,
+        "bbox": [
+          61.44,
+          603.346,
+          186.59832,
+          612.3459999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "On the V-type engines, remove the main bearing cap stabilizers.",
+      "source_number": 14,
+      "installs": [
+        "main_bearing_cap",
+        "stabilizer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "On the V-type engines, remove the main bearing cap stabilizers.",
+        "verified": true,
+        "char_start": 1298,
+        "char_end": 1361,
+        "bbox": [
+          44.880000000000024,
+          625.451,
+          287.47341,
+          645.144
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Remove the connecting rod bearing caps.",
+      "source_number": 15,
+      "installs": [
+        "connecting_rod_bearing",
+        "clean_shipping_cap"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the connecting rod bearing caps.",
+        "verified": true,
+        "char_start": 1366,
+        "char_end": 1405,
+        "bbox": [
+          61.44,
+          657.069,
+          241.44749999999996,
+          667.069
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Remove the main bearing caps. Fig. 3 - Lifting or Lowering Crankshaft from/",
+      "source_number": 16,
+      "installs": [
+        "halve_of_the_crankshaft"
+      ],
+      "depends_on": [
+        "s01",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the main bearing caps. Fig. 3 - Lifting or Lowering Crankshaft from/",
+        "verified": true,
+        "char_start": 1410,
+        "char_end": 1485,
+        "bbox": [
+          61.68,
+          678.81,
+          533.6400000000001,
+          700.088
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Remove the thrust washers from each side of the into Cylinder Block rear main bearing.",
+      "source_number": 17,
+      "installs": [
+        "crankshaft_thrust_washer",
+        "of_the_block",
+        "rear_main_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 60,
+        "quote": "Remove the thrust washers from each side of the into Cylinder Block rear main bearing.",
+        "verified": true,
+        "char_start": 1490,
+        "char_end": 1576,
+        "bbox": [
+          45.120000000000005,
+          701.8919999999999,
+          477.6244,
+          721.443
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

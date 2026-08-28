@@ -1,0 +1,345 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.52 - Place the collet of tool J 6974...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 52,
+        "quote": "Place the collet of tool J 6974 (two valve head) or",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 1857,
+        "bbox": [
+          332.64000000000004,
+          706.728,
+          560.2920000000001,
+          714.728
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 52,
+        "quote": "Place the collet of tool J 6974 (two valve head) or",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 1857,
+        "bbox": [
+          332.64000000000004,
+          706.728,
+          560.2920000000001,
+          714.728
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "collet_cone",
+      "name": "Collet cone",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "collet_cone",
+      "provenance": {
+        "page": 53,
+        "quote": "Hold the collet handle and turn the T handle to expand the collet cone until the insert is held securely by the tool.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 278,
+        "bbox": [
+          91.67999999999998,
+          328.77199999999993,
+          334.16220000000004,
+          360.36699999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 53,
+        "quote": "Hold the collet handle and turn the T handle to expand the collet cone until the insert is held securely by the tool.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 278,
+        "bbox": [
+          91.67999999999998,
+          328.77199999999993,
+          334.16220000000004,
+          360.36699999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_guide",
+      "name": "Exhaust valve guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_guide",
+      "provenance": {
+        "page": 53,
+        "quote": "Insert the drive bar of the tool through the valve guide.",
+        "verified": true,
+        "char_start": 282,
+        "char_end": 339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "once",
+      "name": "Once",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "once",
+      "provenance": {
+        "page": 53,
+        "quote": "Tap the drive bar once or twice to move the insert about 1/16 \" away from its seat in the cylinder head.",
+        "verified": true,
+        "char_start": 343,
+        "char_end": 447,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_about",
+      "name": "Crankshaft about",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_about",
+      "provenance": {
+        "page": 53,
+        "quote": "Tap the drive bar once or twice to move the insert about 1/16 \" away from its seat in the cylinder head.",
+        "verified": true,
+        "char_start": 343,
+        "char_end": 447,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 53,
+        "quote": "Tap the drive bar once or twice to move the insert about 1/16 \" away from its seat in the cylinder head.",
+        "verified": true,
+        "char_start": 343,
+        "char_end": 447,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 53,
+        "quote": "Turn the T handle to loosen the collet cone and move the tool into the insert slightly so the narrow flange at the bottom of the collet is below the valve seat insert.",
+        "verified": true,
+        "char_start": 451,
+        "char_end": 618,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Place the collet of tool J 6974 (two valve head) or",
+      "source_number": 2,
+      "installs": [
+        "engine_front_cover_valve",
+        "cylinder_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 52,
+        "quote": "Place the collet of tool J 6974 (two valve head) or",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 1857,
+        "bbox": [
+          332.64000000000004,
+          706.728,
+          560.2920000000001,
+          714.728
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Hold the collet handle and turn the T handle to expand the collet cone until the insert is held securely by the tool.",
+      "source_number": 3,
+      "installs": [
+        "collet_cone",
+        "exhaust_valve_seat_insert"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 53,
+        "quote": "Hold the collet handle and turn the T handle to expand the collet cone until the insert is held securely by the tool.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 278,
+        "bbox": [
+          91.67999999999998,
+          328.77199999999993,
+          334.16220000000004,
+          360.36699999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Insert the drive bar of the tool through the valve guide.",
+      "source_number": 4,
+      "installs": [
+        "exhaust_valve_guide"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 53,
+        "quote": "Insert the drive bar of the tool through the valve guide.",
+        "verified": true,
+        "char_start": 282,
+        "char_end": 339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Tap the drive bar once or twice to move the insert about 1/16 \" away from its seat in the cylinder head.",
+      "source_number": 5,
+      "installs": [
+        "once",
+        "crankshaft_about",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 53,
+        "quote": "Tap the drive bar once or twice to move the insert about 1/16 \" away from its seat in the cylinder head.",
+        "verified": true,
+        "char_start": 343,
+        "char_end": 447,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Turn the T handle to loosen the collet cone and move the tool into the insert slightly so the narrow flange at the bottom of the collet is below the valve seat insert.",
+      "source_number": 6,
+      "installs": [
+        "flange"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 53,
+        "quote": "Turn the T handle to loosen the collet cone and move the tool into the insert slightly so the narrow flange at the bottom of the collet is below the valve seat insert.",
+        "verified": true,
+        "char_start": 451,
+        "char_end": 618,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Tighten the collet cone and continue to drive the insert out of the cylinder head.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 53,
+        "quote": "Tighten the collet cone and continue to drive the insert out of the cylinder head.",
+        "verified": true,
+        "char_start": 622,
+        "char_end": 704,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

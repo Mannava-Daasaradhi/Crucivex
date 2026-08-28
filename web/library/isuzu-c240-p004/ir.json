@@ -1,0 +1,151 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.20 - Wipe the oil filter mounting face with...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "oil_filter",
+      "name": "Oil filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_filter",
+      "provenance": {
+        "page": 20,
+        "quote": "Wipe the oil filter mounting face with a clean rag. This will allow the new oil filter to seat properly.",
+        "verified": true,
+        "char_start": 734,
+        "char_end": 838,
+        "bbox": [
+          294.72,
+          464.7878,
+          528.69876,
+          490.7035666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Wipe the oil filter mounting face with a clean rag. This will allow the new oil filter to seat properly.",
+      "source_number": 1,
+      "installs": [
+        "oil_filter"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 20,
+        "quote": "Wipe the oil filter mounting face with a clean rag. This will allow the new oil filter to seat properly.",
+        "verified": true,
+        "char_start": 734,
+        "char_end": 838,
+        "bbox": [
+          294.72,
+          464.7878,
+          528.69876,
+          490.7035666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Use the filter wrench to turn in the oil filter an ad- @ ditional 1-1/4 of a turn.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 20,
+        "quote": "Use the filter wrench to turn in the oil filter an ad- @ ditional 1-1/4 of a turn.",
+        "verified": true,
+        "char_start": 940,
+        "char_end": 1022,
+        "bbox": [
+          241.44,
+          541.317,
+          540.4035200000001,
+          563.2073333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Start the engine and check for oil leakage from the oil filter.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 20,
+        "quote": "Start the engine and check for oil leakage from the oil filter.",
+        "verified": true,
+        "char_start": 325,
+        "char_end": 388,
+        "bbox": [
+          294.2400000000001,
+          165.48979999999995,
+          539.601342,
+          187.44979999999998
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check the engine oil level and replenish to the spec- ified level if required.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 20,
+        "quote": "Check the engine oil level and replenish to the spec- ified level if required.",
+        "verified": true,
+        "char_start": 392,
+        "char_end": 470,
+        "bbox": [
+          294.48,
+          193.58990000000006,
+          538.7284566666667,
+          215.1493333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

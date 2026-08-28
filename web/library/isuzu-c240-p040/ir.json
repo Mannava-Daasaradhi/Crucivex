@@ -1,0 +1,202 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.130 - Install the new rotor shaft to the...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "rotor_shaft",
+      "name": "Rotor shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shaft",
+      "provenance": {
+        "page": 130,
+        "quote": "Install the new rotor shaft to the pump body.",
+        "verified": true,
+        "char_start": 18,
+        "char_end": 63,
+        "bbox": [
+          309.84,
+          106.60979999999995,
+          519.81716,
+          116.40980000000002
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "replacement_valve_seat_insert",
+      "name": "Replacement valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "replacement_valve_seat_insert",
+      "provenance": {
+        "page": 130,
+        "quote": "Insert the pin into the hole.",
+        "verified": true,
+        "char_start": 182,
+        "char_end": 211,
+        "bbox": [
+          309.84,
+          167.18900000000008,
+          434.4414666666667,
+          176.52233333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "pin",
+      "name": "Pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pin",
+      "provenance": {
+        "page": 130,
+        "quote": "Insert the pin into the hole.",
+        "verified": true,
+        "char_start": 182,
+        "char_end": 211,
+        "bbox": [
+          309.84,
+          167.18900000000008,
+          434.4414666666667,
+          176.52233333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the new rotor shaft to the pump body.",
+      "source_number": 1,
+      "installs": [
+        "rotor_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 130,
+        "quote": "Install the new rotor shaft to the pump body.",
+        "verified": true,
+        "char_start": 18,
+        "char_end": 63,
+        "bbox": [
+          309.84,
+          106.60979999999995,
+          519.81716,
+          116.40980000000002
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Set the pinion to the rotor shaft.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 130,
+        "quote": "Set the pinion to the rotor shaft.",
+        "verified": true,
+        "char_start": 67,
+        "char_end": 101,
+        "bbox": [
+          309.59999999999997,
+          122.68979999999999,
+          459.06863999999996,
+          132.48980000000006
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Use a 5 mm (0.20 in) drill a hole through the pinion and the rotor shaft.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 130,
+        "quote": "Use a 5 mm (0.20 in) drill a hole through the pinion and the rotor shaft.",
+        "verified": true,
+        "char_start": 105,
+        "char_end": 178,
+        "bbox": [
+          309.6,
+          138.52379999999994,
+          553.651992,
+          160.5702666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Insert the pin into the hole.",
+      "source_number": 4,
+      "installs": [
+        "replacement_valve_seat_insert",
+        "pin"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 130,
+        "quote": "Insert the pin into the hole.",
+        "verified": true,
+        "char_start": 182,
+        "char_end": 211,
+        "bbox": [
+          309.84,
+          167.18900000000008,
+          434.4414666666667,
+          176.52233333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

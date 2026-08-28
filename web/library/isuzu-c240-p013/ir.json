@@ -1,0 +1,290 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.57 - Align the hot plug knock ball with...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "hot_plug_knock",
+      "name": "Hot plug knock",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hot_plug_knock",
+      "provenance": {
+        "page": 57,
+        "quote": "Align the hot plug knock ball with the cylinder head groove and tap it temporarily into position with a plastic hammer.",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 326,
+        "bbox": [
+          299.28,
+          202.43600000000004,
+          545.8332266666666,
+          236.18456666666657
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 57,
+        "quote": "Align the hot plug knock ball with the cylinder head groove and tap it temporarily into position with a plastic hammer.",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 326,
+        "bbox": [
+          299.28,
+          202.43600000000004,
+          545.8332266666666,
+          236.18456666666657
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "hot_plug",
+      "name": "Hot plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hot_plug",
+      "provenance": {
+        "page": 57,
+        "quote": "Place a metal plate approximately 25 mm (1 in) thick over the hot plug upper surface.",
+        "verified": true,
+        "char_start": 330,
+        "char_end": 415,
+        "bbox": [
+          300.2399999999999,
+          328.3079,
+          544.959585,
+          349.95279999999997
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "insert_free",
+      "name": "Insert free",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_free",
+      "provenance": {
+        "page": 57,
+        "quote": "Use a surface grinder to grind off any hot plug surface protuberances. The hot plug surfaces must be perfectly flush with the cylinder head lower face. After grinding, make sure that the hot plug surfaces are completely free of protubera...",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 1238,
+        "bbox": [
+          300.72,
+          508.5558,
+          548.5326600000001,
+          690.1130333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Align the hot plug knock ball with the cylinder head groove and tap it temporarily into position with a plastic hammer.",
+      "source_number": 1,
+      "installs": [
+        "hot_plug_knock",
+        "cylinder_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 57,
+        "quote": "Align the hot plug knock ball with the cylinder head groove and tap it temporarily into position with a plastic hammer.",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 326,
+        "bbox": [
+          299.28,
+          202.43600000000004,
+          545.8332266666666,
+          236.18456666666657
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place a metal plate approximately 25 mm (1 in) thick over the hot plug upper surface.",
+      "source_number": 2,
+      "installs": [
+        "hot_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 57,
+        "quote": "Place a metal plate approximately 25 mm (1 in) thick over the hot plug upper surface.",
+        "verified": true,
+        "char_start": 330,
+        "char_end": 415,
+        "bbox": [
+          300.2399999999999,
+          328.3079,
+          544.959585,
+          349.95279999999997
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Use a bench press to exert a pressure of 4,500 - 5,500 kg (9,923 - 12,128 Ib/44,100 \u2014 53,900 N) on the metal plate covering the hot plug upper surface. This will drive the hot plug into position.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 57,
+        "quote": "Use a bench press to exert a pressure of 4,500 - 5,500 kg (9,923 - 12,128 Ib/44,100 \u2014 53,900 N) on the metal plate covering the hot plug upper surface. This will drive the hot plug into position.",
+        "verified": true,
+        "char_start": 419,
+        "char_end": 614,
+        "bbox": [
+          300.00000000000006,
+          356.2618,
+          545.2838560000001,
+          401.8628
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Lightly tap the hot plug head to make sure that it is firmly seated.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 57,
+        "quote": "Lightly tap the hot plug head to make sure that it is firmly seated.",
+        "verified": true,
+        "char_start": 618,
+        "char_end": 686,
+        "bbox": [
+          300.48000000000013,
+          408.0027,
+          547.8846053333335,
+          430.4418
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Repeat the procedure (Steps 1 \u2014 4) for the remaining hot plugs. Note: Do not apply pressure greater than that specified. Damage to the cylinder head will result.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note: Do not apply pressure greater than that specified.",
+      "provenance": {
+        "page": 57,
+        "quote": "Repeat the procedure (Steps 1 \u2014 4) for the remaining hot plugs. Note: Do not apply pressure greater than that specified. Damage to the cylinder head will result.",
+        "verified": true,
+        "char_start": 690,
+        "char_end": 851,
+        "bbox": [
+          281.03999999999996,
+          436.4228,
+          545.10326,
+          502.4768
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Use a surface grinder to grind off any hot plug surface protuberances. The hot plug surfaces must be perfectly flush with the cylinder head lower face. After grinding, make sure that the hot plug surfaces are completely free of protuberances. The hot plug surfaces must also be free of depressions. Once again, lightly tap the hot plug heads to make sure that they are firmly seated.",
+      "source_number": 6,
+      "installs": [
+        "insert_free"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 57,
+        "quote": "Use a surface grinder to grind off any hot plug surface protuberances. The hot plug surfaces must be perfectly flush with the cylinder head lower face. After grinding, make sure that the hot plug surfaces are completely free of protubera...",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 1238,
+        "bbox": [
+          300.72,
+          508.5558,
+          548.5326600000001,
+          690.1130333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

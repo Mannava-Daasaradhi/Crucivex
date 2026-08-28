@@ -1,0 +1,439 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.98 - Clamp the reaming fixture J 5273 in...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 98,
+        "quote": "Clamp the reaming fixture J 5273 in a vise (Fig. 7). then insert the guide bushing J 4970-5 in the fixture and secure it with the set screw.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 876,
+        "bbox": [
+          323.28,
+          390.68999999999994,
+          563.9874000000001,
+          426.8619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fixture",
+      "name": "Fixture",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fixture",
+      "provenance": {
+        "page": 98,
+        "quote": "Clamp the reaming fixture J 5273 in a vise (Fig. 7). then insert the guide bushing J 4970-5 in the fixture and secure it with the set screw.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 876,
+        "bbox": [
+          323.28,
+          390.68999999999994,
+          563.9874000000001,
+          426.8619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 98,
+        "quote": "Clamp the reaming fixture J 5273 in a vise (Fig. 7). then insert the guide bushing J 4970-5 in the fixture and secure it with the set screw.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 876,
+        "bbox": [
+          323.28,
+          390.68999999999994,
+          563.9874000000001,
+          426.8619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 98,
+        "quote": "Clamp the reaming fixture J 5273 in a vise (Fig. 7). then insert the guide bushing J 4970-5 in the fixture and secure it with the set screw.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 876,
+        "bbox": [
+          323.28,
+          390.68999999999994,
+          563.9874000000001,
+          426.8619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 98,
+        "quote": "Clamp the reaming fixture J 5273 in a vise (Fig. 7). then insert the guide bushing J 4970-5 in the fixture and secure it with the set screw.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 876,
+        "bbox": [
+          323.28,
+          390.68999999999994,
+          563.9874000000001,
+          426.8619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 98,
+        "quote": "Clamp the reaming fixture J 5273 in a vise (Fig. 7). then insert the guide bushing J 4970-5 in the fixture and secure it with the set screw.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 876,
+        "bbox": [
+          323.28,
+          390.68999999999994,
+          563.9874000000001,
+          426.8619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "set_screw",
+      "name": "Set screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "set_screw",
+      "provenance": {
+        "page": 98,
+        "quote": "Clamp the reaming fixture J 5273 in a vise (Fig. 7). then insert the guide bushing J 4970-5 in the fixture and secure it with the set screw.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 876,
+        "bbox": [
+          323.28,
+          390.68999999999994,
+          563.9874000000001,
+          426.8619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "piston_assembly",
+      "name": "Piston assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_assembly",
+      "provenance": {
+        "page": 98,
+        "quote": "Place the piston assembly in the fixture and insert",
+        "verified": true,
+        "char_start": 880,
+        "char_end": 931,
+        "bbox": [
+          335.52000000000004,
+          443.12899999999996,
+          562.0866,
+          453.12899999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 99,
+        "quote": "With the piston. fixture and reamer in alignment, tighten the wing nuts securely.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 184,
+        "bbox": [
+          91.68,
+          101.25099999999998,
+          330.63,
+          121.92899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "shoulder_of_the_reamer",
+      "name": "Shoulder of the reamer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder_of_the_reamer",
+      "provenance": {
+        "page": 99,
+        "quote": "With the piston. fixture and reamer in alignment, tighten the wing nuts securely.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 184,
+        "bbox": [
+          91.68,
+          101.25099999999998,
+          330.63,
+          121.92899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 99,
+        "quote": "With the piston. fixture and reamer in alignment, tighten the wing nuts securely.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 184,
+        "bbox": [
+          91.68,
+          101.25099999999998,
+          330.63,
+          121.92899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 99,
+        "quote": "Ream the bushings by turning the reamer in a clockwise direction only, when reaming or withdraw- ing the reamer. For the best results. use only moderate pressure on the reamer.",
+        "verified": true,
+        "char_start": 188,
+        "char_end": 364,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clamp the reaming fixture J 5273 in a vise (Fig. 7). then insert the guide bushing J 4970-5 in the fixture and secure it with the set screw.",
+      "source_number": 1,
+      "installs": [
+        "breather_tube_clamp",
+        "fixture",
+        "nut_securing_fig",
+        "exhaust_valve_seat_insert",
+        "cam_follower_guide",
+        "connecting_rod_bushing",
+        "set_screw"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 98,
+        "quote": "Clamp the reaming fixture J 5273 in a vise (Fig. 7). then insert the guide bushing J 4970-5 in the fixture and secure it with the set screw.",
+        "verified": true,
+        "char_start": 736,
+        "char_end": 876,
+        "bbox": [
+          323.28,
+          390.68999999999994,
+          563.9874000000001,
+          426.8619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the piston assembly in the fixture and insert",
+      "source_number": 2,
+      "installs": [
+        "piston_assembly"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 98,
+        "quote": "Place the piston assembly in the fixture and insert",
+        "verified": true,
+        "char_start": 880,
+        "char_end": 931,
+        "bbox": [
+          335.52000000000004,
+          443.12899999999996,
+          562.0866,
+          453.12899999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "With the piston. fixture and reamer in alignment, tighten the wing nuts securely.",
+      "source_number": 3,
+      "installs": [
+        "of_the_selected_piston",
+        "shoulder_of_the_reamer",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 99,
+        "quote": "With the piston. fixture and reamer in alignment, tighten the wing nuts securely.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 184,
+        "bbox": [
+          91.68,
+          101.25099999999998,
+          330.63,
+          121.92899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Ream the bushings by turning the reamer in a clockwise direction only, when reaming or withdraw- ing the reamer. For the best results. use only moderate pressure on the reamer.",
+      "source_number": 4,
+      "installs": [
+        "clamping_pressure"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 99,
+        "quote": "Ream the bushings by turning the reamer in a clockwise direction only, when reaming or withdraw- ing the reamer. For the best results. use only moderate pressure on the reamer.",
+        "verified": true,
+        "char_start": 188,
+        "char_end": 364,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Withdraw the reamer and remove the piston from the fixture. Blow out the chips and check the inside diameter of the bushings. The inside diameter of the bushings must be 1.3775 \u201d to 1.3780 \"'.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 99,
+        "quote": "Withdraw the reamer and remove the piston from the fixture. Blow out the chips and check the inside diameter of the bushings. The inside diameter of the bushings must be 1.3775 \u201d to 1.3780 \"'.",
+        "verified": true,
+        "char_start": 368,
+        "char_end": 560,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

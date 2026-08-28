@@ -1,0 +1,779 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.28 - Check the block bores as follows: a...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "port",
+      "name": "Port",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "port",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_liner_seal",
+      "name": "Cylinder liner seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner_seal",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the top of the block for flatness with an accurate straight edge and a feeler gage. The top surface must not vary more than 003 \" transversely and not over .005 \u201d (2-53 engine), .006 \u201d (3-53 or 6V engine) \u043e\u0433 .007 \u201d (4-53 or 8V engi...",
+        "verified": true,
+        "char_start": 1577,
+        "char_end": 1833,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "feeler_gage",
+      "name": "Feeler gage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "feeler_gage",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the top of the block for flatness with an accurate straight edge and a feeler gage. The top surface must not vary more than 003 \" transversely and not over .005 \u201d (2-53 engine), .006 \u201d (3-53 or 6V engine) \u043e\u0433 .007 \u201d (4-53 or 8V engi...",
+        "verified": true,
+        "char_start": 1577,
+        "char_end": 1833,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 28,
+        "quote": "Make sure the cylinder liner counterbores in the block are clean and free of dirt. Then check the depth. The depth must be .300 \u201d to .302 \" and must not vary more than .0015 \" throughout the entire circumfer- ence. The counterbored surfa...",
+        "verified": true,
+        "char_start": 1837,
+        "char_end": 2333,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 28,
+        "quote": "Make sure the cylinder liner counterbores in the block are clean and free of dirt. Then check the depth. The depth must be .300 \u201d to .302 \" and must not vary more than .0015 \" throughout the entire circumfer- ence. The counterbored surfa...",
+        "verified": true,
+        "char_start": 1837,
+        "char_end": 2333,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "main",
+      "name": "Main",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the main bearing bores as follows: a. Check the bore diameters with the main bearing caps in their original positions. Lubricate the bolt threads and bolt head contact areas with a small quantity of International Compound No. 2, or...",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 4767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the main bearing bores as follows: a. Check the bore diameters with the main bearing caps in their original positions. Lubricate the bolt threads and bolt head contact areas with a small quantity of International Compound No. 2, or...",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 4767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "main_bearing_cap",
+      "name": "Main bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main_bearing_cap",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the main bearing bores as follows: a. Check the bore diameters with the main bearing caps in their original positions. Lubricate the bolt threads and bolt head contact areas with a small quantity of International Compound No. 2, or...",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 4767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the main bearing bores as follows: a. Check the bore diameters with the main bearing caps in their original positions. Lubricate the bolt threads and bolt head contact areas with a small quantity of International Compound No. 2, or...",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 4767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the main bearing bores as follows: a. Check the bore diameters with the main bearing caps in their original positions. Lubricate the bolt threads and bolt head contact areas with a small quantity of International Compound No. 2, or...",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 4767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the main bearing bores as follows: a. Check the bore diameters with the main bearing caps in their original positions. Lubricate the bolt threads and bolt head contact areas with a small quantity of International Compound No. 2, or...",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 4767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the main bearing bores as follows: a. Check the bore diameters with the main bearing caps in their original positions. Lubricate the bolt threads and bolt head contact areas with a small quantity of International Compound No. 2, or...",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 4767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "loose",
+      "name": "Loose",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "loose",
+      "provenance": {
+        "page": 29,
+        "quote": "Replace loose or damaged dowel pins. The dowels at the ends of the cylinder block must extend .680 \u201d from the cylinder block face. The dowels used to retain the crankshaft thrust washers in the cylinder block and on the rear main bearing...",
+        "verified": true,
+        "char_start": 627,
+        "char_end": 943,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 29,
+        "quote": "Replace loose or damaged dowel pins. The dowels at the ends of the cylinder block must extend .680 \u201d from the cylinder block face. The dowels used to retain the crankshaft thrust washers in the cylinder block and on the rear main bearing...",
+        "verified": true,
+        "char_start": 627,
+        "char_end": 943,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 29,
+        "quote": "Replace loose or damaged dowel pins. The dowels at the ends of the cylinder block must extend .680 \u201d from the cylinder block face. The dowels used to retain the crankshaft thrust washers in the cylinder block and on the rear main bearing...",
+        "verified": true,
+        "char_start": 627,
+        "char_end": 943,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rear_main_bearing",
+      "name": "Rear main bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rear_main_bearing",
+      "provenance": {
+        "page": 29,
+        "quote": "Replace loose or damaged dowel pins. The dowels at the ends of the cylinder block must extend .680 \u201d from the cylinder block face. The dowels used to retain the crankshaft thrust washers in the cylinder block and on the rear main bearing...",
+        "verified": true,
+        "char_start": 627,
+        "char_end": 943,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 29,
+        "quote": "Replace loose or damaged dowel pins. The dowels at the ends of the cylinder block must extend .680 \u201d from the cylinder block face. The dowels used to retain the crankshaft thrust washers in the cylinder block and on the rear main bearing...",
+        "verified": true,
+        "char_start": 627,
+        "char_end": 943,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lower_bearing_cap",
+      "name": "Lower bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_bearing_cap",
+      "provenance": {
+        "page": 29,
+        "quote": "Replace loose or damaged dowel pins. The dowels at the ends of the cylinder block must extend .680 \u201d from the cylinder block face. The dowels used to retain the crankshaft thrust washers in the cylinder block and on the rear main bearing...",
+        "verified": true,
+        "char_start": 627,
+        "char_end": 943,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 29,
+        "quote": "Check all of the machined surfaces and threaded holes in the block. Remove nicks and burrs from the machined surfaces with a file. Clean-up damaged threads in tapped holes with a tap or install helical thread inserts.",
+        "verified": true,
+        "char_start": 947,
+        "char_end": 1164,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nick",
+      "name": "Nick",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nick",
+      "provenance": {
+        "page": 29,
+        "quote": "Check all of the machined surfaces and threaded holes in the block. Remove nicks and burrs from the machined surfaces with a file. Clean-up damaged threads in tapped holes with a tap or install helical thread inserts.",
+        "verified": true,
+        "char_start": 947,
+        "char_end": 1164,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "burr",
+      "name": "Burr",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "burr",
+      "provenance": {
+        "page": 29,
+        "quote": "Check all of the machined surfaces and threaded holes in the block. Remove nicks and burrs from the machined surfaces with a file. Clean-up damaged threads in tapped holes with a tap or install helical thread inserts.",
+        "verified": true,
+        "char_start": 947,
+        "char_end": 1164,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "helical_thread_insert",
+      "name": "Helical thread insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "helical_thread_insert",
+      "provenance": {
+        "page": 29,
+        "quote": "Check all of the machined surfaces and threaded holes in the block. Remove nicks and burrs from the machined surfaces with a file. Clean-up damaged threads in tapped holes with a tap or install helical thread inserts.",
+        "verified": true,
+        "char_start": 947,
+        "char_end": 1164,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rust_preventive",
+      "name": "Rust preventive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rust_preventive",
+      "provenance": {
+        "page": 29,
+        "quote": "After inspection, if the cylinder block is not to be used immediately, spray the machined surfaces with engine oil. [f the block is to be stored for an extended period of time, spray or dip it in a polar type rust preventive such as Valv...",
+        "verified": true,
+        "char_start": 1168,
+        "char_end": 1529,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylinder bore in the current block. The single groove formerly below the air inlet ports has been eliminated. However, a cylinder liner seal ring is required in the upper groove only. The lower groove (on the current block) is provided for the seal ring if inspection reveals extensive pitting or 'erosion along the upper land or inner surface of . the upper groove. If both grooves are eroded to the extent that sealing is affected, then the block must be replaced. b. Measure the entire bore of each cylinder with cylinder bore gage J 5347 (Fig. 12) which has a dial indicator calibrated in 0001 \u201d' increments. Use dial bore gage setting tool J 23059 to preset the cylinder bore gage to zero. Measure each block bore at the positions indicated in Fig. 13, on axis 90 ? apart. If the diameter does not exceed 4.5235 \u201d at position \u201c\u0410\u201d, 4.4900 \u201d at position \u201cB\u201d (and a sealing problem hasn't occured), or 4.3595 \u201d at position \"C\" and \"D\", then the block may be reused. Also, the taper and out of round must not exceed 0015\u201d.",
+      "source_number": 1,
+      "installs": [
+        "of_the_block",
+        "seal_ring",
+        "of_the_groove",
+        "nut_securing_fig",
+        "valve_rocker_cover_clean",
+        "fuel_oil_inlet",
+        "port",
+        "engine_front_cover_current",
+        "cylinder_liner_seal",
+        "bottom_oil_ring",
+        "of_the_required",
+        "hammer_spring_scale_upper",
+        "crankshaft_front_oil_seal",
+        "side_of_the_inner"
+      ],
+      "depends_on": [],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": "must not exceed 0015\u201d.",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the block bores as follows: a. Make sure the seal ring grooves (Fig. 11) are thoroughly clean. Then inspect the grooves and lands for evidence of pitting and erosion. Two grooves are provided above the air inlet ports of each cylin...",
+        "verified": true,
+        "char_start": 318,
+        "char_end": 1573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Check the top of the block for flatness with an accurate straight edge and a feeler gage. The top surface must not vary more than 003 \" transversely and not over .005 \u201d (2-53 engine), .006 \u201d (3-53 or 6V engine) \u043e\u0433 .007 \u201d (4-53 or 8V engine) longitudinally.",
+      "source_number": 2,
+      "installs": [
+        "press_the_shaft_straight",
+        "feeler_gage"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "must not vary more than 003 \" transversely and not over .",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the top of the block for flatness with an accurate straight edge and a feeler gage. The top surface must not vary more than 003 \" transversely and not over .005 \u201d (2-53 engine), .006 \u201d (3-53 or 6V engine) \u043e\u0433 .007 \u201d (4-53 or 8V engi...",
+        "verified": true,
+        "char_start": 1577,
+        "char_end": 1833,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Make sure the cylinder liner counterbores in the block are clean and free of dirt. Then check the depth. The depth must be .300 \u201d to .302 \" and must not vary more than .0015 \" throughout the entire circumfer- ence. The counterbored surfaces must be smooth and square with the cylinder bore within .001\u201d total indicator reading. There must not be over 001\u201d difference between any two adjacent cylinder counter- bores, when measured along the cylinder longitudinal centerline of the cylinder block.",
+      "source_number": 3,
+      "installs": [
+        "cylinder_liner",
+        "insert_counterbore"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "must not vary more than .",
+      "provenance": {
+        "page": 28,
+        "quote": "Make sure the cylinder liner counterbores in the block are clean and free of dirt. Then check the depth. The depth must be .300 \u201d to .302 \" and must not vary more than .0015 \" throughout the entire circumfer- ence. The counterbored surfa...",
+        "verified": true,
+        "char_start": 1837,
+        "char_end": 2333,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check the main bearing bores as follows: a. Check the bore diameters with the main bearing caps in their original positions. Lubricate the bolt threads and bolt head contact areas with a small quantity of International Compound No. 2, or equivalent. Then install and tighten the bolts to the specified torque. When making this check, do not install the main bearing cap stabilizers. The specified bore diameter is 3.251 \" to 3.252 \" (In- Line engine) or 3.751\" to 3.752\" (V-type engine). If the bores do not fall within these limits, the cylinder block must be rejected. CAUTION: Main bearing cap bolts are espe- cially designed for this purpose and must not be replaced by ordinary bolts. Effective with engine serial numbers 6D-27030 and 8D-1155, a new hexagon head bolt and hardened steel washer are being used in place of the former 12-point flange type main bearing cap bolt. NOTE: Bearing caps are numbered to corre- spond with their respective positions in the cylinder block. It is imperative that the bearing caps are reinstalled in their original positions to maintain the main bearing bore alignment. The number of the front main bearing cap is also stamped on the face of the oil pan mounting flange of the cylinder block, adjacent to its permanent location in the engine as established at the time of manufacture. The No. 1 main bearing cap is always located at the end opposite the flywheel end of the cylinder block (Fig. 14). b. Finished and unfinished main bearing caps are available for replacing broken or damaged caps. When fitung a finished replacement bearing cap, it may be necessary to try several caps before one will be found to provide the correct bore diameter and bore alignment. If a replacement bearing cap is installed, be sure to stamp the correct bearing position number on the cap. NOTE: Use the unfinished bearing caps for the front and intermediate bearing positions. The finished bearing caps, machined for the crankshaft thrust washers, are to be used in the rear bearing position. c. Main bearing bores are line-bored with the bearing caps in place and thus are in longitudinal alignment. Bearing bores may be considered properly aligned with one another if the crankshaft can be rotated freely by hand after new bearing shells have been installed and lubricated and the bearing caps have been secured in place and the bolts tightened to the specified torque. If a main bearing bore is more",
+      "source_number": 4,
+      "installs": [
+        "main",
+        "bearing_the_end_bearing",
+        "main_bearing_cap",
+        "bolt_thread",
+        "engine_front_cover_bolt",
+        "cylinder_head",
+        "contact"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "do not install the main bearing cap stabilizers.",
+      "provenance": {
+        "page": 28,
+        "quote": "Check the main bearing bores as follows: a. Check the bore diameters with the main bearing caps in their original positions. Lubricate the bolt threads and bolt head contact areas with a small quantity of International Compound No. 2, or...",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 4767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Replace loose or damaged dowel pins. The dowels at the ends of the cylinder block must extend .680 \u201d from the cylinder block face. The dowels used to retain the crankshaft thrust washers in the cylinder block and on the rear main bearing cap must extend .107 \" to .117 \" from the surface of the block or bearing cap.",
+      "source_number": 5,
+      "installs": [
+        "loose",
+        "copper_plated_dowel_pin",
+        "crankshaft_thrust_washer",
+        "rear_main_bearing",
+        "clean_shipping_cap",
+        "lower_bearing_cap"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "Replace loose or damaged dowel pins. The dowels at the ends of the cylinder block must extend .680 \u201d from the cylinder block face. The dowels used to retain the crankshaft thrust washers in the cylinder block and on the rear main bearing...",
+        "verified": true,
+        "char_start": 627,
+        "char_end": 943,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Check all of the machined surfaces and threaded holes in the block. Remove nicks and burrs from the machined surfaces with a file. Clean-up damaged threads in tapped holes with a tap or install helical thread inserts.",
+      "source_number": 6,
+      "installs": [
+        "of_the_oil_hole",
+        "nick",
+        "burr",
+        "helical_thread_insert"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "Check all of the machined surfaces and threaded holes in the block. Remove nicks and burrs from the machined surfaces with a file. Clean-up damaged threads in tapped holes with a tap or install helical thread inserts.",
+        "verified": true,
+        "char_start": 947,
+        "char_end": 1164,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "After inspection, if the cylinder block is not to be used immediately, spray the machined surfaces with engine oil. [f the block is to be stored for an extended period of time, spray or dip it in a polar type rust preventive such as Valvoline Oil Company's \u201c\u2018Tectyl 502-C\", or equivalent. Castings free of grease or oil will rust when exposed to the atmosphere.",
+      "source_number": 7,
+      "installs": [
+        "rust_preventive"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 29,
+        "quote": "After inspection, if the cylinder block is not to be used immediately, spray the machined surfaces with engine oil. [f the block is to be stored for an extended period of time, spray or dip it in a polar type rust preventive such as Valv...",
+        "verified": true,
+        "char_start": 1168,
+        "char_end": 1529,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

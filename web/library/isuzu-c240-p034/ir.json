@@ -1,0 +1,169 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.113 - Temporarily tighten the water pump bolt marked...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "water_pump_bolt",
+      "name": "Water pump bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_pump_bolt",
+      "provenance": {
+        "page": 113,
+        "quote": "Temporarily tighten the water pump bolt marked with an arrow in the illustration. This bolt will be tightened to the specified torque when the alternator adjusting plate is installed.",
+        "verified": true,
+        "char_start": 540,
+        "char_end": 723,
+        "bbox": [
+          307.68,
+          484.92980000000006,
+          552.658292,
+          534.9858
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 113,
+        "quote": "Temporarily tighten the water pump bolt marked with an arrow in the illustration. This bolt will be tightened to the specified torque when the alternator adjusting plate is installed.",
+        "verified": true,
+        "char_start": 540,
+        "char_end": 723,
+        "bbox": [
+          307.68,
+          484.92980000000006,
+          552.658292,
+          534.9858
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "alternator",
+      "name": "Alternator",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "alternator",
+      "provenance": {
+        "page": 113,
+        "quote": "Temporarily tighten the water pump bolt marked with an arrow in the illustration. This bolt will be tightened to the specified torque when the alternator adjusting plate is installed.",
+        "verified": true,
+        "char_start": 540,
+        "char_end": 723,
+        "bbox": [
+          307.68,
+          484.92980000000006,
+          552.658292,
+          534.9858
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "other_water_pump",
+      "name": "Other water pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "other_water_pump",
+      "provenance": {
+        "page": 113,
+        "quote": "Tighten the other water pump bolts to the specified torque. Water Pump Bolt Torque kg-m (Ib.ft/N-m) 3.5 \u2014 4.7 (25.3 \u2014 33.9/34.3 \u2014 46.1) [ee]",
+        "verified": true,
+        "char_start": 727,
+        "char_end": 867,
+        "bbox": [
+          251.76,
+          540.9548,
+          552.993246,
+          639.6333666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Temporarily tighten the water pump bolt marked with an arrow in the illustration. This bolt will be tightened to the specified torque when the alternator adjusting plate is installed.",
+      "source_number": 1,
+      "installs": [
+        "water_pump_bolt",
+        "bearing_cap_bolt",
+        "alternator"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Temporarily tighten the water pump bolt marked with an arrow in the illustration. This bolt will be tightened to the specified torque when the alternator adjusting plate is installed.",
+        "verified": true,
+        "char_start": 540,
+        "char_end": 723,
+        "bbox": [
+          307.68,
+          484.92980000000006,
+          552.658292,
+          534.9858
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Tighten the other water pump bolts to the specified torque. Water Pump Bolt Torque kg-m (Ib.ft/N-m) 3.5 \u2014 4.7 (25.3 \u2014 33.9/34.3 \u2014 46.1) [ee]",
+      "source_number": 2,
+      "installs": [
+        "other_water_pump"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 34.3,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Tighten the other water pump bolts to the specified torque. Water Pump Bolt Torque kg-m (Ib.ft/N-m) 3.5 \u2014 4.7 (25.3 \u2014 33.9/34.3 \u2014 46.1) [ee]",
+        "verified": true,
+        "char_start": 727,
+        "char_end": 867,
+        "bbox": [
+          251.76,
+          540.9548,
+          552.993246,
+          639.6333666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

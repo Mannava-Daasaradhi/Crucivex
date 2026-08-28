@@ -1,0 +1,313 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.30 - Operate the priming pump to allow the...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "injection_pump",
+      "name": "Injection pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injection_pump",
+      "provenance": {
+        "page": 30,
+        "quote": "With continuing the pumping described in the item 9, pivot the injection pump body toward the engine inside or the engine out side as required slowly.",
+        "verified": true,
+        "char_start": 258,
+        "char_end": 408,
+        "bbox": [
+          300.24,
+          168.02480000000003,
+          544.251248,
+          201.62133333333338
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "delivery_valve_holder",
+      "name": "Delivery valve holder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "delivery_valve_holder",
+      "provenance": {
+        "page": 30,
+        "quote": "The fuel flow will stop at some injection pump position. This shows the fuel injection starting at the No. 1 plunger, thus correct fuel injection timing is obtained. Blow out the fuel remaining on the No. 1 delivery valve holder and chec...",
+        "verified": true,
+        "char_start": 413,
+        "char_end": 707,
+        "bbox": [
+          300.48,
+          207.63170000000002,
+          547.4046053333333,
+          294.0098
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "injection_pump_fixing",
+      "name": "Injection pump fixing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injection_pump_fixing",
+      "provenance": {
+        "page": 30,
+        "quote": "Retighten the four injection pump fixing nuts to the specified torque. Injection Pump Fixing Nut Torque kg-m(Ib.ft/N-m) 1.8 \u2014 2.2 (12.7 \u2014 15.5 / 17.7 \u2014 21.5)",
+        "verified": true,
+        "char_start": 712,
+        "char_end": 869,
+        "bbox": [
+          282.0,
+          327.3848,
+          545.365656,
+          384.01026666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "valve_spring",
+      "name": "Valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_spring",
+      "provenance": {
+        "page": 30,
+        "quote": "Remove the delivery valve holder at the No. 1 plunger. Install the valve spring, valve seat and delivery valve. Reinstall the delivery valve holder and tighten it to the specified torque. Delivery Valve Tightening Torque kg-m(Ib.ft/N-m) ...",
+        "verified": true,
+        "char_start": 874,
+        "char_end": 1148,
+        "bbox": [
+          282.72,
+          469.1949,
+          548.1138806666665,
+          549.6065666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "fuel_injection_pipe",
+      "name": "Fuel injection pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_injection_pipe",
+      "provenance": {
+        "page": 30,
+        "quote": "Reconnect the injection pipes and screw-in the feed pump knob. Note: The engine operation with feed pump knob in un- screwed condition will result the feed pump failure.",
+        "verified": true,
+        "char_start": 1153,
+        "char_end": 1322,
+        "bbox": [
+          282.48,
+          564.9598000000001,
+          545.966976,
+          630.7168
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Operate the priming pump to allow the fuel to follow out from the No. 1 plunger. Note: The crank angle differs depending on the engine appli- cation, therefore, contact your machine supply source or ISUZU MOTORS LIMITED when you need the crank angle.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note: The crank angle differs depending on the engine appli- cation, therefore, contact your machine supply source or ISUZU MOTORS LIMITED when you need the crank angle.",
+      "provenance": {
+        "page": 30,
+        "quote": "Operate the priming pump to allow the fuel to follow out from the No. 1 plunger. Note: The crank angle differs depending on the engine appli- cation, therefore, contact your machine supply source or ISUZU MOTORS LIMITED when you need the...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 253,
+        "bbox": [
+          280.08,
+          71.78970000000004,
+          544.8517439999999,
+          162.00956666666661
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "With continuing the pumping described in the item 9, pivot the injection pump body toward the engine inside or the engine out side as required slowly.",
+      "source_number": 10,
+      "installs": [
+        "injection_pump"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 30,
+        "quote": "With continuing the pumping described in the item 9, pivot the injection pump body toward the engine inside or the engine out side as required slowly.",
+        "verified": true,
+        "char_start": 258,
+        "char_end": 408,
+        "bbox": [
+          300.24,
+          168.02480000000003,
+          544.251248,
+          201.62133333333338
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "The fuel flow will stop at some injection pump position. This shows the fuel injection starting at the No. 1 plunger, thus correct fuel injection timing is obtained. Blow out the fuel remaining on the No. 1 delivery valve holder and check that no fuel is flowed out at place as pumping is done.",
+      "source_number": 11,
+      "installs": [
+        "delivery_valve_holder"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 30,
+        "quote": "The fuel flow will stop at some injection pump position. This shows the fuel injection starting at the No. 1 plunger, thus correct fuel injection timing is obtained. Blow out the fuel remaining on the No. 1 delivery valve holder and chec...",
+        "verified": true,
+        "char_start": 413,
+        "char_end": 707,
+        "bbox": [
+          300.48,
+          207.63170000000002,
+          547.4046053333333,
+          294.0098
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Retighten the four injection pump fixing nuts to the specified torque. Injection Pump Fixing Nut Torque kg-m(Ib.ft/N-m) 1.8 \u2014 2.2 (12.7 \u2014 15.5 / 17.7 \u2014 21.5)",
+      "source_number": 12,
+      "installs": [
+        "injection_pump_fixing"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 17.7,
+      "warning": null,
+      "provenance": {
+        "page": 30,
+        "quote": "Retighten the four injection pump fixing nuts to the specified torque. Injection Pump Fixing Nut Torque kg-m(Ib.ft/N-m) 1.8 \u2014 2.2 (12.7 \u2014 15.5 / 17.7 \u2014 21.5)",
+        "verified": true,
+        "char_start": 712,
+        "char_end": 869,
+        "bbox": [
+          282.0,
+          327.3848,
+          545.365656,
+          384.01026666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the delivery valve holder at the No. 1 plunger. Install the valve spring, valve seat and delivery valve. Reinstall the delivery valve holder and tighten it to the specified torque. Delivery Valve Tightening Torque kg-m(Ib.ft/N-m) 4.0 \u2014 4.5 (28.9 \u2014 32.5 / 39.2 \u2014 44.2)",
+      "source_number": 13,
+      "installs": [
+        "valve_spring"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": 39.2,
+      "warning": null,
+      "provenance": {
+        "page": 30,
+        "quote": "Remove the delivery valve holder at the No. 1 plunger. Install the valve spring, valve seat and delivery valve. Reinstall the delivery valve holder and tighten it to the specified torque. Delivery Valve Tightening Torque kg-m(Ib.ft/N-m) ...",
+        "verified": true,
+        "char_start": 874,
+        "char_end": 1148,
+        "bbox": [
+          282.72,
+          469.1949,
+          548.1138806666665,
+          549.6065666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Reconnect the injection pipes and screw-in the feed pump knob. Note: The engine operation with feed pump knob in un- screwed condition will result the feed pump failure.",
+      "source_number": 14,
+      "installs": [
+        "fuel_injection_pipe"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note: The engine operation with feed pump knob in un- screwed condition will result the feed pump failure.",
+      "provenance": {
+        "page": 30,
+        "quote": "Reconnect the injection pipes and screw-in the feed pump knob. Note: The engine operation with feed pump knob in un- screwed condition will result the feed pump failure.",
+        "verified": true,
+        "char_start": 1153,
+        "char_end": 1322,
+        "bbox": [
+          282.48,
+          564.9598000000001,
+          545.966976,
+          630.7168
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

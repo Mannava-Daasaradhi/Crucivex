@@ -1,0 +1,246 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.332 - Lap the injector body. part, causing a...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "injector_body",
+      "name": "Injector body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_body",
+      "provenance": {
+        "page": 332,
+        "quote": "Lap the injector body. part, causing a deviation from the valve stack-up dimension.",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 533,
+        "bbox": [
+          101.52000000000001,
+          460.4099999999999,
+          583.952,
+          481.9299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 332,
+        "quote": "Lap the injector body. part, causing a deviation from the valve stack-up dimension.",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 533,
+        "bbox": [
+          101.52000000000001,
+          460.4099999999999,
+          583.952,
+          481.9299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 332,
+        "quote": "Tighten the nut to 55 to 65 Ib-ft torque. Do not exceed the specified torque.",
+        "verified": true,
+        "char_start": 537,
+        "char_end": 614,
+        "bbox": [
+          89.99999999999997,
+          486.45199999999994,
+          330.7215,
+          507.25199999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the spring. Check the valve cage and valve stop for wear; replace them if necessary.",
+        "verified": true,
+        "char_start": 618,
+        "char_end": 710,
+        "bbox": [
+          346.0799999999999,
+          498.0899999999999,
+          583.9709999999999,
+          519.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "check_valve_cage",
+      "name": "Check valve cage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "check_valve_cage",
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the spring. Check the valve cage and valve stop for wear; replace them if necessary.",
+        "verified": true,
+        "char_start": 618,
+        "char_end": 710,
+        "bbox": [
+          346.0799999999999,
+          498.0899999999999,
+          583.9709999999999,
+          519.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_stop",
+      "name": "Valve stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_stop",
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the spring. Check the valve cage and valve stop for wear; replace them if necessary.",
+        "verified": true,
+        "char_start": 618,
+        "char_end": 710,
+        "bbox": [
+          346.0799999999999,
+          498.0899999999999,
+          583.9709999999999,
+          519.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Lap the injector body. part, causing a deviation from the valve stack-up dimension.",
+      "source_number": 1,
+      "installs": [
+        "injector_body",
+        "engine_front_cover_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 332,
+        "quote": "Lap the injector body. part, causing a deviation from the valve stack-up dimension.",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 533,
+        "bbox": [
+          101.52000000000001,
+          460.4099999999999,
+          583.952,
+          481.9299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Tighten the nut to 55 to 65 Ib-ft torque. Do not exceed the specified torque.",
+      "source_number": 2,
+      "installs": [
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 88.1,
+      "warning": "Do not exceed the specified torque.",
+      "provenance": {
+        "page": 332,
+        "quote": "Tighten the nut to 55 to 65 Ib-ft torque. Do not exceed the specified torque.",
+        "verified": true,
+        "char_start": 537,
+        "char_end": 614,
+        "bbox": [
+          89.99999999999997,
+          486.45199999999994,
+          330.7215,
+          507.25199999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Replace the spring. Check the valve cage and valve stop for wear; replace them if necessary.",
+      "source_number": 6,
+      "installs": [
+        "end_of_the_spring",
+        "check_valve_cage",
+        "valve_stop"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 332,
+        "quote": "Replace the spring. Check the valve cage and valve stop for wear; replace them if necessary.",
+        "verified": true,
+        "char_start": 618,
+        "char_end": 710,
+        "bbox": [
+          346.0799999999999,
+          498.0899999999999,
+          583.9709999999999,
+          519.6099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

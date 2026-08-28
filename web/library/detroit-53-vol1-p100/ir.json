@@ -1,0 +1,272 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.200 - Spread a good quality 600 grit dry...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 200,
+        "quote": "Spread a good quality 600 grit dry lapping powder on one of the lapping blocks.",
+        "verified": true,
+        "char_start": 2011,
+        "char_end": 2090,
+        "bbox": [
+          344.4,
+          459.489,
+          565.29882,
+          479.53
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 200,
+        "quote": "Place the part to be lapped flat on the block (Fig. 25) and, using a figure eight motion, move it back and forth across the block. Do not press on the part, but use just enough pressure to keep the part flat on the block. It is important...",
+        "verified": true,
+        "char_start": 2094,
+        "char_end": 2385,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 200,
+        "quote": "Place the part to be lapped flat on the block (Fig. 25) and, using a figure eight motion, move it back and forth across the block. Do not press on the part, but use just enough pressure to keep the part flat on the block. It is important...",
+        "verified": true,
+        "char_start": 2094,
+        "char_end": 2385,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 200,
+        "quote": "After each four or five passes, clean the lapping powder from the part by drawing it across aclean piece of tissue placed on a flat surface and inspect the part. Do not lap excessively.",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2574,
+        "bbox": [
+          343.9200000000001,
+          575.2909999999999,
+          566.2441500000001,
+          617.769
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Spread a good quality 600 grit dry lapping powder on one of the lapping blocks.",
+      "source_number": 2,
+      "installs": [
+        "of_the_block"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 200,
+        "quote": "Spread a good quality 600 grit dry lapping powder on one of the lapping blocks.",
+        "verified": true,
+        "char_start": 2011,
+        "char_end": 2090,
+        "bbox": [
+          344.4,
+          459.489,
+          565.29882,
+          479.53
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the part to be lapped flat on the block (Fig. 25) and, using a figure eight motion, move it back and forth across the block. Do not press on the part, but use just enough pressure to keep the part flat on the block. It is important that the part be kept flat on the block at all times.",
+      "source_number": 3,
+      "installs": [
+        "flat",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not press on the part, but use just enough pressure to keep the part flat on the block.",
+      "provenance": {
+        "page": 200,
+        "quote": "Place the part to be lapped flat on the block (Fig. 25) and, using a figure eight motion, move it back and forth across the block. Do not press on the part, but use just enough pressure to keep the part flat on the block. It is important...",
+        "verified": true,
+        "char_start": 2094,
+        "char_end": 2385,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "After each four or five passes, clean the lapping powder from the part by drawing it across aclean piece of tissue placed on a flat surface and inspect the part. Do not lap excessively.",
+      "source_number": 4,
+      "installs": [
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not lap excessively.",
+      "provenance": {
+        "page": 200,
+        "quote": "After each four or five passes, clean the lapping powder from the part by drawing it across aclean piece of tissue placed on a flat surface and inspect the part. Do not lap excessively.",
+        "verified": true,
+        "char_start": 2389,
+        "char_end": 2574,
+        "bbox": [
+          343.9200000000001,
+          575.2909999999999,
+          566.2441500000001,
+          617.769
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "When the part is flat, wash it in cleaning solvent and dry it with compressed air. CAUTION:To prevent possible personal injury, wear adequate eye protection and do not exceed 40 psi (276 kPa) air pressure.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION:To prevent possible personal injury, wear adequate eye protection and do not exceed 40 psi (276 kPa) air pressure.",
+      "provenance": {
+        "page": 200,
+        "quote": "When the part is flat, wash it in cleaning solvent and dry it with compressed air. CAUTION:To prevent possible personal injury, wear adequate eye protection and do not exceed 40 psi (276 kPa) air pressure.",
+        "verified": true,
+        "char_start": 2578,
+        "char_end": 2783,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Place the dry part on the second block. After applying lapping powder, move the part lightly across the block in a figure eight motion several times to give it a smooth finish. Do not lap excessively. Again wash the part in cleaning solvent and dry it with compressed air. CAUTION:To prevent possible personal injury, wear adequate eye protection and do not exceed 40 psi (276 kPa) air pressure.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not lap excessively.",
+      "provenance": {
+        "page": 201,
+        "quote": "Place the dry part on the second block. After applying lapping powder, move the part lightly across the block in a figure eight motion several times to give it a smooth finish. Do not lap excessively. Again wash the part in cleaning solv...",
+        "verified": true,
+        "char_start": 57,
+        "char_end": 452,
+        "bbox": [
+          100.07999999999993,
+          263.006,
+          326.5793699999999,
+          373.33399999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Place the dry part on the third block. Do not use lapping powder on this block. Keep the part flat and move it across the block several times, using the figure eight motion. Lapping the dry part in this manner gives it the \"mirror\" finish required for perfect sealing.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not use lapping powder on this block.",
+      "provenance": {
+        "page": 201,
+        "quote": "Place the dry part on the third block. Do not use lapping powder on this block. Keep the part flat and move it across the block several times, using the figure eight motion. Lapping the dry part in this manner gives it the \"mirror\" finis...",
+        "verified": true,
+        "char_start": 456,
+        "char_end": 724,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Wash all of the lapped parts in clean solvent and dry them with compressed air. CAUTION:To prevent possible personal injury, wear adequate eye protection and do not exceed 40 psi (276 kPa) air pressure.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION:To prevent possible personal injury, wear adequate eye protection and do not exceed 40 psi (276 kPa) air pressure.",
+      "provenance": {
+        "page": 201,
+        "quote": "Wash all of the lapped parts in clean solvent and dry them with compressed air. CAUTION:To prevent possible personal injury, wear adequate eye protection and do not exceed 40 psi (276 kPa) air pressure.",
+        "verified": true,
+        "char_start": 728,
+        "char_end": 930,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

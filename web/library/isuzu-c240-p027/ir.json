@@ -1,0 +1,224 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.105 - Apply a coat of engine oil to...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "flywheel_bolt",
+      "name": "Flywheel bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_bolt",
+      "provenance": {
+        "page": 105,
+        "quote": "Apply a coat of engine oil to the threads of the flywheel bolts.",
+        "verified": true,
+        "char_start": 346,
+        "char_end": 410,
+        "bbox": [
+          309.5999999999999,
+          205.54380000000003,
+          555.9256559999999,
+          227.0495666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "flywheel",
+      "name": "Flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel",
+      "provenance": {
+        "page": 105,
+        "quote": "Align the flywheel with the crankshaft dowel pin.",
+        "verified": true,
+        "char_start": 414,
+        "char_end": 463,
+        "bbox": [
+          309.6,
+          233.4688,
+          541.393088,
+          243.26880000000006
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 105,
+        "quote": "Align the flywheel with the crankshaft dowel pin.",
+        "verified": true,
+        "char_start": 414,
+        "char_end": 463,
+        "bbox": [
+          309.6,
+          233.4688,
+          541.393088,
+          243.26880000000006
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "pin",
+      "name": "Pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pin",
+      "provenance": {
+        "page": 105,
+        "quote": "Align the flywheel with the crankshaft dowel pin.",
+        "verified": true,
+        "char_start": 414,
+        "char_end": 463,
+        "bbox": [
+          309.6,
+          233.4688,
+          541.393088,
+          243.26880000000006
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 105,
+        "quote": "Tighten the flywheel bolts in the numerical order shown in the illustration. Flywheel Bolt Torque kg-m (Ib.ft/N-m) 11.0 \u2014 13.0 (79.5 \u2014 93.9/107.9 - 127.5)",
+        "verified": true,
+        "char_start": 467,
+        "char_end": 621,
+        "bbox": [
+          289.92,
+          249.67780000000005,
+          554.80237,
+          305.4205
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply a coat of engine oil to the threads of the flywheel bolts.",
+      "source_number": 1,
+      "installs": [
+        "flywheel_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Apply a coat of engine oil to the threads of the flywheel bolts.",
+        "verified": true,
+        "char_start": 346,
+        "char_end": 410,
+        "bbox": [
+          309.5999999999999,
+          205.54380000000003,
+          555.9256559999999,
+          227.0495666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Align the flywheel with the crankshaft dowel pin.",
+      "source_number": 2,
+      "installs": [
+        "flywheel",
+        "crankshaft",
+        "pin"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Align the flywheel with the crankshaft dowel pin.",
+        "verified": true,
+        "char_start": 414,
+        "char_end": 463,
+        "bbox": [
+          309.6,
+          233.4688,
+          541.393088,
+          243.26880000000006
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Tighten the flywheel bolts in the numerical order shown in the illustration. Flywheel Bolt Torque kg-m (Ib.ft/N-m) 11.0 \u2014 13.0 (79.5 \u2014 93.9/107.9 - 127.5)",
+      "source_number": 3,
+      "installs": [
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 107.9,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Tighten the flywheel bolts in the numerical order shown in the illustration. Flywheel Bolt Torque kg-m (Ib.ft/N-m) 11.0 \u2014 13.0 (79.5 \u2014 93.9/107.9 - 127.5)",
+        "verified": true,
+        "char_start": 467,
+        "char_end": 621,
+        "bbox": [
+          289.92,
+          249.67780000000005,
+          554.80237,
+          305.4205
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

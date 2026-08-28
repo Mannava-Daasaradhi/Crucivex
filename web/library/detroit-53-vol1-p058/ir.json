@@ -1,0 +1,613 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.107 - Remove the oil pan. The minimum thickness...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "oil_pan",
+      "name": "Oil pan",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pan",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove the oil pan. The minimum thickness of a worn standard bearing",
+        "verified": true,
+        "char_start": 3115,
+        "char_end": 3183,
+        "bbox": [
+          91.68,
+          492.22999999999996,
+          586.1617,
+          516.73
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "worn",
+      "name": "Worn",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove the oil pan. The minimum thickness of a worn standard bearing",
+        "verified": true,
+        "char_start": 3115,
+        "char_end": 3183,
+        "bbox": [
+          91.68,
+          492.22999999999996,
+          586.1617,
+          516.73
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "standard",
+      "name": "Standard",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "standard",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove the oil pan. The minimum thickness of a worn standard bearing",
+        "verified": true,
+        "char_start": 3115,
+        "char_end": 3183,
+        "bbox": [
+          91.68,
+          492.22999999999996,
+          586.1617,
+          516.73
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove the oil pan. The minimum thickness of a worn standard bearing",
+        "verified": true,
+        "char_start": 3115,
+        "char_end": 3183,
+        "bbox": [
+          91.68,
+          492.22999999999996,
+          586.1617,
+          516.73
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_pump_inlet",
+      "name": "Oil pump inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pump_inlet",
+      "provenance": {
+        "page": 107,
+        "quote": "Disconnect and remove the oil pump inlet tube shell should not be less than .123\" . In addition to this assembly. thickness measurement, check the clearance between the connecting rod bearing shells and the crankshaft",
+        "verified": true,
+        "char_start": 3187,
+        "char_end": 3404,
+        "bbox": [
+          80.64000000000001,
+          515.3259999999999,
+          587.3188,
+          549.73
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 107,
+        "quote": "Disconnect and remove the oil pump inlet tube shell should not be less than .123\" . In addition to this assembly. thickness measurement, check the clearance between the connecting rod bearing shells and the crankshaft",
+        "verified": true,
+        "char_start": 3187,
+        "char_end": 3404,
+        "bbox": [
+          80.64000000000001,
+          515.3259999999999,
+          587.3188,
+          549.73
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bearing_shell",
+      "name": "Connecting rod bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing_shell",
+      "provenance": {
+        "page": 107,
+        "quote": "Disconnect and remove the oil pump inlet tube shell should not be less than .123\" . In addition to this assembly. thickness measurement, check the clearance between the connecting rod bearing shells and the crankshaft",
+        "verified": true,
+        "char_start": 3187,
+        "char_end": 3404,
+        "bbox": [
+          80.64000000000001,
+          515.3259999999999,
+          587.3188,
+          549.73
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 107,
+        "quote": "Disconnect and remove the oil pump inlet tube shell should not be less than .123\" . In addition to this assembly. thickness measurement, check the clearance between the connecting rod bearing shells and the crankshaft",
+        "verified": true,
+        "char_start": 3187,
+        "char_end": 3404,
+        "bbox": [
+          80.64000000000001,
+          515.3259999999999,
+          587.3188,
+          549.73
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bearing",
+      "name": "Connecting rod bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove one connecting rod bearing cap. Push the journal. This clearance may be checked with the connecting rod and piston assembly up into the crankshaft in place by squeezing a soft plasuc cylinder liner far enough to permit removal of ...",
+        "verified": true,
+        "char_start": 3408,
+        "char_end": 3875,
+        "bbox": [
+          80.4,
+          545.1299999999999,
+          587.2156000000001,
+          615.011
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove one connecting rod bearing cap. Push the journal. This clearance may be checked with the connecting rod and piston assembly up into the crankshaft in place by squeezing a soft plasuc cylinder liner far enough to permit removal of ...",
+        "verified": true,
+        "char_start": 3408,
+        "char_end": 3875,
+        "bbox": [
+          80.4,
+          545.1299999999999,
+          587.2156000000001,
+          615.011
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove one connecting rod bearing cap. Push the journal. This clearance may be checked with the connecting rod and piston assembly up into the crankshaft in place by squeezing a soft plasuc cylinder liner far enough to permit removal of ...",
+        "verified": true,
+        "char_start": 3408,
+        "char_end": 3875,
+        "bbox": [
+          80.4,
+          545.1299999999999,
+          587.2156000000001,
+          615.011
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "piston_assembly",
+      "name": "Piston assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_assembly",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove one connecting rod bearing cap. Push the journal. This clearance may be checked with the connecting rod and piston assembly up into the crankshaft in place by squeezing a soft plasuc cylinder liner far enough to permit removal of ...",
+        "verified": true,
+        "char_start": 3408,
+        "char_end": 3875,
+        "bbox": [
+          80.4,
+          545.1299999999999,
+          587.2156000000001,
+          615.011
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove one connecting rod bearing cap. Push the journal. This clearance may be checked with the connecting rod and piston assembly up into the crankshaft in place by squeezing a soft plasuc cylinder liner far enough to permit removal of ...",
+        "verified": true,
+        "char_start": 3408,
+        "char_end": 3875,
+        "bbox": [
+          80.4,
+          545.1299999999999,
+          587.2156000000001,
+          615.011
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "upper_bearing_shell",
+      "name": "Upper bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_bearing_shell",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove one connecting rod bearing cap. Push the journal. This clearance may be checked with the connecting rod and piston assembly up into the crankshaft in place by squeezing a soft plasuc cylinder liner far enough to permit removal of ...",
+        "verified": true,
+        "char_start": 3408,
+        "char_end": 3875,
+        "bbox": [
+          80.4,
+          545.1299999999999,
+          587.2156000000001,
+          615.011
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 107,
+        "quote": "Inspect the upper and lower bearing shells as replaced. If one bearing shell requires replacement. outlined under Inspection. both the upper and lower shells should be replaced.",
+        "verified": true,
+        "char_start": 3879,
+        "char_end": 4056,
+        "bbox": [
+          80.16000000000008,
+          610.2879999999999,
+          585.0216000000001,
+          636.8749999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lower_bearing_shell",
+      "name": "Lower bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_bearing_shell",
+      "provenance": {
+        "page": 107,
+        "quote": "Inspect the upper and lower bearing shells as replaced. If one bearing shell requires replacement. outlined under Inspection. both the upper and lower shells should be replaced.",
+        "verified": true,
+        "char_start": 3879,
+        "char_end": 4056,
+        "bbox": [
+          80.16000000000008,
+          610.2879999999999,
+          585.0216000000001,
+          636.8749999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 107,
+        "quote": "Inspect the upper and lower bearing shells as replaced. If one bearing shell requires replacement. outlined under Inspection. both the upper and lower shells should be replaced.",
+        "verified": true,
+        "char_start": 3879,
+        "char_end": 4056,
+        "bbox": [
+          80.16000000000008,
+          610.2879999999999,
+          585.0216000000001,
+          636.8749999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lower_bearing_cap",
+      "name": "Lower bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_bearing_cap",
+      "provenance": {
+        "page": 107,
+        "quote": "Install the bearing shells and bearing cap before Inspect the crankshaft journals, as outlined in another cap is removed. Section 1.3, for wear before replacement bearings are installed.",
+        "verified": true,
+        "char_start": 4060,
+        "char_end": 4246,
+        "bbox": [
+          80.4,
+          642.3299999999999,
+          587.8419999999999,
+          680.169
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the oil pan. The minimum thickness of a worn standard bearing",
+      "source_number": 2,
+      "installs": [
+        "oil_pan",
+        "worn",
+        "standard",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 107,
+        "quote": "Remove the oil pan. The minimum thickness of a worn standard bearing",
+        "verified": true,
+        "char_start": 3115,
+        "char_end": 3183,
+        "bbox": [
+          91.68,
+          492.22999999999996,
+          586.1617,
+          516.73
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Disconnect and remove the oil pump inlet tube shell should not be less than .123\" . In addition to this assembly. thickness measurement, check the clearance between the connecting rod bearing shells and the crankshaft",
+      "source_number": 3,
+      "installs": [
+        "oil_pump_inlet",
+        "end_of_each_tube",
+        "connecting_rod_bearing_shell",
+        "halve_of_the_crankshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 107,
+        "quote": "Disconnect and remove the oil pump inlet tube shell should not be less than .123\" . In addition to this assembly. thickness measurement, check the clearance between the connecting rod bearing shells and the crankshaft",
+        "verified": true,
+        "char_start": 3187,
+        "char_end": 3404,
+        "bbox": [
+          80.64000000000001,
+          515.3259999999999,
+          587.3188,
+          549.73
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove one connecting rod bearing cap. Push the journal. This clearance may be checked with the connecting rod and piston assembly up into the crankshaft in place by squeezing a soft plasuc cylinder liner far enough to permit removal of the measuring strip between the crankshaft journal and upper bearing shell. Do not pound on the edge of the the bearing shells (see Shop Note in Section 1.0). shell with a sharp tool. One connecting rod bearing shell should not be",
+      "source_number": 4,
+      "installs": [
+        "connecting_rod_bearing",
+        "clean_shipping_cap",
+        "connecting_rod",
+        "piston_assembly",
+        "cylinder_liner",
+        "upper_bearing_shell"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not pound on the edge of the the bearing shells (see Shop Note in Section 1.",
+      "provenance": {
+        "page": 107,
+        "quote": "Remove one connecting rod bearing cap. Push the journal. This clearance may be checked with the connecting rod and piston assembly up into the crankshaft in place by squeezing a soft plasuc cylinder liner far enough to permit removal of ...",
+        "verified": true,
+        "char_start": 3408,
+        "char_end": 3875,
+        "bbox": [
+          80.4,
+          545.1299999999999,
+          587.2156000000001,
+          615.011
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Inspect the upper and lower bearing shells as replaced. If one bearing shell requires replacement. outlined under Inspection. both the upper and lower shells should be replaced.",
+      "source_number": 5,
+      "installs": [
+        "hammer_spring_scale_upper",
+        "lower_bearing_shell",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 107,
+        "quote": "Inspect the upper and lower bearing shells as replaced. If one bearing shell requires replacement. outlined under Inspection. both the upper and lower shells should be replaced.",
+        "verified": true,
+        "char_start": 3879,
+        "char_end": 4056,
+        "bbox": [
+          80.16000000000008,
+          610.2879999999999,
+          585.0216000000001,
+          636.8749999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the bearing shells and bearing cap before Inspect the crankshaft journals, as outlined in another cap is removed. Section 1.3, for wear before replacement bearings are installed.",
+      "source_number": 6,
+      "installs": [
+        "lower_bearing_cap"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 107,
+        "quote": "Install the bearing shells and bearing cap before Inspect the crankshaft journals, as outlined in another cap is removed. Section 1.3, for wear before replacement bearings are installed.",
+        "verified": true,
+        "char_start": 4060,
+        "char_end": 4246,
+        "bbox": [
+          80.4,
+          642.3299999999999,
+          587.8419999999999,
+          680.169
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

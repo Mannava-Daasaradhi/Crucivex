@@ -1,0 +1,197 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.84 - Regrind the crankshaft journal and the crankpii...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 84,
+        "quote": "Regrind the crankshaft journal and the crankpii observing the following Note. Note: In the regrinding procedure, never grind down the fill curved surfaces (1) shown in the illustration. If once the original fillet surfaces, whose a wo ha...",
+        "verified": true,
+        "char_start": 435,
+        "char_end": 822,
+        "bbox": [
+          292.56,
+          342.4818,
+          552.0018776666666,
+          461.02580000000006
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "pin",
+      "name": "Pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pin",
+      "provenance": {
+        "page": 84,
+        "quote": "Measure the crankshaft journal and crankpin clez ance. Refer to \u201cCrankshaft Journal Clearance\u201d and \u201cCrar pin and Clearance\u201d on Page 82.",
+        "verified": true,
+        "char_start": 1335,
+        "char_end": 1470,
+        "bbox": [
+          314.4000000000001,
+          665.2660000000001,
+          549.3504000000001,
+          714.9918
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Regrind the crankshaft journal and the crankpii observing the following Note. Note: In the regrinding procedure, never grind down the fill curved surfaces (1) shown in the illustration. If once the original fillet surfaces, whose a wo hardening have been made in the manufacturil process, are removed out, the crankshaft fillets will | weakened resulting a lowered crankshaft durability.",
+      "source_number": 1,
+      "installs": [
+        "crankshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note. Note: In the regrinding procedure, never grind down the fill curved surfaces (1) shown in the illustration.",
+      "provenance": {
+        "page": 84,
+        "quote": "Regrind the crankshaft journal and the crankpii observing the following Note. Note: In the regrinding procedure, never grind down the fill curved surfaces (1) shown in the illustration. If once the original fillet surfaces, whose a wo ha...",
+        "verified": true,
+        "char_start": 435,
+        "char_end": 822,
+        "bbox": [
+          292.56,
+          342.4818,
+          552.0018776666666,
+          461.02580000000006
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Grind the zone \u201cA\u201d (hatched part in the illustratio only keeping the fillet curves \u201cB\u201d in order to secu the work hardened surfaces (1).",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "Grind the zone \u201cA\u201d (hatched part in the illustratio only keeping the fillet curves \u201cB\u201d in order to secu the work hardened surfaces (1).",
+        "verified": true,
+        "char_start": 826,
+        "char_end": 961,
+        "bbox": [
+          312.7199999999999,
+          468.9529,
+          546.9476596666666,
+          502.92233333333337
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the steps @ after regrinding the shaft blending the surfaces \u201cA\u201d and fillet curves \u201cB\u201d smooth as you can. Width of Work Harderied Surfaces \u201cB\u201d mm {i 4.0 - 4.5 (0.15 \u2014 0.17)",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "Remove the steps @ after regrinding the shaft blending the surfaces \u201cA\u201d and fillet curves \u201cB\u201d smooth as you can. Width of Work Harderied Surfaces \u201cB\u201d mm {i 4.0 - 4.5 (0.15 \u2014 0.17)",
+        "verified": true,
+        "char_start": 965,
+        "char_end": 1144,
+        "bbox": [
+          293.28,
+          508.5817,
+          551.8106966666668,
+          576.1080333333333
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Finish the crankshaft journal, crankpin, and oil pc corners to a smooth surface having a chamfer radi: of 1 mm (0.04 in). 4 orll",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "Finish the crankshaft journal, crankpin, and oil pc corners to a smooth surface having a chamfer radi: of 1 mm (0.04 in). 4 orll",
+        "verified": true,
+        "char_start": 1148,
+        "char_end": 1276,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Measure the crankshaft journal and crankpin clez ance. Refer to \u201cCrankshaft Journal Clearance\u201d and \u201cCrar pin and Clearance\u201d on Page 82.",
+      "source_number": 5,
+      "installs": [
+        "pin"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "Measure the crankshaft journal and crankpin clez ance. Refer to \u201cCrankshaft Journal Clearance\u201d and \u201cCrar pin and Clearance\u201d on Page 82.",
+        "verified": true,
+        "char_start": 1335,
+        "char_end": 1470,
+        "bbox": [
+          314.4000000000001,
+          665.2660000000001,
+          549.3504000000001,
+          714.9918
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

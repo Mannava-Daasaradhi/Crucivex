@@ -1,0 +1,374 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.30 - Align the dowel pin holes in the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "dowel_pin_hole",
+      "name": "Dowel pin hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dowel_pin_hole",
+      "provenance": {
+        "page": 30,
+        "quote": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks;...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 30,
+        "quote": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks;...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 30,
+        "quote": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks;...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 30,
+        "quote": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks;...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nick",
+      "name": "Nick",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nick",
+      "provenance": {
+        "page": 30,
+        "quote": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks;...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 30,
+        "quote": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks;...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 30,
+        "quote": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks;...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 30,
+        "quote": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks;...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 30,
+        "quote": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks;...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_washer",
+      "name": "Special washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_washer",
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_accessory",
+      "name": "Of the accessory",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_accessory",
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks; also make sure it is flat. cylinder block. Check the plug nuts in the end plate for cracks and damaged threads. If nicks or scratches on the sealing NOTE: When installing the end plate, the heads surfaces of the end plate are too deep to be cleaned of the plug nuts at the top of the end plate on up. or the plug nuts are damaged, replace the end the In-line engine. or the two plug nuts in the plate or plug nuts. side of the end plate on the V-type engine. should always face the forward end of the cylinder block. When installing a plug nut, support the end plate on a solid flat surface to avoid distorting the plate. Then press the nut in the end plate until the head on the nut 3. On In-line engines. refer to Fig. 1 and install the seats on the end plate. ex",
+      "source_number": 2,
+      "installs": [
+        "dowel_pin_hole",
+        "assembly_rear_end_plate",
+        "copper_plated_dowel_pin",
+        "of_the_block",
+        "nick",
+        "flat",
+        "edge_of_the_plug",
+        "front_balance_weight_nut",
+        "bolt_thread"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: When installing the end plate, the heads surfaces of the end plate are too deep to be cleaned of the plug nuts at the top of the end plate on up.",
+      "provenance": {
+        "page": 30,
+        "quote": "Align the dowel pin holes in the end plate with the dowel pins in the cylinder block. Then start the end Check the surfaces of the end plate for nicks, dents, plate over the dowel pins and push it up against the scratches or score marks;...",
+        "verified": true,
+        "char_start": 1064,
+        "char_end": 2067,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, or one special washer and bolt when the fuel pump is driven by the accessory gear. Tighten the 3/8 \u2019\u2019-16 bolts to 30-35 lb-ft torque and the 1/2 \"\"- 13 bolts to 71-75 Ib-ft torque.",
+      "source_number": 4,
+      "installs": [
+        "nut_securing_fig",
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "special_washer",
+        "fuel_pump",
+        "camshaft",
+        "another_drive_flange_washer",
+        "lubricating_oil_pump",
+        "of_the_accessory",
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 40.7,
+      "warning": null,
+      "provenance": {
+        "page": 31,
+        "quote": "On a V-type engine, refer to Fig. 2 for the location and install the 3/8 \"-16 x | \" bolts with lock washers. Also install the two special washers and two 1/2 \u2019\u2019-13 x 1-1/2 \"' bolts as shown when the fuel pump is driven off the camshaft, ...",
+        "verified": true,
+        "char_start": 338,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

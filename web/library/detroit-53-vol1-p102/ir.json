@@ -1,0 +1,121 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.204 - Rotate the injector 360\u00b0 and note the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 204,
+        "quote": "Rotate the injector 360\u00b0 and note the total runout as indicated on the dial.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 79,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_nut",
+      "name": "Injector nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_nut",
+      "provenance": {
+        "page": 204,
+        "quote": "If the total runout exceeds .008^, remove the injector from the gage. Loosen the injector nut, center the spray tip and tighten the nut to 75-85 Ib-ft (102-115 N-m) torque. Recheck the spray tip concentricity. If, after several attempts,...",
+        "verified": true,
+        "char_start": 83,
+        "char_end": 397,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 204,
+        "quote": "If the total runout exceeds .008^, remove the injector from the gage. Loosen the injector nut, center the spray tip and tighten the nut to 75-85 Ib-ft (102-115 N-m) torque. Recheck the spray tip concentricity. If, after several attempts,...",
+        "verified": true,
+        "char_start": 83,
+        "char_end": 397,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 204,
+        "quote": "If the total runout exceeds .008^, remove the injector from the gage. Loosen the injector nut, center the spray tip and tighten the nut to 75-85 Ib-ft (102-115 N-m) torque. Recheck the spray tip concentricity. If, after several attempts,...",
+        "verified": true,
+        "char_start": 83,
+        "char_end": 397,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Rotate the injector 360\u00b0 and note the total runout as indicated on the dial.",
+      "source_number": 2,
+      "installs": [
+        "end_of_the_injector"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "note the total runout as indicated on the dial.",
+      "provenance": {
+        "page": 204,
+        "quote": "Rotate the injector 360\u00b0 and note the total runout as indicated on the dial.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 79,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "If the total runout exceeds .008^, remove the injector from the gage. Loosen the injector nut, center the spray tip and tighten the nut to 75-85 Ib-ft (102-115 N-m) torque. Recheck the spray tip concentricity. If, after several attempts, the spray tip cannot be positioned satisfactorily, replace the injector nut.",
+      "source_number": 3,
+      "installs": [
+        "injector_nut",
+        "indicate_the_spray_tip",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 101.7,
+      "warning": null,
+      "provenance": {
+        "page": 204,
+        "quote": "If the total runout exceeds .008^, remove the injector from the gage. Loosen the injector nut, center the spray tip and tighten the nut to 75-85 Ib-ft (102-115 N-m) torque. Recheck the spray tip concentricity. If, after several attempts,...",
+        "verified": true,
+        "char_start": 83,
+        "char_end": 397,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

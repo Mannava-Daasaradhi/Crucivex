@@ -1,0 +1,389 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.336 - Replace the spray tip assembly",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "spray_tip_assembly",
+      "name": "Spray tip assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_tip_assembly",
+      "provenance": {
+        "page": 336,
+        "quote": "Replace the spray tip assembly.",
+        "verified": true,
+        "char_start": 625,
+        "char_end": 656,
+        "bbox": [
+          88.80000000000001,
+          510.55199999999996,
+          223.00259999999997,
+          520.5519999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 336,
+        "quote": "Replace the valve spring. NOTE: The fuel output of an injector varies",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 729,
+        "bbox": [
+          93.36,
+          519.0889999999999,
+          459.0429,
+          546.0609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 336,
+        "quote": "Replace the cracked parts. with the use of different spray tips of the same size due to manufacturing tolerances in drilling",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 857,
+        "bbox": [
+          92.16000000000005,
+          541.414,
+          464.10720000000003,
+          568.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head_due",
+      "name": "Cylinder head due",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_due",
+      "provenance": {
+        "page": 336,
+        "quote": "Replace the cracked parts. with the use of different spray tips of the same size due to manufacturing tolerances in drilling",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 857,
+        "bbox": [
+          92.16000000000005,
+          541.414,
+          464.10720000000003,
+          568.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 336,
+        "quote": "Replace the plunger and bushing assembly. the tips. If the fuel output does not fall within the specified limits of the Fuel Output Check",
+        "verified": true,
+        "char_start": 861,
+        "char_end": 998,
+        "bbox": [
+          92.87999999999994,
+          563.8699999999999,
+          538.8131999999999,
+          589.608
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 336,
+        "quote": "Replace the plunger and bushing assembly. the tips. If the fuel output does not fall within the specified limits of the Fuel Output Check",
+        "verified": true,
+        "char_start": 861,
+        "char_end": 998,
+        "bbox": [
+          92.87999999999994,
+          563.8699999999999,
+          538.8131999999999,
+          589.608
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 336,
+        "quote": "Re-lap the sealing surfaces. Chart, try changing the spray tip. However, use only a tip specified for the injector being tested.",
+        "verified": true,
+        "char_start": 1003,
+        "char_end": 1131,
+        "bbox": [
+          92.39999999999992,
+          585.9169999999999,
+          473.39939999999996,
+          611.337
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 336,
+        "quote": "Disassemble the injector and clean the parts.",
+        "verified": true,
+        "char_start": 1136,
+        "char_end": 1181,
+        "bbox": [
+          357.59999999999997,
+          608.16,
+          550.8246,
+          618.16
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Replace the spray tip assembly.",
+      "source_number": 2,
+      "installs": [
+        "spray_tip_assembly"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 336,
+        "quote": "Replace the spray tip assembly.",
+        "verified": true,
+        "char_start": 625,
+        "char_end": 656,
+        "bbox": [
+          88.80000000000001,
+          510.55199999999996,
+          223.00259999999997,
+          520.5519999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Replace the valve spring. NOTE: The fuel output of an injector varies",
+      "source_number": 7,
+      "installs": [
+        "exhaust_valve_spring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The fuel output of an injector varies",
+      "provenance": {
+        "page": 336,
+        "quote": "Replace the valve spring. NOTE: The fuel output of an injector varies",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 729,
+        "bbox": [
+          93.36,
+          519.0889999999999,
+          459.0429,
+          546.0609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Replace the cracked parts. with the use of different spray tips of the same size due to manufacturing tolerances in drilling",
+      "source_number": 8,
+      "installs": [
+        "indicate_the_spray_tip",
+        "cylinder_head_due"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 336,
+        "quote": "Replace the cracked parts. with the use of different spray tips of the same size due to manufacturing tolerances in drilling",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 857,
+        "bbox": [
+          92.16000000000005,
+          541.414,
+          464.10720000000003,
+          568.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Replace the plunger and bushing assembly. the tips. If the fuel output does not fall within the specified limits of the Fuel Output Check",
+      "source_number": 9,
+      "installs": [
+        "area_of_the_plunger",
+        "connecting_rod_bushing"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 336,
+        "quote": "Replace the plunger and bushing assembly. the tips. If the fuel output does not fall within the specified limits of the Fuel Output Check",
+        "verified": true,
+        "char_start": 861,
+        "char_end": 998,
+        "bbox": [
+          92.87999999999994,
+          563.8699999999999,
+          538.8131999999999,
+          589.608
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Re-lap the sealing surfaces. Chart, try changing the spray tip. However, use only a tip specified for the injector being tested.",
+      "source_number": 10,
+      "installs": [
+        "end_of_the_injector"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 336,
+        "quote": "Re-lap the sealing surfaces. Chart, try changing the spray tip. However, use only a tip specified for the injector being tested.",
+        "verified": true,
+        "char_start": 1003,
+        "char_end": 1131,
+        "bbox": [
+          92.39999999999992,
+          585.9169999999999,
+          473.39939999999996,
+          611.337
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Disassemble the injector and clean the parts.",
+      "source_number": 11,
+      "installs": [
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 336,
+        "quote": "Disassemble the injector and clean the parts.",
+        "verified": true,
+        "char_start": 1136,
+        "char_end": 1181,
+        "bbox": [
+          357.59999999999997,
+          608.16,
+          550.8246,
+          618.16
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

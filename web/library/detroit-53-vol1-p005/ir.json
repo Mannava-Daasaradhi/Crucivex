@@ -1,0 +1,635 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.26 - Make sure the seal ring grooves in...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 26,
+        "quote": "Make sure the seal ring grooves in the cylinder bores of the block are clean. Then install new seal rings in the grooves (above the air inlet ports). NOTE: The current blocks have two seal ring grooves above the air inlet ports of each c...",
+        "verified": true,
+        "char_start": 1709,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 26,
+        "quote": "Make sure the seal ring grooves in the cylinder bores of the block are clean. Then install new seal rings in the grooves (above the air inlet ports). NOTE: The current blocks have two seal ring grooves above the air inlet ports of each c...",
+        "verified": true,
+        "char_start": 1709,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 26,
+        "quote": "Make sure the seal ring grooves in the cylinder bores of the block are clean. Then install new seal rings in the grooves (above the air inlet ports). NOTE: The current blocks have two seal ring grooves above the air inlet ports of each c...",
+        "verified": true,
+        "char_start": 1709,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 26,
+        "quote": "Make sure the seal ring grooves in the cylinder bores of the block are clean. Then install new seal rings in the grooves (above the air inlet ports). NOTE: The current blocks have two seal ring grooves above the air inlet ports of each c...",
+        "verified": true,
+        "char_start": 1709,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 26,
+        "quote": "Make sure the seal ring grooves in the cylinder bores of the block are clean. Then install new seal rings in the grooves (above the air inlet ports). NOTE: The current blocks have two seal ring grooves above the air inlet ports of each c...",
+        "verified": true,
+        "char_start": 1709,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 26,
+        "quote": "Make sure the seal ring grooves in the cylinder bores of the block are clean. Then install new seal rings in the grooves (above the air inlet ports). NOTE: The current blocks have two seal ring grooves above the air inlet ports of each c...",
+        "verified": true,
+        "char_start": 1709,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 26,
+        "quote": "Make sure the seal ring grooves in the cylinder bores of the block are clean. Then install new seal rings in the grooves (above the air inlet ports). NOTE: The current blocks have two seal ring grooves above the air inlet ports of each c...",
+        "verified": true,
+        "char_start": 1709,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "port",
+      "name": "Port",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "port",
+      "provenance": {
+        "page": 26,
+        "quote": "Make sure the seal ring grooves in the cylinder bores of the block are clean. Then install new seal rings in the grooves (above the air inlet ports). NOTE: The current blocks have two seal ring grooves above the air inlet ports of each c...",
+        "verified": true,
+        "char_start": 1709,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "coating",
+      "name": "Coating",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "coating",
+      "provenance": {
+        "page": 26,
+        "quote": "Apply a light coating of hydrogenated vegetable",
+        "verified": true,
+        "char_start": 2159,
+        "char_end": 2206,
+        "bbox": [
+          342.96,
+          709.0419999999999,
+          570.4449,
+          719.0419999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 27,
+        "quote": "Slide the cylinder liners into the block, being careful not to roll or damage the seal rings. Install new compression gaskets and water hole seal rings in the counterbores in the top surface of the block.",
+        "verified": true,
+        "char_start": 210,
+        "char_end": 414,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "compression_gasket",
+      "name": "Compression gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "compression_gasket",
+      "provenance": {
+        "page": 27,
+        "quote": "Slide the cylinder liners into the block, being careful not to roll or damage the seal rings. Install new compression gaskets and water hole seal rings in the counterbores in the top surface of the block.",
+        "verified": true,
+        "char_start": 210,
+        "char_end": 414,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 27,
+        "quote": "Slide the cylinder liners into the block, being careful not to roll or damage the seal rings. Install new compression gaskets and water hole seal rings in the counterbores in the top surface of the block.",
+        "verified": true,
+        "char_start": 210,
+        "char_end": 414,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 27,
+        "quote": "Slide the cylinder liners into the block, being careful not to roll or damage the seal rings. Install new compression gaskets and water hole seal rings in the counterbores in the top surface of the block.",
+        "verified": true,
+        "char_start": 210,
+        "char_end": 414,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 27,
+        "quote": "Secure the plate(s) on the top of the block with 5/8 \u201d-11 bolts and flat washers.",
+        "verified": true,
+        "char_start": 418,
+        "char_end": 499,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 27,
+        "quote": "Secure the plate(s) on the top of the block with 5/8 \u201d-11 bolts and flat washers.",
+        "verified": true,
+        "char_start": 418,
+        "char_end": 499,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 27,
+        "quote": "Secure the plate(s) on the top of the block with 5/8 \u201d-11 bolts and flat washers.",
+        "verified": true,
+        "char_start": 418,
+        "char_end": 499,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "water_hole_cover",
+      "name": "Water hole cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_hole_cover",
+      "provenance": {
+        "page": 27,
+        "quote": "Install the water hole cover plates and gaskets on the sides of the block.",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 577,
+        "bbox": [
+          85.44000000000005,
+          624.568,
+          325.92600000000004,
+          645.731
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 27,
+        "quote": "Install the water hole cover plates and gaskets on the sides of the block.",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 577,
+        "bbox": [
+          85.44000000000005,
+          624.568,
+          325.92600000000004,
+          645.731
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_line",
+      "name": "Air line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_line",
+      "provenance": {
+        "page": 27,
+        "quote": "Attach an air line to the water hole cover plate and apply 60 psi air pressure to the water jackets and observe the water in the tank for bubbles which will o o o \u043e \u043e \u043e \u043e \u043e \u00a9 Ps o 117 \u043e o [a] [ei \u0421 [9 p\u00a9m mC",
+        "verified": true,
+        "char_start": 676,
+        "char_end": 883,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 27,
+        "quote": "Attach an air line to the water hole cover plate and apply 60 psi air pressure to the water jackets and observe the water in the tank for bubbles which will o o o \u043e \u043e \u043e \u043e \u043e \u00a9 Ps o 117 \u043e o [a] [ei \u0421 [9 p\u00a9m mC",
+        "verified": true,
+        "char_start": 676,
+        "char_end": 883,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "portion_of_the_liner",
+      "name": "Portion of the liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "portion_of_the_liner",
+      "provenance": {
+        "page": 27,
+        "quote": "Remove the block from the water tank. Then remove the plates, seals, gaskets and liners and blow out all of the passages in the block with compressed alr,",
+        "verified": true,
+        "char_start": 1076,
+        "char_end": 1230,
+        "bbox": [
+          353.0400000000001,
+          290.00999999999993,
+          590.8376000000001,
+          333.13
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Make sure the seal ring grooves in the cylinder bores of the block are clean. Then install new seal rings in the grooves (above the air inlet ports). NOTE: The current blocks have two seal ring grooves above the air inlet ports of each cylinder bore. Only one seal ring is required, however. Install the seal ring in the upper groove, if it is in good condition; if the upper groove is pitted or eroded, install the seal ring in the lower groove.",
+      "source_number": 1,
+      "installs": [
+        "seal_ring",
+        "of_the_groove",
+        "of_the_block",
+        "valve_rocker_cover_clean",
+        "crankshaft_front_oil_seal",
+        "piston_ring",
+        "fuel_oil_inlet",
+        "port"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The current blocks have two seal ring grooves above the air inlet ports of each cylinder bore.",
+      "provenance": {
+        "page": 26,
+        "quote": "Make sure the seal ring grooves in the cylinder bores of the block are clean. Then install new seal rings in the grooves (above the air inlet ports). NOTE: The current blocks have two seal ring grooves above the air inlet ports of each c...",
+        "verified": true,
+        "char_start": 1709,
+        "char_end": 2155,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Apply a light coating of hydrogenated vegetable",
+      "source_number": 2,
+      "installs": [
+        "coating"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 26,
+        "quote": "Apply a light coating of hydrogenated vegetable",
+        "verified": true,
+        "char_start": 2159,
+        "char_end": 2206,
+        "bbox": [
+          342.96,
+          709.0419999999999,
+          570.4449,
+          719.0419999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Slide the cylinder liners into the block, being careful not to roll or damage the seal rings. Install new compression gaskets and water hole seal rings in the counterbores in the top surface of the block.",
+      "source_number": 3,
+      "installs": [
+        "cylinder_liner",
+        "compression_gasket",
+        "of_the_oil_hole",
+        "insert_counterbore"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "Slide the cylinder liners into the block, being careful not to roll or damage the seal rings. Install new compression gaskets and water hole seal rings in the counterbores in the top surface of the block.",
+        "verified": true,
+        "char_start": 210,
+        "char_end": 414,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Secure the plate(s) on the top of the block with 5/8 \u201d-11 bolts and flat washers.",
+      "source_number": 4,
+      "installs": [
+        "assembly_rear_end_plate",
+        "engine_front_cover_bolt",
+        "flat_washer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "Secure the plate(s) on the top of the block with 5/8 \u201d-11 bolts and flat washers.",
+        "verified": true,
+        "char_start": 418,
+        "char_end": 499,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the water hole cover plates and gaskets on the sides of the block.",
+      "source_number": 5,
+      "installs": [
+        "water_hole_cover",
+        "head_gasket"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "Install the water hole cover plates and gaskets on the sides of the block.",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 577,
+        "bbox": [
+          85.44000000000005,
+          624.568,
+          325.92600000000004,
+          645.731
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Immerse the cylinder block for twenty minutes in a tank of water heated to 180 \u00b0 - 200 \u00b0 F.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "Immerse the cylinder block for twenty minutes in a tank of water heated to 180 \u00b0 - 200 \u00b0 F.",
+        "verified": true,
+        "char_start": 581,
+        "char_end": 672,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Attach an air line to the water hole cover plate and apply 60 psi air pressure to the water jackets and observe the water in the tank for bubbles which will o o o \u043e \u043e \u043e \u043e \u043e \u00a9 Ps o 117 \u043e o [a] [ei \u0421 [9 p\u00a9m mC",
+      "source_number": 7,
+      "installs": [
+        "air_line",
+        "clamping_pressure"
+      ],
+      "depends_on": [
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "Attach an air line to the water hole cover plate and apply 60 psi air pressure to the water jackets and observe the water in the tank for bubbles which will o o o \u043e \u043e \u043e \u043e \u043e \u00a9 Ps o 117 \u043e o [a] [ei \u0421 [9 p\u00a9m mC",
+        "verified": true,
+        "char_start": 676,
+        "char_end": 883,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the block from the water tank. Then remove the plates, seals, gaskets and liners and blow out all of the passages in the block with compressed alr,",
+      "source_number": 8,
+      "installs": [
+        "portion_of_the_liner"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "Remove the block from the water tank. Then remove the plates, seals, gaskets and liners and blow out all of the passages in the block with compressed alr,",
+        "verified": true,
+        "char_start": 1076,
+        "char_end": 1230,
+        "bbox": [
+          353.0400000000001,
+          290.00999999999993,
+          590.8376000000001,
+          333.13
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Dry the cylinder liners with compressed air and coat them with oil to prevent rust.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 27,
+        "quote": "Dry the cylinder liners with compressed air and coat them with oil to prevent rust.",
+        "verified": true,
+        "char_start": 1234,
+        "char_end": 1317,
+        "bbox": [
+          353.28000000000003,
+          345.24899999999997,
+          590.8650000000001,
+          365.28999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

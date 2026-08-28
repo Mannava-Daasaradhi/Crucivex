@@ -1,0 +1,644 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.239 - Remove the retaining ring and withdraw the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "follower_retaining_ring",
+      "name": "Follower retaining ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_retaining_ring",
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the retaining ring and withdraw the two washers from the stop lever shaft assembly.",
+        "verified": true,
+        "char_start": 1156,
+        "char_end": 1246,
+        "bbox": [
+          347.5200000000001,
+          154.89199999999994,
+          586.0068000000001,
+          175.82999999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the retaining ring and withdraw the two washers from the stop lever shaft assembly.",
+        "verified": true,
+        "char_start": 1156,
+        "char_end": 1246,
+        "bbox": [
+          347.5200000000001,
+          154.89199999999994,
+          586.0068000000001,
+          175.82999999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "stop_lever_shaft",
+      "name": "Stop lever shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "stop_lever_shaft",
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the retaining ring and withdraw the two washers from the stop lever shaft assembly.",
+        "verified": true,
+        "char_start": 1156,
+        "char_end": 1246,
+        "bbox": [
+          347.5200000000001,
+          154.89199999999994,
+          586.0068000000001,
+          175.82999999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the seal ring.",
+        "verified": true,
+        "char_start": 1377,
+        "char_end": 1398,
+        "bbox": [
+          358.55999999999995,
+          236.11599999999999,
+          451.83699999999993,
+          246.11599999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 239,
+        "quote": "Loosen the clamping bolt and remove the speed control lever.",
+        "verified": true,
+        "char_start": 1402,
+        "char_end": 1462,
+        "bbox": [
+          347.28,
+          261.7289999999999,
+          585.36945,
+          281.2899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_control_lever",
+      "name": "Speed control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_lever",
+      "provenance": {
+        "page": 239,
+        "quote": "Loosen the clamping bolt and remove the speed control lever.",
+        "verified": true,
+        "char_start": 1402,
+        "char_end": 1462,
+        "bbox": [
+          347.28,
+          261.7289999999999,
+          585.36945,
+          281.2899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the spacer from the throttle shaft.",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 1508,
+        "bbox": [
+          358.32,
+          297.7249999999999,
+          541.8671999999999,
+          305.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_throttle_shaft",
+      "name": "Governor throttle shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_throttle_shaft",
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the spacer from the throttle shaft.",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 1508,
+        "bbox": [
+          358.32,
+          297.7249999999999,
+          541.8671999999999,
+          305.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "throttle_shaft_assembly",
+      "name": "Throttle shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_shaft_assembly",
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the retaining ring and withdraw the two washers from the throttle shaft assembly.",
+        "verified": true,
+        "char_start": 1512,
+        "char_end": 1600,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "grease_fitting",
+      "name": "Grease fitting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "grease_fitting",
+      "provenance": {
+        "page": 239,
+        "quote": "Withdraw the throttle shaft assembly. Remove the grease fitting from the shaft.",
+        "verified": true,
+        "char_start": 1604,
+        "char_end": 1683,
+        "bbox": [
+          346.79999999999995,
+          356.64899999999994,
+          585.52269,
+          376.2159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 239,
+        "quote": "Withdraw the throttle shaft assembly. Remove the grease fitting from the shaft.",
+        "verified": true,
+        "char_start": 1604,
+        "char_end": 1683,
+        "bbox": [
+          346.79999999999995,
+          356.64899999999994,
+          585.52269,
+          376.2159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 239,
+        "quote": "Wash the governor cover with clean fuel oil and inspect the needle bearings for wear or damage. If the bearings are satisfactory, removal is unnecessary. Il. If the bearings are to be removed. place the governor cover on an arbor press a...",
+        "verified": true,
+        "char_start": 1713,
+        "char_end": 2006,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 239,
+        "quote": "Wash the governor cover with clean fuel oil and inspect the needle bearings for wear or damage. If the bearings are satisfactory, removal is unnecessary. Il. If the bearings are to be removed. place the governor cover on an arbor press a...",
+        "verified": true,
+        "char_start": 1713,
+        "char_end": 2006,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing",
+      "name": "Needle bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing",
+      "provenance": {
+        "page": 239,
+        "quote": "Wash the governor cover with clean fuel oil and inspect the needle bearings for wear or damage. If the bearings are satisfactory, removal is unnecessary. Il. If the bearings are to be removed. place the governor cover on an arbor press a...",
+        "verified": true,
+        "char_start": 1713,
+        "char_end": 2006,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 239,
+        "quote": "Wash the governor cover with clean fuel oil and inspect the needle bearings for wear or damage. If the bearings are satisfactory, removal is unnecessary. Il. If the bearings are to be removed. place the governor cover on an arbor press a...",
+        "verified": true,
+        "char_start": 1713,
+        "char_end": 2006,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 239,
+        "quote": "Wash the governor cover with clean fuel oil and inspect the needle bearings for wear or damage. If the bearings are satisfactory, removal is unnecessary. Il. If the bearings are to be removed. place the governor cover on an arbor press a...",
+        "verified": true,
+        "char_start": 1713,
+        "char_end": 2006,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 239,
+        "quote": "Wash the governor cover with clean fuel oil and inspect the needle bearings for wear or damage. If the bearings are satisfactory, removal is unnecessary. Il. If the bearings are to be removed. place the governor cover on an arbor press a...",
+        "verified": true,
+        "char_start": 1713,
+        "char_end": 2006,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 239,
+        "quote": "Wash the governor cover with clean fuel oil and inspect the needle bearings for wear or damage. If the bearings are satisfactory, removal is unnecessary. Il. If the bearings are to be removed. place the governor cover on an arbor press a...",
+        "verified": true,
+        "char_start": 1713,
+        "char_end": 2006,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the retaining ring and withdraw the two washers from the stop lever shaft assembly.",
+      "source_number": 2,
+      "installs": [
+        "follower_retaining_ring",
+        "another_drive_flange_washer",
+        "stop_lever_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the retaining ring and withdraw the two washers from the stop lever shaft assembly.",
+        "verified": true,
+        "char_start": 1156,
+        "char_end": 1246,
+        "bbox": [
+          347.5200000000001,
+          154.89199999999994,
+          586.0068000000001,
+          175.82999999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Note the position of the stop lever shaft assembly and the lever return spring. Then withdraw the shaft. washer and spring.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note the position of the stop lever shaft assembly and the lever return spring.",
+      "provenance": {
+        "page": 239,
+        "quote": "Note the position of the stop lever shaft assembly and the lever return spring. Then withdraw the shaft. washer and spring.",
+        "verified": true,
+        "char_start": 1250,
+        "char_end": 1373,
+        "bbox": [
+          347.28,
+          192.04899999999998,
+          585.7823999999999,
+          221.52800000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the seal ring.",
+      "source_number": 4,
+      "installs": [
+        "seal_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the seal ring.",
+        "verified": true,
+        "char_start": 1377,
+        "char_end": 1398,
+        "bbox": [
+          358.55999999999995,
+          236.11599999999999,
+          451.83699999999993,
+          246.11599999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Loosen the clamping bolt and remove the speed control lever.",
+      "source_number": 5,
+      "installs": [
+        "engine_front_cover_bolt",
+        "speed_control_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 239,
+        "quote": "Loosen the clamping bolt and remove the speed control lever.",
+        "verified": true,
+        "char_start": 1402,
+        "char_end": 1462,
+        "bbox": [
+          347.28,
+          261.7289999999999,
+          585.36945,
+          281.2899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the spacer from the throttle shaft.",
+      "source_number": 6,
+      "installs": [
+        "drive_gear_spacer",
+        "governor_throttle_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the spacer from the throttle shaft.",
+        "verified": true,
+        "char_start": 1466,
+        "char_end": 1508,
+        "bbox": [
+          358.32,
+          297.7249999999999,
+          541.8671999999999,
+          305.7249999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the retaining ring and withdraw the two washers from the throttle shaft assembly.",
+      "source_number": 7,
+      "installs": [
+        "throttle_shaft_assembly"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the retaining ring and withdraw the two washers from the throttle shaft assembly.",
+        "verified": true,
+        "char_start": 1512,
+        "char_end": 1600,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Withdraw the throttle shaft assembly. Remove the grease fitting from the shaft.",
+      "source_number": 8,
+      "installs": [
+        "grease_fitting",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 239,
+        "quote": "Withdraw the throttle shaft assembly. Remove the grease fitting from the shaft.",
+        "verified": true,
+        "char_start": 1604,
+        "char_end": 1683,
+        "bbox": [
+          346.79999999999995,
+          356.64899999999994,
+          585.52269,
+          376.2159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the seal ring.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 239,
+        "quote": "Remove the seal ring.",
+        "verified": true,
+        "char_start": 1377,
+        "char_end": 1398,
+        "bbox": [
+          358.55999999999995,
+          236.11599999999999,
+          451.83699999999993,
+          246.11599999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Wash the governor cover with clean fuel oil and inspect the needle bearings for wear or damage. If the bearings are satisfactory, removal is unnecessary. Il. If the bearings are to be removed. place the governor cover on an arbor press and press them out with bearing remover J 21967 (Fig. 4).",
+      "source_number": 10,
+      "installs": [
+        "governor_cover",
+        "valve_rocker_cover_clean",
+        "needle_bearing",
+        "bearing_the_end_bearing",
+        "blower_the_engine_governor",
+        "underside_of_the_cover",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 239,
+        "quote": "Wash the governor cover with clean fuel oil and inspect the needle bearings for wear or damage. If the bearings are satisfactory, removal is unnecessary. Il. If the bearings are to be removed. place the governor cover on an arbor press a...",
+        "verified": true,
+        "char_start": 1713,
+        "char_end": 2006,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

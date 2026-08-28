@@ -1,0 +1,297 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.82 - Remove the crankshaft pulley retaining bolt and...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "crankshaft_pulley_retaining",
+      "name": "Crankshaft pulley retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_pulley_retaining",
+      "provenance": {
+        "page": 82,
+        "quote": "Remove the crankshaft pulley retaining bolt and removing \u00e0 viscous type damper from the washer. crankshaft. Dents in the damper outer case may render the damper ineffective. The damper",
+        "verified": true,
+        "char_start": 841,
+        "char_end": 1025,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 82,
+        "quote": "Remove the crankshaft pulley retaining bolt and removing \u00e0 viscous type damper from the washer. crankshaft. Dents in the damper outer case may render the damper ineffective. The damper",
+        "verified": true,
+        "char_start": 841,
+        "char_end": 1025,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "vibration_damper",
+      "name": "Vibration damper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "vibration_damper",
+      "provenance": {
+        "page": 82,
+        "quote": "Remove the crankshaft pulley retaining bolt and removing \u00e0 viscous type damper from the washer. crankshaft. Dents in the damper outer case may render the damper ineffective. The damper",
+        "verified": true,
+        "char_start": 841,
+        "char_end": 1025,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 82,
+        "quote": "Remove the crankshaft pulley retaining bolt and removing \u00e0 viscous type damper from the washer. crankshaft. Dents in the damper outer case may render the damper ineffective. The damper",
+        "verified": true,
+        "char_start": 841,
+        "char_end": 1025,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 82,
+        "quote": "Remove the crankshaft pulley retaining bolt and removing \u00e0 viscous type damper from the washer. crankshaft. Dents in the damper outer case may render the damper ineffective. The damper",
+        "verified": true,
+        "char_start": 841,
+        "char_end": 1025,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 82,
+        "quote": "Remove the crankshaft pulley retaining bolt and removing \u00e0 viscous type damper from the washer. crankshaft. Dents in the damper outer case may render the damper ineffective. The damper",
+        "verified": true,
+        "char_start": 841,
+        "char_end": 1025,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 82,
+        "quote": "Remove the crankshaft pulley. If required, use a cannot be repaired. suitable puller to remove the pulley.",
+        "verified": true,
+        "char_start": 1029,
+        "char_end": 1135,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 82,
+        "quote": "Remove the crankshaft pulley. If required, use a cannot be repaired. suitable puller to remove the pulley.",
+        "verified": true,
+        "char_start": 1029,
+        "char_end": 1135,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pulley_retaining_bolt",
+      "name": "Pulley retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pulley_retaining_bolt",
+      "provenance": {
+        "page": 82,
+        "quote": "Reinstall the pulley retaining bolt in the end of the",
+        "verified": true,
+        "char_start": 1139,
+        "char_end": 1192,
+        "bbox": [
+          96.24,
+          384.41099999999994,
+          325.4402400000001,
+          392.41099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 82,
+        "quote": "Slide the vibration damper and damper hub as an crankshaft. assembly off of the end of the crankshaft by hand.",
+        "verified": true,
+        "char_start": 1196,
+        "char_end": 1306,
+        "bbox": [
+          84.00000000000006,
+          391.4049999999999,
+          584.9129999999998,
+          411.91599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the crankshaft pulley retaining bolt and removing \u00e0 viscous type damper from the washer. crankshaft. Dents in the damper outer case may render the damper ineffective. The damper",
+      "source_number": 1,
+      "installs": [
+        "crankshaft_pulley_retaining",
+        "engine_front_cover_bolt",
+        "vibration_damper",
+        "another_drive_flange_washer",
+        "halve_of_the_crankshaft",
+        "idler_gear_outer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 82,
+        "quote": "Remove the crankshaft pulley retaining bolt and removing \u00e0 viscous type damper from the washer. crankshaft. Dents in the damper outer case may render the damper ineffective. The damper",
+        "verified": true,
+        "char_start": 841,
+        "char_end": 1025,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the crankshaft pulley. If required, use a cannot be repaired. suitable puller to remove the pulley.",
+      "source_number": 2,
+      "installs": [
+        "crankshaft_splined_crankshaft_pulley",
+        "of_the_required"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 82,
+        "quote": "Remove the crankshaft pulley. If required, use a cannot be repaired. suitable puller to remove the pulley.",
+        "verified": true,
+        "char_start": 1029,
+        "char_end": 1135,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Reinstall the pulley retaining bolt in the end of the",
+      "source_number": 3,
+      "installs": [
+        "pulley_retaining_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 82,
+        "quote": "Reinstall the pulley retaining bolt in the end of the",
+        "verified": true,
+        "char_start": 1139,
+        "char_end": 1192,
+        "bbox": [
+          96.24,
+          384.41099999999994,
+          325.4402400000001,
+          392.41099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Slide the vibration damper and damper hub as an crankshaft. assembly off of the end of the crankshaft by hand.",
+      "source_number": 6,
+      "installs": [
+        "blower_drive_hub"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 82,
+        "quote": "Slide the vibration damper and damper hub as an crankshaft. assembly off of the end of the crankshaft by hand.",
+        "verified": true,
+        "char_start": 1196,
+        "char_end": 1306,
+        "bbox": [
+          84.00000000000006,
+          391.4049999999999,
+          584.9129999999998,
+          411.91599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

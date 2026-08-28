@@ -1,0 +1,818 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.22 - Cylinder Block Cooler 20. Cap--Main Bearing 24...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 22,
+        "quote": "Cylinder Block Cooler 20. Cap--Main Bearing 24. Oil Passage to Main",
+        "verified": true,
+        "char_start": 6,
+        "char_end": 73,
+        "bbox": [
+          74.88,
+          302.4959999999999,
+          536.3317599999999,
+          309.60499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_cooler_the_cooler",
+      "name": "Fuel cooler the cooler",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_cooler_the_cooler",
+      "provenance": {
+        "page": 22,
+        "quote": "Cylinder Block Cooler 20. Cap--Main Bearing 24. Oil Passage to Main",
+        "verified": true,
+        "char_start": 6,
+        "char_end": 73,
+        "bbox": [
+          74.88,
+          302.4959999999999,
+          536.3317599999999,
+          309.60499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 22,
+        "quote": "Cylinder Block Cooler 20. Cap--Main Bearing 24. Oil Passage to Main",
+        "verified": true,
+        "char_start": 6,
+        "char_end": 73,
+        "bbox": [
+          74.88,
+          302.4959999999999,
+          536.3317599999999,
+          309.60499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "main",
+      "name": "Main",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main",
+      "provenance": {
+        "page": 22,
+        "quote": "Cylinder Block Cooler 20. Cap--Main Bearing 24. Oil Passage to Main",
+        "verified": true,
+        "char_start": 6,
+        "char_end": 73,
+        "bbox": [
+          74.88,
+          302.4959999999999,
+          536.3317599999999,
+          309.60499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 22,
+        "quote": "Cylinder Block Cooler 20. Cap--Main Bearing 24. Oil Passage to Main",
+        "verified": true,
+        "char_start": 6,
+        "char_end": 73,
+        "bbox": [
+          74.88,
+          302.4959999999999,
+          536.3317599999999,
+          309.60499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 22,
+        "quote": "Bore for Cylinder Liner 12. Oit Passage from Oil (Rear) Gallery via Front Cover",
+        "verified": true,
+        "char_start": 77,
+        "char_end": 156,
+        "bbox": [
+          74.88000000000001,
+          311.7969999999999,
+          546.6340000000001,
+          319.7969999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover",
+      "name": "Engine front cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover",
+      "provenance": {
+        "page": 22,
+        "quote": "Bore for Cylinder Liner 12. Oit Passage from Oil (Rear) Gallery via Front Cover",
+        "verified": true,
+        "char_start": 77,
+        "char_end": 156,
+        "bbox": [
+          74.88000000000001,
+          311.7969999999999,
+          546.6340000000001,
+          319.7969999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 22,
+        "quote": "Air Box 14. Cap- Main Bearing Cylinder Head Pump to Filter",
+        "verified": true,
+        "char_start": 230,
+        "char_end": 288,
+        "bbox": [
+          74.40000000000003,
+          332.6069999999999,
+          515.48796,
+          339.60699999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 22,
+        "quote": "Air Box 14. Cap- Main Bearing Cylinder Head Pump to Filter",
+        "verified": true,
+        "char_start": 230,
+        "char_end": 288,
+        "bbox": [
+          74.40000000000003,
+          332.6069999999999,
+          515.48796,
+          339.60699999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "filter",
+      "name": "Filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter",
+      "provenance": {
+        "page": 22,
+        "quote": "Air Box 14. Cap- Main Bearing Cylinder Head Pump to Filter",
+        "verified": true,
+        "char_start": 230,
+        "char_end": 288,
+        "bbox": [
+          74.40000000000003,
+          332.6069999999999,
+          515.48796,
+          339.60699999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 22,
+        "quote": "Water Passage from Oil (Front) 22. Oil Passage to Filter 26. Oil Pressure Take-Off Cooler to Block 15. Oil Passage to Cylinder from Pump Opening",
+        "verified": true,
+        "char_start": 292,
+        "char_end": 436,
+        "bbox": [
+          74.64000000000006,
+          342.5299999999999,
+          539.35472,
+          359.63599999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "compression_gasket",
+      "name": "Compression gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "compression_gasket",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "e_cylinder_insert_head",
+      "name": "E cylinder insert head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "e_cylinder_insert_head",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear_hub",
+      "name": "Idler gear hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_hub",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "battery_charging_generator_mounting",
+      "name": "Battery-charging generator mounting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "battery_charging_generator_mounting",
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Cylinder Block Cooler 20. Cap--Main Bearing 24. Oil Passage to Main",
+      "source_number": 1,
+      "installs": [
+        "of_the_block",
+        "fuel_cooler_the_cooler",
+        "clean_shipping_cap",
+        "main",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 22,
+        "quote": "Cylinder Block Cooler 20. Cap--Main Bearing 24. Oil Passage to Main",
+        "verified": true,
+        "char_start": 6,
+        "char_end": 73,
+        "bbox": [
+          74.88,
+          302.4959999999999,
+          536.3317599999999,
+          309.60499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Bore for Cylinder Liner 12. Oit Passage from Oil (Rear) Gallery via Front Cover",
+      "source_number": 2,
+      "installs": [
+        "cylinder_liner",
+        "engine_front_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 22,
+        "quote": "Bore for Cylinder Liner 12. Oit Passage from Oil (Rear) Gallery via Front Cover",
+        "verified": true,
+        "char_start": 77,
+        "char_end": 156,
+        "bbox": [
+          74.88000000000001,
+          311.7969999999999,
+          546.6340000000001,
+          319.7969999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Camshaft Bore Cooler 21. Water Passage to 25. Oil Passage from Oil",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 22,
+        "quote": "Camshaft Bore Cooler 21. Water Passage to 25. Oil Passage from Oil",
+        "verified": true,
+        "char_start": 160,
+        "char_end": 226,
+        "bbox": [
+          74.64000000000004,
+          322.65599999999995,
+          539.38806,
+          329.6859999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Air Box 14. Cap- Main Bearing Cylinder Head Pump to Filter",
+      "source_number": 6,
+      "installs": [
+        "cylinder_head",
+        "lubricating_oil_pump",
+        "filter"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 22,
+        "quote": "Air Box 14. Cap- Main Bearing Cylinder Head Pump to Filter",
+        "verified": true,
+        "char_start": 230,
+        "char_end": 288,
+        "bbox": [
+          74.40000000000003,
+          332.6069999999999,
+          515.48796,
+          339.60699999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Water Passage from Oil (Front) 22. Oil Passage to Filter 26. Oil Pressure Take-Off Cooler to Block 15. Oil Passage to Cylinder from Pump Opening",
+      "source_number": 7,
+      "installs": [
+        "clamping_pressure"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 22,
+        "quote": "Water Passage from Oil (Front) 22. Oil Passage to Filter 26. Oil Pressure Take-Off Cooler to Block 15. Oil Passage to Cylinder from Pump Opening",
+        "verified": true,
+        "char_start": 292,
+        "char_end": 436,
+        "bbox": [
+          74.64000000000006,
+          342.5299999999999,
+          539.35472,
+          359.63599999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange block bore. An individual compression gasket is used at its upper end, which seats in the counterbore in the at each cylinder. When the cylinder head is installed, the gaskets and seal rings compress sufficiently to form a tight metal- to-metal contact between the head and the block. The In-Line cylinder blocks were revised at the idler gear hub mounting pads, to increase the rigidity of the",
+      "source_number": 8,
+      "installs": [
+        "camshaft",
+        "nut_securing_fig",
+        "flange",
+        "compression_gasket",
+        "insert_remover_valve_seat",
+        "insert_counterbore",
+        "head_gasket",
+        "seal_ring",
+        "locknut_finger_tight",
+        "contact",
+        "e_cylinder_insert_head",
+        "tbe_lubricating_oil_line",
+        "idler_gear_hub",
+        "battery_charging_generator_mounting"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 22,
+        "quote": "Oil Gallery (Main) Head 23. Oil Passage from Filter 11. \u041e\u0438 Passage to Oil 18. Oil Gallery to Camshaft to Oil Cooler Fig. 2 - Cylinder Block (6V Cast tron Cylinder Block Shown) Each cylinder liner is retained in the block by a flange bloc...",
+        "verified": true,
+        "char_start": 440,
+        "char_end": 1067,
+        "bbox": [
+          46.079999999999956,
+          362.36699999999996,
+          557.693,
+          528.4899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

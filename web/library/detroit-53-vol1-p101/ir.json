@@ -1,0 +1,1754 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.201 - Secure the body in vise J 22396-1",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 201,
+        "quote": "Secure the body in vise J 22396-1.",
+        "verified": true,
+        "char_start": 952,
+        "char_end": 986,
+        "bbox": [
+          100.56,
+          565.473,
+          245.59104000000002,
+          574.473
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 201,
+        "quote": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was in...",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1412,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "filter",
+      "name": "Filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter",
+      "provenance": {
+        "page": 201,
+        "quote": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was in...",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1412,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 201,
+        "quote": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was in...",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1412,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 201,
+        "quote": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was in...",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1412,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 201,
+        "quote": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was in...",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1412,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 201,
+        "quote": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was in...",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1412,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_rack",
+      "name": "Injector rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_rack",
+      "provenance": {
+        "page": 201,
+        "quote": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was in...",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1412,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 201,
+        "quote": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was in...",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1412,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 201,
+        "quote": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was in...",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1412,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 201,
+        "quote": "Place a new gasket on each filter cap. Lubricate the threads and install the filter caps. Tighten injector filter caps with a 9/16\" deep socket as follows: Fig. 26 - Details of Injector Filters and Caps and Their",
+        "verified": true,
+        "char_start": 1416,
+        "char_end": 1628,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_filter_cap",
+      "name": "Injector filter cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_filter_cap",
+      "provenance": {
+        "page": 201,
+        "quote": "Place a new gasket on each filter cap. Lubricate the threads and install the filter caps. Tighten injector filter caps with a 9/16\" deep socket as follows: Fig. 26 - Details of Injector Filters and Caps and Their",
+        "verified": true,
+        "char_start": 1416,
+        "char_end": 1628,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 201,
+        "quote": "Place a new gasket on each filter cap. Lubricate the threads and install the filter caps. Tighten injector filter caps with a 9/16\" deep socket as follows: Fig. 26 - Details of Injector Filters and Caps and Their",
+        "verified": true,
+        "char_start": 1416,
+        "char_end": 1628,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 201,
+        "quote": "Place a new gasket on each filter cap. Lubricate the threads and install the filter caps. Tighten injector filter caps with a 9/16\" deep socket as follows: Fig. 26 - Details of Injector Filters and Caps and Their",
+        "verified": true,
+        "char_start": 1416,
+        "char_end": 1628,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_nut_seal",
+      "name": "Injector nut seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_nut_seal",
+      "provenance": {
+        "page": 202,
+        "quote": "Lubricate the injector nut seal ring installer J 29197 with injector test oil. Remove the injector from the vise and hold the injector body, bottom end up. Place the installer over the threads of the injector body.",
+        "verified": true,
+        "char_start": 146,
+        "char_end": 360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 202,
+        "quote": "Lubricate the injector nut seal ring installer J 29197 with injector test oil. Remove the injector from the vise and hold the injector body, bottom end up. Place the installer over the threads of the injector body.",
+        "verified": true,
+        "char_start": 146,
+        "char_end": 360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 202,
+        "quote": "Lubricate the injector nut seal ring installer J 29197 with injector test oil. Remove the injector from the vise and hold the injector body, bottom end up. Place the installer over the threads of the injector body.",
+        "verified": true,
+        "char_start": 146,
+        "char_end": 360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_body",
+      "name": "Injector body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_body",
+      "provenance": {
+        "page": 202,
+        "quote": "Lubricate the injector nut seal ring installer J 29197 with injector test oil. Remove the injector from the vise and hold the injector body, bottom end up. Place the installer over the threads of the injector body.",
+        "verified": true,
+        "char_start": 146,
+        "char_end": 360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 202,
+        "quote": "Lubricate the new seal ring and place the new seal over the nose of the protector and down onto the shoulder of the injector body. Do not allow the seal to roll or twist. \u0259 A new round (in cross-section) injector nut seal ring replaced t...",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 739,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 202,
+        "quote": "Lubricate the new seal ring and place the new seal over the nose of the protector and down onto the shoulder of the injector body. Do not allow the seal to roll or twist. \u0259 A new round (in cross-section) injector nut seal ring replaced t...",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 739,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "protector",
+      "name": "Protector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "protector",
+      "provenance": {
+        "page": 202,
+        "quote": "Lubricate the new seal ring and place the new seal over the nose of the protector and down onto the shoulder of the injector body. Do not allow the seal to roll or twist. \u0259 A new round (in cross-section) injector nut seal ring replaced t...",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 739,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 202,
+        "quote": "Lubricate the new seal ring and place the new seal over the nose of the protector and down onto the shoulder of the injector body. Do not allow the seal to roll or twist. \u0259 A new round (in cross-section) injector nut seal ring replaced t...",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 739,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_rack",
+      "name": "Injector control rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_rack",
+      "provenance": {
+        "page": 202,
+        "quote": "Slide the control rack into the injector body.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 824,
+        "bbox": [
+          81.35999999999999,
+          593.8149999999999,
+          268.60409999999996,
+          602.8149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 202,
+        "quote": "Place the gear in the injector body so that the marked tooth is engaged between the two marked teeth on the rack (Fig. 29).",
+        "verified": true,
+        "char_start": 1022,
+        "char_end": 1145,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 202,
+        "quote": "Place the gear in the injector body so that the marked tooth is engaged between the two marked teeth on the rack (Fig. 29).",
+        "verified": true,
+        "char_start": 1022,
+        "char_end": 1145,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gear_retainer",
+      "name": "Gear retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_retainer",
+      "provenance": {
+        "page": 202,
+        "quote": "Place the gear retainer on top of the gear.",
+        "verified": true,
+        "char_start": 1150,
+        "char_end": 1193,
+        "bbox": [
+          81.36,
+          709.1659999999999,
+          256.1952,
+          718.1659999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "locating_pin",
+      "name": "Locating pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locating_pin",
+      "provenance": {
+        "page": 202,
+        "quote": "Align the locating pin in the bushing with the slot in the injector body, then slide the end of the bushing into place.",
+        "verified": true,
+        "char_start": 1483,
+        "char_end": 1602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 202,
+        "quote": "Align the locating pin in the bushing with the slot in the injector body, then slide the end of the bushing into place.",
+        "verified": true,
+        "char_start": 1483,
+        "char_end": 1602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_slot",
+      "name": "Tbe slot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_slot",
+      "provenance": {
+        "page": 202,
+        "quote": "Align the locating pin in the bushing with the slot in the injector body, then slide the end of the bushing into place.",
+        "verified": true,
+        "char_start": 1483,
+        "char_end": 1602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 202,
+        "quote": "Support the injector body, bottom end up, in injector vise J 22396-1.",
+        "verified": true,
+        "char_start": 1607,
+        "char_end": 1676,
+        "bbox": [
+          354.24,
+          578.6569999999999,
+          575.4348000000001,
+          598.9399999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spill_deflector",
+      "name": "Spill deflector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spill_deflector",
+      "provenance": {
+        "page": 202,
+        "quote": "Install the spill deflector over the barrel of the bushing.",
+        "verified": true,
+        "char_start": 1681,
+        "char_end": 1740,
+        "bbox": [
+          354.72,
+          607.329,
+          574.6514400000001,
+          616.329
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 202,
+        "quote": "Perform the spray tip test, as outlined in Section 2.0 using injector tip Tester J 22640-A before proceeding with the injector assembly.",
+        "verified": true,
+        "char_start": 1745,
+        "char_end": 1881,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 202,
+        "quote": "Perform the spray tip test, as outlined in Section 2.0 using injector tip Tester J 22640-A before proceeding with the injector assembly.",
+        "verified": true,
+        "char_start": 1745,
+        "char_end": 1881,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "check_valve",
+      "name": "Check valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "check_valve",
+      "provenance": {
+        "page": 202,
+        "quote": "Place the check valve (without the .010\u201d hole) centrally on the top of the bushing. Then, place the check valve cage over the check valve and against the bushing. The check valve cage must not rest on the check valve.",
+        "verified": true,
+        "char_start": 1886,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 202,
+        "quote": "Place the check valve (without the .010\u201d hole) centrally on the top of the bushing. Then, place the check valve cage over the check valve and against the bushing. The check valve cage must not rest on the check valve.",
+        "verified": true,
+        "char_start": 1886,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "check_valve_cage",
+      "name": "Check valve cage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "check_valve_cage",
+      "provenance": {
+        "page": 202,
+        "quote": "Place the check valve (without the .010\u201d hole) centrally on the top of the bushing. Then, place the check valve cage over the check valve and against the bushing. The check valve cage must not rest on the check valve.",
+        "verified": true,
+        "char_start": 1886,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 202,
+        "quote": "Place the check valve (without the .010\u201d hole) centrally on the top of the bushing. Then, place the check valve cage over the check valve and against the bushing. The check valve cage must not rest on the check valve.",
+        "verified": true,
+        "char_start": 1886,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 203,
+        "quote": "Insert the spring seat in the valve spring, then insert the assembly into the cage, spring seat first.",
+        "verified": true,
+        "char_start": 304,
+        "char_end": 406,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 203,
+        "quote": "Insert the spring seat in the valve spring, then insert the assembly into the cage, spring seat first.",
+        "verified": true,
+        "char_start": 304,
+        "char_end": 406,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 203,
+        "quote": "Insert the spring seat in the valve spring, then insert the assembly into the cage, spring seat first.",
+        "verified": true,
+        "char_start": 304,
+        "char_end": 406,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_cage",
+      "name": "Spring cage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_cage",
+      "provenance": {
+        "page": 203,
+        "quote": "Place the spring cage, spring seat and valve spring assembly (valve spring down) on top of the check valve cage. Do not use new design needle valve spray tip with former design spring seat (Fig. 30).",
+        "verified": true,
+        "char_start": 411,
+        "char_end": 610,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_assembly",
+      "name": "Spring assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_assembly",
+      "provenance": {
+        "page": 203,
+        "quote": "Place the spring cage, spring seat and valve spring assembly (valve spring down) on top of the check valve cage. Do not use new design needle valve spray tip with former design spring seat (Fig. 30).",
+        "verified": true,
+        "char_start": 411,
+        "char_end": 610,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_tip_assembly",
+      "name": "Spray tip assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_tip_assembly",
+      "provenance": {
+        "page": 203,
+        "quote": "Put the needle, tapered end down, into the spray tip (Fig. 31). Then, place the spray tip assembly on top of the spring cage with the quill end of the needle valve in the hole in the spring cage.",
+        "verified": true,
+        "char_start": 615,
+        "char_end": 810,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_valve",
+      "name": "Needle valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_valve",
+      "provenance": {
+        "page": 203,
+        "quote": "Put the needle, tapered end down, into the spray tip (Fig. 31). Then, place the spray tip assembly on top of the spring cage with the quill end of the needle valve in the hole in the spring cage.",
+        "verified": true,
+        "char_start": 615,
+        "char_end": 810,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 203,
+        "quote": "Put the needle, tapered end down, into the spray tip (Fig. 31). Then, place the spray tip assembly on top of the spring cage with the quill end of the needle valve in the hole in the spring cage.",
+        "verified": true,
+        "char_start": 615,
+        "char_end": 810,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_nut",
+      "name": "Injector nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_nut",
+      "provenance": {
+        "page": 203,
+        "quote": "Lubricate the threads in the injector nut and carefully thread the nut on the injector body by hand. Rotate the spray tip between your thumb and first finger while threading the nut on the injector body (Fig. 32). Tighten the nut as tigh...",
+        "verified": true,
+        "char_start": 815,
+        "char_end": 1273,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 203,
+        "quote": "Lubricate the threads in the injector nut and carefully thread the nut on the injector body by hand. Rotate the spray tip between your thumb and first finger while threading the nut on the injector body (Fig. 32). Tighten the nut as tigh...",
+        "verified": true,
+        "char_start": 815,
+        "char_end": 1273,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 203,
+        "quote": "Lubricate the threads in the injector nut and carefully thread the nut on the injector body by hand. Rotate the spray tip between your thumb and first finger while threading the nut on the injector body (Fig. 32). Tighten the nut as tigh...",
+        "verified": true,
+        "char_start": 815,
+        "char_end": 1273,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "follower_spring",
+      "name": "Follower spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_spring",
+      "provenance": {
+        "page": 203,
+        "quote": "Place the follower spring on the injector body.",
+        "verified": true,
+        "char_start": 2025,
+        "char_end": 2072,
+        "bbox": [
+          377.03999999999996,
+          184.904,
+          570.6529499999999,
+          193.904
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "stop_pin",
+      "name": "Stop pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "stop_pin",
+      "provenance": {
+        "page": 203,
+        "quote": "Referto(Fig. 34) and place the stop pin on the injector body so that the follower spring rests on the narrow flange of the stop pin.",
+        "verified": true,
+        "char_start": 2077,
+        "char_end": 2209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 203,
+        "quote": "Referto(Fig. 34) and place the stop pin on the injector body so that the follower spring rests on the narrow flange of the stop pin.",
+        "verified": true,
+        "char_start": 2077,
+        "char_end": 2209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 203,
+        "quote": "Referto(Fig. 34) and place the stop pin on the injector body so that the follower spring rests on the narrow flange of the stop pin.",
+        "verified": true,
+        "char_start": 2077,
+        "char_end": 2209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 203,
+        "quote": "Referto(Fig. 34) and place the stop pin on the injector body so that the follower spring rests on the narrow flange of the stop pin.",
+        "verified": true,
+        "char_start": 2077,
+        "char_end": 2209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 203,
+        "quote": "Refer to (Fig. 35) and slide the head of the plunger into the follower.",
+        "verified": true,
+        "char_start": 2214,
+        "char_end": 2285,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 203,
+        "quote": "Refer to (Fig. 35) and slide the head of the plunger into the follower.",
+        "verified": true,
+        "char_start": 2214,
+        "char_end": 2285,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 203,
+        "quote": "Refer to (Fig. 35) and slide the head of the plunger into the follower.",
+        "verified": true,
+        "char_start": 2214,
+        "char_end": 2285,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "dowel_pin_hole",
+      "name": "Dowel pin hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dowel_pin_hole",
+      "provenance": {
+        "page": 203,
+        "quote": "Align the slot in the follower with the stop pin hole in the injector body.",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2365,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_plunger",
+      "name": "End of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_plunger",
+      "provenance": {
+        "page": 203,
+        "quote": "Insert the free end of the plunger in the injector body. Press down on the follower and at the same time press the stop pin into position. When in place, the spring will hold the stop pin in position.",
+        "verified": true,
+        "char_start": 2437,
+        "char_end": 2637,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Secure the body in vise J 22396-1.",
+      "source_number": 1,
+      "installs": [
+        "breather_body"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 201,
+        "quote": "Secure the body in vise J 22396-1.",
+        "verified": true,
+        "char_start": 952,
+        "char_end": 986,
+        "bbox": [
+          100.56,
+          565.473,
+          245.59104000000002,
+          574.473
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was installed with the pointed (cone) end up. Insert a new filter in the inlet side (located over the injector rack) in an offset injector. No filter is required at the outlet side (Fig. 27).",
+      "source_number": 2,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "filter",
+        "nut_securing_fig",
+        "engine_front_cover_current",
+        "lock_wire",
+        "of_the_former",
+        "injector_rack",
+        "end_of_the_injector",
+        "of_the_required"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 201,
+        "quote": "Insert new filter(s) in the top of the body (Fig. 26). The current production service filter (stainless steel wire mesh pellet) is installed dimple end down, slotted end up. The former service filter (fiberglass-filled nylon cone) was in...",
+        "verified": true,
+        "char_start": 990,
+        "char_end": 1412,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place a new gasket on each filter cap. Lubricate the threads and install the filter caps. Tighten injector filter caps with a 9/16\" deep socket as follows: Fig. 26 - Details of Injector Filters and Caps and Their",
+      "source_number": 3,
+      "installs": [
+        "head_gasket",
+        "injector_filter_cap",
+        "bolt_thread",
+        "clean_shipping_cap"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 201,
+        "quote": "Place a new gasket on each filter cap. Lubricate the threads and install the filter caps. Tighten injector filter caps with a 9/16\" deep socket as follows: Fig. 26 - Details of Injector Filters and Caps and Their",
+        "verified": true,
+        "char_start": 1416,
+        "char_end": 1628,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install clean shipping caps to protect the sealing surfaces and to prevent dirt from entering the injector.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 202,
+        "quote": "Install clean shipping caps to protect the sealing surfaces and to prevent dirt from entering the injector.",
+        "verified": true,
+        "char_start": 35,
+        "char_end": 142,
+        "bbox": [
+          81.11999999999995,
+          371.64199999999994,
+          305.3531999999999,
+          391.7029999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Lubricate the injector nut seal ring installer J 29197 with injector test oil. Remove the injector from the vise and hold the injector body, bottom end up. Place the installer over the threads of the injector body.",
+      "source_number": 5,
+      "installs": [
+        "injector_nut_seal",
+        "bottom_oil_ring",
+        "oil_seal_installer",
+        "injector_body"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 202,
+        "quote": "Lubricate the injector nut seal ring installer J 29197 with injector test oil. Remove the injector from the vise and hold the injector body, bottom end up. Place the installer over the threads of the injector body.",
+        "verified": true,
+        "char_start": 146,
+        "char_end": 360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Lubricate the new seal ring and place the new seal over the nose of the protector and down onto the shoulder of the injector body. Do not allow the seal to roll or twist. \u0259 A new round (in cross-section) injector nut seal ring replaced the former diamond-shaped ring, effective with injectors manufactured approximately November 1, 1987. Only the round seal ring is serviced.",
+      "source_number": 6,
+      "installs": [
+        "seal_ring",
+        "crankshaft_front_oil_seal",
+        "protector",
+        "shoulder"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not allow the seal to roll or twist.",
+      "provenance": {
+        "page": 202,
+        "quote": "Lubricate the new seal ring and place the new seal over the nose of the protector and down onto the shoulder of the injector body. Do not allow the seal to roll or twist. \u0259 A new round (in cross-section) injector nut seal ring replaced t...",
+        "verified": true,
+        "char_start": 364,
+        "char_end": 739,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the protector (J 29197).",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 202,
+        "quote": "Remove the protector (J 29197).",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 774,
+        "bbox": [
+          81.6,
+          573.809,
+          218.55902999999998,
+          582.809
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Slide the control rack into the injector body.",
+      "source_number": 8,
+      "installs": [
+        "injector_control_rack"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 202,
+        "quote": "Slide the control rack into the injector body.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 824,
+        "bbox": [
+          81.35999999999999,
+          593.8149999999999,
+          268.60409999999996,
+          602.8149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Refer to (Fig. 29) and note the marked teeth on the control rack and gear. Then, look into the body bore and move the rack until you can see the drill marks. Hold the rack in this position.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "note the marked teeth on the control rack and gear.",
+      "provenance": {
+        "page": 202,
+        "quote": "Refer to (Fig. 29) and note the marked teeth on the control rack and gear. Then, look into the body bore and move the rack until you can see the drill marks. Hold the rack in this position.",
+        "verified": true,
+        "char_start": 828,
+        "char_end": 1017,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Place the gear in the injector body so that the marked tooth is engaged between the two marked teeth on the rack (Fig. 29).",
+      "source_number": 10,
+      "installs": [
+        "fuel_pump_drive_gear",
+        "gear_train_teeth"
+      ],
+      "depends_on": [
+        "s02",
+        "s05",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 202,
+        "quote": "Place the gear in the injector body so that the marked tooth is engaged between the two marked teeth on the rack (Fig. 29).",
+        "verified": true,
+        "char_start": 1022,
+        "char_end": 1145,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Place the gear retainer on top of the gear.",
+      "source_number": 11,
+      "installs": [
+        "gear_retainer"
+      ],
+      "depends_on": [
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 202,
+        "quote": "Place the gear retainer on top of the gear.",
+        "verified": true,
+        "char_start": 1150,
+        "char_end": 1193,
+        "bbox": [
+          81.36,
+          709.1659999999999,
+          256.1952,
+          718.1659999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Align the locating pin in the bushing with the slot in the injector body, then slide the end of the bushing into place.",
+      "source_number": 12,
+      "installs": [
+        "locating_pin",
+        "connecting_rod_bushing",
+        "tbe_slot"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 202,
+        "quote": "Align the locating pin in the bushing with the slot in the injector body, then slide the end of the bushing into place.",
+        "verified": true,
+        "char_start": 1483,
+        "char_end": 1602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Support the injector body, bottom end up, in injector vise J 22396-1.",
+      "source_number": 13,
+      "installs": [
+        "blower_drive_support"
+      ],
+      "depends_on": [
+        "s02",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 202,
+        "quote": "Support the injector body, bottom end up, in injector vise J 22396-1.",
+        "verified": true,
+        "char_start": 1607,
+        "char_end": 1676,
+        "bbox": [
+          354.24,
+          578.6569999999999,
+          575.4348000000001,
+          598.9399999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Install the spill deflector over the barrel of the bushing.",
+      "source_number": 14,
+      "installs": [
+        "spill_deflector"
+      ],
+      "depends_on": [
+        "s12"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 202,
+        "quote": "Install the spill deflector over the barrel of the bushing.",
+        "verified": true,
+        "char_start": 1681,
+        "char_end": 1740,
+        "bbox": [
+          354.72,
+          607.329,
+          574.6514400000001,
+          616.329
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Perform the spray tip test, as outlined in Section 2.0 using injector tip Tester J 22640-A before proceeding with the injector assembly.",
+      "source_number": 15,
+      "installs": [
+        "indicate_the_spray_tip",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 202,
+        "quote": "Perform the spray tip test, as outlined in Section 2.0 using injector tip Tester J 22640-A before proceeding with the injector assembly.",
+        "verified": true,
+        "char_start": 1745,
+        "char_end": 1881,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "Place the check valve (without the .010\u201d hole) centrally on the top of the bushing. Then, place the check valve cage over the check valve and against the bushing. The check valve cage must not rest on the check valve.",
+      "source_number": 16,
+      "installs": [
+        "check_valve",
+        "of_the_oil_hole",
+        "check_valve_cage",
+        "engine_front_cover_valve"
+      ],
+      "depends_on": [
+        "s12"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "must not rest on the check valve.",
+      "provenance": {
+        "page": 202,
+        "quote": "Place the check valve (without the .010\u201d hole) centrally on the top of the bushing. Then, place the check valve cage over the check valve and against the bushing. The check valve cage must not rest on the check valve.",
+        "verified": true,
+        "char_start": 1886,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s17",
+      "index": 16,
+      "text": "Insert the spring seat in the valve spring, then insert the assembly into the cage, spring seat first.",
+      "source_number": 17,
+      "installs": [
+        "drive_spring_seat",
+        "exhaust_valve_spring",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 203,
+        "quote": "Insert the spring seat in the valve spring, then insert the assembly into the cage, spring seat first.",
+        "verified": true,
+        "char_start": 304,
+        "char_end": 406,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s18",
+      "index": 17,
+      "text": "Place the spring cage, spring seat and valve spring assembly (valve spring down) on top of the check valve cage. Do not use new design needle valve spray tip with former design spring seat (Fig. 30).",
+      "source_number": 18,
+      "installs": [
+        "spring_cage",
+        "spring_assembly"
+      ],
+      "depends_on": [
+        "s16",
+        "s17"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not use new design needle valve spray tip with former design spring seat (Fig.",
+      "provenance": {
+        "page": 203,
+        "quote": "Place the spring cage, spring seat and valve spring assembly (valve spring down) on top of the check valve cage. Do not use new design needle valve spray tip with former design spring seat (Fig. 30).",
+        "verified": true,
+        "char_start": 411,
+        "char_end": 610,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s19",
+      "index": 18,
+      "text": "Put the needle, tapered end down, into the spray tip (Fig. 31). Then, place the spray tip assembly on top of the spring cage with the quill end of the needle valve in the hole in the spring cage.",
+      "source_number": 19,
+      "installs": [
+        "spray_tip_assembly",
+        "needle_valve",
+        "end_of_the_spring"
+      ],
+      "depends_on": [
+        "s02",
+        "s15",
+        "s16",
+        "s18"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 203,
+        "quote": "Put the needle, tapered end down, into the spray tip (Fig. 31). Then, place the spray tip assembly on top of the spring cage with the quill end of the needle valve in the hole in the spring cage.",
+        "verified": true,
+        "char_start": 615,
+        "char_end": 810,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s20",
+      "index": 19,
+      "text": "Lubricate the threads in the injector nut and carefully thread the nut on the injector body by hand. Rotate the spray tip between your thumb and first finger while threading the nut on the injector body (Fig. 32). Tighten the nut as tight as possible by hand. At this point there should be sufficient force on the spray tip to make it impossible to turn with your fingers. @21. Use socket J 4983-01 and a torque wrench to tighten the injector nut as follows:",
+      "source_number": 20,
+      "installs": [
+        "injector_nut",
+        "front_balance_weight_nut",
+        "locknut_finger_tight"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s05",
+        "s15"
+      ],
+      "tool": "torque wrench",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 203,
+        "quote": "Lubricate the threads in the injector nut and carefully thread the nut on the injector body by hand. Rotate the spray tip between your thumb and first finger while threading the nut on the injector body (Fig. 32). Tighten the nut as tigh...",
+        "verified": true,
+        "char_start": 815,
+        "char_end": 1273,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s21",
+      "index": 20,
+      "text": "Turn the injector over and push the rack all the way in.",
+      "source_number": 23,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 203,
+        "quote": "Turn the injector over and push the rack all the way in.",
+        "verified": true,
+        "char_start": 1964,
+        "char_end": 2020,
+        "bbox": [
+          376.56,
+          166.457,
+          599.59479,
+          175.457
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s22",
+      "index": 21,
+      "text": "Place the follower spring on the injector body.",
+      "source_number": 24,
+      "installs": [
+        "follower_spring"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 203,
+        "quote": "Place the follower spring on the injector body.",
+        "verified": true,
+        "char_start": 2025,
+        "char_end": 2072,
+        "bbox": [
+          377.03999999999996,
+          184.904,
+          570.6529499999999,
+          193.904
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s23",
+      "index": 22,
+      "text": "Referto(Fig. 34) and place the stop pin on the injector body so that the follower spring rests on the narrow flange of the stop pin.",
+      "source_number": 25,
+      "installs": [
+        "stop_pin",
+        "flange",
+        "solid_stop",
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [
+        "s02",
+        "s05",
+        "s22"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 203,
+        "quote": "Referto(Fig. 34) and place the stop pin on the injector body so that the follower spring rests on the narrow flange of the stop pin.",
+        "verified": true,
+        "char_start": 2077,
+        "char_end": 2209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s24",
+      "index": 23,
+      "text": "Refer to (Fig. 35) and slide the head of the plunger into the follower.",
+      "source_number": 26,
+      "installs": [
+        "cylinder_head",
+        "area_of_the_plunger",
+        "cam_follower"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 203,
+        "quote": "Refer to (Fig. 35) and slide the head of the plunger into the follower.",
+        "verified": true,
+        "char_start": 2214,
+        "char_end": 2285,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s25",
+      "index": 24,
+      "text": "Align the slot in the follower with the stop pin hole in the injector body.",
+      "source_number": 27,
+      "installs": [
+        "dowel_pin_hole"
+      ],
+      "depends_on": [
+        "s05",
+        "s12",
+        "s23",
+        "s24"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 203,
+        "quote": "Align the slot in the follower with the stop pin hole in the injector body.",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2365,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s26",
+      "index": 25,
+      "text": "Align the flat side of the plunger with the flat in the ear. 8",
+      "source_number": 28,
+      "installs": [],
+      "depends_on": [
+        "s24"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 203,
+        "quote": "Align the flat side of the plunger with the flat in the ear. 8",
+        "verified": true,
+        "char_start": 2370,
+        "char_end": 2432,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s27",
+      "index": 26,
+      "text": "Insert the free end of the plunger in the injector body. Press down on the follower and at the same time press the stop pin into position. When in place, the spring will hold the stop pin in position.",
+      "source_number": 29,
+      "installs": [
+        "end_of_the_plunger"
+      ],
+      "depends_on": [
+        "s02",
+        "s05",
+        "s19",
+        "s23",
+        "s24"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 203,
+        "quote": "Insert the free end of the plunger in the injector body. Press down on the follower and at the same time press the stop pin into position. When in place, the spring will hold the stop pin in position.",
+        "verified": true,
+        "char_start": 2437,
+        "char_end": 2637,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

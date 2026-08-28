@@ -1,0 +1,481 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.46 - Drive the pin from the roller with...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 46,
+        "quote": "Drive the pin from the roller with a suitable drift. Exercise caution in removing the cam follower body and roller from the fixture as the follower pin is seated on top of a spring-loaded plunger in the fixture body.",
+        "verified": true,
+        "char_start": 1018,
+        "char_end": 1234,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_roller",
+      "name": "Cam follower roller",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_roller",
+      "provenance": {
+        "page": 46,
+        "quote": "Drive the pin from the roller with a suitable drift. Exercise caution in removing the cam follower body and roller from the fixture as the follower pin is seated on top of a spring-loaded plunger in the fixture body.",
+        "verified": true,
+        "char_start": 1018,
+        "char_end": 1234,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solitified_preservative",
+      "name": "Solitified preservative",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solitified_preservative",
+      "provenance": {
+        "page": 46,
+        "quote": "Before installing the new roller and pin kit, remove the preservative by washing the parts with clean ) lubricating oil or Cindol 1705. Do not use fuel oil.",
+        "verified": true,
+        "char_start": 1238,
+        "char_end": 1394,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 46,
+        "quote": "Before installing the new roller and pin kit, remove the preservative by washing the parts with clean ) lubricating oil or Cindol 1705. Do not use fuel oil.",
+        "verified": true,
+        "char_start": 1238,
+        "char_end": 1394,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "burr",
+      "name": "Burr",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "burr",
+      "provenance": {
+        "page": 46,
+        "quote": "Prior to installing a new roller and pin, remove any burrs on the surfaces of the cam follower at the pin holes.",
+        "verified": true,
+        "char_start": 1547,
+        "char_end": 1659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 46,
+        "quote": "Prior to installing a new roller and pin, remove any burrs on the surfaces of the cam follower at the pin holes.",
+        "verified": true,
+        "char_start": 1547,
+        "char_end": 1659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "dowel_pin_hole",
+      "name": "Dowel pin hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dowel_pin_hole",
+      "provenance": {
+        "page": 46,
+        "quote": "Prior to installing a new roller and pin, remove any burrs on the surfaces of the cam follower at the pin holes.",
+        "verified": true,
+        "char_start": 1547,
+        "char_end": 1659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "follower_body",
+      "name": "Follower body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_body",
+      "provenance": {
+        "page": 46,
+        "quote": "Position the follower body in the groove of the fixture with the proper size fixture plunger extending through the roller pin hole in one of the legs of the follower bodv.",
+        "verified": true,
+        "char_start": 1663,
+        "char_end": 1834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 46,
+        "quote": "Position the follower body in the groove of the fixture with the proper size fixture plunger extending through the roller pin hole in one of the legs of the follower bodv.",
+        "verified": true,
+        "char_start": 1663,
+        "char_end": 1834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fixture",
+      "name": "Fixture",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fixture",
+      "provenance": {
+        "page": 46,
+        "quote": "Position the follower body in the groove of the fixture with the proper size fixture plunger extending through the roller pin hole in one of the legs of the follower bodv.",
+        "verified": true,
+        "char_start": 1663,
+        "char_end": 1834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 46,
+        "quote": "Position the follower body in the groove of the fixture with the proper size fixture plunger extending through the roller pin hole in one of the legs of the follower bodv.",
+        "verified": true,
+        "char_start": 1663,
+        "char_end": 1834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 46,
+        "quote": "Position the roller in the cam follower body (Fig. 7). The small plunger in the tool will align the roller with the pin holes in the follower body.",
+        "verified": true,
+        "char_start": 1838,
+        "char_end": 1985,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 46,
+        "quote": "Position the roller in the cam follower body (Fig. 7). The small plunger in the tool will align the roller with the pin holes in the follower body.",
+        "verified": true,
+        "char_start": 1838,
+        "char_end": 1985,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 46,
+        "quote": "Position the roller in the cam follower body (Fig. 7). The small plunger in the tool will align the roller with the pin holes in the follower body.",
+        "verified": true,
+        "char_start": 1838,
+        "char_end": 1985,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 46,
+        "quote": "Align the pin with the hole in the follower body and carefully drive the pin into the body until the ends of the pin are centered in the legs of the body.",
+        "verified": true,
+        "char_start": 1989,
+        "char_end": 2143,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "centered",
+      "name": "Centered",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "centered",
+      "provenance": {
+        "page": 46,
+        "quote": "Align the pin with the hole in the follower body and carefully drive the pin into the body until the ends of the pin are centered in the legs of the body.",
+        "verified": true,
+        "char_start": 1989,
+        "char_end": 2143,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 46,
+        "quote": "Check the side clearance between the roller and the follower body. This clearance must be 015 \"' to 023 \"'. install Cam Follower and Push Rod Assembly (Cylinder Head Removed from Engine)",
+        "verified": true,
+        "char_start": 2147,
+        "char_end": 2333,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 46,
+        "quote": "Check the side clearance between the roller and the follower body. This clearance must be 015 \"' to 023 \"'. install Cam Follower and Push Rod Assembly (Cylinder Head Removed from Engine)",
+        "verified": true,
+        "char_start": 2147,
+        "char_end": 2333,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Drive the pin from the roller with a suitable drift. Exercise caution in removing the cam follower body and roller from the fixture as the follower pin is seated on top of a spring-loaded plunger in the fixture body.",
+      "source_number": 2,
+      "installs": [
+        "copper_plated_dowel_pin",
+        "cam_follower_roller"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "caution in removing the cam follower body and roller from the fixture as the follower pin is seated on top of a spring-loaded plunger in the fixture body.",
+      "provenance": {
+        "page": 46,
+        "quote": "Drive the pin from the roller with a suitable drift. Exercise caution in removing the cam follower body and roller from the fixture as the follower pin is seated on top of a spring-loaded plunger in the fixture body.",
+        "verified": true,
+        "char_start": 1018,
+        "char_end": 1234,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Before installing the new roller and pin kit, remove the preservative by washing the parts with clean ) lubricating oil or Cindol 1705. Do not use fuel oil.",
+      "source_number": 3,
+      "installs": [
+        "solitified_preservative",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not use fuel oil.",
+      "provenance": {
+        "page": 46,
+        "quote": "Before installing the new roller and pin kit, remove the preservative by washing the parts with clean ) lubricating oil or Cindol 1705. Do not use fuel oil.",
+        "verified": true,
+        "char_start": 1238,
+        "char_end": 1394,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Prior to installing a new roller and pin, remove any burrs on the surfaces of the cam follower at the pin holes.",
+      "source_number": 4,
+      "installs": [
+        "burr",
+        "cam_follower",
+        "dowel_pin_hole"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Prior to installing a new roller and pin, remove any burrs on the surfaces of the cam follower at the pin holes.",
+        "verified": true,
+        "char_start": 1547,
+        "char_end": 1659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Position the follower body in the groove of the fixture with the proper size fixture plunger extending through the roller pin hole in one of the legs of the follower bodv.",
+      "source_number": 5,
+      "installs": [
+        "follower_body",
+        "of_the_groove",
+        "fixture",
+        "area_of_the_plunger"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Position the follower body in the groove of the fixture with the proper size fixture plunger extending through the roller pin hole in one of the legs of the follower bodv.",
+        "verified": true,
+        "char_start": 1663,
+        "char_end": 1834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Position the roller in the cam follower body (Fig. 7). The small plunger in the tool will align the roller with the pin holes in the follower body.",
+      "source_number": 6,
+      "installs": [
+        "t_push_rod_cam",
+        "nut_securing_fig",
+        "breather_body"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Position the roller in the cam follower body (Fig. 7). The small plunger in the tool will align the roller with the pin holes in the follower body.",
+        "verified": true,
+        "char_start": 1838,
+        "char_end": 1985,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Align the pin with the hole in the follower body and carefully drive the pin into the body until the ends of the pin are centered in the legs of the body.",
+      "source_number": 7,
+      "installs": [
+        "of_the_oil_hole",
+        "centered"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Align the pin with the hole in the follower body and carefully drive the pin into the body until the ends of the pin are centered in the legs of the body.",
+        "verified": true,
+        "char_start": 1989,
+        "char_end": 2143,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Check the side clearance between the roller and the follower body. This clearance must be 015 \"' to 023 \"'. install Cam Follower and Push Rod Assembly (Cylinder Head Removed from Engine)",
+      "source_number": 8,
+      "installs": [
+        "push_rod",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Check the side clearance between the roller and the follower body. This clearance must be 015 \"' to 023 \"'. install Cam Follower and Push Rod Assembly (Cylinder Head Removed from Engine)",
+        "verified": true,
+        "char_start": 2147,
+        "char_end": 2333,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

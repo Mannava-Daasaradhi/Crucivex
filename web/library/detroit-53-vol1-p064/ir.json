@@ -1,0 +1,512 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.115 - Align the keyway in the balance weight...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "keyway",
+      "name": "Keyway",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "keyway",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "kev",
+      "name": "Kev",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "kev",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "thrust_washer_retaining",
+      "name": "Thrust washer retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thrust_washer_retaining",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_retaining_bolt",
+      "name": "Bearing retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retaining_bolt",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "other_weight",
+      "name": "Other weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "other_weight",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 115,
+        "quote": "Wedge a clean rag between the gears. Refer to Fig. 1. Section 1.72. and. tighten the gear retaining",
+        "verified": true,
+        "char_start": 3384,
+        "char_end": 3483,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rag",
+      "name": "Rag",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rag",
+      "provenance": {
+        "page": 115,
+        "quote": "Wedge a clean rag between the gears. Refer to Fig. 1. Section 1.72. and. tighten the gear retaining",
+        "verified": true,
+        "char_start": 3384,
+        "char_end": 3483,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 115,
+        "quote": "Wedge a clean rag between the gears. Refer to Fig. 1. Section 1.72. and. tighten the gear retaining",
+        "verified": true,
+        "char_start": 3384,
+        "char_end": 3483,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide easily onto the shaft. loosen the Additional weights are attached to the camshaft and thrust washer retaining bolts at the opposite end of the balance shaft gears on two, three and four cylinder shaft: then. to prevent possible damage to the thrust engines. washer, support the rear end of the shaft while lapping the weight into place with a hammer and a Both the rotating and primary reciprocating forces sleeve. Retighten the thrust washer retaining bolts to and couples are completely balanced in the engines. 30-35 lb-ft torque. Install the other weight in the same Consequently, the engines will operate smoothly and manner. in balance throughout their entire speed range.",
+      "source_number": 2,
+      "installs": [
+        "keyway",
+        "front_balance_weight",
+        "kev",
+        "fuel_pump_drive_gear",
+        "end_of_the_shaft",
+        "crankshaft_splined_crankshaft_pulley",
+        "camshaft",
+        "thrust_washer_retaining",
+        "engine_front_cover_bolt",
+        "another_drive_flange_washer",
+        "blower_drive_support",
+        "crankshaft_front_sleeve",
+        "crankshaft_thrust_washer",
+        "bearing_retaining_bolt",
+        "other_weight",
+        "engine_speed"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 40.7,
+      "warning": null,
+      "provenance": {
+        "page": 115,
+        "quote": "Align the keyway in the balance weight with the kev The balance weights are integral with the gears and in the shaft: then. slide the weight on the shaft. If the the circular balance weights (pulleys) on the shafts. weight does not slide...",
+        "verified": true,
+        "char_start": 2464,
+        "char_end": 3380,
+        "bbox": [
+          90.4799999999999,
+          550.8889999999999,
+          594.9386999999999,
+          664.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Wedge a clean rag between the gears. Refer to Fig. 1. Section 1.72. and. tighten the gear retaining",
+      "source_number": 3,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "rag",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 115,
+        "quote": "Wedge a clean rag between the gears. Refer to Fig. 1. Section 1.72. and. tighten the gear retaining",
+        "verified": true,
+        "char_start": 3384,
+        "char_end": 3483,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

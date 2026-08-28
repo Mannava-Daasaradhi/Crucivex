@@ -1,0 +1,782 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.50 - Clean and remove the valve rocker cover",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 50,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 392,
+        "char_end": 432,
+        "bbox": [
+          63.6,
+          229.75099999999998,
+          244.22832,
+          237.75099999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 50,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 392,
+        "char_end": 432,
+        "bbox": [
+          63.6,
+          229.75099999999998,
+          244.22832,
+          237.75099999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 50,
+        "quote": "Crank the engine over to bring the valve and injector rocker arms in line horizontally.",
+        "verified": true,
+        "char_start": 436,
+        "char_end": 523,
+        "bbox": [
+          53.04000000000002,
+          250.28699999999992,
+          294.96360000000004,
+          270.9409999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 50,
+        "quote": "Crank the engine over to bring the valve and injector rocker arms in line horizontally.",
+        "verified": true,
+        "char_start": 436,
+        "char_end": 523,
+        "bbox": [
+          53.04000000000002,
+          250.28699999999992,
+          294.96360000000004,
+          270.9409999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 50,
+        "quote": "Crank the engine over to bring the valve and injector rocker arms in line horizontally.",
+        "verified": true,
+        "char_start": 436,
+        "char_end": 523,
+        "bbox": [
+          53.04000000000002,
+          250.28699999999992,
+          294.96360000000004,
+          270.9409999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 50,
+        "quote": "Crank the engine over to bring the valve and injector rocker arms in line horizontally.",
+        "verified": true,
+        "char_start": 436,
+        "char_end": 523,
+        "bbox": [
+          53.04000000000002,
+          250.28699999999992,
+          294.96360000000004,
+          270.9409999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "leaking_fuel_pipe",
+      "name": "Leaking fuel pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "leaking_fuel_pipe",
+      "provenance": {
+        "page": 50,
+        "quote": "Disconnect and remove the fuel pipes from the injector and the fuel connectors. CAUTION: Immediately after removing the fuel pipes. cover each injector opening with a shipping cap to prevent dirt or other foreign matter from entering the...",
+        "verified": true,
+        "char_start": 527,
+        "char_end": 774,
+        "bbox": [
+          52.80000000000001,
+          285.6449999999999,
+          295.92024000000004,
+          360.02599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_connector",
+      "name": "Fuel connector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_connector",
+      "provenance": {
+        "page": 50,
+        "quote": "Disconnect and remove the fuel pipes from the injector and the fuel connectors. CAUTION: Immediately after removing the fuel pipes. cover each injector opening with a shipping cap to prevent dirt or other foreign matter from entering the...",
+        "verified": true,
+        "char_start": 527,
+        "char_end": 774,
+        "bbox": [
+          52.80000000000001,
+          285.6449999999999,
+          295.92024000000004,
+          360.02599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the two bolts holding the rocker arm shaft brackets to the cylinder head and remove the brackets and shaft.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 892,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm_shaft",
+      "name": "Rocker arm shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm_shaft",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the two bolts holding the rocker arm shaft brackets to the cylinder head and remove the brackets and shaft.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 892,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the two bolts holding the rocker arm shaft brackets to the cylinder head and remove the brackets and shaft.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 892,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the two bolts holding the rocker arm shaft brackets to the cylinder head and remove the brackets and shaft.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 892,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the two bolts holding the rocker arm shaft brackets to the cylinder head and remove the brackets and shaft.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 892,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the cylinder block air box cover so that the Fig. 3 - Testing Valve Spring Fig. 4 - Cleaning Valve Guide piston travel may be observed, then turn the crankshaft until the piston is at the top of its stroke.",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_box_cover",
+      "name": "Air box cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_box_cover",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the cylinder block air box cover so that the Fig. 3 - Testing Valve Spring Fig. 4 - Cleaning Valve Guide piston travel may be observed, then turn the crankshaft until the piston is at the top of its stroke.",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the cylinder block air box cover so that the Fig. 3 - Testing Valve Spring Fig. 4 - Cleaning Valve Guide piston travel may be observed, then turn the crankshaft until the piston is at the top of its stroke.",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the cylinder block air box cover so that the Fig. 3 - Testing Valve Spring Fig. 4 - Cleaning Valve Guide piston travel may be observed, then turn the crankshaft until the piston is at the top of its stroke.",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_guide",
+      "name": "Exhaust valve guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_guide",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the cylinder block air box cover so that the Fig. 3 - Testing Valve Spring Fig. 4 - Cleaning Valve Guide piston travel may be observed, then turn the crankshaft until the piston is at the top of its stroke.",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the cylinder block air box cover so that the Fig. 3 - Testing Valve Spring Fig. 4 - Cleaning Valve Guide piston travel may be observed, then turn the crankshaft until the piston is at the top of its stroke.",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the cylinder block air box cover so that the Fig. 3 - Testing Valve Spring Fig. 4 - Cleaning Valve Guide piston travel may be observed, then turn the crankshaft until the piston is at the top of its stroke.",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 50,
+        "quote": "Thread the spring compressor tool into one of the rocker arm support bolt holes (Fig. 2). Then compress the spring and remove the two-piece valve lock.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1264,
+        "bbox": [
+          323.03999999999996,
+          424.8929999999999,
+          564.1758,
+          456.7309999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 50,
+        "quote": "Thread the spring compressor tool into one of the rocker arm support bolt holes (Fig. 2). Then compress the spring and remove the two-piece valve lock.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1264,
+        "bbox": [
+          323.03999999999996,
+          424.8929999999999,
+          564.1758,
+          456.7309999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 50,
+        "quote": "Thread the spring compressor tool into one of the rocker arm support bolt holes (Fig. 2). Then compress the spring and remove the two-piece valve lock.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1264,
+        "bbox": [
+          323.03999999999996,
+          424.8929999999999,
+          564.1758,
+          456.7309999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 50,
+        "quote": "Thread the spring compressor tool into one of the rocker arm support bolt holes (Fig. 2). Then compress the spring and remove the two-piece valve lock.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1264,
+        "bbox": [
+          323.03999999999996,
+          424.8929999999999,
+          564.1758,
+          456.7309999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "two_piece_valve_lock",
+      "name": "Two-piece valve lock",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "two_piece_valve_lock",
+      "provenance": {
+        "page": 50,
+        "quote": "Thread the spring compressor tool into one of the rocker arm support bolt holes (Fig. 2). Then compress the spring and remove the two-piece valve lock.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1264,
+        "bbox": [
+          323.03999999999996,
+          424.8929999999999,
+          564.1758,
+          456.7309999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_spring_cap",
+      "name": "Valve spring cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_spring_cap",
+      "provenance": {
+        "page": 50,
+        "quote": "Release the tool and remove the valve spring cap, valve spring and spring seat.",
+        "verified": true,
+        "char_start": 1268,
+        "char_end": 1347,
+        "bbox": [
+          322.8,
+          469.65099999999995,
+          563.7744,
+          490.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 50,
+        "quote": "Release the tool and remove the valve spring cap, valve spring and spring seat.",
+        "verified": true,
+        "char_start": 1268,
+        "char_end": 1347,
+        "bbox": [
+          322.8,
+          469.65099999999995,
+          563.7744,
+          490.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clean and remove the valve rocker cover.",
+      "source_number": 1,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "valve_rocker_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 50,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 392,
+        "char_end": 432,
+        "bbox": [
+          63.6,
+          229.75099999999998,
+          244.22832,
+          237.75099999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Crank the engine over to bring the valve and injector rocker arms in line horizontally.",
+      "source_number": 2,
+      "installs": [
+        "engine_front_cover_valve",
+        "end_of_the_injector",
+        "rocker_arm",
+        "tbe_lubricating_oil_line"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 50,
+        "quote": "Crank the engine over to bring the valve and injector rocker arms in line horizontally.",
+        "verified": true,
+        "char_start": 436,
+        "char_end": 523,
+        "bbox": [
+          53.04000000000002,
+          250.28699999999992,
+          294.96360000000004,
+          270.9409999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Disconnect and remove the fuel pipes from the injector and the fuel connectors. CAUTION: Immediately after removing the fuel pipes. cover each injector opening with a shipping cap to prevent dirt or other foreign matter from entering the injector.",
+      "source_number": 3,
+      "installs": [
+        "leaking_fuel_pipe",
+        "fuel_connector"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Immediately after removing the fuel pipes.",
+      "provenance": {
+        "page": 50,
+        "quote": "Disconnect and remove the fuel pipes from the injector and the fuel connectors. CAUTION: Immediately after removing the fuel pipes. cover each injector opening with a shipping cap to prevent dirt or other foreign matter from entering the...",
+        "verified": true,
+        "char_start": 527,
+        "char_end": 774,
+        "bbox": [
+          52.80000000000001,
+          285.6449999999999,
+          295.92024000000004,
+          360.02599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the two bolts holding the rocker arm shaft brackets to the cylinder head and remove the brackets and shaft.",
+      "source_number": 4,
+      "installs": [
+        "engine_front_cover_bolt",
+        "rocker_arm_shaft",
+        "booster_spring_bracket",
+        "cylinder_head",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the two bolts holding the rocker arm shaft brackets to the cylinder head and remove the brackets and shaft.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 892,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the cylinder block air box cover so that the Fig. 3 - Testing Valve Spring Fig. 4 - Cleaning Valve Guide piston travel may be observed, then turn the crankshaft until the piston is at the top of its stroke.",
+      "source_number": 5,
+      "installs": [
+        "of_the_block",
+        "air_box_cover",
+        "nut_securing_fig",
+        "exhaust_valve_spring",
+        "exhaust_valve_guide",
+        "of_the_selected_piston",
+        "halve_of_the_crankshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 50,
+        "quote": "Remove the cylinder block air box cover so that the Fig. 3 - Testing Valve Spring Fig. 4 - Cleaning Valve Guide piston travel may be observed, then turn the crankshaft until the piston is at the top of its stroke.",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Thread the spring compressor tool into one of the rocker arm support bolt holes (Fig. 2). Then compress the spring and remove the two-piece valve lock.",
+      "source_number": 6,
+      "installs": [
+        "bolt_thread",
+        "end_of_the_spring",
+        "blower_drive_support",
+        "bolt_hole",
+        "two_piece_valve_lock"
+      ],
+      "depends_on": [
+        "s02",
+        "s05"
+      ],
+      "tool": "ring compressor",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 50,
+        "quote": "Thread the spring compressor tool into one of the rocker arm support bolt holes (Fig. 2). Then compress the spring and remove the two-piece valve lock.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1264,
+        "bbox": [
+          323.03999999999996,
+          424.8929999999999,
+          564.1758,
+          456.7309999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Release the tool and remove the valve spring cap, valve spring and spring seat.",
+      "source_number": 7,
+      "installs": [
+        "valve_spring_cap",
+        "drive_spring_seat"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 50,
+        "quote": "Release the tool and remove the valve spring cap, valve spring and spring seat.",
+        "verified": true,
+        "char_start": 1268,
+        "char_end": 1347,
+        "bbox": [
+          322.8,
+          469.65099999999995,
+          563.7744,
+          490.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

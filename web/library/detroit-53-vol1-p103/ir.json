@@ -1,0 +1,444 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.206 - Slip the injector tube into the injector...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_injector_tube",
+      "name": "Of the injector tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_injector_tube",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "e_cylinder_insert_head",
+      "name": "E cylinder insert head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "e_cylinder_insert_head",
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 206,
+        "quote": "With the injector tube properly positioned in the cylinder head, upset (flare) the lower end of the injector tube as follows: a. Turn the cylinder head bottom side up, remove the pilot J 5286-5 and thread the upsetting die J 5286\u20146 into ...",
+        "verified": true,
+        "char_start": 1243,
+        "char_end": 1718,
+        "bbox": [
+          342.2399999999999,
+          348.73099999999994,
+          565.2121800000001,
+          499.20899999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 206,
+        "quote": "With the injector tube properly positioned in the cylinder head, upset (flare) the lower end of the injector tube as follows: a. Turn the cylinder head bottom side up, remove the pilot J 5286-5 and thread the upsetting die J 5286\u20146 into ...",
+        "verified": true,
+        "char_start": 1243,
+        "char_end": 1718,
+        "bbox": [
+          342.2399999999999,
+          348.73099999999994,
+          565.2121800000001,
+          499.20899999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 206,
+        "quote": "With the injector tube properly positioned in the cylinder head, upset (flare) the lower end of the injector tube as follows: a. Turn the cylinder head bottom side up, remove the pilot J 5286-5 and thread the upsetting die J 5286\u20146 into ...",
+        "verified": true,
+        "char_start": 1243,
+        "char_end": 1718,
+        "bbox": [
+          342.2399999999999,
+          348.73099999999994,
+          565.2121800000001,
+          499.20899999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 206,
+        "quote": "With the injector tube properly positioned in the cylinder head, upset (flare) the lower end of the injector tube as follows: a. Turn the cylinder head bottom side up, remove the pilot J 5286-5 and thread the upsetting die J 5286\u20146 into ...",
+        "verified": true,
+        "char_start": 1243,
+        "char_end": 1718,
+        "bbox": [
+          342.2399999999999,
+          348.73099999999994,
+          565.2121800000001,
+          499.20899999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the seal ring. e During installation the tube will stretch slightly before the tool contacts the flange, thus allowing the tool to properly install the tube. If there is no clearance at the flange, the tube will buckle slightly during installation until the tool contacts the tube at the lower end. The buckling causes compressive stress which will result in tube cracking during engine operation and subsequent engine damage. aBjPeea isenesi se: It is permissable for the tube flange at the O\u2014ring seal end to protrude up to .120\" above the cylinder head casting without sealing being affected. Sealing is accomplished by compressing the O\u2014ring seal between the head counterbore and the outside diameter of the |\u0442RE C\u0438 \u0433\u0438\u043c\u00bb \u044b injector tube. The tube flange is merely used to retain the seal ring in the head counterbore. Fig. 2 - installing Injector Tube Using Tools J 5286-4A and J 5286-5",
+      "source_number": 3,
+      "installs": [
+        "end_of_the_injector",
+        "end_of_each_tube",
+        "nut_securing_fig",
+        "cylinder_head",
+        "insert_counterbore",
+        "of_the_injector_tube",
+        "flange",
+        "seal_ring",
+        "contact",
+        "bottom_oil_ring",
+        "e_cylinder_insert_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 206,
+        "quote": "Slip the injector tube into the injector bore and drive it in place (Fig. 2). Sealing is accomplished between the head counterbore (inside diameter) and outside diameter of the injector tube. The tube flange is merely used to retain the ...",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 1239,
+        "bbox": [
+          46.56,
+          106.29599999999994,
+          567.536,
+          355.5609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "With the injector tube properly positioned in the cylinder head, upset (flare) the lower end of the injector tube as follows: a. Turn the cylinder head bottom side up, remove the pilot J 5286-5 and thread the upsetting die J 5286\u20146 into the tapped end of the installer J 5286-4\u0421 (Fig. 4). b. Then, using a socket and torque wrench, apply approximately 30 Ib-ft (41 N-m) torque on the upsetting die. c. Remove the installing tools and ream the injector tube as outlined below.",
+      "source_number": 4,
+      "installs": [
+        "needle_bearing_pilot",
+        "bolt_thread",
+        "oil_seal_installer",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": "torque wrench",
+      "torque_nm": 40.7,
+      "warning": null,
+      "provenance": {
+        "page": 206,
+        "quote": "With the injector tube properly positioned in the cylinder head, upset (flare) the lower end of the injector tube as follows: a. Turn the cylinder head bottom side up, remove the pilot J 5286-5 and thread the upsetting die J 5286\u20146 into ...",
+        "verified": true,
+        "char_start": 1243,
+        "char_end": 1718,
+        "bbox": [
+          342.2399999999999,
+          348.73099999999994,
+          565.2121800000001,
+          499.20899999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

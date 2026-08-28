@@ -1,0 +1,407 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.383 - Coupling--''V'\"\" Band 8. Wheel--Compressor 14. Backplate Assembly...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "accessory_drive_coupling",
+      "name": "Accessory drive coupling",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_coupling",
+      "provenance": {
+        "page": 383,
+        "quote": "Coupling--''V'\"\" Band 8. Wheel--Compressor 14. Backplate Assembly 21. Ring- Retaining",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 88,
+        "bbox": [
+          88.56,
+          427.6329999999999,
+          545.02311,
+          435.6329999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "backplate_assembly",
+      "name": "Backplate assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "backplate_assembly",
+      "provenance": {
+        "page": 383,
+        "quote": "Coupling--''V'\"\" Band 8. Wheel--Compressor 14. Backplate Assembly 21. Ring- Retaining",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 88,
+        "bbox": [
+          88.56,
+          427.6329999999999,
+          545.02311,
+          435.6329999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 383,
+        "quote": "Coupling--''V'\"\" Band 8. Wheel--Compressor 14. Backplate Assembly 21. Ring- Retaining",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 88,
+        "bbox": [
+          88.56,
+          427.6329999999999,
+          545.02311,
+          435.6329999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 383,
+        "quote": "Housing--Compressor 9. Shaft- Turbine Wheel 15. Spacer- Thrust 22. Ring- Retaining",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 174,
+        "bbox": [
+          89.04,
+          438.0369999999999,
+          544.9941600000001,
+          445.46299999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 383,
+        "quote": "Housing--Compressor 9. Shaft- Turbine Wheel 15. Spacer- Thrust 22. Ring- Retaining",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 174,
+        "bbox": [
+          89.04,
+          438.0369999999999,
+          544.9941600000001,
+          445.46299999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blade_of_turbine_wheel",
+      "name": "Blade of turbine wheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blade_of_turbine_wheel",
+      "provenance": {
+        "page": 383,
+        "quote": "Housing--Compressor 9. Shaft- Turbine Wheel 15. Spacer- Thrust 22. Ring- Retaining",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 174,
+        "bbox": [
+          89.04,
+          438.0369999999999,
+          544.9941600000001,
+          445.46299999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 383,
+        "quote": "Housing--Compressor 9. Shaft- Turbine Wheel 15. Spacer- Thrust 22. Ring- Retaining",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 174,
+        "bbox": [
+          89.04,
+          438.0369999999999,
+          544.9941600000001,
+          445.46299999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 383,
+        "quote": "Bolt Assembly 16. Ring- Piston 23. Bearing",
+        "verified": true,
+        "char_start": 178,
+        "char_end": 220,
+        "bbox": [
+          88.8,
+          448.0849999999999,
+          516.7552900000001,
+          455.407
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 383,
+        "quote": "Bolt Assembly 16. Ring- Piston 23. Bearing",
+        "verified": true,
+        "char_start": 178,
+        "char_end": 220,
+        "bbox": [
+          88.8,
+          448.0849999999999,
+          516.7552900000001,
+          455.407
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 383,
+        "quote": "Bolt Assembly 16. Ring- Piston 23. Bearing",
+        "verified": true,
+        "char_start": 178,
+        "char_end": 220,
+        "bbox": [
+          88.8,
+          448.0849999999999,
+          516.7552900000001,
+          455.407
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 383,
+        "quote": "Lockplate 10. Shroud- Turbine Wheel 17. Ring- Seal 24. Ring- Retaining",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 294,
+        "bbox": [
+          89.03999999999999,
+          457.95599999999996,
+          545.02311,
+          465.25999999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Coupling--''V'\"\" Band 8. Wheel--Compressor 14. Backplate Assembly 21. Ring- Retaining",
+      "source_number": 1,
+      "installs": [
+        "accessory_drive_coupling",
+        "backplate_assembly",
+        "bottom_oil_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 383,
+        "quote": "Coupling--''V'\"\" Band 8. Wheel--Compressor 14. Backplate Assembly 21. Ring- Retaining",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 88,
+        "bbox": [
+          88.56,
+          427.6329999999999,
+          545.02311,
+          435.6329999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Housing--Compressor 9. Shaft- Turbine Wheel 15. Spacer- Thrust 22. Ring- Retaining",
+      "source_number": 2,
+      "installs": [
+        "of_the_flywheel_housing",
+        "end_of_the_shaft",
+        "blade_of_turbine_wheel",
+        "drive_gear_spacer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 383,
+        "quote": "Housing--Compressor 9. Shaft- Turbine Wheel 15. Spacer- Thrust 22. Ring- Retaining",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 174,
+        "bbox": [
+          89.04,
+          438.0369999999999,
+          544.9941600000001,
+          445.46299999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Bolt Assembly 16. Ring- Piston 23. Bearing",
+      "source_number": 3,
+      "installs": [
+        "engine_front_cover_bolt",
+        "of_the_selected_piston",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 383,
+        "quote": "Bolt Assembly 16. Ring- Piston 23. Bearing",
+        "verified": true,
+        "char_start": 178,
+        "char_end": 220,
+        "bbox": [
+          88.8,
+          448.0849999999999,
+          516.7552900000001,
+          455.407
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Lockplate 10. Shroud- Turbine Wheel 17. Ring- Seal 24. Ring- Retaining",
+      "source_number": 4,
+      "installs": [
+        "crankshaft_front_oil_seal"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 383,
+        "quote": "Lockplate 10. Shroud- Turbine Wheel 17. Ring- Seal 24. Ring- Retaining",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 294,
+        "bbox": [
+          89.03999999999999,
+          457.95599999999996,
+          545.02311,
+          465.25999999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

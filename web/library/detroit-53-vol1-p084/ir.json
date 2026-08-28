@@ -1,0 +1,464 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.147 - Remove the bolt and washer (Fig. 4)...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_shaft",
+      "name": "Accessory drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_shaft",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "woodruff_key",
+      "name": "Woodruff key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "woodruff_key",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the five bolts and lock washers which attach the drive retainer assembly to the flywheel housing. Remove the retainer assembly.",
+        "verified": true,
+        "char_start": 417,
+        "char_end": 551,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_retainer_assembly",
+      "name": "Drive retainer assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_retainer_assembly",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the five bolts and lock washers which attach the drive retainer assembly to the flywheel housing. Remove the retainer assembly.",
+        "verified": true,
+        "char_start": 417,
+        "char_end": 551,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the five bolts and lock washers which attach the drive retainer assembly to the flywheel housing. Remove the retainer assembly.",
+        "verified": true,
+        "char_start": 417,
+        "char_end": 551,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the accessory drive shaft, drive plate and spacer (Fig. 5), or drive hub (Fig. 4), in a manner similar to that outlined in Step 5 under removal of the direct gear-driven type accessory drive.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 753,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the accessory drive shaft, drive plate and spacer (Fig. 5), or drive hub (Fig. 4), in a manner similar to that outlined in Step 5 under removal of the direct gear-driven type accessory drive.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 753,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the accessory drive shaft, drive plate and spacer (Fig. 5), or drive hub (Fig. 4), in a manner similar to that outlined in Step 5 under removal of the direct gear-driven type accessory drive.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 753,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the accessory drive shaft, drive plate and spacer (Fig. 5), or drive hub (Fig. 4), in a manner similar to that outlined in Step 5 under removal of the direct gear-driven type accessory drive.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 753,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "direct_gear_driven_type",
+      "name": "Direct gear-driven type",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "direct_gear_driven_type",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the accessory drive shaft, drive plate and spacer (Fig. 5), or drive hub (Fig. 4), in a manner similar to that outlined in Step 5 under removal of the direct gear-driven type accessory drive.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 753,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive",
+      "name": "Accessory drive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the accessory drive shaft, drive plate and spacer (Fig. 5), or drive hub (Fig. 4), in a manner similar to that outlined in Step 5 under removal of the direct gear-driven type accessory drive.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 753,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the snap ring and ball bearing from the accessory drive shaft retainer assembly shown in Fig. 5.",
+        "verified": true,
+        "char_start": 757,
+        "char_end": 860,
+        "bbox": [
+          373.43999999999994,
+          116.41099999999994,
+          596.95194,
+          147.48299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "ball_bearing",
+      "name": "Ball bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ball_bearing",
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the snap ring and ball bearing from the accessory drive shaft retainer assembly shown in Fig. 5.",
+        "verified": true,
+        "char_start": 757,
+        "char_end": 860,
+        "bbox": [
+          373.43999999999994,
+          116.41099999999994,
+          596.95194,
+          147.48299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+      "source_number": 3,
+      "installs": [
+        "engine_front_cover_bolt",
+        "another_drive_flange_washer",
+        "nut_securing_fig",
+        "front_balance_weight_nut",
+        "crankshaft_splined_crankshaft_pulley",
+        "accessory_drive_shaft",
+        "fuel_pump_drive_gear",
+        "end_of_the_shaft",
+        "woodruff_key"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the bolt and washer (Fig. 4), or nut (Fig. 5), retaining the pulley on the drive shaft. 4 Useasuitable gear puller to remove the pulley from the drive shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 413,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the five bolts and lock washers which attach the drive retainer assembly to the flywheel housing. Remove the retainer assembly.",
+      "source_number": 5,
+      "installs": [
+        "special_lock_washer",
+        "drive_retainer_assembly",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the five bolts and lock washers which attach the drive retainer assembly to the flywheel housing. Remove the retainer assembly.",
+        "verified": true,
+        "char_start": 417,
+        "char_end": 551,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the accessory drive shaft, drive plate and spacer (Fig. 5), or drive hub (Fig. 4), in a manner similar to that outlined in Step 5 under removal of the direct gear-driven type accessory drive.",
+      "source_number": 6,
+      "installs": [
+        "assembly_rear_end_plate",
+        "drive_gear_spacer",
+        "blower_drive_hub",
+        "spray_nozzle_outlined",
+        "direct_gear_driven_type",
+        "accessory_drive"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the accessory drive shaft, drive plate and spacer (Fig. 5), or drive hub (Fig. 4), in a manner similar to that outlined in Step 5 under removal of the direct gear-driven type accessory drive.",
+        "verified": true,
+        "char_start": 555,
+        "char_end": 753,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the snap ring and ball bearing from the accessory drive shaft retainer assembly shown in Fig. 5.",
+      "source_number": 7,
+      "installs": [
+        "external_snap_ring",
+        "ball_bearing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 147,
+        "quote": "Remove the snap ring and ball bearing from the accessory drive shaft retainer assembly shown in Fig. 5.",
+        "verified": true,
+        "char_start": 757,
+        "char_end": 860,
+        "bbox": [
+          373.43999999999994,
+          116.41099999999994,
+          596.95194,
+          147.48299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

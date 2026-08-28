@@ -1,0 +1,355 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.69 - Apply grease or vegetable shortening to the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 69,
+        "quote": "Apply grease or vegetable shortening to the sealing lip; then, position the seal in the cover or outboard bearing support with the lip of the seal pointing toward the inner face of the cover or bearing support. s a OIL SEAL d Fig. 6 - In...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1176,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 69,
+        "quote": "Apply grease or vegetable shortening to the sealing lip; then, position the seal in the cover or outboard bearing support with the lip of the seal pointing toward the inner face of the cover or bearing support. s a OIL SEAL d Fig. 6 - In...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1176,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "outboard_bearing_support",
+      "name": "Outboard bearing support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outboard_bearing_support",
+      "provenance": {
+        "page": 69,
+        "quote": "Apply grease or vegetable shortening to the sealing lip; then, position the seal in the cover or outboard bearing support with the lip of the seal pointing toward the inner face of the cover or bearing support. s a OIL SEAL d Fig. 6 - In...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1176,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_seal",
+      "name": "Of the seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_seal",
+      "provenance": {
+        "page": 69,
+        "quote": "Apply grease or vegetable shortening to the sealing lip; then, position the seal in the cover or outboard bearing support with the lip of the seal pointing toward the inner face of the cover or bearing support. s a OIL SEAL d Fig. 6 - In...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1176,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 69,
+        "quote": "Apply grease or vegetable shortening to the sealing lip; then, position the seal in the cover or outboard bearing support with the lip of the seal pointing toward the inner face of the cover or bearing support. s a OIL SEAL d Fig. 6 - In...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1176,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 69,
+        "quote": "Apply grease or vegetable shortening to the sealing lip; then, position the seal in the cover or outboard bearing support with the lip of the seal pointing toward the inner face of the cover or bearing support. s a OIL SEAL d Fig. 6 - In...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1176,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 69,
+        "quote": "Apply grease or vegetable shortening to the sealing lip; then, position the seal in the cover or outboard bearing support with the lip of the seal pointing toward the inner face of the cover or bearing support. s a OIL SEAL d Fig. 6 - In...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1176,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 69,
+        "quote": "Apply grease or vegetable shortening to the sealing lip; then, position the seal in the cover or outboard bearing support with the lip of the seal pointing toward the inner face of the cover or bearing support. s a OIL SEAL d Fig. 6 - In...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1176,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-line and 6V engines, use installer J 9783 to press the oil seal into the cover until the seal is flush with the outside face of the cover. On early 8V engines, use installer J 21992. Effective with engine 8D-149, press the oil seal...",
+        "verified": true,
+        "char_start": 1264,
+        "char_end": 1559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-line and 6V engines, use installer J 9783 to press the oil seal into the cover until the seal is flush with the outside face of the cover. On early 8V engines, use installer J 21992. Effective with engine 8D-149, press the oil seal...",
+        "verified": true,
+        "char_start": 1264,
+        "char_end": 1559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "excess_sealant",
+      "name": "Excess sealant",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "excess_sealant",
+      "provenance": {
+        "page": 69,
+        "quote": "Remove all excess sealant.",
+        "verified": true,
+        "char_start": 1563,
+        "char_end": 1589,
+        "bbox": [
+          352.8,
+          176.808,
+          463.45408000000003,
+          184.808
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover",
+      "name": "Engine front cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover",
+      "provenance": {
+        "page": 69,
+        "quote": "Install the engine front cover or the outboard bearing support.",
+        "verified": true,
+        "char_start": 1593,
+        "char_end": 1656,
+        "bbox": [
+          341.9999999999999,
+          197.2489999999999,
+          576.8311999999999,
+          218.06399999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply grease or vegetable shortening to the sealing lip; then, position the seal in the cover or outboard bearing support with the lip of the seal pointing toward the inner face of the cover or bearing support. s a OIL SEAL d Fig. 6 - Installing Oil! Seal in Flywheel Housing",
+      "source_number": 2,
+      "installs": [
+        "crankshaft_front_oil_seal",
+        "underside_of_the_cover",
+        "outboard_bearing_support",
+        "of_the_seal",
+        "bearing_the_end_bearing",
+        "blower_drive_support",
+        "nut_securing_fig",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "Apply grease or vegetable shortening to the sealing lip; then, position the seal in the cover or outboard bearing support with the lip of the seal pointing toward the inner face of the cover or bearing support. s a OIL SEAL d Fig. 6 - In...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1176,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the cover or outboard bearing support in an arbor press (1nner face down).",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "Place the cover or outboard bearing support in an arbor press (1nner face down).",
+        "verified": true,
+        "char_start": 1180,
+        "char_end": 1260,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "On In-line and 6V engines, use installer J 9783 to press the oil seal into the cover until the seal is flush with the outside face of the cover. On early 8V engines, use installer J 21992. Effective with engine 8D-149, press the oil seal into the outboard bearing support with installer J 22153.",
+      "source_number": 4,
+      "installs": [
+        "tbe_lubricating_oil_line",
+        "oil_seal_installer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "On In-line and 6V engines, use installer J 9783 to press the oil seal into the cover until the seal is flush with the outside face of the cover. On early 8V engines, use installer J 21992. Effective with engine 8D-149, press the oil seal...",
+        "verified": true,
+        "char_start": 1264,
+        "char_end": 1559,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove all excess sealant.",
+      "source_number": 5,
+      "installs": [
+        "excess_sealant"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "Remove all excess sealant.",
+        "verified": true,
+        "char_start": 1563,
+        "char_end": 1589,
+        "bbox": [
+          352.8,
+          176.808,
+          463.45408000000003,
+          184.808
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the engine front cover or the outboard bearing support.",
+      "source_number": 6,
+      "installs": [
+        "engine_front_cover"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "Install the engine front cover or the outboard bearing support.",
+        "verified": true,
+        "char_start": 1593,
+        "char_end": 1656,
+        "bbox": [
+          341.9999999999999,
+          197.2489999999999,
+          576.8311999999999,
+          218.06399999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

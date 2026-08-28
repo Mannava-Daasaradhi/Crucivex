@@ -1,0 +1,824 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.133 - Clean the idler gear and bearing assembly...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 133,
+        "quote": "Clean the idler gear and bearing assembly with fuel gear. Also inspect the other gears in the gear train. oil and dry it with compressed air.",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 482,
+        "bbox": [
+          47.75999999999999,
+          357.2129999999999,
+          540.3,
+          378.1619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 133,
+        "quote": "Clean the idler gear and bearing assembly with fuel gear. Also inspect the other gears in the gear train. oil and dry it with compressed air.",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 482,
+        "bbox": [
+          47.75999999999999,
+          357.2129999999999,
+          540.3,
+          378.1619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 133,
+        "quote": "Clean the idler gear and bearing assembly with fuel gear. Also inspect the other gears in the gear train. oil and dry it with compressed air.",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 482,
+        "bbox": [
+          47.75999999999999,
+          357.2129999999999,
+          540.3,
+          378.1619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 133,
+        "quote": "Clean the idler gear and bearing assembly with fuel gear. Also inspect the other gears in the gear train. oil and dry it with compressed air.",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 482,
+        "bbox": [
+          47.75999999999999,
+          357.2129999999999,
+          540.3,
+          378.1619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_cone",
+      "name": "Bearing cone",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cone",
+      "provenance": {
+        "page": 133,
+        "quote": "Place the idler gear and bearing assembly in an arbor press with the bearing cone or inner race supported on steel blocks as shown in Fig. 5. While rotating the gear assembly, press the hub out of the bearing. Remove the gear assembly fr...",
+        "verified": true,
+        "char_start": 486,
+        "char_end": 782,
+        "bbox": [
+          48.0,
+          391.17499999999995,
+          289.92030000000005,
+          455.5009999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 133,
+        "quote": "Place the idler gear and bearing assembly in an arbor press with the bearing cone or inner race supported on steel blocks as shown in Fig. 5. While rotating the gear assembly, press the hub out of the bearing. Remove the gear assembly fr...",
+        "verified": true,
+        "char_start": 486,
+        "char_end": 782,
+        "bbox": [
+          48.0,
+          391.17499999999995,
+          289.92030000000005,
+          455.5009999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 133,
+        "quote": "Place the idler gear and bearing assembly in an arbor press with the bearing cone or inner race supported on steel blocks as shown in Fig. 5. While rotating the gear assembly, press the hub out of the bearing. Remove the gear assembly fr...",
+        "verified": true,
+        "char_start": 486,
+        "char_end": 782,
+        "bbox": [
+          48.0,
+          391.17499999999995,
+          289.92030000000005,
+          455.5009999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 133,
+        "quote": "Place the idler gear and bearing assembly in an arbor press with the bearing cone or inner race supported on steel blocks as shown in Fig. 5. While rotating the gear assembly, press the hub out of the bearing. Remove the gear assembly fr...",
+        "verified": true,
+        "char_start": 486,
+        "char_end": 782,
+        "bbox": [
+          48.0,
+          391.17499999999995,
+          289.92030000000005,
+          455.5009999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "driven_gear_assembly",
+      "name": "Driven gear assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "driven_gear_assembly",
+      "provenance": {
+        "page": 133,
+        "quote": "Place the idler gear and bearing assembly in an arbor press with the bearing cone or inner race supported on steel blocks as shown in Fig. 5. While rotating the gear assembly, press the hub out of the bearing. Remove the gear assembly fr...",
+        "verified": true,
+        "char_start": 486,
+        "char_end": 782,
+        "bbox": [
+          48.0,
+          391.17499999999995,
+          289.92030000000005,
+          455.5009999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 133,
+        "quote": "Place the idler gear and bearing assembly in an arbor press with the bearing cone or inner race supported on steel blocks as shown in Fig. 5. While rotating the gear assembly, press the hub out of the bearing. Remove the gear assembly fr...",
+        "verified": true,
+        "char_start": 486,
+        "char_end": 782,
+        "bbox": [
+          48.0,
+          391.17499999999995,
+          289.92030000000005,
+          455.5009999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_bearing",
+      "name": "Of the bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bearing",
+      "provenance": {
+        "page": 133,
+        "quote": "Place the idler gear and bearing assembly in an arbor press with the bearing cone or inner race supported on steel blocks as shown in Fig. 5. While rotating the gear assembly, press the hub out of the bearing. Remove the gear assembly fr...",
+        "verified": true,
+        "char_start": 486,
+        "char_end": 782,
+        "bbox": [
+          48.0,
+          391.17499999999995,
+          289.92030000000005,
+          455.5009999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 133,
+        "quote": "Place the idler gear and bearing assembly in an arbor press with the bearing cone or inner race supported on steel blocks as shown in Fig. 5. While rotating the gear assembly, press the hub out of the bearing. Remove the gear assembly fr...",
+        "verified": true,
+        "char_start": 486,
+        "char_end": 782,
+        "bbox": [
+          48.0,
+          391.17499999999995,
+          289.92030000000005,
+          455.5009999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 133,
+        "quote": "Tap the bearing cups and spacer (current gear) or bearing cup (former gear) from the idler gear by using a brass drift alternately at four notches provided around the shoulder of the gear. 3/16\u201d RADIUS",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 987,
+        "bbox": [
+          47.99999999999997,
+          467.8539999999999,
+          460.8477,
+          524.1669999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 133,
+        "quote": "Tap the bearing cups and spacer (current gear) or bearing cup (former gear) from the idler gear by using a brass drift alternately at four notches provided around the shoulder of the gear. 3/16\u201d RADIUS",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 987,
+        "bbox": [
+          47.99999999999997,
+          467.8539999999999,
+          460.8477,
+          524.1669999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 133,
+        "quote": "Tap the bearing cups and spacer (current gear) or bearing cup (former gear) from the idler gear by using a brass drift alternately at four notches provided around the shoulder of the gear. 3/16\u201d RADIUS",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 987,
+        "bbox": [
+          47.99999999999997,
+          467.8539999999999,
+          460.8477,
+          524.1669999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "inner_bearing",
+      "name": "Inner bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner_bearing",
+      "provenance": {
+        "page": 134,
+        "quote": "Position the gear with both cups over the hub and Assemble Idler Gear, Hub and Bearing the inner bearing cone.",
+        "verified": true,
+        "char_start": 320,
+        "char_end": 430,
+        "bbox": [
+          84.48,
+          333.0899999999999,
+          589.1951999999999,
+          353.90899999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the outer idler gear bearing cone over the hub Refer to Fig. 8 and assemble the bearing components while rotating the gear to seat the rollers properly in their original positions (refer to identificauon marks between the cones. Th...",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 912,
+        "bbox": [
+          84.47999999999996,
+          367.04999999999995,
+          590.4578000000001,
+          444.86599999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_component",
+      "name": "Bearing component",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_component",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the outer idler gear bearing cone over the hub Refer to Fig. 8 and assemble the bearing components while rotating the gear to seat the rollers properly in their original positions (refer to identificauon marks between the cones. Th...",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 912,
+        "bbox": [
+          84.47999999999996,
+          367.04999999999995,
+          590.4578000000001,
+          444.86599999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the outer idler gear bearing cone over the hub Refer to Fig. 8 and assemble the bearing components while rotating the gear to seat the rollers properly in their original positions (refer to identificauon marks between the cones. Th...",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 912,
+        "bbox": [
+          84.47999999999996,
+          367.04999999999995,
+          590.4578000000001,
+          444.86599999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cam_follower_roller",
+      "name": "Cam follower roller",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_roller",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the outer idler gear bearing cone over the hub Refer to Fig. 8 and assemble the bearing components while rotating the gear to seat the rollers properly in their original positions (refer to identificauon marks between the cones. Th...",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 912,
+        "bbox": [
+          84.47999999999996,
+          367.04999999999995,
+          590.4578000000001,
+          444.86599999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the outer idler gear bearing cone over the hub Refer to Fig. 8 and assemble the bearing components while rotating the gear to seat the rollers properly in their original positions (refer to identificauon marks between the cones. Th...",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 912,
+        "bbox": [
+          84.47999999999996,
+          367.04999999999995,
+          590.4578000000001,
+          444.86599999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 134,
+        "quote": "Before installing the gear and bearing assembly, check the pre-load. |. Support the idler gear, shoulder down, on the bed of an arbor press. Start one of the bearing cups. FORMER BEARING numbered side up, squarely into the bore of the ge...",
+        "verified": true,
+        "char_start": 916,
+        "char_end": 1457,
+        "bbox": [
+          83.51999999999998,
+          435.12899999999996,
+          589.2376,
+          523.69
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 134,
+        "quote": "Before installing the gear and bearing assembly, check the pre-load. |. Support the idler gear, shoulder down, on the bed of an arbor press. Start one of the bearing cups. FORMER BEARING numbered side up, squarely into the bore of the ge...",
+        "verified": true,
+        "char_start": 916,
+        "char_end": 1457,
+        "bbox": [
+          83.51999999999998,
+          435.12899999999996,
+          589.2376,
+          523.69
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "steel_plate",
+      "name": "Steel plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "steel_plate",
+      "provenance": {
+        "page": 134,
+        "quote": "Before installing the gear and bearing assembly, check the pre-load. |. Support the idler gear, shoulder down, on the bed of an arbor press. Start one of the bearing cups. FORMER BEARING numbered side up, squarely into the bore of the ge...",
+        "verified": true,
+        "char_start": 916,
+        "char_end": 1457,
+        "bbox": [
+          83.51999999999998,
+          435.12899999999996,
+          589.2376,
+          523.69
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 134,
+        "quote": "Before installing the gear and bearing assembly, check the pre-load. |. Support the idler gear, shoulder down, on the bed of an arbor press. Start one of the bearing cups. FORMER BEARING numbered side up, squarely into the bore of the ge...",
+        "verified": true,
+        "char_start": 916,
+        "char_end": 1457,
+        "bbox": [
+          83.51999999999998,
+          435.12899999999996,
+          589.2376,
+          523.69
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clean the idler gear and bearing assembly with fuel gear. Also inspect the other gears in the gear train. oil and dry it with compressed air.",
+      "source_number": 2,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "idler_gear",
+        "bearing_the_end_bearing",
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 133,
+        "quote": "Clean the idler gear and bearing assembly with fuel gear. Also inspect the other gears in the gear train. oil and dry it with compressed air.",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 482,
+        "bbox": [
+          47.75999999999999,
+          357.2129999999999,
+          540.3,
+          378.1619999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the idler gear and bearing assembly in an arbor press with the bearing cone or inner race supported on steel blocks as shown in Fig. 5. While rotating the gear assembly, press the hub out of the bearing. Remove the gear assembly from the arbor press and remove the bearing cones and spacer.",
+      "source_number": 3,
+      "installs": [
+        "bearing_cone",
+        "side_of_the_inner",
+        "of_the_block",
+        "nut_securing_fig",
+        "driven_gear_assembly",
+        "blower_drive_hub",
+        "of_the_bearing",
+        "drive_gear_spacer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 133,
+        "quote": "Place the idler gear and bearing assembly in an arbor press with the bearing cone or inner race supported on steel blocks as shown in Fig. 5. While rotating the gear assembly, press the hub out of the bearing. Remove the gear assembly fr...",
+        "verified": true,
+        "char_start": 486,
+        "char_end": 782,
+        "bbox": [
+          48.0,
+          391.17499999999995,
+          289.92030000000005,
+          455.5009999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Tap the bearing cups and spacer (current gear) or bearing cup (former gear) from the idler gear by using a brass drift alternately at four notches provided around the shoulder of the gear. 3/16\u201d RADIUS",
+      "source_number": 4,
+      "installs": [
+        "engine_front_cover_current",
+        "of_the_former",
+        "shoulder"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 133,
+        "quote": "Tap the bearing cups and spacer (current gear) or bearing cup (former gear) from the idler gear by using a brass drift alternately at four notches provided around the shoulder of the gear. 3/16\u201d RADIUS",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 987,
+        "bbox": [
+          47.99999999999997,
+          467.8539999999999,
+          460.8477,
+          524.1669999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Position the gear with both cups over the hub and Assemble Idler Gear, Hub and Bearing the inner bearing cone.",
+      "source_number": 6,
+      "installs": [
+        "inner_bearing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 134,
+        "quote": "Position the gear with both cups over the hub and Assemble Idler Gear, Hub and Bearing the inner bearing cone.",
+        "verified": true,
+        "char_start": 320,
+        "char_end": 430,
+        "bbox": [
+          84.48,
+          333.0899999999999,
+          589.1951999999999,
+          353.90899999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Press the outer idler gear bearing cone over the hub Refer to Fig. 8 and assemble the bearing components while rotating the gear to seat the rollers properly in their original positions (refer to identificauon marks between the cones. The bearing cones must be made during disassembly) as outlined below: supported so as not to load the bearing rollers during this operation. NOTE: The current idler gear bearing is a matched assembly. Do not mix the components.",
+      "source_number": 7,
+      "installs": [
+        "idler_gear_outer",
+        "bearing_component",
+        "insert_remover_valve_seat",
+        "cam_follower_roller",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The current idler gear bearing is a matched assembly.",
+      "provenance": {
+        "page": 134,
+        "quote": "Press the outer idler gear bearing cone over the hub Refer to Fig. 8 and assemble the bearing components while rotating the gear to seat the rollers properly in their original positions (refer to identificauon marks between the cones. Th...",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 912,
+        "bbox": [
+          84.47999999999996,
+          367.04999999999995,
+          590.4578000000001,
+          444.86599999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Before installing the gear and bearing assembly, check the pre-load. |. Support the idler gear, shoulder down, on the bed of an arbor press. Start one of the bearing cups. FORMER BEARING numbered side up, squarely into the bore of the gear. Then press the bearing cup against the shoulder of the Assemble the bearing components in their original gear. Use a flat round steel plate (pre-load test plate) positions (refer to the identification marks made between the ram of the press and the bearing cup. during disassembly) as outlined below.",
+      "source_number": 8,
+      "installs": [
+        "blower_drive_support",
+        "flat",
+        "steel_plate",
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 134,
+        "quote": "Before installing the gear and bearing assembly, check the pre-load. |. Support the idler gear, shoulder down, on the bed of an arbor press. Start one of the bearing cups. FORMER BEARING numbered side up, squarely into the bore of the ge...",
+        "verified": true,
+        "char_start": 916,
+        "char_end": 1457,
+        "bbox": [
+          83.51999999999998,
+          435.12899999999996,
+          589.2376,
+          523.69
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

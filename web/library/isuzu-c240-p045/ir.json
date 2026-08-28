@@ -1,0 +1,200 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.160 - Test Conditions : : Pump rotation ...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "fuel_injection_pipe",
+      "name": "Fuel injection pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_injection_pipe",
+      "provenance": {
+        "page": 160,
+        "quote": "Test Conditions : : Pump rotation : clockwise (viewed from drive side) Nozzle : 000000\u20140000 Nozzle Ho'< : 000000\u20140000 (BOSCH Type No. D0N12S012T) (BOSCH Type No. EF8511/9A) Nozzle opening pressure : 175 Kg/cm\u2019 ressure : 1.6 Kg/cm? Inject...",
+        "verified": true,
+        "char_start": 110,
+        "char_end": 455,
+        "bbox": [
+          84.0,
+          134.13049999999998,
+          490.82889000000006,
+          242.88909999999998
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "inner",
+      "name": "Inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner",
+      "provenance": {
+        "page": 160,
+        "quote": "Test Conditions : : Pump rotation : clockwise (viewed from drive side) Nozzle : 000000\u20140000 Nozzle Ho'< : 000000\u20140000 (BOSCH Type No. D0N12S012T) (BOSCH Type No. EF8511/9A) Nozzle opening pressure : 175 Kg/cm\u2019 ressure : 1.6 Kg/cm? Inject...",
+        "verified": true,
+        "char_start": 110,
+        "char_end": 455,
+        "bbox": [
+          84.0,
+          134.13049999999998,
+          490.82889000000006,
+          242.88909999999998
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Test Conditions : : Pump rotation : clockwise (viewed from drive side) Nozzle : 000000\u20140000 Nozzle Ho'< : 000000\u20140000 (BOSCH Type No. D0N12S012T) (BOSCH Type No. EF8511/9A) Nozzle opening pressure : 175 Kg/cm\u2019 ressure : 1.6 Kg/cm? Injection pipe : Inner Dia. 2 mmy \u00abta Length 600 mm Test Oil : 1S04113 or SAE \u20ac ~il(SAE J967d) Oil Temp. : 407\u00b0 \u00b0C",
+      "source_number": 1,
+      "installs": [
+        "fuel_injection_pipe",
+        "inner"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 160,
+        "quote": "Test Conditions : : Pump rotation : clockwise (viewed from drive side) Nozzle : 000000\u20140000 Nozzle Ho'< : 000000\u20140000 (BOSCH Type No. D0N12S012T) (BOSCH Type No. EF8511/9A) Nozzle opening pressure : 175 Kg/cm\u2019 ressure : 1.6 Kg/cm? Inject...",
+        "verified": true,
+        "char_start": 110,
+        "char_end": 455,
+        "bbox": [
+          84.0,
+          134.13049999999998,
+          490.82889000000006,
+          242.88909999999998
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Injection Timing : Pre-stroke : No. 1 Plunger 3.4 +0.05mm Note ; Adjust with control rod position of mm Injection order : | we 3 l re 4, 1 Ww 2 {interval : *+30') Plungers are numbered from the Drive side. Tappet clearance : Bolt adjustment type ; More than 0. 3mm for all cylinders. : Shim adjustment type ; Manually rotate the camshaft 2~3 times and confirm that it rotates smoothly.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note ; Adjust with control rod position of mm Injection order : | we 3 l re 4, 1 Ww 2 {interval : *+30') Plungers are numbered from the Drive side.",
+      "provenance": {
+        "page": 160,
+        "quote": "Injection Timing : Pre-stroke : No. 1 Plunger 3.4 +0.05mm Note ; Adjust with control rod position of mm Injection order : | we 3 l re 4, 1 Ww 2 {interval : *+30') Plungers are numbered from the Drive side. Tappet clearance : Bolt adjustm...",
+        "verified": true,
+        "char_start": 498,
+        "char_end": 883,
+        "bbox": [
+          85.44000000000021,
+          270.3355,
+          539.6293600000002,
+          392.77970000000005
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "injectorsQ uantity : : Pump er ' Max. var Adjust- Paaon Speed re a bePt. - a Remarks ing Point <i (r.p.m) (cc/ strokes (%)",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 160,
+        "quote": "injectorsQ uantity : : Pump er ' Max. var Adjust- Paaon Speed re a bePt. - a Remarks ing Point <i (r.p.m) (cc/ strokes (%)",
+        "verified": true,
+        "char_start": 887,
+        "char_end": 1009,
+        "bbox": [
+          80.39999999999998,
+          402.28180000000003,
+          492.31577733333336,
+          439.94870000000003
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Timing Advance Specification :",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 160,
+        "quote": "Timing Advance Specification :",
+        "verified": true,
+        "char_start": 1013,
+        "char_end": 1043,
+        "bbox": [
+          97.68,
+          614.1485,
+          260.64498,
+          624.6485
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "DIESEL KIKI) Service Department Tel. (03) 400-1551 -Fax: (03) 499-4915 .",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 160,
+        "quote": "DIESEL KIKI) Service Department Tel. (03) 400-1551 -Fax: (03) 499-4915 .",
+        "verified": true,
+        "char_start": 1153,
+        "char_end": 1225,
+        "bbox": [
+          158.80356139999998,
+          709.727008856,
+          520.6902184,
+          718.0801403333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

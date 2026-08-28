@@ -1,0 +1,265 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.98 - Place the piston on the fixture so...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 98,
+        "quote": "Place the piston on the fixture so that the spacer protrudes into the bushing bore.",
+        "verified": true,
+        "char_start": 198,
+        "char_end": 281,
+        "bbox": [
+          54.71999999999997,
+          527.367,
+          294.68219999999997,
+          549.9479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fixture",
+      "name": "Fixture",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fixture",
+      "provenance": {
+        "page": 98,
+        "quote": "Place the piston on the fixture so that the spacer protrudes into the bushing bore.",
+        "verified": true,
+        "char_start": 198,
+        "char_end": 281,
+        "bbox": [
+          54.71999999999997,
+          527.367,
+          294.68219999999997,
+          549.9479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 98,
+        "quote": "Place the piston on the fixture so that the spacer protrudes into the bushing bore.",
+        "verified": true,
+        "char_start": 198,
+        "char_end": 281,
+        "bbox": [
+          54.71999999999997,
+          527.367,
+          294.68219999999997,
+          549.9479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bushing_bore",
+      "name": "Bushing bore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bushing_bore",
+      "provenance": {
+        "page": 98,
+        "quote": "Place the piston on the fixture so that the spacer protrudes into the bushing bore.",
+        "verified": true,
+        "char_start": 198,
+        "char_end": 281,
+        "bbox": [
+          54.71999999999997,
+          527.367,
+          294.68219999999997,
+          549.9479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 98,
+        "quote": "Insert the installer J 4972-2 in a bushing, then position the bushing and installer over the lower bushing bore. NOTE: Locate the joint in the bushing toward the bottom of the piston (Fig. 6).",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 477,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 98,
+        "quote": "Insert the installer J 4972-2 in a bushing, then position the bushing and installer over the lower bushing bore. NOTE: Locate the joint in the bushing toward the bottom of the piston (Fig. 6).",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 477,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 98,
+        "quote": "Insert the installer J 4972-2 in a bushing, then position the bushing and installer over the lower bushing bore. NOTE: Locate the joint in the bushing toward the bottom of the piston (Fig. 6).",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 477,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Place the piston on the fixture so that the spacer protrudes into the bushing bore.",
+      "source_number": 2,
+      "installs": [
+        "of_the_selected_piston",
+        "fixture",
+        "drive_gear_spacer",
+        "bushing_bore"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 98,
+        "quote": "Place the piston on the fixture so that the spacer protrudes into the bushing bore.",
+        "verified": true,
+        "char_start": 198,
+        "char_end": 281,
+        "bbox": [
+          54.71999999999997,
+          527.367,
+          294.68219999999997,
+          549.9479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Insert the installer J 4972-2 in a bushing, then position the bushing and installer over the lower bushing bore. NOTE: Locate the joint in the bushing toward the bottom of the piston (Fig. 6).",
+      "source_number": 3,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "oil_seal_installer",
+        "connecting_rod_bushing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: Locate the joint in the bushing toward the bottom of the piston (Fig.",
+      "provenance": {
+        "page": 98,
+        "quote": "Insert the installer J 4972-2 in a bushing, then position the bushing and installer over the lower bushing bore. NOTE: Locate the joint in the bushing toward the bottom of the piston (Fig. 6).",
+        "verified": true,
+        "char_start": 285,
+        "char_end": 477,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Insert the handle J 1513-2 in the bushing installer and drive the bushing in until it bottoms on the spacer.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 98,
+        "quote": "Insert the handle J 1513-2 in the bushing installer and drive the bushing in until it bottoms on the spacer.",
+        "verified": true,
+        "char_start": 481,
+        "char_end": 589,
+        "bbox": [
+          54.96,
+          655.1679999999999,
+          295.8372,
+          689.766
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the second bushing in the same manner. 2042",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 98,
+        "quote": "Install the second bushing in the same manner. 2042",
+        "verified": true,
+        "char_start": 593,
+        "char_end": 644,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

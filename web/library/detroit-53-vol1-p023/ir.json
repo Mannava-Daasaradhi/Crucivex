@@ -1,0 +1,425 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.47 - Install a flat washer and nut on...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 47,
+        "quote": "Reinstall the nut on the push rod. Screw the nut Install Cam Follower and Push Rod Assembly down as far as possible on the push rod. Then screw (Cylinder Head Not Removed from Engine) the rocker arm clevis down on the push rod until the ...",
+        "verified": true,
+        "char_start": 2154,
+        "char_end": 2690,
+        "bbox": [
+          83.75999999999996,
+          620.971,
+          593.4488999999999,
+          706.9159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 47,
+        "quote": "Reinstall the nut on the push rod. Screw the nut Install Cam Follower and Push Rod Assembly down as far as possible on the push rod. Then screw (Cylinder Head Not Removed from Engine) the rocker arm clevis down on the push rod until the ...",
+        "verified": true,
+        "char_start": 2154,
+        "char_end": 2690,
+        "bbox": [
+          83.75999999999996,
+          620.971,
+          593.4488999999999,
+          706.9159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 47,
+        "quote": "Reinstall the nut on the push rod. Screw the nut Install Cam Follower and Push Rod Assembly down as far as possible on the push rod. Then screw (Cylinder Head Not Removed from Engine) the rocker arm clevis down on the push rod until the ...",
+        "verified": true,
+        "char_start": 2154,
+        "char_end": 2690,
+        "bbox": [
+          83.75999999999996,
+          620.971,
+          593.4488999999999,
+          706.9159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper spring seat. Screw the nut down on the push rod until the spring is compressed sufficiently and the cam follower guide (Fig. 9). If there is insufficient clearance, loosen the guide bolts slightly to permit the retainer to be installed. Partially collapse and tap each corner of the guide with a brass rod the retainer and install it in the cylinder head groove. (Fig. 10). Then retighten the bolts to 12-15 lb-ft torque and recheck the clearance. 8. Remove the nut, flat washer and tool from the push rod.",
+      "source_number": 7,
+      "installs": [
+        "flat_washer",
+        "front_balance_weight_nut",
+        "push_rod",
+        "engine_front_cover_bolt",
+        "bearing_pilot_rod",
+        "flat",
+        "cam_follower",
+        "another_drive_flange_washer",
+        "hammer_spring_scale_upper",
+        "drive_spring_seat",
+        "of_the_buffer_screw",
+        "end_of_the_spring",
+        "cam_follower_guide",
+        "nut_securing_fig",
+        "drive_shaft_retainer",
+        "cylinder_head",
+        "of_the_groove"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 16.3,
+      "warning": null,
+      "provenance": {
+        "page": 47,
+        "quote": "Install a flat washer and nut on the push rod. Then bolts to 12-15 Ib-ft torque. Check to be sure there is at place tool J 3092-01 on the push rod, between the flat least .005 \u201d clearance between the cam follower legs washer and upper sp...",
+        "verified": true,
+        "char_start": 1409,
+        "char_end": 2150,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Reinstall the nut on the push rod. Screw the nut Install Cam Follower and Push Rod Assembly down as far as possible on the push rod. Then screw (Cylinder Head Not Removed from Engine) the rocker arm clevis down on the push rod until the end of the push rod is flush with or above the inner l. Lubricate the cam follower as stated in Step 6 under side of the clevis. Install Cam Follower and Push Rod Assembly (Cylinder Head Removed from Engine). NOTE: The injector rocker arm (the center arm of the group) is slightly different from the",
+      "source_number": 9,
+      "installs": [
+        "rocker_arm",
+        "side_of_the_inner",
+        "t_push_rod_cam"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The injector rocker arm (the center arm of the group) is slightly different from the",
+      "provenance": {
+        "page": 47,
+        "quote": "Reinstall the nut on the push rod. Screw the nut Install Cam Follower and Push Rod Assembly down as far as possible on the push rod. Then screw (Cylinder Head Not Removed from Engine) the rocker arm clevis down on the push rod until the ...",
+        "verified": true,
+        "char_start": 2154,
+        "char_end": 2690,
+        "bbox": [
+          83.75999999999996,
+          620.971,
+          593.4488999999999,
+          706.9159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

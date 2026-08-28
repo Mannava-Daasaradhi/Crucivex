@@ -1,0 +1,665 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.189 - Slide the rack control lever over so...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "rack_control_lever",
+      "name": "Rack control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rack_control_lever",
+      "provenance": {
+        "page": 189,
+        "quote": "Slide the rack control lever over so that it fully engages the injector rack clevis.",
+        "verified": true,
+        "char_start": 575,
+        "char_end": 659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_rack",
+      "name": "Injector rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_rack",
+      "provenance": {
+        "page": 189,
+        "quote": "Slide the rack control lever over so that it fully engages the injector rack clevis.",
+        "verified": true,
+        "char_start": 575,
+        "char_end": 659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_clamp",
+      "name": "Injector clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_clamp",
+      "provenance": {
+        "page": 189,
+        "quote": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhau...",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_washer",
+      "name": "Special washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_washer",
+      "provenance": {
+        "page": 189,
+        "quote": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhau...",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 189,
+        "quote": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhau...",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 189,
+        "quote": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhau...",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 189,
+        "quote": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhau...",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "follower_spring",
+      "name": "Follower spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_spring",
+      "provenance": {
+        "page": 189,
+        "quote": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhau...",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 189,
+        "quote": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhau...",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_rack",
+      "name": "Injector control rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_rack",
+      "provenance": {
+        "page": 189,
+        "quote": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhau...",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bind",
+      "name": "Bind",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bind",
+      "provenance": {
+        "page": 189,
+        "quote": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhau...",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm_bracket",
+      "name": "Rocker arm bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm_bracket",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_cylinder",
+      "name": "Valve cylinder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_cylinder",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_an_exhaust_valve",
+      "name": "Insert an exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_an_exhaust_valve",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_exhaust_valve",
+      "name": "Of the exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_exhaust_valve",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_shaft",
+      "name": "Rocker shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_shaft",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bracket_bolt",
+      "name": "Bracket bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bracket_bolt",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "leaking_fuel_pipe",
+      "name": "Leaking fuel pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "leaking_fuel_pipe",
+      "provenance": {
+        "page": 189,
+        "quote": "Install fuel pipes: Remove the shipping caps. Align the fuel pipes and connect them to the injectors and the fuel connectors. NOTICE: DDC recommends that the original fuel pipes not be reused. New flared end fuel pipes should be installe...",
+        "verified": true,
+        "char_start": 1607,
+        "char_end": 4209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 189,
+        "quote": "Install fuel pipes: Remove the shipping caps. Align the fuel pipes and connect them to the injectors and the fuel connectors. NOTICE: DDC recommends that the original fuel pipes not be reused. New flared end fuel pipes should be installe...",
+        "verified": true,
+        "char_start": 1607,
+        "char_end": 4209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_connector",
+      "name": "Fuel connector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_connector",
+      "provenance": {
+        "page": 189,
+        "quote": "Install fuel pipes: Remove the shipping caps. Align the fuel pipes and connect them to the injectors and the fuel connectors. NOTICE: DDC recommends that the original fuel pipes not be reused. New flared end fuel pipes should be installe...",
+        "verified": true,
+        "char_start": 1607,
+        "char_end": 4209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pipe_nut",
+      "name": "Fuel pipe nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pipe_nut",
+      "provenance": {
+        "page": 189,
+        "quote": "Install fuel pipes: Remove the shipping caps. Align the fuel pipes and connect them to the injectors and the fuel connectors. NOTICE: DDC recommends that the original fuel pipes not be reused. New flared end fuel pipes should be installe...",
+        "verified": true,
+        "char_start": 1607,
+        "char_end": 4209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 189,
+        "quote": "Install fuel pipes: Remove the shipping caps. Align the fuel pipes and connect them to the injectors and the fuel connectors. NOTICE: DDC recommends that the original fuel pipes not be reused. New flared end fuel pipes should be installe...",
+        "verified": true,
+        "char_start": 1607,
+        "char_end": 4209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 189,
+        "quote": "Install fuel pipes: Remove the shipping caps. Align the fuel pipes and connect them to the injectors and the fuel connectors. NOTICE: DDC recommends that the original fuel pipes not be reused. New flared end fuel pipes should be installe...",
+        "verified": true,
+        "char_start": 1607,
+        "char_end": 4209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 189,
+        "quote": "Install fuel pipes: Remove the shipping caps. Align the fuel pipes and connect them to the injectors and the fuel connectors. NOTICE: DDC recommends that the original fuel pipes not be reused. New flared end fuel pipes should be installe...",
+        "verified": true,
+        "char_start": 1607,
+        "char_end": 4209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 189,
+        "quote": "Perform a complete engine tune-up as outlined in Section 14. However, if only one injector has been removed and replaced and the other injectors and the governor adjustment have not been disturbed, it will only be necessary to adjust the...",
+        "verified": true,
+        "char_start": 4213,
+        "char_end": 4560,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 189,
+        "quote": "Perform a complete engine tune-up as outlined in Section 14. However, if only one injector has been removed and replaced and the other injectors and the governor adjustment have not been disturbed, it will only be necessary to adjust the...",
+        "verified": true,
+        "char_start": 4213,
+        "char_end": 4560,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_rack_control",
+      "name": "Injector rack control",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_rack_control",
+      "provenance": {
+        "page": 189,
+        "quote": "Perform a complete engine tune-up as outlined in Section 14. However, if only one injector has been removed and replaced and the other injectors and the governor adjustment have not been disturbed, it will only be necessary to adjust the...",
+        "verified": true,
+        "char_start": 4213,
+        "char_end": 4560,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 189,
+        "quote": "Perform a complete engine tune-up as outlined in Section 14. However, if only one injector has been removed and replaced and the other injectors and the governor adjustment have not been disturbed, it will only be necessary to adjust the...",
+        "verified": true,
+        "char_start": 4213,
+        "char_end": 4560,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Slide the rack control lever over so that it fully engages the injector rack clevis.",
+      "source_number": 2,
+      "installs": [
+        "rack_control_lever",
+        "injector_rack"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 189,
+        "quote": "Slide the rack control lever over so that it fully engages the injector rack clevis.",
+        "verified": true,
+        "char_start": 575,
+        "char_end": 659,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhaust valve springs. NOTICE: Check the injector control rack for free movement. Excess torque can cause the control rack to stick or bind.",
+      "source_number": 3,
+      "installs": [
+        "injector_clamp",
+        "special_washer",
+        "end_of_the_injector",
+        "breather_tube_clamp",
+        "engine_front_cover_bolt",
+        "follower_spring",
+        "exhaust_valve_spring",
+        "injector_control_rack",
+        "bind"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": null,
+      "provenance": {
+        "page": 189,
+        "quote": "Install the injector clamp, special washer (with curved side toward injector clamp) and bolt. Tighten the bolt to 20-25 lb-ft (27-34 N- m) torque. Make sure that the clamp does not interfere with the injector follower spring or the exhau...",
+        "verified": true,
+        "char_start": 663,
+        "char_end": 1035,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibility of damaging the exhaust valves if the exhaust valve bridges are not resting on the ends of the exhaust valves when tightening the rocker shaft bracket bolts. Refer to Install Rocker Arm and Shaft in Section 1.2.1 and note the position of the exhaust valve bridges before, during and after tightening the rocker shaft bolts.",
+      "source_number": 4,
+      "installs": [
+        "rocker_arm",
+        "rocker_arm_bracket",
+        "cylinder_head",
+        "valve_cylinder",
+        "insert_an_exhaust_valve",
+        "engine_front_cover_valve",
+        "of_the_exhaust_valve",
+        "rocker_shaft",
+        "bracket_bolt",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "note the position of the exhaust valve bridges before, during and after tightening the rocker shaft bolts.",
+      "provenance": {
+        "page": 189,
+        "quote": "Move the rocker arm assembly into position and secure the rocker arm brackets to the cylinder head by tightening the bolts to the torque specified in Section 2.0 \u2014 Specifications. NOTICE: On four valve cylinder heads, there is a possibil...",
+        "verified": true,
+        "char_start": 1039,
+        "char_end": 1603,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install fuel pipes: Remove the shipping caps. Align the fuel pipes and connect them to the injectors and the fuel connectors. NOTICE: DDC recommends that the original fuel pipes not be reused. New flared end fuel pipes should be installed. When installing flared end fuel pipes, use fuel pipe nut wrench J 8932-01 and \u201cclicker\u201d type torque wrench J 24405 (calibrated in inch-pounds) to apply proper torque and avoid damaging the fuel pipes. Refer to the chart for torque specifications. Fuel leakage from damaged or improperly installed fuel pipes can cause lube oil dilution, which may result in serious engine damage. NOTICE: Because of their low friction surface, Endurion\u00ae -coated nuts on fuel jumper lines must be tightened to 130 Ib-in (14.69 N-m) torque, instead of the 160 Ib\u2014in (18.3 N-m) required with uncoated nuts. To avoid possible confusion when tightening jumper line nuts, do not mix lines with uncoated and Endurion\u00ae -coated nuts on the same cylinder head. Jacobs brake jumper lines and jumper lines used with load-limiting devices do not have coated nuts. Tighten these to the values shown on the Chart. NOTICE: Do not bend the fuel pipes and do not exceed the specified torque. Excessive tightening will twist or fracture the flared end of the fuel line and result in leaks. Lubricating oil diluted by fuel oil can cause serious damage to the engine bearings (refer to Fuel Jumper Line Maintenance & Pressurize Fuel System \u2014 Check for Leaks in Section 2.0 \u2013 Shop Notes). An indication of fuel leakage at the fittings oft he fuel injector supply lines and connector nut seals could be either low lubricating oil pressure (dilution) or fuel odor coming from the crankcase breathers or an open oil filler cap. When any of the above are detected, remove the valve rocker cover. A close inspection of the rocker cover, cylinder head, fuel lines and connectors will usually show if there is a fuel leakage problem. Under normal conditions, there should be a coating of lubricating oil throughout the cylinder head area and puddles of oil where the fuel pipes contact the connectors and where the fuel connectors contact the cylinder head. If these areas do not have the normal coating of lubricating oil, it is likely that fuel oil is leaking and washing off the lubricating oil. Remove and replace the leaking fuel pipes and/or connectors. Use new gasket(s) and reinstall the rocker cover. Then, drain the lubricating oil and change the oil filter elements. Refer to Section 13.3 (Lubrication Specifications) and refill the crankcase to the proper level with the recommended grade of oil.",
+      "source_number": 5,
+      "installs": [
+        "leaking_fuel_pipe",
+        "clean_shipping_cap",
+        "fuel_connector",
+        "fuel_pipe_nut",
+        "front_balance_weight_nut",
+        "tbe_lubricating_oil_line",
+        "of_the_required"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": "torque wrench",
+      "torque_nm": 14.7,
+      "warning": "do not mix lines with uncoated and Endurion\u00ae -coated nuts on the same cylinder head.",
+      "provenance": {
+        "page": 189,
+        "quote": "Install fuel pipes: Remove the shipping caps. Align the fuel pipes and connect them to the injectors and the fuel connectors. NOTICE: DDC recommends that the original fuel pipes not be reused. New flared end fuel pipes should be installe...",
+        "verified": true,
+        "char_start": 1607,
+        "char_end": 4209,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Perform a complete engine tune-up as outlined in Section 14. However, if only one injector has been removed and replaced and the other injectors and the governor adjustment have not been disturbed, it will only be necessary to adjust the valve clearance and time the injector for the one cylinder, and to position the injector rack control levers.",
+      "source_number": 6,
+      "installs": [
+        "spray_nozzle_outlined",
+        "blower_the_engine_governor",
+        "injector_rack_control",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 189,
+        "quote": "Perform a complete engine tune-up as outlined in Section 14. However, if only one injector has been removed and replaced and the other injectors and the governor adjustment have not been disturbed, it will only be necessary to adjust the...",
+        "verified": true,
+        "char_start": 4213,
+        "char_end": 4560,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

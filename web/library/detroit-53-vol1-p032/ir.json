@@ -1,0 +1,1366 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.65 - Assemble the crankshaft timing gear (Section 1.7.5)...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "crankshaft_timing_gear",
+      "name": "Crankshaft timing gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_timing_gear",
+      "provenance": {
+        "page": 65,
+        "quote": "Assemble the crankshaft timing gear (Section 1.7.5) and the oil pump drive gear (Section 4.1) on the crankshaft.",
+        "verified": true,
+        "char_start": 487,
+        "char_end": 599,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 65,
+        "quote": "Assemble the crankshaft timing gear (Section 1.7.5) and the oil pump drive gear (Section 4.1) on the crankshaft.",
+        "verified": true,
+        "char_start": 487,
+        "char_end": 599,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 65,
+        "quote": "Assemble the crankshaft timing gear (Section 1.7.5) and the oil pump drive gear (Section 4.1) on the crankshaft.",
+        "verified": true,
+        "char_start": 487,
+        "char_end": 599,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "upper_grooved_bearing",
+      "name": "Upper grooved bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_grooved_bearing",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper grooved bearing shells in the block. If the old bearing shells are to be used again, install them in the same locations from which they were removed.",
+        "verified": true,
+        "char_start": 603,
+        "char_end": 770,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bearing_shell",
+      "name": "Connecting rod bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing_shell",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper grooved bearing shells in the block. If the old bearing shells are to be used again, install them in the same locations from which they were removed.",
+        "verified": true,
+        "char_start": 603,
+        "char_end": 770,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper grooved bearing shells in the block. If the old bearing shells are to be used again, install them in the same locations from which they were removed.",
+        "verified": true,
+        "char_start": 603,
+        "char_end": 770,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 65,
+        "quote": "Apply clean engine oil to all crankshaft journals and install the crankshaft in place so that the timing marks on the crankshaft timing gear and the idler gear match. Refer to Section 1.7.1 for the correct method of timing the gear train.",
+        "verified": true,
+        "char_start": 774,
+        "char_end": 1012,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 65,
+        "quote": "Apply clean engine oil to all crankshaft journals and install the crankshaft in place so that the timing marks on the crankshaft timing gear and the idler gear match. Refer to Section 1.7.1 for the correct method of timing the gear train.",
+        "verified": true,
+        "char_start": 774,
+        "char_end": 1012,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper halves of the crankshaft thrust washers on each side of the rear main bearing support and the doweled lower halves on each side of the rear main bearing cap. The grooved side of the thrust washers must face toward the c...",
+        "verified": true,
+        "char_start": 1016,
+        "char_end": 1505,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lower_halve",
+      "name": "Lower halve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_halve",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper halves of the crankshaft thrust washers on each side of the rear main bearing support and the doweled lower halves on each side of the rear main bearing cap. The grooved side of the thrust washers must face toward the c...",
+        "verified": true,
+        "char_start": 1016,
+        "char_end": 1505,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper halves of the crankshaft thrust washers on each side of the rear main bearing support and the doweled lower halves on each side of the rear main bearing cap. The grooved side of the thrust washers must face toward the c...",
+        "verified": true,
+        "char_start": 1016,
+        "char_end": 1505,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rear_main_bearing",
+      "name": "Rear main bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rear_main_bearing",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper halves of the crankshaft thrust washers on each side of the rear main bearing support and the doweled lower halves on each side of the rear main bearing cap. The grooved side of the thrust washers must face toward the c...",
+        "verified": true,
+        "char_start": 1016,
+        "char_end": 1505,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper halves of the crankshaft thrust washers on each side of the rear main bearing support and the doweled lower halves on each side of the rear main bearing cap. The grooved side of the thrust washers must face toward the c...",
+        "verified": true,
+        "char_start": 1016,
+        "char_end": 1505,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "main_bearing_cap",
+      "name": "Main bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main_bearing_cap",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper halves of the crankshaft thrust washers on each side of the rear main bearing support and the doweled lower halves on each side of the rear main bearing cap. The grooved side of the thrust washers must face toward the c...",
+        "verified": true,
+        "char_start": 1016,
+        "char_end": 1505,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper halves of the crankshaft thrust washers on each side of the rear main bearing support and the doweled lower halves on each side of the rear main bearing cap. The grooved side of the thrust washers must face toward the c...",
+        "verified": true,
+        "char_start": 1016,
+        "char_end": 1505,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lower_bearing_shell",
+      "name": "Lower bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_bearing_shell",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lower_bearing_cap",
+      "name": "Lower bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_bearing_cap",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 65,
+        "quote": "Draw the bearing cap bolts uniformly tight. starting with the center cap and working alternately toward both ends of the block, to 120-130 Ib-ft torque. On a V-type engine, tighten the stabilizer to cylinder block bolts to 46-50 Ib-ft to...",
+        "verified": true,
+        "char_start": 1949,
+        "char_end": 2404,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 65,
+        "quote": "Draw the bearing cap bolts uniformly tight. starting with the center cap and working alternately toward both ends of the block, to 120-130 Ib-ft torque. On a V-type engine, tighten the stabilizer to cylinder block bolts to 46-50 Ib-ft to...",
+        "verified": true,
+        "char_start": 1949,
+        "char_end": 2404,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "stabilizer",
+      "name": "Stabilizer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "stabilizer",
+      "provenance": {
+        "page": 65,
+        "quote": "Draw the bearing cap bolts uniformly tight. starting with the center cap and working alternately toward both ends of the block, to 120-130 Ib-ft torque. On a V-type engine, tighten the stabilizer to cylinder block bolts to 46-50 Ib-ft to...",
+        "verified": true,
+        "char_start": 1949,
+        "char_end": 2404,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pry",
+      "name": "Pry",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pry",
+      "provenance": {
+        "page": 65,
+        "quote": "Check the crankshaft end play by moving the crankshaft toward the gage (Fig. 11) with a pry bar. Keep a constant pressure on the pry bar and set the dial indicator to zero. Then, remove and insert the pry",
+        "verified": true,
+        "char_start": 2408,
+        "char_end": 2612,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 65,
+        "quote": "Check the crankshaft end play by moving the crankshaft toward the gage (Fig. 11) with a pry bar. Keep a constant pressure on the pry bar and set the dial indicator to zero. Then, remove and insert the pry",
+        "verified": true,
+        "char_start": 2408,
+        "char_end": 2612,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 65,
+        "quote": "Check the crankshaft end play by moving the crankshaft toward the gage (Fig. 11) with a pry bar. Keep a constant pressure on the pry bar and set the dial indicator to zero. Then, remove and insert the pry",
+        "verified": true,
+        "char_start": 2408,
+        "char_end": 2612,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the cylinder liner, piston and connecting rod assemblies (Section 1.6.3).",
+        "verified": true,
+        "char_start": 379,
+        "char_end": 460,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the cylinder liner, piston and connecting rod assemblies (Section 1.6.3).",
+        "verified": true,
+        "char_start": 379,
+        "char_end": 460,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the cylinder liner, piston and connecting rod assemblies (Section 1.6.3).",
+        "verified": true,
+        "char_start": 379,
+        "char_end": 460,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the flywheel housing (Section 1.5), then install the flywheel.",
+        "verified": true,
+        "char_start": 521,
+        "char_end": 591,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the flywheel housing (Section 1.5), then install the flywheel.",
+        "verified": true,
+        "char_start": 521,
+        "char_end": 591,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover",
+      "name": "Engine front cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the crankshaft lower engine front cover and the lubricating oil pump assembly on In-line and 6V engines or the engine front cover and outboard bearing support on 8V engines (Section 1.3.5).",
+        "verified": true,
+        "char_start": 596,
+        "char_end": 793,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the crankshaft lower engine front cover and the lubricating oil pump assembly on In-line and 6V engines or the engine front cover and outboard bearing support on 8V engines (Section 1.3.5).",
+        "verified": true,
+        "char_start": 596,
+        "char_end": 793,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the crankshaft lower engine front cover and the lubricating oil pump assembly on In-line and 6V engines or the engine front cover and outboard bearing support on 8V engines (Section 1.3.5).",
+        "verified": true,
+        "char_start": 596,
+        "char_end": 793,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "outboard_bearing_support",
+      "name": "Outboard bearing support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outboard_bearing_support",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the crankshaft lower engine front cover and the lubricating oil pump assembly on In-line and 6V engines or the engine front cover and outboard bearing support on 8V engines (Section 1.3.5).",
+        "verified": true,
+        "char_start": 596,
+        "char_end": 793,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_support",
+      "name": "Engine front support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_support",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the engine front support, if used.",
+        "verified": true,
+        "char_start": 798,
+        "char_end": 840,
+        "bbox": [
+          66.48,
+          305.51499999999993,
+          239.6715,
+          315.51499999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the crankshaft pulley (Section 1.3.7).",
+        "verified": true,
+        "char_start": 845,
+        "char_end": 891,
+        "bbox": [
+          66.48,
+          326.52199999999993,
+          257.8609,
+          336.52199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_pump_inlet",
+      "name": "Oil pump inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pump_inlet",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the oil pump inlet pipe and screen on In- line and 6V engines; on the 8V engine, install the lubricating oil pump, inlet pipe and screen assembly (Section 4.1).",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1064,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 66,
+        "quote": "Install the oil pump inlet pipe and screen on In- line and 6V engines; on the 8V engine, install the lubricating oil pump, inlet pipe and screen assembly (Section 4.1).",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1064,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 66,
+        "quote": "Affix a new gasket to the oil pan flange and install the oil pan.",
+        "verified": true,
+        "char_start": 1069,
+        "char_end": 1134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 66,
+        "quote": "Affix a new gasket to the oil pan flange and install the oil pan.",
+        "verified": true,
+        "char_start": 1069,
+        "char_end": 1134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "chain_hoist",
+      "name": "Chain hoist",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "chain_hoist",
+      "provenance": {
+        "page": 66,
+        "quote": "Use a chain hoist and sling attached to the lifting bracket at each end of the engine and remove the engine from the overhaul stand.",
+        "verified": true,
+        "char_start": 1139,
+        "char_end": 1271,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 66,
+        "quote": "Use a chain hoist and sling attached to the lifting bracket at each end of the engine and remove the engine from the overhaul stand.",
+        "verified": true,
+        "char_start": 1139,
+        "char_end": 1271,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "main",
+      "name": "Main",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main",
+      "provenance": {
+        "page": 66,
+        "quote": "After replacing the main or connecting rod bearings or installing a new crankshaft, operate the engine as outlined in the run-in schedule, Section 13.2.1.",
+        "verified": true,
+        "char_start": 1565,
+        "char_end": 1719,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bearing",
+      "name": "Connecting rod bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing",
+      "provenance": {
+        "page": 66,
+        "quote": "After replacing the main or connecting rod bearings or installing a new crankshaft, operate the engine as outlined in the run-in schedule, Section 13.2.1.",
+        "verified": true,
+        "char_start": 1565,
+        "char_end": 1719,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 66,
+        "quote": "After replacing the main or connecting rod bearings or installing a new crankshaft, operate the engine as outlined in the run-in schedule, Section 13.2.1.",
+        "verified": true,
+        "char_start": 1565,
+        "char_end": 1719,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Assemble the crankshaft timing gear (Section 1.7.5) and the oil pump drive gear (Section 4.1) on the crankshaft.",
+      "source_number": 1,
+      "installs": [
+        "crankshaft_timing_gear",
+        "fuel_pump_drive_gear",
+        "halve_of_the_crankshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 65,
+        "quote": "Assemble the crankshaft timing gear (Section 1.7.5) and the oil pump drive gear (Section 4.1) on the crankshaft.",
+        "verified": true,
+        "char_start": 487,
+        "char_end": 599,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the upper grooved bearing shells in the block. If the old bearing shells are to be used again, install them in the same locations from which they were removed.",
+      "source_number": 2,
+      "installs": [
+        "upper_grooved_bearing",
+        "connecting_rod_bearing_shell",
+        "of_the_block"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper grooved bearing shells in the block. If the old bearing shells are to be used again, install them in the same locations from which they were removed.",
+        "verified": true,
+        "char_start": 603,
+        "char_end": 770,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Apply clean engine oil to all crankshaft journals and install the crankshaft in place so that the timing marks on the crankshaft timing gear and the idler gear match. Refer to Section 1.7.1 for the correct method of timing the gear train.",
+      "source_number": 3,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "idler_gear"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 65,
+        "quote": "Apply clean engine oil to all crankshaft journals and install the crankshaft in place so that the timing marks on the crankshaft timing gear and the idler gear match. Refer to Section 1.7.1 for the correct method of timing the gear train.",
+        "verified": true,
+        "char_start": 774,
+        "char_end": 1012,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the upper halves of the crankshaft thrust washers on each side of the rear main bearing support and the doweled lower halves on each side of the rear main bearing cap. The grooved side of the thrust washers must face toward the crankshaft thrust surfaces. Fig. 11 - Checking Crankshaft End Play NOTE: If the crankshaft thrust surfaces were reground. it may be necessary to install oversize thrust washers on one or both sides of the rear main journal. Refer to Fig. 10 and Table 2.",
+      "source_number": 4,
+      "installs": [
+        "hammer_spring_scale_upper",
+        "lower_halve",
+        "crankshaft_thrust_washer",
+        "rear_main_bearing",
+        "blower_drive_support",
+        "main_bearing_cap",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: If the crankshaft thrust surfaces were reground.",
+      "provenance": {
+        "page": 65,
+        "quote": "Install the upper halves of the crankshaft thrust washers on each side of the rear main bearing support and the doweled lower halves on each side of the rear main bearing cap. The grooved side of the thrust washers must face toward the c...",
+        "verified": true,
+        "char_start": 1016,
+        "char_end": 1505,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact surfaces with a small quantity of International Compound No. 2, or equivalent. Install the bearing caps and draw the bolts up snug. Then, rap the caps sharply with a soft hammer to seat them properly.",
+      "source_number": 5,
+      "installs": [
+        "lower_bearing_shell",
+        "of_the_groove",
+        "lower_bearing_cap",
+        "bearing_the_end_bearing",
+        "clean_shipping_cap",
+        "bolt_thread",
+        "engine_front_cover_bolt",
+        "cylinder_head",
+        "contact",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 65,
+        "quote": "Install the lower bearing shells (no oil grooves) in the bearing caps. If the old bearing shells are to be used again. install them in the same bearing caps from which they were rem\u00f3ved. Lubricate the bolt threads and bolt head contact s...",
+        "verified": true,
+        "char_start": 1509,
+        "char_end": 1945,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Draw the bearing cap bolts uniformly tight. starting with the center cap and working alternately toward both ends of the block, to 120-130 Ib-ft torque. On a V-type engine, tighten the stabilizer to cylinder block bolts to 46-50 Ib-ft torque. Rotate the crankshaft to make sure that it rotates freely. NOTE: If the bearings have been installed properly, the crankshaft will turn freely with all of the main bearing cap bolts drawn to the specified torque.",
+      "source_number": 6,
+      "installs": [
+        "bearing_cap_bolt",
+        "locknut_finger_tight",
+        "stabilizer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": 162.7,
+      "warning": "NOTE: If the bearings have been installed properly, the crankshaft will turn freely with all of the main bearing cap bolts drawn to the specified torque.",
+      "provenance": {
+        "page": 65,
+        "quote": "Draw the bearing cap bolts uniformly tight. starting with the center cap and working alternately toward both ends of the block, to 120-130 Ib-ft torque. On a V-type engine, tighten the stabilizer to cylinder block bolts to 46-50 Ib-ft to...",
+        "verified": true,
+        "char_start": 1949,
+        "char_end": 2404,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Check the crankshaft end play by moving the crankshaft toward the gage (Fig. 11) with a pry bar. Keep a constant pressure on the pry bar and set the dial indicator to zero. Then, remove and insert the pry",
+      "source_number": 7,
+      "installs": [
+        "pry",
+        "clamping_pressure",
+        "exhaust_valve_seat_insert"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 65,
+        "quote": "Check the crankshaft end play by moving the crankshaft toward the gage (Fig. 11) with a pry bar. Keep a constant pressure on the pry bar and set the dial indicator to zero. Then, remove and insert the pry",
+        "verified": true,
+        "char_start": 2408,
+        "char_end": 2612,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Install the cylinder liner, piston and connecting rod assemblies (Section 1.6.3).",
+      "source_number": 8,
+      "installs": [
+        "cylinder_liner",
+        "of_the_selected_piston",
+        "connecting_rod"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Install the cylinder liner, piston and connecting rod assemblies (Section 1.6.3).",
+        "verified": true,
+        "char_start": 379,
+        "char_end": 460,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Install the cylinder head(s) (refer to Section 1.2).",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Install the cylinder head(s) (refer to Section 1.2).",
+        "verified": true,
+        "char_start": 464,
+        "char_end": 516,
+        "bbox": [
+          61.68,
+          199.80899999999997,
+          276.9582,
+          208.80899999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Install the flywheel housing (Section 1.5), then install the flywheel.",
+      "source_number": 10,
+      "installs": [
+        "of_the_flywheel_housing",
+        "hammer_puller_set_flywheel"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Install the flywheel housing (Section 1.5), then install the flywheel.",
+        "verified": true,
+        "char_start": 521,
+        "char_end": 591,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Install the crankshaft lower engine front cover and the lubricating oil pump assembly on In-line and 6V engines or the engine front cover and outboard bearing support on 8V engines (Section 1.3.5).",
+      "source_number": 11,
+      "installs": [
+        "engine_front_cover",
+        "lubricating_oil_pump",
+        "tbe_lubricating_oil_line",
+        "outboard_bearing_support"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Install the crankshaft lower engine front cover and the lubricating oil pump assembly on In-line and 6V engines or the engine front cover and outboard bearing support on 8V engines (Section 1.3.5).",
+        "verified": true,
+        "char_start": 596,
+        "char_end": 793,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Install the engine front support, if used.",
+      "source_number": 12,
+      "installs": [
+        "engine_front_support"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Install the engine front support, if used.",
+        "verified": true,
+        "char_start": 798,
+        "char_end": 840,
+        "bbox": [
+          66.48,
+          305.51499999999993,
+          239.6715,
+          315.51499999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Install the crankshaft pulley (Section 1.3.7).",
+      "source_number": 13,
+      "installs": [
+        "crankshaft_splined_crankshaft_pulley"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Install the crankshaft pulley (Section 1.3.7).",
+        "verified": true,
+        "char_start": 845,
+        "char_end": 891,
+        "bbox": [
+          66.48,
+          326.52199999999993,
+          257.8609,
+          336.52199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Install the oil pump inlet pipe and screen on In- line and 6V engines; on the 8V engine, install the lubricating oil pump, inlet pipe and screen assembly (Section 4.1).",
+      "source_number": 14,
+      "installs": [
+        "oil_pump_inlet",
+        "fuel_oil_inlet"
+      ],
+      "depends_on": [
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Install the oil pump inlet pipe and screen on In- line and 6V engines; on the 8V engine, install the lubricating oil pump, inlet pipe and screen assembly (Section 4.1).",
+        "verified": true,
+        "char_start": 896,
+        "char_end": 1064,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Affix a new gasket to the oil pan flange and install the oil pan.",
+      "source_number": 15,
+      "installs": [
+        "head_gasket",
+        "flange"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Affix a new gasket to the oil pan flange and install the oil pan.",
+        "verified": true,
+        "char_start": 1069,
+        "char_end": 1134,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "Use a chain hoist and sling attached to the lifting bracket at each end of the engine and remove the engine from the overhaul stand.",
+      "source_number": 16,
+      "installs": [
+        "chain_hoist",
+        "booster_spring_bracket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Use a chain hoist and sling attached to the lifting bracket at each end of the engine and remove the engine from the overhaul stand.",
+        "verified": true,
+        "char_start": 1139,
+        "char_end": 1271,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s17",
+      "index": 16,
+      "text": "Install all of the accessories that were removed.",
+      "source_number": 17,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Install all of the accessories that were removed.",
+        "verified": true,
+        "char_start": 1276,
+        "char_end": 1325,
+        "bbox": [
+          336.72,
+          200.06999999999994,
+          539.5891200000001,
+          208.06999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s18",
+      "index": 17,
+      "text": "After the engine has been completely reassembled, refer to the Lubricating Oil Specifications in Sec- tion 13.3 and refill the crankcase to the proper level on the dipstick.",
+      "source_number": 18,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "After the engine has been completely reassembled, refer to the Lubricating Oil Specifications in Sec- tion 13.3 and refill the crankcase to the proper level on the dipstick.",
+        "verified": true,
+        "char_start": 1330,
+        "char_end": 1503,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s19",
+      "index": 18,
+      "text": "Close all of the drains and fil] the cooling system.",
+      "source_number": 19,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "Close all of the drains and fil] the cooling system.",
+        "verified": true,
+        "char_start": 1508,
+        "char_end": 1560,
+        "bbox": [
+          336.48,
+          272.961,
+          549.9793999999999,
+          282.96099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s20",
+      "index": 19,
+      "text": "After replacing the main or connecting rod bearings or installing a new crankshaft, operate the engine as outlined in the run-in schedule, Section 13.2.1.",
+      "source_number": 20,
+      "installs": [
+        "main",
+        "connecting_rod_bearing",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 66,
+        "quote": "After replacing the main or connecting rod bearings or installing a new crankshaft, operate the engine as outlined in the run-in schedule, Section 13.2.1.",
+        "verified": true,
+        "char_start": 1565,
+        "char_end": 1719,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

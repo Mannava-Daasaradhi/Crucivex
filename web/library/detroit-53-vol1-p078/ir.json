@@ -1,0 +1,342 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.136 - With these marks in alignment, start the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 136,
+        "quote": "With these marks in alignment, start the idler gear into mesh with the crankshaft gear and the camshaft gear and simultaneously rotate the gear hub so that Fig. 12 - Checking Pre-Load of Idler Gear",
+        "verified": true,
+        "char_start": 3834,
+        "char_end": 4031,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_gear",
+      "name": "Crankshaft gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_gear",
+      "provenance": {
+        "page": 136,
+        "quote": "With these marks in alignment, start the idler gear into mesh with the crankshaft gear and the camshaft gear and simultaneously rotate the gear hub so that Fig. 12 - Checking Pre-Load of Idler Gear",
+        "verified": true,
+        "char_start": 3834,
+        "char_end": 4031,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 136,
+        "quote": "With these marks in alignment, start the idler gear into mesh with the crankshaft gear and the camshaft gear and simultaneously rotate the gear hub so that Fig. 12 - Checking Pre-Load of Idler Gear",
+        "verified": true,
+        "char_start": 3834,
+        "char_end": 4031,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 136,
+        "quote": "With these marks in alignment, start the idler gear into mesh with the crankshaft gear and the camshaft gear and simultaneously rotate the gear hub so that Fig. 12 - Checking Pre-Load of Idler Gear",
+        "verified": true,
+        "char_start": 3834,
+        "char_end": 4031,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_hub",
+      "name": "Idler gear hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_hub",
+      "provenance": {
+        "page": 136,
+        "quote": "With these marks in alignment, start the idler gear into mesh with the crankshaft gear and the camshaft gear and simultaneously rotate the gear hub so that Fig. 12 - Checking Pre-Load of Idler Gear",
+        "verified": true,
+        "char_start": 3834,
+        "char_end": 4031,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 136,
+        "quote": "With these marks in alignment, start the idler gear into mesh with the crankshaft gear and the camshaft gear and simultaneously rotate the gear hub so that Fig. 12 - Checking Pre-Load of Idler Gear",
+        "verified": true,
+        "char_start": 3834,
+        "char_end": 4031,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 137,
+        "quote": "Roll the idler gear into position and gently tap the hub until it seats against the rear end plate.",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 215,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 137,
+        "quote": "Roll the idler gear into position and gently tap the hub until it seats against the rear end plate.",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 215,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 137,
+        "quote": "After making sure that the hub is tight against the rear end plate, secure the idler gear assembly in place with the 3/8 \"-16 x 1-3/4\u201d special bolt. Tighten the bolt to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 219,
+        "char_end": 407,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_assembly",
+      "name": "Idler gear assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_assembly",
+      "provenance": {
+        "page": 137,
+        "quote": "After making sure that the hub is tight against the rear end plate, secure the idler gear assembly in place with the 3/8 \"-16 x 1-3/4\u201d special bolt. Tighten the bolt to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 219,
+        "char_end": 407,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 137,
+        "quote": "After making sure that the hub is tight against the rear end plate, secure the idler gear assembly in place with the 3/8 \"-16 x 1-3/4\u201d special bolt. Tighten the bolt to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 219,
+        "char_end": 407,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 137,
+        "quote": "Lubricate the idler gear and bearing liberally with clean engine oil.",
+        "verified": true,
+        "char_start": 411,
+        "char_end": 480,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 137,
+        "quote": "Lubricate the idler gear and bearing liberally with clean engine oil.",
+        "verified": true,
+        "char_start": 411,
+        "char_end": 480,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "With these marks in alignment, start the idler gear into mesh with the crankshaft gear and the camshaft gear and simultaneously rotate the gear hub so that Fig. 12 - Checking Pre-Load of Idler Gear",
+      "source_number": 2,
+      "installs": [
+        "idler_gear",
+        "crankshaft_gear",
+        "camshaft",
+        "fuel_pump_drive_gear",
+        "idler_gear_hub",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 136,
+        "quote": "With these marks in alignment, start the idler gear into mesh with the crankshaft gear and the camshaft gear and simultaneously rotate the gear hub so that Fig. 12 - Checking Pre-Load of Idler Gear",
+        "verified": true,
+        "char_start": 3834,
+        "char_end": 4031,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Roll the idler gear into position and gently tap the hub until it seats against the rear end plate.",
+      "source_number": 3,
+      "installs": [
+        "blower_drive_hub",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 137,
+        "quote": "Roll the idler gear into position and gently tap the hub until it seats against the rear end plate.",
+        "verified": true,
+        "char_start": 116,
+        "char_end": 215,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "After making sure that the hub is tight against the rear end plate, secure the idler gear assembly in place with the 3/8 \"-16 x 1-3/4\u201d special bolt. Tighten the bolt to 40-45 lb-ft torque.",
+      "source_number": 4,
+      "installs": [
+        "locknut_finger_tight",
+        "idler_gear_assembly",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 54.2,
+      "warning": null,
+      "provenance": {
+        "page": 137,
+        "quote": "After making sure that the hub is tight against the rear end plate, secure the idler gear assembly in place with the 3/8 \"-16 x 1-3/4\u201d special bolt. Tighten the bolt to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 219,
+        "char_end": 407,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Lubricate the idler gear and bearing liberally with clean engine oil.",
+      "source_number": 5,
+      "installs": [
+        "bearing_the_end_bearing",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 137,
+        "quote": "Lubricate the idler gear and bearing liberally with clean engine oil.",
+        "verified": true,
+        "char_start": 411,
+        "char_end": 480,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Check the backlash between the mating gears. The backlash must be .003 \u201d to .005 \u201d between new gears and should not exceed .007 '' between used gears.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 137,
+        "quote": "Check the backlash between the mating gears. The backlash must be .003 \u201d to .005 \u201d between new gears and should not exceed .007 '' between used gears.",
+        "verified": true,
+        "char_start": 484,
+        "char_end": 634,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

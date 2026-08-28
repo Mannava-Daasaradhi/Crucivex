@@ -1,0 +1,211 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.24 - For the engine equipped with in-line type...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "injection_pump",
+      "name": "Injection pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injection_pump",
+      "provenance": {
+        "page": 24,
+        "quote": "For the engine equipped with in-line type injection pump @ Loosen the feed pump cap on the injection pump. injection pump @ Loosen the bleeder screw on the shown in the illustration. @ Operate the feed pump until no more bubbles visible ...",
+        "verified": true,
+        "char_start": 594,
+        "char_end": 994,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "generator",
+      "name": "Generator",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "generator",
+      "provenance": {
+        "page": 26,
+        "quote": "Check the drive belt tension by exerting a force of 8~12mm 10 kg (22 Ib) midway between the fan pulley and the \u201d Generator pulley generator pulley.",
+        "verified": true,
+        "char_start": 137,
+        "char_end": 284,
+        "bbox": [
+          140.4000000000002,
+          133.14469999999994,
+          543.7183026666667,
+          166.6823333333332
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 26,
+        "quote": "Adjust the belt tension by loosing the generator mounting bolt and the generator adjusitng bolt and Crank pulley pivoting the generator. Be sure to retighten the bolts after adjusting the belt tension.",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 489,
+        "bbox": [
+          117.12000000000018,
+          173.06179999999983,
+          542.6187600000003,
+          235.0980333333331
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "turbocharger_assembly_valve",
+      "name": "Turbocharger assembly valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbocharger_assembly_valve",
+      "provenance": {
+        "page": 28,
+        "quote": "Adjust the clearance for the remaining valves as shown in the illustration.",
+        "verified": true,
+        "char_start": 114,
+        "char_end": 189,
+        "bbox": [
+          296.4,
+          106.02279999999996,
+          541.9233959999998,
+          127.5661
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "For the engine equipped with in-line type injection pump @ Loosen the feed pump cap on the injection pump. injection pump @ Loosen the bleeder screw on the shown in the illustration. @ Operate the feed pump until no more bubbles visible in the fuel being discharged from the bleeding screw. @ Retighten the bleeding screw and the feed pump cap screw and the feed pump cap securely after the bleeding.",
+      "source_number": 1,
+      "installs": [
+        "injection_pump"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 24,
+        "quote": "For the engine equipped with in-line type injection pump @ Loosen the feed pump cap on the injection pump. injection pump @ Loosen the bleeder screw on the shown in the illustration. @ Operate the feed pump until no more bubbles visible ...",
+        "verified": true,
+        "char_start": 594,
+        "char_end": 994,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Check the drive belt tension by exerting a force of 8~12mm 10 kg (22 Ib) midway between the fan pulley and the \u201d Generator pulley generator pulley.",
+      "source_number": 2,
+      "installs": [
+        "generator"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 26,
+        "quote": "Check the drive belt tension by exerting a force of 8~12mm 10 kg (22 Ib) midway between the fan pulley and the \u201d Generator pulley generator pulley.",
+        "verified": true,
+        "char_start": 137,
+        "char_end": 284,
+        "bbox": [
+          140.4000000000002,
+          133.14469999999994,
+          543.7183026666667,
+          166.6823333333332
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Adjust the belt tension by loosing the generator mounting bolt and the generator adjusitng bolt and Crank pulley pivoting the generator. Be sure to retighten the bolts after adjusting the belt tension.",
+      "source_number": 3,
+      "installs": [
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 26,
+        "quote": "Adjust the belt tension by loosing the generator mounting bolt and the generator adjusitng bolt and Crank pulley pivoting the generator. Be sure to retighten the bolts after adjusting the belt tension.",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 489,
+        "bbox": [
+          117.12000000000018,
+          173.06179999999983,
+          542.6187600000003,
+          235.0980333333331
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Adjust the clearance for the remaining valves as shown in the illustration.",
+      "source_number": 10,
+      "installs": [
+        "turbocharger_assembly_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 28,
+        "quote": "Adjust the clearance for the remaining valves as shown in the illustration.",
+        "verified": true,
+        "char_start": 114,
+        "char_end": 189,
+        "bbox": [
+          296.4,
+          106.02279999999996,
+          541.9233959999998,
+          127.5661
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

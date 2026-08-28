@@ -1,0 +1,192 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.188 - Place the injector in Tester J 29584...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 188,
+        "quote": "Place the injector in Tester J 29584 (Fig. 35) and adjust the dial indicator to zero.",
+        "verified": true,
+        "char_start": 2043,
+        "char_end": 2128,
+        "bbox": [
+          334.80000000000007,
+          359.53499999999997,
+          556.71756,
+          379.82599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 188,
+        "quote": "Place the injector in Tester J 29584 (Fig. 35) and adjust the dial indicator to zero.",
+        "verified": true,
+        "char_start": 2043,
+        "char_end": 2128,
+        "bbox": [
+          334.80000000000007,
+          359.53499999999997,
+          556.71756,
+          379.82599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 188,
+        "quote": "Ifthe total runout exceeds .008\", remove the injector from the gage. Loosen theinjector nut, center the spray tip and tighten the nut to 55\u201465 lb-ft (75-88 N-m) torque. Recheck the spray tip concentricity. If, after several attempts, the...",
+        "verified": true,
+        "char_start": 2212,
+        "char_end": 2522,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 188,
+        "quote": "Ifthe total runout exceeds .008\", remove the injector from the gage. Loosen theinjector nut, center the spray tip and tighten the nut to 55\u201465 lb-ft (75-88 N-m) torque. Recheck the spray tip concentricity. If, after several attempts, the...",
+        "verified": true,
+        "char_start": 2212,
+        "char_end": 2522,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_nut",
+      "name": "Injector nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_nut",
+      "provenance": {
+        "page": 188,
+        "quote": "Ifthe total runout exceeds .008\", remove the injector from the gage. Loosen theinjector nut, center the spray tip and tighten the nut to 55\u201465 lb-ft (75-88 N-m) torque. Recheck the spray tip concentricity. If, after several attempts, the...",
+        "verified": true,
+        "char_start": 2212,
+        "char_end": 2522,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Place the injector in Tester J 29584 (Fig. 35) and adjust the dial indicator to zero.",
+      "source_number": 1,
+      "installs": [
+        "end_of_the_injector",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 188,
+        "quote": "Place the injector in Tester J 29584 (Fig. 35) and adjust the dial indicator to zero.",
+        "verified": true,
+        "char_start": 2043,
+        "char_end": 2128,
+        "bbox": [
+          334.80000000000007,
+          359.53499999999997,
+          556.71756,
+          379.82599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Rotate the injector 360\u00b0 and note the total runout as indicated on the dial.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "note the total runout as indicated on the dial.",
+      "provenance": {
+        "page": 188,
+        "quote": "Rotate the injector 360\u00b0 and note the total runout as indicated on the dial.",
+        "verified": true,
+        "char_start": 2132,
+        "char_end": 2208,
+        "bbox": [
+          334.79999999999995,
+          388.57599999999996,
+          557.86572,
+          408.489
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Ifthe total runout exceeds .008\", remove the injector from the gage. Loosen theinjector nut, center the spray tip and tighten the nut to 55\u201465 lb-ft (75-88 N-m) torque. Recheck the spray tip concentricity. If, after several attempts, the spray tip cannot be positioned satisfactorily, replace the injector nut.",
+      "source_number": 3,
+      "installs": [
+        "front_balance_weight_nut",
+        "indicate_the_spray_tip",
+        "injector_nut"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 74.6,
+      "warning": null,
+      "provenance": {
+        "page": 188,
+        "quote": "Ifthe total runout exceeds .008\", remove the injector from the gage. Loosen theinjector nut, center the spray tip and tighten the nut to 55\u201465 lb-ft (75-88 N-m) torque. Recheck the spray tip concentricity. If, after several attempts, the...",
+        "verified": true,
+        "char_start": 2212,
+        "char_end": 2522,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

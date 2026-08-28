@@ -1,0 +1,186 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.251 - Install the governor on the engine as...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 251,
+        "quote": "Install the governor on the engine as outlined in Section 2.7.1.1.",
+        "verified": true,
+        "char_start": 527,
+        "char_end": 593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 251,
+        "quote": "Install the governor on the engine as outlined in Section 2.7.1.1.",
+        "verified": true,
+        "char_start": 527,
+        "char_end": 593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle_locking",
+      "name": "Throttle locking",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_locking",
+      "provenance": {
+        "page": 251,
+        "quote": "Install the throttle locking and engine shutdown air cylinders.",
+        "verified": true,
+        "char_start": 597,
+        "char_end": 660,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_hose",
+      "name": "Air hose",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_hose",
+      "provenance": {
+        "page": 251,
+        "quote": "Connect the air hoses to the air cylinders.",
+        "verified": true,
+        "char_start": 664,
+        "char_end": 707,
+        "bbox": [
+          356.16,
+          159.67100000000005,
+          536.1312,
+          167.67100000000005
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the governor on the engine as outlined in Section 2.7.1.1.",
+      "source_number": 1,
+      "installs": [
+        "blower_the_engine_governor",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 251,
+        "quote": "Install the governor on the engine as outlined in Section 2.7.1.1.",
+        "verified": true,
+        "char_start": 527,
+        "char_end": 593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the throttle locking and engine shutdown air cylinders.",
+      "source_number": 2,
+      "installs": [
+        "throttle_locking"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 251,
+        "quote": "Install the throttle locking and engine shutdown air cylinders.",
+        "verified": true,
+        "char_start": 597,
+        "char_end": 660,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Connect the air hoses to the air cylinders.",
+      "source_number": 3,
+      "installs": [
+        "air_hose"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 251,
+        "quote": "Connect the air hoses to the air cylinders.",
+        "verified": true,
+        "char_start": 664,
+        "char_end": 707,
+        "bbox": [
+          356.16,
+          159.67100000000005,
+          536.1312,
+          167.67100000000005
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Adjust the governor as outlined in Section 14.3.4.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 251,
+        "quote": "Adjust the governor as outlined in Section 14.3.4.",
+        "verified": true,
+        "char_start": 711,
+        "char_end": 761,
+        "bbox": [
+          355.92,
+          180.135,
+          571.59084,
+          189.135
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

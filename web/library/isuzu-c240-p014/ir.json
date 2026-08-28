@@ -1,0 +1,306 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.62 - Arc weld the entire inside circumference @...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "replacement_valve_seat_insert",
+      "name": "Replacement valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "replacement_valve_seat_insert",
+      "provenance": {
+        "page": 62,
+        "quote": "Arc weld the entire inside circumference @ of the valve seat insert @).",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 423,
+        "bbox": [
+          294.0,
+          277.1929,
+          538.728226,
+          298.91356666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "insert_removal",
+      "name": "Insert removal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_removal",
+      "provenance": {
+        "page": 62,
+        "quote": "Allow the valve seat insert to cool for a few minutes. This will invite contraction and make removal of the valve seat insert easier.",
+        "verified": true,
+        "char_start": 427,
+        "char_end": 560,
+        "bbox": [
+          294.0,
+          305.87110000000007,
+          538.9590579999999,
+          342.9911
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "insert_easier",
+      "name": "Insert easier",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_easier",
+      "provenance": {
+        "page": 62,
+        "quote": "Allow the valve seat insert to cool for a few minutes. This will invite contraction and make removal of the valve seat insert easier.",
+        "verified": true,
+        "char_start": 427,
+        "char_end": 560,
+        "bbox": [
+          294.0,
+          305.87110000000007,
+          538.9590579999999,
+          342.9911
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "insert_free",
+      "name": "Insert free",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_free",
+      "provenance": {
+        "page": 62,
+        "quote": "Use a screwdriver @) to pry the valve seat insert free. Take care not to damage the cylinder head @).",
+        "verified": true,
+        "char_start": 564,
+        "char_end": 665,
+        "bbox": [
+          294.48,
+          349.1909,
+          538.4014299999999,
+          386.9328
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 62,
+        "quote": "Use a screwdriver @) to pry the valve seat insert free. Take care not to damage the cylinder head @).",
+        "verified": true,
+        "char_start": 564,
+        "char_end": 665,
+        "bbox": [
+          294.48,
+          349.1909,
+          538.4014299999999,
+          386.9328
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "carbon",
+      "name": "Carbon",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "carbon",
+      "provenance": {
+        "page": 62,
+        "quote": "Carefully remove carbon and other foreign material from the cylinder head insert bore.",
+        "verified": true,
+        "char_start": 669,
+        "char_end": 755,
+        "bbox": [
+          294.48,
+          392.7458,
+          537.523744,
+          414.8815666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_barrel",
+      "name": "Cylinder barrel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_barrel",
+      "provenance": {
+        "page": 62,
+        "quote": "Carefully remove carbon and other foreign material from the cylinder head insert bore.",
+        "verified": true,
+        "char_start": 669,
+        "char_end": 755,
+        "bbox": [
+          294.48,
+          392.7458,
+          537.523744,
+          414.8815666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Arc weld the entire inside circumference @ of the valve seat insert @).",
+      "source_number": 1,
+      "installs": [
+        "replacement_valve_seat_insert"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 62,
+        "quote": "Arc weld the entire inside circumference @ of the valve seat insert @).",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 423,
+        "bbox": [
+          294.0,
+          277.1929,
+          538.728226,
+          298.91356666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Allow the valve seat insert to cool for a few minutes. This will invite contraction and make removal of the valve seat insert easier.",
+      "source_number": 2,
+      "installs": [
+        "insert_removal",
+        "insert_easier"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 62,
+        "quote": "Allow the valve seat insert to cool for a few minutes. This will invite contraction and make removal of the valve seat insert easier.",
+        "verified": true,
+        "char_start": 427,
+        "char_end": 560,
+        "bbox": [
+          294.0,
+          305.87110000000007,
+          538.9590579999999,
+          342.9911
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Use a screwdriver @) to pry the valve seat insert free. Take care not to damage the cylinder head @).",
+      "source_number": 3,
+      "installs": [
+        "insert_free",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 62,
+        "quote": "Use a screwdriver @) to pry the valve seat insert free. Take care not to damage the cylinder head @).",
+        "verified": true,
+        "char_start": 564,
+        "char_end": 665,
+        "bbox": [
+          294.48,
+          349.1909,
+          538.4014299999999,
+          386.9328
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Carefully remove carbon and other foreign material from the cylinder head insert bore.",
+      "source_number": 4,
+      "installs": [
+        "carbon",
+        "cylinder_barrel"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 62,
+        "quote": "Carefully remove carbon and other foreign material from the cylinder head insert bore.",
+        "verified": true,
+        "char_start": 669,
+        "char_end": 755,
+        "bbox": [
+          294.48,
+          392.7458,
+          537.523744,
+          414.8815666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

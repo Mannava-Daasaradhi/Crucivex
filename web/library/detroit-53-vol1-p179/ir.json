@@ -1,0 +1,1681 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.310 - Screw--Load Limit 27. Nut--Adjusting Screw",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 310,
+        "quote": "Screw--Load Limit 27. Nut--Adjusting Screw",
+        "verified": true,
+        "char_start": 81,
+        "char_end": 123,
+        "bbox": [
+          368.16,
+          115.26799999999992,
+          582.1051000000001,
+          122.26799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 310,
+        "quote": "Screw--Load Limit 27. Nut--Adjusting Screw",
+        "verified": true,
+        "char_start": 81,
+        "char_end": 123,
+        "bbox": [
+          368.16,
+          115.26799999999992,
+          582.1051000000001,
+          122.26799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gap_adjusting_screw",
+      "name": "Gap adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gap_adjusting_screw",
+      "provenance": {
+        "page": 310,
+        "quote": "Screw--Load Limit 27. Nut--Adjusting Screw",
+        "verified": true,
+        "char_start": 81,
+        "char_end": 123,
+        "bbox": [
+          368.16,
+          115.26799999999992,
+          582.1051000000001,
+          122.26799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 310,
+        "quote": "Screw--Cover Hole 28. Copper Washer-",
+        "verified": true,
+        "char_start": 127,
+        "char_end": 163,
+        "bbox": [
+          368.15999999999997,
+          125.35199999999986,
+          563.1958299999999,
+          132.35199999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 310,
+        "quote": "Screw--Cover Hole 28. Copper Washer-",
+        "verified": true,
+        "char_start": 127,
+        "char_end": 163,
+        "bbox": [
+          368.15999999999997,
+          125.35199999999986,
+          563.1958299999999,
+          132.35199999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 310,
+        "quote": "Screw--Cover Hole 28. Copper Washer-",
+        "verified": true,
+        "char_start": 127,
+        "char_end": 163,
+        "bbox": [
+          368.15999999999997,
+          125.35199999999986,
+          563.1958299999999,
+          132.35199999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 310,
+        "quote": "Copper Washer 29. \u0421\u0435\u0430\u0433--\u041e\u0439 Pump Drive",
+        "verified": true,
+        "char_start": 231,
+        "char_end": 268,
+        "bbox": [
+          367.91999999999996,
+          154.99599999999987,
+          583.7764,
+          161.99599999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 310,
+        "quote": "Copper Washer 30. Ring--Base to Housing",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 311,
+        "bbox": [
+          367.91999999999996,
+          164.95699999999988,
+          586.83529,
+          171.95699999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "base",
+      "name": "Base",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "base",
+      "provenance": {
+        "page": 310,
+        "quote": "Copper Washer 30. Ring--Base to Housing",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 311,
+        "bbox": [
+          367.91999999999996,
+          164.95699999999988,
+          586.83529,
+          171.95699999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 310,
+        "quote": "Copper Washer 30. Ring--Base to Housing",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 311,
+        "bbox": [
+          367.91999999999996,
+          164.95699999999988,
+          586.83529,
+          171.95699999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 310,
+        "quote": "Pin--Speed Adjusting 32. Lock Ring Lever Roll 33. Screw--Base to Housing",
+        "verified": true,
+        "char_start": 374,
+        "char_end": 446,
+        "bbox": [
+          368.4,
+          194.4609999999999,
+          591.19194,
+          212.02499999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 310,
+        "quote": "Pin--Speed Adjusting 32. Lock Ring Lever Roll 33. Screw--Base to Housing",
+        "verified": true,
+        "char_start": 374,
+        "char_end": 446,
+        "bbox": [
+          368.4,
+          194.4609999999999,
+          591.19194,
+          212.02499999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lock_ring",
+      "name": "Lock ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_ring",
+      "provenance": {
+        "page": 310,
+        "quote": "Pin--Speed Adjusting 32. Lock Ring Lever Roll 33. Screw--Base to Housing",
+        "verified": true,
+        "char_start": 374,
+        "char_end": 446,
+        "bbox": [
+          368.4,
+          194.4609999999999,
+          591.19194,
+          212.02499999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 310,
+        "quote": "Pin--Speed Adjusting 32. Lock Ring Lever Roll 33. Screw--Base to Housing",
+        "verified": true,
+        "char_start": 374,
+        "char_end": 446,
+        "bbox": [
+          368.4,
+          194.4609999999999,
+          591.19194,
+          212.02499999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 310,
+        "quote": "Lever--Speed Adjusting 34. Gear--Oil Pump Driven",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 498,
+        "bbox": [
+          368.15999999999997,
+          214.87699999999984,
+          587.511,
+          221.87699999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 310,
+        "quote": "Plunger--Pilot Valve 35. Gasket--Plug",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 540,
+        "bbox": [
+          368.4,
+          224.36699999999985,
+          549.6427199999999,
+          231.36699999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 310,
+        "quote": "Plunger--Pilot Valve 35. Gasket--Plug",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 540,
+        "bbox": [
+          368.4,
+          224.36699999999985,
+          549.6427199999999,
+          231.36699999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 310,
+        "quote": "Plunger--Pilot Valve 35. Gasket--Plug",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 540,
+        "bbox": [
+          368.4,
+          224.36699999999985,
+          549.6427199999999,
+          231.36699999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 310,
+        "quote": "Plunger--Pilot Valve 35. Gasket--Plug",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 540,
+        "bbox": [
+          368.4,
+          224.36699999999985,
+          549.6427199999999,
+          231.36699999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 310,
+        "quote": "Plunger--Pilot Valve 35. Gasket--Plug",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 540,
+        "bbox": [
+          368.4,
+          224.36699999999985,
+          549.6427199999999,
+          231.36699999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 310,
+        "quote": "Bearing--Plunger 36. Plug--Dummy Hole",
+        "verified": true,
+        "char_start": 545,
+        "char_end": 582,
+        "bbox": [
+          368.16,
+          234.4469999999999,
+          573.52736,
+          241.4469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "dummy",
+      "name": "Dummy",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dummy",
+      "provenance": {
+        "page": 310,
+        "quote": "Bearing--Plunger 36. Plug--Dummy Hole",
+        "verified": true,
+        "char_start": 545,
+        "char_end": 582,
+        "bbox": [
+          368.16,
+          234.4469999999999,
+          573.52736,
+          241.4469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_terminal",
+      "name": "Edge of the terminal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_terminal",
+      "provenance": {
+        "page": 310,
+        "quote": "Lever- Terminal 37. Plug-Housing Cup",
+        "verified": true,
+        "char_start": 587,
+        "char_end": 623,
+        "bbox": [
+          367.92,
+          243.861,
+          573.1032,
+          251.861
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 310,
+        "quote": "Shaft- Terminal Lever 39. Shaft. Terminal Lever (Long) (Short)",
+        "verified": true,
+        "char_start": 662,
+        "char_end": 724,
+        "bbox": [
+          367.91999999999996,
+          264.7969999999999,
+          583.2588,
+          281.84999999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "terminal_lever",
+      "name": "Terminal lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "terminal_lever",
+      "provenance": {
+        "page": 310,
+        "quote": "Shaft- Terminal Lever 39. Shaft. Terminal Lever (Long) (Short)",
+        "verified": true,
+        "char_start": 662,
+        "char_end": 724,
+        "bbox": [
+          367.91999999999996,
+          264.7969999999999,
+          583.2588,
+          281.84999999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "short",
+      "name": "Short",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "short",
+      "provenance": {
+        "page": 310,
+        "quote": "Shaft- Terminal Lever 39. Shaft. Terminal Lever (Long) (Short)",
+        "verified": true,
+        "char_start": 662,
+        "char_end": 724,
+        "bbox": [
+          367.91999999999996,
+          264.7969999999999,
+          583.2588,
+          281.84999999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 310,
+        "quote": "Bushing- Terminal Lever 40. Housing--Governor Shaft 41. Spring-Retracting (Syn.",
+        "verified": true,
+        "char_start": 729,
+        "char_end": 808,
+        "bbox": [
+          367.91999999999996,
+          284.7169999999999,
+          591.5050499999999,
+          301.5589999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 310,
+        "quote": "Bushing- Terminal Lever 40. Housing--Governor Shaft 41. Spring-Retracting (Syn.",
+        "verified": true,
+        "char_start": 729,
+        "char_end": 808,
+        "bbox": [
+          367.91999999999996,
+          284.7169999999999,
+          591.5050499999999,
+          301.5589999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 310,
+        "quote": "Bushing- Terminal Lever 40. Housing--Governor Shaft 41. Spring-Retracting (Syn.",
+        "verified": true,
+        "char_start": 729,
+        "char_end": 808,
+        "bbox": [
+          367.91999999999996,
+          284.7169999999999,
+          591.5050499999999,
+          301.5589999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "ball_head",
+      "name": "Ball head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ball_head",
+      "provenance": {
+        "page": 310,
+        "quote": "Shaft--Speed Adjusting 43. Ball Head Assy.",
+        "verified": true,
+        "char_start": 878,
+        "char_end": 920,
+        "bbox": [
+          367.44,
+          324.68699999999995,
+          563.7387500000001,
+          331.68699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 310,
+        "quote": "Seal--Speed Adjusting 44. Pin- Terminal Lever to",
+        "verified": true,
+        "char_start": 925,
+        "char_end": 973,
+        "bbox": [
+          367.68,
+          334.88499999999993,
+          588.1692600000001,
+          341.88499999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 310,
+        "quote": "Bushing-- Speed 45. Bracket--Droop",
+        "verified": true,
+        "char_start": 995,
+        "char_end": 1029,
+        "bbox": [
+          368.15999999999997,
+          354.89599999999996,
+          558.02658,
+          361.89599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 310,
+        "quote": "Plug--Oil inlet 46. Lock Washer",
+        "verified": true,
+        "char_start": 1060,
+        "char_end": 1091,
+        "bbox": [
+          367.68,
+          373.60799999999995,
+          551.4792,
+          381.60799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 310,
+        "quote": "Plug--Oil inlet 46. Lock Washer",
+        "verified": true,
+        "char_start": 1060,
+        "char_end": 1091,
+        "bbox": [
+          367.68,
+          373.60799999999995,
+          551.4792,
+          381.60799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 310,
+        "quote": "Gasket--Plug 47. Washer--Plain",
+        "verified": true,
+        "char_start": 1096,
+        "char_end": 1126,
+        "bbox": [
+          367.44,
+          383.41799999999995,
+          553.6534700000001,
+          390.41799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 310,
+        "quote": "Spring- Sleeve Retaining 48. Screw-.Bracket",
+        "verified": true,
+        "char_start": 1131,
+        "char_end": 1174,
+        "bbox": [
+          367.44,
+          393.4849999999999,
+          557.2752,
+          401.4849999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 310,
+        "quote": "Spring--Relief Valve 49. Spring--Speeder Plunger 50. Fork--Spring",
+        "verified": true,
+        "char_start": 1179,
+        "char_end": 1244,
+        "bbox": [
+          367.2,
+          404.63399999999996,
+          560.7612,
+          421.41299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spring_fork",
+      "name": "Spring fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_fork",
+      "provenance": {
+        "page": 310,
+        "quote": "Plunger--Relief Valve 51. Pin- Spring Fork Wire",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 1296,
+        "bbox": [
+          367.68,
+          424.64899999999994,
+          584.25752,
+          431.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 310,
+        "quote": "Plunger--Relief Valve 51. Pin- Spring Fork Wire",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 1296,
+        "bbox": [
+          367.68,
+          424.64899999999994,
+          584.25752,
+          431.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Screw--Load Limit 27. Nut--Adjusting Screw",
+      "source_number": 1,
+      "installs": [
+        "of_the_buffer_screw",
+        "front_balance_weight_nut",
+        "gap_adjusting_screw"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Screw--Load Limit 27. Nut--Adjusting Screw",
+        "verified": true,
+        "char_start": 81,
+        "char_end": 123,
+        "bbox": [
+          368.16,
+          115.26799999999992,
+          582.1051000000001,
+          122.26799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Screw--Cover Hole 28. Copper Washer-",
+      "source_number": 2,
+      "installs": [
+        "underside_of_the_cover",
+        "of_the_oil_hole",
+        "copper_washer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Screw--Cover Hole 28. Copper Washer-",
+        "verified": true,
+        "char_start": 127,
+        "char_end": 163,
+        "bbox": [
+          368.15999999999997,
+          125.35199999999986,
+          563.1958299999999,
+          132.35199999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Copper Washer 29. \u0421\u0435\u0430\u0433--\u041e\u0439 Pump Drive",
+      "source_number": 5,
+      "installs": [
+        "lubricating_oil_pump"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Copper Washer 29. \u0421\u0435\u0430\u0433--\u041e\u0439 Pump Drive",
+        "verified": true,
+        "char_start": 231,
+        "char_end": 268,
+        "bbox": [
+          367.91999999999996,
+          154.99599999999987,
+          583.7764,
+          161.99599999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Copper Washer 30. Ring--Base to Housing",
+      "source_number": 6,
+      "installs": [
+        "bottom_oil_ring",
+        "base",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Copper Washer 30. Ring--Base to Housing",
+        "verified": true,
+        "char_start": 272,
+        "char_end": 311,
+        "bbox": [
+          367.91999999999996,
+          164.95699999999988,
+          586.83529,
+          171.95699999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Pin--Speed Adjusting 32. Lock Ring Lever Roll 33. Screw--Base to Housing",
+      "source_number": 8,
+      "installs": [
+        "copper_plated_dowel_pin",
+        "engine_speed",
+        "lock_ring",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Pin--Speed Adjusting 32. Lock Ring Lever Roll 33. Screw--Base to Housing",
+        "verified": true,
+        "char_start": 374,
+        "char_end": 446,
+        "bbox": [
+          368.4,
+          194.4609999999999,
+          591.19194,
+          212.02499999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Lever--Speed Adjusting 34. Gear--Oil Pump Driven",
+      "source_number": 9,
+      "installs": [
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [
+        "s03",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Lever--Speed Adjusting 34. Gear--Oil Pump Driven",
+        "verified": true,
+        "char_start": 450,
+        "char_end": 498,
+        "bbox": [
+          368.15999999999997,
+          214.87699999999984,
+          587.511,
+          221.87699999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Plunger--Pilot Valve 35. Gasket--Plug",
+      "source_number": 10,
+      "installs": [
+        "area_of_the_plunger",
+        "needle_bearing_pilot",
+        "engine_front_cover_valve",
+        "head_gasket",
+        "edge_of_the_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Plunger--Pilot Valve 35. Gasket--Plug",
+        "verified": true,
+        "char_start": 503,
+        "char_end": 540,
+        "bbox": [
+          368.4,
+          224.36699999999985,
+          549.6427199999999,
+          231.36699999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Bearing--Plunger 36. Plug--Dummy Hole",
+      "source_number": 11,
+      "installs": [
+        "bearing_the_end_bearing",
+        "dummy"
+      ],
+      "depends_on": [
+        "s02",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Bearing--Plunger 36. Plug--Dummy Hole",
+        "verified": true,
+        "char_start": 545,
+        "char_end": 582,
+        "bbox": [
+          368.16,
+          234.4469999999999,
+          573.52736,
+          241.4469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Lever- Terminal 37. Plug-Housing Cup",
+      "source_number": 12,
+      "installs": [
+        "edge_of_the_terminal"
+      ],
+      "depends_on": [
+        "s04",
+        "s05",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Lever- Terminal 37. Plug-Housing Cup",
+        "verified": true,
+        "char_start": 587,
+        "char_end": 623,
+        "bbox": [
+          367.92,
+          243.861,
+          573.1032,
+          251.861
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Pin--Cotter 38. Plug--Housing",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [
+        "s04",
+        "s05",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Pin--Cotter 38. Plug--Housing",
+        "verified": true,
+        "char_start": 628,
+        "char_end": 657,
+        "bbox": [
+          368.15999999999997,
+          253.812,
+          553.8704799999999,
+          261.812
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Shaft- Terminal Lever 39. Shaft. Terminal Lever (Long) (Short)",
+      "source_number": 14,
+      "installs": [
+        "end_of_the_shaft",
+        "terminal_lever",
+        "short"
+      ],
+      "depends_on": [
+        "s05",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Shaft- Terminal Lever 39. Shaft. Terminal Lever (Long) (Short)",
+        "verified": true,
+        "char_start": 662,
+        "char_end": 724,
+        "bbox": [
+          367.91999999999996,
+          264.7969999999999,
+          583.2588,
+          281.84999999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Bushing- Terminal Lever 40. Housing--Governor Shaft 41. Spring-Retracting (Syn.",
+      "source_number": 15,
+      "installs": [
+        "connecting_rod_bushing",
+        "blower_the_engine_governor",
+        "end_of_the_spring"
+      ],
+      "depends_on": [
+        "s04",
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Bushing- Terminal Lever 40. Housing--Governor Shaft 41. Spring-Retracting (Syn.",
+        "verified": true,
+        "char_start": 729,
+        "char_end": 808,
+        "bbox": [
+          367.91999999999996,
+          284.7169999999999,
+          591.5050499999999,
+          301.5589999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Shaft--Speed Adjusting 43. Ball Head Assy.",
+      "source_number": 17,
+      "installs": [
+        "ball_head"
+      ],
+      "depends_on": [
+        "s05",
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Shaft--Speed Adjusting 43. Ball Head Assy.",
+        "verified": true,
+        "char_start": 878,
+        "char_end": 920,
+        "bbox": [
+          367.44,
+          324.68699999999995,
+          563.7387500000001,
+          331.68699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Seal--Speed Adjusting 44. Pin- Terminal Lever to",
+      "source_number": 18,
+      "installs": [
+        "crankshaft_front_oil_seal"
+      ],
+      "depends_on": [
+        "s05",
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Seal--Speed Adjusting 44. Pin- Terminal Lever to",
+        "verified": true,
+        "char_start": 925,
+        "char_end": 973,
+        "bbox": [
+          367.68,
+          334.88499999999993,
+          588.1692600000001,
+          341.88499999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Bushing-- Speed 45. Bracket--Droop",
+      "source_number": 19,
+      "installs": [
+        "booster_spring_bracket"
+      ],
+      "depends_on": [
+        "s05",
+        "s12"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Bushing-- Speed 45. Bracket--Droop",
+        "verified": true,
+        "char_start": 995,
+        "char_end": 1029,
+        "bbox": [
+          368.15999999999997,
+          354.89599999999996,
+          558.02658,
+          361.89599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "Plug--Oil inlet 46. Lock Washer",
+      "source_number": 20,
+      "installs": [
+        "fuel_oil_inlet",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Plug--Oil inlet 46. Lock Washer",
+        "verified": true,
+        "char_start": 1060,
+        "char_end": 1091,
+        "bbox": [
+          367.68,
+          373.60799999999995,
+          551.4792,
+          381.60799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s17",
+      "index": 16,
+      "text": "Gasket--Plug 47. Washer--Plain",
+      "source_number": 21,
+      "installs": [
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Gasket--Plug 47. Washer--Plain",
+        "verified": true,
+        "char_start": 1096,
+        "char_end": 1126,
+        "bbox": [
+          367.44,
+          383.41799999999995,
+          553.6534700000001,
+          390.41799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s18",
+      "index": 17,
+      "text": "Spring- Sleeve Retaining 48. Screw-.Bracket",
+      "source_number": 22,
+      "installs": [
+        "crankshaft_front_sleeve"
+      ],
+      "depends_on": [
+        "s01",
+        "s12",
+        "s15"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Spring- Sleeve Retaining 48. Screw-.Bracket",
+        "verified": true,
+        "char_start": 1131,
+        "char_end": 1174,
+        "bbox": [
+          367.44,
+          393.4849999999999,
+          557.2752,
+          401.4849999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s19",
+      "index": 18,
+      "text": "Spring--Relief Valve 49. Spring--Speeder Plunger 50. Fork--Spring",
+      "source_number": 23,
+      "installs": [
+        "governor_operating_fork"
+      ],
+      "depends_on": [
+        "s07",
+        "s12"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Spring--Relief Valve 49. Spring--Speeder Plunger 50. Fork--Spring",
+        "verified": true,
+        "char_start": 1179,
+        "char_end": 1244,
+        "bbox": [
+          367.2,
+          404.63399999999996,
+          560.7612,
+          421.41299999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s20",
+      "index": 19,
+      "text": "Plunger--Relief Valve 51. Pin- Spring Fork Wire",
+      "source_number": 24,
+      "installs": [
+        "spring_fork",
+        "lock_wire"
+      ],
+      "depends_on": [
+        "s05",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Plunger--Relief Valve 51. Pin- Spring Fork Wire",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 1296,
+        "bbox": [
+          367.68,
+          424.64899999999994,
+          584.25752,
+          431.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s21",
+      "index": 20,
+      "text": "Sleeve--Relief Valve 52. Lever--Floating Plunger 53. Gasket--Cover",
+      "source_number": 25,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s05",
+        "s07",
+        "s18"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Sleeve--Relief Valve 52. Lever--Floating Plunger 53. Gasket--Cover",
+        "verified": true,
+        "char_start": 1301,
+        "char_end": 1367,
+        "bbox": [
+          367.44,
+          433.63999999999993,
+          556.5275999999999,
+          451.59399999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s22",
+      "index": 21,
+      "text": "Screw--Maximum Speed 54. Cover--Governor Adjusting 55. Nut--Load Limit Screw",
+      "source_number": 26,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s05",
+        "s12"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 310,
+        "quote": "Screw--Maximum Speed 54. Cover--Governor Adjusting 55. Nut--Load Limit Screw",
+        "verified": true,
+        "char_start": 1372,
+        "char_end": 1448,
+        "bbox": [
+          367.2,
+          454.76699999999994,
+          585.888,
+          471.71899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.388 - Affix a new gasket to the side...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 388,
+        "quote": "Affix a new gasket to the side of the blower.",
+        "verified": true,
+        "char_start": 1864,
+        "char_end": 1909,
+        "bbox": [
+          362.64000000000004,
+          399.4479999999999,
+          549.66699,
+          408.4479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 388,
+        "quote": "Affix a new gasket to the side of the blower.",
+        "verified": true,
+        "char_start": 1864,
+        "char_end": 1909,
+        "bbox": [
+          362.64000000000004,
+          399.4479999999999,
+          549.66699,
+          408.4479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "intercooler_assembly",
+      "name": "Intercooler assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "intercooler_assembly",
+      "provenance": {
+        "page": 388,
+        "quote": "Mount the intercooler assembly on the blower with the six bolts and lock washers and tighten the bolts to 16-20 Ib-ft torque.",
+        "verified": true,
+        "char_start": 1913,
+        "char_end": 2038,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 388,
+        "quote": "Mount the intercooler assembly on the blower with the six bolts and lock washers and tighten the bolts to 16-20 Ib-ft torque.",
+        "verified": true,
+        "char_start": 1913,
+        "char_end": 2038,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 388,
+        "quote": "Mount the intercooler assembly on the blower with the six bolts and lock washers and tighten the bolts to 16-20 Ib-ft torque.",
+        "verified": true,
+        "char_start": 1913,
+        "char_end": 2038,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 388,
+        "quote": "Affix a new air inlet screen and gasket assembly on the intercooler.",
+        "verified": true,
+        "char_start": 2042,
+        "char_end": 2110,
+        "bbox": [
+          352.32,
+          461.72799999999995,
+          588.4612,
+          482.40999999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "intercooler",
+      "name": "Intercooler",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "intercooler",
+      "provenance": {
+        "page": 388,
+        "quote": "Affix a new air inlet screen and gasket assembly on the intercooler.",
+        "verified": true,
+        "char_start": 2042,
+        "char_end": 2110,
+        "bbox": [
+          352.32,
+          461.72799999999995,
+          588.4612,
+          482.40999999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_inlet_housing",
+      "name": "Air inlet housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_inlet_housing",
+      "provenance": {
+        "page": 388,
+        "quote": "Mount the air inlet housing on the intercooler with the six bolts, nuts, washers and lock washers and tighten the nuts to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 2114,
+        "char_end": 2255,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 388,
+        "quote": "Mount the air inlet housing on the intercooler with the six bolts, nuts, washers and lock washers and tighten the nuts to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 2114,
+        "char_end": 2255,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 388,
+        "quote": "Mount the air inlet housing on the intercooler with the six bolts, nuts, washers and lock washers and tighten the nuts to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 2114,
+        "char_end": 2255,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 388,
+        "quote": "Affix a new gasket on the air inlet housing flange and secure the air inlet tube flange to the air inlet housing with the four 5/16 \"-18 x 1 \" bolts and lock washers. Tighten the bolts to 13-17 Ib-ft torque.",
+        "verified": true,
+        "char_start": 2259,
+        "char_end": 2466,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 388,
+        "quote": "Affix a new gasket on the air inlet housing flange and secure the air inlet tube flange to the air inlet housing with the four 5/16 \"-18 x 1 \" bolts and lock washers. Tighten the bolts to 13-17 Ib-ft torque.",
+        "verified": true,
+        "char_start": 2259,
+        "char_end": 2466,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "raw_water_inlet",
+      "name": "Raw water inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "raw_water_inlet",
+      "provenance": {
+        "page": 388,
+        "quote": "Connect the raw water inlet tube to the inlet end of the intercooler with the hose and clamps. Tighten the clamps securely.",
+        "verified": true,
+        "char_start": 2470,
+        "char_end": 2593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 388,
+        "quote": "Connect the raw water inlet tube to the inlet end of the intercooler with the hose and clamps. Tighten the clamps securely.",
+        "verified": true,
+        "char_start": 2470,
+        "char_end": 2593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 388,
+        "quote": "Connect the raw water inlet tube to the inlet end of the intercooler with the hose and clamps. Tighten the clamps securely.",
+        "verified": true,
+        "char_start": 2470,
+        "char_end": 2593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "raw_water_discharge",
+      "name": "Raw water discharge",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "raw_water_discharge",
+      "provenance": {
+        "page": 388,
+        "quote": "Connect the raw water discharge line to the outlet end of the cooler.",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2666,
+        "bbox": [
+          351.6,
+          632.608,
+          588.753,
+          653.05
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 388,
+        "quote": "Connect the raw water discharge line to the outlet end of the cooler.",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2666,
+        "bbox": [
+          351.6,
+          632.608,
+          588.753,
+          653.05
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_cooler_the_cooler",
+      "name": "Fuel cooler the cooler",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_cooler_the_cooler",
+      "provenance": {
+        "page": 388,
+        "quote": "Connect the raw water discharge line to the outlet end of the cooler.",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2666,
+        "bbox": [
+          351.6,
+          632.608,
+          588.753,
+          653.05
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "manual_shutdown",
+      "name": "Manual shutdown",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "manual_shutdown",
+      "provenance": {
+        "page": 388,
+        "quote": "Connect the manual shutdown, if used.",
+        "verified": true,
+        "char_start": 2670,
+        "char_end": 2707,
+        "bbox": [
+          362.4,
+          666.2879999999999,
+          529.0748,
+          674.2879999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Affix a new gasket to the side of the blower.",
+      "source_number": 1,
+      "installs": [
+        "head_gasket",
+        "assembly_examine_the_blower"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Affix a new gasket to the side of the blower.",
+        "verified": true,
+        "char_start": 1864,
+        "char_end": 1909,
+        "bbox": [
+          362.64000000000004,
+          399.4479999999999,
+          549.66699,
+          408.4479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Mount the intercooler assembly on the blower with the six bolts and lock washers and tighten the bolts to 16-20 Ib-ft torque.",
+      "source_number": 2,
+      "installs": [
+        "intercooler_assembly",
+        "engine_front_cover_bolt",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 21.7,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Mount the intercooler assembly on the blower with the six bolts and lock washers and tighten the bolts to 16-20 Ib-ft torque.",
+        "verified": true,
+        "char_start": 1913,
+        "char_end": 2038,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Affix a new air inlet screen and gasket assembly on the intercooler.",
+      "source_number": 3,
+      "installs": [
+        "fuel_oil_inlet",
+        "intercooler"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Affix a new air inlet screen and gasket assembly on the intercooler.",
+        "verified": true,
+        "char_start": 2042,
+        "char_end": 2110,
+        "bbox": [
+          352.32,
+          461.72799999999995,
+          588.4612,
+          482.40999999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Mount the air inlet housing on the intercooler with the six bolts, nuts, washers and lock washers and tighten the nuts to 35-39 ]b-ft torque.",
+      "source_number": 4,
+      "installs": [
+        "air_inlet_housing",
+        "front_balance_weight_nut",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Mount the air inlet housing on the intercooler with the six bolts, nuts, washers and lock washers and tighten the nuts to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 2114,
+        "char_end": 2255,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Affix a new gasket on the air inlet housing flange and secure the air inlet tube flange to the air inlet housing with the four 5/16 \"-18 x 1 \" bolts and lock washers. Tighten the bolts to 13-17 Ib-ft torque.",
+      "source_number": 5,
+      "installs": [
+        "flange",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": 17.6,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Affix a new gasket on the air inlet housing flange and secure the air inlet tube flange to the air inlet housing with the four 5/16 \"-18 x 1 \" bolts and lock washers. Tighten the bolts to 13-17 Ib-ft torque.",
+        "verified": true,
+        "char_start": 2259,
+        "char_end": 2466,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Connect the raw water inlet tube to the inlet end of the intercooler with the hose and clamps. Tighten the clamps securely.",
+      "source_number": 6,
+      "installs": [
+        "raw_water_inlet",
+        "end_of_each_tube",
+        "breather_tube_clamp"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Connect the raw water inlet tube to the inlet end of the intercooler with the hose and clamps. Tighten the clamps securely.",
+        "verified": true,
+        "char_start": 2470,
+        "char_end": 2593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Connect the raw water discharge line to the outlet end of the cooler.",
+      "source_number": 7,
+      "installs": [
+        "raw_water_discharge",
+        "tbe_lubricating_oil_line",
+        "fuel_cooler_the_cooler"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Connect the raw water discharge line to the outlet end of the cooler.",
+        "verified": true,
+        "char_start": 2597,
+        "char_end": 2666,
+        "bbox": [
+          351.6,
+          632.608,
+          588.753,
+          653.05
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Connect the manual shutdown, if used.",
+      "source_number": 8,
+      "installs": [
+        "manual_shutdown"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Connect the manual shutdown, if used.",
+        "verified": true,
+        "char_start": 2670,
+        "char_end": 2707,
+        "bbox": [
+          362.4,
+          666.2879999999999,
+          529.0748,
+          674.2879999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Fill the raw water system. Then start the engine and check for air or water leaks.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 388,
+        "quote": "Fill the raw water system. Then start the engine and check for air or water leaks.",
+        "verified": true,
+        "char_start": 2711,
+        "char_end": 2793,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

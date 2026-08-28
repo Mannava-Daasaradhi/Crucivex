@@ -1,0 +1,891 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.222 - Disconnect the linkage to the governor control...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "governor_linkage",
+      "name": "Governor linkage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_linkage",
+      "provenance": {
+        "page": 222,
+        "quote": "Disconnect the linkage to the governor control levers.",
+        "verified": true,
+        "char_start": 1475,
+        "char_end": 1529,
+        "bbox": [
+          344.88,
+          74.53499999999997,
+          566.25423,
+          83.53499999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_control",
+      "name": "Governor control",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_control",
+      "provenance": {
+        "page": 222,
+        "quote": "Disconnect the linkage to the governor control levers.",
+        "verified": true,
+        "char_start": 1475,
+        "char_end": 1529,
+        "bbox": [
+          344.88,
+          74.53499999999997,
+          566.25423,
+          83.53499999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 222,
+        "quote": "Disconnect the linkage to the governor control levers.",
+        "verified": true,
+        "char_start": 1475,
+        "char_end": 1529,
+        "bbox": [
+          344.88,
+          74.53499999999997,
+          566.25423,
+          83.53499999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the governor cover and gasket.",
+        "verified": true,
+        "char_start": 1533,
+        "char_end": 1570,
+        "bbox": [
+          344.88,
+          93.04899999999998,
+          509.12952,
+          102.04899999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the governor cover and gasket.",
+        "verified": true,
+        "char_start": 1533,
+        "char_end": 1570,
+        "bbox": [
+          344.88,
+          93.04899999999998,
+          509.12952,
+          102.04899999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_spring_housing",
+      "name": "Governor spring housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_spring_housing",
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the spring housing from the governor housing by removing the two bolts and lock washers.",
+        "verified": true,
+        "char_start": 1574,
+        "char_end": 1669,
+        "bbox": [
+          344.4000000000001,
+          112.33499999999992,
+          565.7460000000001,
+          132.29199999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the spring housing from the governor housing by removing the two bolts and lock washers.",
+        "verified": true,
+        "char_start": 1574,
+        "char_end": 1669,
+        "bbox": [
+          344.4000000000001,
+          112.33499999999992,
+          565.7460000000001,
+          132.29199999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the spring housing from the governor housing by removing the two bolts and lock washers.",
+        "verified": true,
+        "char_start": 1574,
+        "char_end": 1669,
+        "bbox": [
+          344.4000000000001,
+          112.33499999999992,
+          565.7460000000001,
+          132.29199999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the spring housing from the governor housing by removing the two bolts and lock washers.",
+        "verified": true,
+        "char_start": 1574,
+        "char_end": 1669,
+        "bbox": [
+          344.4000000000001,
+          112.33499999999992,
+          565.7460000000001,
+          132.29199999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 222,
+        "quote": "Loosen the high speed spring retainer locknut with spanner wrench J 5895 and remove the spring assembly (Fig. 2).",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 222,
+        "quote": "Loosen the high speed spring retainer locknut with spanner wrench J 5895 and remove the spring assembly (Fig. 2).",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_assembly",
+      "name": "Spring assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_assembly",
+      "provenance": {
+        "page": 222,
+        "quote": "Loosen the high speed spring retainer locknut with spanner wrench J 5895 and remove the spring assembly (Fig. 2).",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 222,
+        "quote": "Loosen the high speed spring retainer locknut with spanner wrench J 5895 and remove the spring assembly (Fig. 2).",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_rod_cover",
+      "name": "Fuel rod cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_rod_cover",
+      "provenance": {
+        "page": 222,
+        "quote": "Loosen the fuel rod cover hose clamps.",
+        "verified": true,
+        "char_start": 1790,
+        "char_end": 1828,
+        "bbox": [
+          348.64902000000006,
+          183.101,
+          506.1798900000001,
+          192.101
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 222,
+        "quote": "Loosen the fuel rod cover hose clamps.",
+        "verified": true,
+        "char_start": 1790,
+        "char_end": 1828,
+        "bbox": [
+          348.64902000000006,
+          183.101,
+          506.1798900000001,
+          192.101
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 222,
+        "quote": "Clean and remove the rocker cover from the cylinder head.",
+        "verified": true,
+        "char_start": 1832,
+        "char_end": 1889,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 222,
+        "quote": "Clean and remove the rocker cover from the cylinder head.",
+        "verified": true,
+        "char_start": 1832,
+        "char_end": 1889,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 222,
+        "quote": "Clean and remove the rocker cover from the cylinder head.",
+        "verified": true,
+        "char_start": 1832,
+        "char_end": 1889,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 222,
+        "quote": "Disconnect the fuel rod from the injector control tube lever. Remove the clip that holds the fuel rod to the differential lever and lift the fuel rod from the lever.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2058,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 222,
+        "quote": "Disconnect the fuel rod from the injector control tube lever. Remove the clip that holds the fuel rod to the differential lever and lift the fuel rod from the lever.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2058,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_pipe_clip",
+      "name": "Breather pipe clip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_pipe_clip",
+      "provenance": {
+        "page": 222,
+        "quote": "Disconnect the fuel rod from the injector control tube lever. Remove the clip that holds the fuel rod to the differential lever and lift the fuel rod from the lever.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2058,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 222,
+        "quote": "Disconnect the fuel rod from the injector control tube lever. Remove the clip that holds the fuel rod to the differential lever and lift the fuel rod from the lever.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2058,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 222,
+        "quote": "Disconnect the fuel rod from the injector control tube lever. Remove the clip that holds the fuel rod to the differential lever and lift the fuel rod from the lever.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2058,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the fuel pump by disconnecting the fuel lines and removing the three bolts. Also, disconnect the lubricating oil line, if used.",
+        "verified": true,
+        "char_start": 2062,
+        "char_end": 2196,
+        "bbox": [
+          344.40000000000015,
+          273.25299999999993,
+          566.8860000000001,
+          304.441
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_line",
+      "name": "Fuel line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_line",
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the fuel pump by disconnecting the fuel lines and removing the three bolts. Also, disconnect the lubricating oil line, if used.",
+        "verified": true,
+        "char_start": 2062,
+        "char_end": 2196,
+        "bbox": [
+          344.40000000000015,
+          273.25299999999993,
+          566.8860000000001,
+          304.441
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the fuel pump by disconnecting the fuel lines and removing the three bolts. Also, disconnect the lubricating oil line, if used.",
+        "verified": true,
+        "char_start": 2062,
+        "char_end": 2196,
+        "bbox": [
+          344.40000000000015,
+          273.25299999999993,
+          566.8860000000001,
+          304.441
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_weight_housing",
+      "name": "Governor weight housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_housing",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the five bolts from the governor weight housing and the two bolts from the governor control housing.",
+        "verified": true,
+        "char_start": 2200,
+        "char_end": 2307,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the five bolts from the governor weight housing and the two bolts from the governor control housing.",
+        "verified": true,
+        "char_start": 2200,
+        "char_end": 2307,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the governor and gasket from the engine.",
+        "verified": true,
+        "char_start": 2312,
+        "char_end": 2359,
+        "bbox": [
+          344.64000000000004,
+          355.44399999999996,
+          548.67354,
+          364.44399999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Disconnect the linkage to the governor control levers.",
+      "source_number": 1,
+      "installs": [
+        "governor_linkage",
+        "governor_control",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Disconnect the linkage to the governor control levers.",
+        "verified": true,
+        "char_start": 1475,
+        "char_end": 1529,
+        "bbox": [
+          344.88,
+          74.53499999999997,
+          566.25423,
+          83.53499999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the governor cover and gasket.",
+      "source_number": 2,
+      "installs": [
+        "governor_cover",
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the governor cover and gasket.",
+        "verified": true,
+        "char_start": 1533,
+        "char_end": 1570,
+        "bbox": [
+          344.88,
+          93.04899999999998,
+          509.12952,
+          102.04899999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Detach the spring housing from the governor housing by removing the two bolts and lock washers.",
+      "source_number": 3,
+      "installs": [
+        "governor_spring_housing",
+        "disassemble_governor_housing",
+        "engine_front_cover_bolt",
+        "special_lock_washer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the spring housing from the governor housing by removing the two bolts and lock washers.",
+        "verified": true,
+        "char_start": 1574,
+        "char_end": 1669,
+        "bbox": [
+          344.4000000000001,
+          112.33499999999992,
+          565.7460000000001,
+          132.29199999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Loosen the high speed spring retainer locknut with spanner wrench J 5895 and remove the spring assembly (Fig. 2).",
+      "source_number": 4,
+      "installs": [
+        "engine_speed",
+        "high_speed_spring_retainer",
+        "spring_assembly",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Loosen the high speed spring retainer locknut with spanner wrench J 5895 and remove the spring assembly (Fig. 2).",
+        "verified": true,
+        "char_start": 1673,
+        "char_end": 1786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Loosen the fuel rod cover hose clamps.",
+      "source_number": 5,
+      "installs": [
+        "fuel_rod_cover",
+        "hose_clamp"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Loosen the fuel rod cover hose clamps.",
+        "verified": true,
+        "char_start": 1790,
+        "char_end": 1828,
+        "bbox": [
+          348.64902000000006,
+          183.101,
+          506.1798900000001,
+          192.101
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Clean and remove the rocker cover from the cylinder head.",
+      "source_number": 6,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "valve_rocker_cover",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Clean and remove the rocker cover from the cylinder head.",
+        "verified": true,
+        "char_start": 1832,
+        "char_end": 1889,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Disconnect the fuel rod from the injector control tube lever. Remove the clip that holds the fuel rod to the differential lever and lift the fuel rod from the lever.",
+      "source_number": 7,
+      "installs": [
+        "governor_fuel_rod",
+        "injector_control_tube",
+        "breather_pipe_clip",
+        "bearing_pilot_rod",
+        "governor_differential_lever"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Disconnect the fuel rod from the injector control tube lever. Remove the clip that holds the fuel rod to the differential lever and lift the fuel rod from the lever.",
+        "verified": true,
+        "char_start": 1893,
+        "char_end": 2058,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Detach the fuel pump by disconnecting the fuel lines and removing the three bolts. Also, disconnect the lubricating oil line, if used.",
+      "source_number": 8,
+      "installs": [
+        "fuel_pump",
+        "fuel_line",
+        "tbe_lubricating_oil_line"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the fuel pump by disconnecting the fuel lines and removing the three bolts. Also, disconnect the lubricating oil line, if used.",
+        "verified": true,
+        "char_start": 2062,
+        "char_end": 2196,
+        "bbox": [
+          344.40000000000015,
+          273.25299999999993,
+          566.8860000000001,
+          304.441
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the five bolts from the governor weight housing and the two bolts from the governor control housing.",
+      "source_number": 9,
+      "installs": [
+        "governor_weight_housing",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the five bolts from the governor weight housing and the two bolts from the governor control housing.",
+        "verified": true,
+        "char_start": 2200,
+        "char_end": 2307,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Detach the governor and gasket from the engine.",
+      "source_number": 10,
+      "installs": [
+        "blower_the_engine_governor"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Detach the governor and gasket from the engine.",
+        "verified": true,
+        "char_start": 2312,
+        "char_end": 2359,
+        "bbox": [
+          344.64000000000004,
+          355.44399999999996,
+          548.67354,
+          364.44399999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

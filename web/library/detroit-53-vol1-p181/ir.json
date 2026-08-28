@@ -1,0 +1,1820 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.311 - Note and record the position of the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 311,
+        "quote": "Clamp the governor housing and base assembly in a bench vise equipped with soft jaws.",
+        "verified": true,
+        "char_start": 2772,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 311,
+        "quote": "Clamp the governor housing and base assembly in a bench vise equipped with soft jaws.",
+        "verified": true,
+        "char_start": 2772,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "base",
+      "name": "Base",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "base",
+      "provenance": {
+        "page": 311,
+        "quote": "Clamp the governor housing and base assembly in a bench vise equipped with soft jaws.",
+        "verified": true,
+        "char_start": 2772,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_inlet_elbow",
+      "name": "Oil inlet elbow",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_inlet_elbow",
+      "provenance": {
+        "page": 311,
+        "quote": "If necessary, remove the oil inlet elbow from the oil inlet plug.",
+        "verified": true,
+        "char_start": 2861,
+        "char_end": 2926,
+        "bbox": [
+          329.52,
+          339.8879999999999,
+          569.6795999999999,
+          359.0519999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_inlet_plug",
+      "name": "Oil inlet plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_inlet_plug",
+      "provenance": {
+        "page": 311,
+        "quote": "If necessary, remove the oil inlet elbow from the oil inlet plug.",
+        "verified": true,
+        "char_start": 2861,
+        "char_end": 2926,
+        "bbox": [
+          329.52,
+          339.8879999999999,
+          569.6795999999999,
+          359.0519999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_cover_screw",
+      "name": "Valve cover screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_cover_screw",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the three cover screws. then remove the cover and gasket from the housing.",
+        "verified": true,
+        "char_start": 2930,
+        "char_end": 3011,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the three cover screws. then remove the cover and gasket from the housing.",
+        "verified": true,
+        "char_start": 2930,
+        "char_end": 3011,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the three cover screws. then remove the cover and gasket from the housing.",
+        "verified": true,
+        "char_start": 2930,
+        "char_end": 3011,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the three cover screws. then remove the cover and gasket from the housing.",
+        "verified": true,
+        "char_start": 2930,
+        "char_end": 3011,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_screw",
+      "name": "Speed adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_screw",
+      "provenance": {
+        "page": 311,
+        "quote": "Loosen the maximum speed adjusting screw lock nut and remove the adjusting screw and nut from the governor housing.",
+        "verified": true,
+        "char_start": 3015,
+        "char_end": 3130,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 311,
+        "quote": "Loosen the maximum speed adjusting screw lock nut and remove the adjusting screw and nut from the governor housing.",
+        "verified": true,
+        "char_start": 3015,
+        "char_end": 3130,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gap_adjusting_screw",
+      "name": "Gap adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gap_adjusting_screw",
+      "provenance": {
+        "page": 311,
+        "quote": "Loosen the maximum speed adjusting screw lock nut and remove the adjusting screw and nut from the governor housing.",
+        "verified": true,
+        "char_start": 3015,
+        "char_end": 3130,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 311,
+        "quote": "Loosen the maximum speed adjusting screw lock nut and remove the adjusting screw and nut from the governor housing.",
+        "verified": true,
+        "char_start": 3015,
+        "char_end": 3130,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "droop_adjusting_bracket",
+      "name": "Droop adjusting bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "droop_adjusting_bracket",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "terminal_lever",
+      "name": "Terminal lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "terminal_lever",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_floating",
+      "name": "Speed adjusting floating",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_floating",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_terminal",
+      "name": "Edge of the terminal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_terminal",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cotter_pin",
+      "name": "Cotter pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cotter_pin",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the two cotter pins securing the terminal lever to the terminal lever shafts. 9, Drive on the lower edge of the terminal lever shaft sleeve cup plug with a small punch and hammer as shown in Fig. 10 to force the upper edge out of ...",
+        "verified": true,
+        "char_start": 3339,
+        "char_end": 3647,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "terminal_lever_shaft",
+      "name": "Terminal lever shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "terminal_lever_shaft",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the two cotter pins securing the terminal lever to the terminal lever shafts. 9, Drive on the lower edge of the terminal lever shaft sleeve cup plug with a small punch and hammer as shown in Fig. 10 to force the upper edge out of ...",
+        "verified": true,
+        "char_start": 3339,
+        "char_end": 3647,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the two cotter pins securing the terminal lever to the terminal lever shafts. 9, Drive on the lower edge of the terminal lever shaft sleeve cup plug with a small punch and hammer as shown in Fig. 10 to force the upper edge out of ...",
+        "verified": true,
+        "char_start": 3339,
+        "char_end": 3647,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the two cotter pins securing the terminal lever to the terminal lever shafts. 9, Drive on the lower edge of the terminal lever shaft sleeve cup plug with a small punch and hammer as shown in Fig. 10 to force the upper edge out of ...",
+        "verified": true,
+        "char_start": 3339,
+        "char_end": 3647,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cup_plug",
+      "name": "Cup plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cup_plug",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the two cotter pins securing the terminal lever to the terminal lever shafts. 9, Drive on the lower edge of the terminal lever shaft sleeve cup plug with a small punch and hammer as shown in Fig. 10 to force the upper edge out of ...",
+        "verified": true,
+        "char_start": 3339,
+        "char_end": 3647,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the two cotter pins securing the terminal lever to the terminal lever shafts. 9, Drive on the lower edge of the terminal lever shaft sleeve cup plug with a small punch and hammer as shown in Fig. 10 to force the upper edge out of ...",
+        "verified": true,
+        "char_start": 3339,
+        "char_end": 3647,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the two cotter pins securing the terminal lever to the terminal lever shafts. 9, Drive on the lower edge of the terminal lever shaft sleeve cup plug with a small punch and hammer as shown in Fig. 10 to force the upper edge out of ...",
+        "verified": true,
+        "char_start": 3339,
+        "char_end": 3647,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the two cotter pins securing the terminal lever to the terminal lever shafts. 9, Drive on the lower edge of the terminal lever shaft sleeve cup plug with a small punch and hammer as shown in Fig. 10 to force the upper edge out of ...",
+        "verified": true,
+        "char_start": 3339,
+        "char_end": 3647,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "small_rod",
+      "name": "Small rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "small_rod",
+      "provenance": {
+        "page": 311,
+        "quote": "Place a small rod, slightly curved on one end, against the inner end of the terminal lever shaft and push the shaft out of the terminal lever and shaft sleeve.",
+        "verified": true,
+        "char_start": 3652,
+        "char_end": 3811,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 311,
+        "quote": "Place \u0430 1/4\" rod, approximately 6\" long, through the terminal shaft sleeve, terminal lever and against the end of the second terminal lever shaft. Then drive the cup plug out of the terminal lever shaft sleeve in the opposite side of the...",
+        "verified": true,
+        "char_start": 3816,
+        "char_end": 4085,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_shaft",
+      "name": "Speed adjusting shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_shaft",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the speed adjusting shaft sleeve and gasket from the governor housing. Then remove the speed adjusting shaft cap and gasket from the opposite side of the housing.",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 302,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the speed adjusting shaft sleeve and gasket from the governor housing. Then remove the speed adjusting shaft cap and gasket from the opposite side of the housing.",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 302,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_fork",
+      "name": "Spring fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_fork",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the speed adjusting shaft. floating lever, spring fork, speeder spring, speed adjusting lever, pilot valve plunger and plunger bearing from the governor housing.",
+        "verified": true,
+        "char_start": 307,
+        "char_end": 475,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the speed adjusting shaft. floating lever, spring fork, speeder spring, speed adjusting lever, pilot valve plunger and plunger bearing from the governor housing.",
+        "verified": true,
+        "char_start": 307,
+        "char_end": 475,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_lever",
+      "name": "Speed adjusting lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_lever",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the speed adjusting shaft. floating lever, spring fork, speeder spring, speed adjusting lever, pilot valve plunger and plunger bearing from the governor housing.",
+        "verified": true,
+        "char_start": 307,
+        "char_end": 475,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pilot_valve_plunger",
+      "name": "Pilot valve plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pilot_valve_plunger",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the speed adjusting shaft. floating lever, spring fork, speeder spring, speed adjusting lever, pilot valve plunger and plunger bearing from the governor housing.",
+        "verified": true,
+        "char_start": 307,
+        "char_end": 475,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the speed adjusting shaft. floating lever, spring fork, speeder spring, speed adjusting lever, pilot valve plunger and plunger bearing from the governor housing.",
+        "verified": true,
+        "char_start": 307,
+        "char_end": 475,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the speed adjusting shaft. floating lever, spring fork, speeder spring, speed adjusting lever, pilot valve plunger and plunger bearing from the governor housing.",
+        "verified": true,
+        "char_start": 307,
+        "char_end": 475,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_may",
+      "name": "Assembly may",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_may",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cotter_pin_securing",
+      "name": "Cotter pin securing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cotter_pin_securing",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pry",
+      "name": "Pry",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pry",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "relief_valve_assembly",
+      "name": "Relief valve assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "relief_valve_assembly",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the relief valve assembly and gasket from the side of the governor housing. Then, remove the dummy hole plug and gasket from the opposite side of the housing.",
+        "verified": true,
+        "char_start": 1376,
+        "char_end": 1541,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "dummy_hole_plug",
+      "name": "Dummy hole plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dummy_hole_plug",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the relief valve assembly and gasket from the side of the governor housing. Then, remove the dummy hole plug and gasket from the opposite side of the housing.",
+        "verified": true,
+        "char_start": 1376,
+        "char_end": 1541,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the governor housing from the bench vise. Turn the governor upside down and remove the power piston from the housing. NOTE: It may be necessary to tap the face of the governor housing lightly on a wood block to jar the piston out ...",
+        "verified": true,
+        "char_start": 1546,
+        "char_end": 1798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "power_piston",
+      "name": "Power piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "power_piston",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the governor housing from the bench vise. Turn the governor upside down and remove the power piston from the housing. NOTE: It may be necessary to tap the face of the governor housing lightly on a wood block to jar the piston out ...",
+        "verified": true,
+        "char_start": 1546,
+        "char_end": 1798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_ring",
+      "name": "Lock ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_ring",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the lock ring from the groove in the shaft of the ball head with a pair of snap ring pliers; then remove the ball head and flyweight assembly from the housing.",
+        "verified": true,
+        "char_start": 1861,
+        "char_end": 2027,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the lock ring from the groove in the shaft of the ball head with a pair of snap ring pliers; then remove the ball head and flyweight assembly from the housing.",
+        "verified": true,
+        "char_start": 1861,
+        "char_end": 2027,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_ball",
+      "name": "End of the ball",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_ball",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the lock ring from the groove in the shaft of the ball head with a pair of snap ring pliers; then remove the ball head and flyweight assembly from the housing.",
+        "verified": true,
+        "char_start": 1861,
+        "char_end": 2027,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the lock ring from the groove in the shaft of the ball head with a pair of snap ring pliers; then remove the ball head and flyweight assembly from the housing.",
+        "verified": true,
+        "char_start": 1861,
+        "char_end": 2027,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the lock ring from the groove in the shaft of the ball head with a pair of snap ring pliers; then remove the ball head and flyweight assembly from the housing.",
+        "verified": true,
+        "char_start": 1861,
+        "char_end": 2027,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "ball_head",
+      "name": "Ball head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ball_head",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the lock ring from the groove in the shaft of the ball head with a pair of snap ring pliers; then remove the ball head and flyweight assembly from the housing.",
+        "verified": true,
+        "char_start": 1861,
+        "char_end": 2027,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flyweight",
+      "name": "Flyweight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flyweight",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the lock ring from the groove in the shaft of the ball head with a pair of snap ring pliers; then remove the ball head and flyweight assembly from the housing.",
+        "verified": true,
+        "char_start": 1861,
+        "char_end": 2027,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_governor",
+      "name": "Of the governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_governor",
+      "provenance": {
+        "page": 312,
+        "quote": "Tap the edge of the governor base lightly with a plastic hammer to loosen it; then, remove the base and seal ring from the governor housing and dowel pins.",
+        "verified": true,
+        "char_start": 2112,
+        "char_end": 2267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 312,
+        "quote": "Tap the edge of the governor base lightly with a plastic hammer to loosen it; then, remove the base and seal ring from the governor housing and dowel pins.",
+        "verified": true,
+        "char_start": 2112,
+        "char_end": 2267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_pump_drive",
+      "name": "Oil pump drive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pump_drive",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the oil pump drive and driven gears from the governor base or housing.",
+        "verified": true,
+        "char_start": 2272,
+        "char_end": 2349,
+        "bbox": [
+          356.88,
+          147.68499999999995,
+          591.378,
+          168.50599999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "driven_gear",
+      "name": "Driven gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "driven_gear",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the oil pump drive and driven gears from the governor base or housing.",
+        "verified": true,
+        "char_start": 2272,
+        "char_end": 2349,
+        "bbox": [
+          356.88,
+          147.68499999999995,
+          591.378,
+          168.50599999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 312,
+        "quote": "Inspect the terminal lever shaft sleeve bushings for wear or scoring and, if necessary, remove the sleeve and bushing assemblies from the governor housing as follows: a. Clamp the bottom (square portion) of the governor housing between t...",
+        "verified": true,
+        "char_start": 2354,
+        "char_end": 3107,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 312,
+        "quote": "Inspect the terminal lever shaft sleeve bushings for wear or scoring and, if necessary, remove the sleeve and bushing assemblies from the governor housing as follows: a. Clamp the bottom (square portion) of the governor housing between t...",
+        "verified": true,
+        "char_start": 2354,
+        "char_end": 3107,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_bolt",
+      "name": "Of the bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bolt",
+      "provenance": {
+        "page": 312,
+        "quote": "Inspect the terminal lever shaft sleeve bushings for wear or scoring and, if necessary, remove the sleeve and bushing assemblies from the governor housing as follows: a. Clamp the bottom (square portion) of the governor housing between t...",
+        "verified": true,
+        "char_start": 2354,
+        "char_end": 3107,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pipe_plug",
+      "name": "Pipe plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pipe_plug",
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, remove the pipe plug in the forward face of the governor housing.",
+        "verified": true,
+        "char_start": 3112,
+        "char_end": 3191,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Note and record the position of the throttle control lever on the speed adjusting shaft. Loosen the bolt securing the lever to the shaft, then slide the lever off the shaft.",
+      "source_number": 1,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note and record the position of the throttle control lever on the speed adjusting shaft.",
+      "provenance": {
+        "page": 311,
+        "quote": "Note and record the position of the throttle control lever on the speed adjusting shaft. Loosen the bolt securing the lever to the shaft, then slide the lever off the shaft.",
+        "verified": true,
+        "char_start": 2407,
+        "char_end": 2580,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Note and record the position of the throttle control] terminal lever on the governor terminal lever shaft. Loosen the bolt securing the lever to the shaft, then slide it off the shaft.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note and record the position of the throttle control] terminal lever on the governor terminal lever shaft.",
+      "provenance": {
+        "page": 311,
+        "quote": "Note and record the position of the throttle control] terminal lever on the governor terminal lever shaft. Loosen the bolt securing the lever to the shaft, then slide it off the shaft.",
+        "verified": true,
+        "char_start": 2584,
+        "char_end": 2768,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Clamp the governor housing and base assembly in a bench vise equipped with soft jaws.",
+      "source_number": 3,
+      "installs": [
+        "breather_tube_clamp",
+        "disassemble_governor_housing",
+        "base"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 311,
+        "quote": "Clamp the governor housing and base assembly in a bench vise equipped with soft jaws.",
+        "verified": true,
+        "char_start": 2772,
+        "char_end": 2857,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "If necessary, remove the oil inlet elbow from the oil inlet plug.",
+      "source_number": 4,
+      "installs": [
+        "oil_inlet_elbow",
+        "oil_inlet_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 311,
+        "quote": "If necessary, remove the oil inlet elbow from the oil inlet plug.",
+        "verified": true,
+        "char_start": 2861,
+        "char_end": 2926,
+        "bbox": [
+          329.52,
+          339.8879999999999,
+          569.6795999999999,
+          359.0519999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the three cover screws. then remove the cover and gasket from the housing.",
+      "source_number": 5,
+      "installs": [
+        "valve_cover_screw",
+        "underside_of_the_cover",
+        "head_gasket",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the three cover screws. then remove the cover and gasket from the housing.",
+        "verified": true,
+        "char_start": 2930,
+        "char_end": 3011,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Loosen the maximum speed adjusting screw lock nut and remove the adjusting screw and nut from the governor housing.",
+      "source_number": 6,
+      "installs": [
+        "speed_adjusting_screw",
+        "bearing_lock_nut",
+        "gap_adjusting_screw",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 311,
+        "quote": "Loosen the maximum speed adjusting screw lock nut and remove the adjusting screw and nut from the governor housing.",
+        "verified": true,
+        "char_start": 3015,
+        "char_end": 3130,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+      "source_number": 7,
+      "installs": [
+        "engine_speed",
+        "droop_adjusting_bracket",
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "plain_washer",
+        "terminal_lever",
+        "booster_spring_bracket",
+        "speed_adjusting_floating",
+        "of_the_stop_lever",
+        "edge_of_the_terminal"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the speed droop adjusting bracket bolt, lock washer and plain washer from the terminal lever; then. remove the droop adjusting bracket from the speed adjusting floating lever and terminal lever.",
+        "verified": true,
+        "char_start": 3134,
+        "char_end": 3335,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the two cotter pins securing the terminal lever to the terminal lever shafts. 9, Drive on the lower edge of the terminal lever shaft sleeve cup plug with a small punch and hammer as shown in Fig. 10 to force the upper edge out of the sleeve. Then pull the plug out of the sleeve with a pair of pliers.",
+      "source_number": 8,
+      "installs": [
+        "cotter_pin",
+        "terminal_lever_shaft",
+        "end_of_the_shaft",
+        "crankshaft_front_sleeve",
+        "cup_plug",
+        "nut_securing_fig",
+        "hammer_spring_scale_upper",
+        "edge_of_the_plug"
+      ],
+      "depends_on": [
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 311,
+        "quote": "Remove the two cotter pins securing the terminal lever to the terminal lever shafts. 9, Drive on the lower edge of the terminal lever shaft sleeve cup plug with a small punch and hammer as shown in Fig. 10 to force the upper edge out of ...",
+        "verified": true,
+        "char_start": 3339,
+        "char_end": 3647,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Place a small rod, slightly curved on one end, against the inner end of the terminal lever shaft and push the shaft out of the terminal lever and shaft sleeve.",
+      "source_number": 10,
+      "installs": [
+        "small_rod"
+      ],
+      "depends_on": [
+        "s07",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 311,
+        "quote": "Place a small rod, slightly curved on one end, against the inner end of the terminal lever shaft and push the shaft out of the terminal lever and shaft sleeve.",
+        "verified": true,
+        "char_start": 3652,
+        "char_end": 3811,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Place \u0430 1/4\" rod, approximately 6\" long, through the terminal shaft sleeve, terminal lever and against the end of the second terminal lever shaft. Then drive the cup plug out of the terminal lever shaft sleeve in the opposite side of the governor housing with a hammer.",
+      "source_number": 11,
+      "installs": [
+        "bearing_pilot_rod"
+      ],
+      "depends_on": [
+        "s03",
+        "s07",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 311,
+        "quote": "Place \u0430 1/4\" rod, approximately 6\" long, through the terminal shaft sleeve, terminal lever and against the end of the second terminal lever shaft. Then drive the cup plug out of the terminal lever shaft sleeve in the opposite side of the...",
+        "verified": true,
+        "char_start": 3816,
+        "char_end": 4085,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Push the terminal lever shaft out of the terminal lever and sleeve. Then remove the rod and terminal lever from the housing.",
+      "source_number": 12,
+      "installs": [],
+      "depends_on": [
+        "s05",
+        "s07",
+        "s08",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "Push the terminal lever shaft out of the terminal lever and sleeve. Then remove the rod and terminal lever from the housing.",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 128,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Remove the speed adjusting shaft sleeve and gasket from the governor housing. Then remove the speed adjusting shaft cap and gasket from the opposite side of the housing.",
+      "source_number": 13,
+      "installs": [
+        "speed_adjusting_shaft",
+        "clean_shipping_cap"
+      ],
+      "depends_on": [
+        "s03",
+        "s05",
+        "s07",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the speed adjusting shaft sleeve and gasket from the governor housing. Then remove the speed adjusting shaft cap and gasket from the opposite side of the housing.",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 302,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Remove the speed adjusting shaft. floating lever, spring fork, speeder spring, speed adjusting lever, pilot valve plunger and plunger bearing from the governor housing.",
+      "source_number": 14,
+      "installs": [
+        "spring_fork",
+        "end_of_the_spring",
+        "speed_adjusting_lever",
+        "pilot_valve_plunger",
+        "area_of_the_plunger",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [
+        "s03",
+        "s07",
+        "s12"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the speed adjusting shaft. floating lever, spring fork, speeder spring, speed adjusting lever, pilot valve plunger and plunger bearing from the governor housing.",
+        "verified": true,
+        "char_start": 307,
+        "char_end": 475,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adjusting lever to the speed adjusting shaft and pull the shaft out of the lever. b. Straighten the bent end of the wire pin securing the speed adjusting lever and spring fork to the speed adjusting floating lever. c. Pull the wire pin out of the speed adjusting lever and floating lever with a pair of pliers. Then, remove the two spring fork pins from the spring fork, floating lever and speed adjusting lever. d. Insert a small screw driver between the spring and fork and pry the speeder spring from the spring fork. e. Work a small screw driver around under the speeder spring and remove the spring from the pilot valve plunger and spring seat assembly.",
+      "source_number": 15,
+      "installs": [
+        "drive_spring_seat",
+        "assembly_may",
+        "cotter_pin_securing",
+        "lock_wire",
+        "copper_plated_dowel_pin",
+        "governor_operating_fork",
+        "exhaust_valve_seat_insert",
+        "of_the_buffer_screw",
+        "pry",
+        "needle_bearing_pilot",
+        "engine_front_cover_valve",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s07",
+        "s08",
+        "s12",
+        "s13"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, the speed adjusting shaft, speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger and spring seat assembly may \u04bb\u0435 disassembled as follows: a. Remove the cotter pin securing the speed adju...",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 1371,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Remove the relief valve assembly and gasket from the side of the governor housing. Then, remove the dummy hole plug and gasket from the opposite side of the housing.",
+      "source_number": 16,
+      "installs": [
+        "relief_valve_assembly",
+        "dummy_hole_plug"
+      ],
+      "depends_on": [
+        "s03",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the relief valve assembly and gasket from the side of the governor housing. Then, remove the dummy hole plug and gasket from the opposite side of the housing.",
+        "verified": true,
+        "char_start": 1376,
+        "char_end": 1541,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "Remove the governor housing from the bench vise. Turn the governor upside down and remove the power piston from the housing. NOTE: It may be necessary to tap the face of the governor housing lightly on a wood block to jar the piston out of the housing.",
+      "source_number": 17,
+      "installs": [
+        "blower_the_engine_governor",
+        "power_piston"
+      ],
+      "depends_on": [
+        "s03",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: It may be necessary to tap the face of the governor housing lightly on a wood block to jar the piston out of the housing.",
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the governor housing from the bench vise. Turn the governor upside down and remove the power piston from the housing. NOTE: It may be necessary to tap the face of the governor housing lightly on a wood block to jar the piston out ...",
+        "verified": true,
+        "char_start": 1546,
+        "char_end": 1798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s17",
+      "index": 16,
+      "text": "Place the governor housing bottom side up on a bench.",
+      "source_number": 18,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "Place the governor housing bottom side up on a bench.",
+        "verified": true,
+        "char_start": 1803,
+        "char_end": 1856,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s18",
+      "index": 17,
+      "text": "Remove the lock ring from the groove in the shaft of the ball head with a pair of snap ring pliers; then remove the ball head and flyweight assembly from the housing.",
+      "source_number": 19,
+      "installs": [
+        "lock_ring",
+        "of_the_groove",
+        "end_of_the_ball",
+        "cylinder_head",
+        "external_snap_ring",
+        "ball_head",
+        "flyweight"
+      ],
+      "depends_on": [
+        "s05",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the lock ring from the groove in the shaft of the ball head with a pair of snap ring pliers; then remove the ball head and flyweight assembly from the housing.",
+        "verified": true,
+        "char_start": 1861,
+        "char_end": 2027,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s19",
+      "index": 18,
+      "text": "Remove the three screws securing the governor base to the governor housing.",
+      "source_number": 20,
+      "installs": [],
+      "depends_on": [
+        "s03",
+        "s14",
+        "s16"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the three screws securing the governor base to the governor housing.",
+        "verified": true,
+        "char_start": 2032,
+        "char_end": 2107,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s20",
+      "index": 19,
+      "text": "Tap the edge of the governor base lightly with a plastic hammer to loosen it; then, remove the base and seal ring from the governor housing and dowel pins.",
+      "source_number": 21,
+      "installs": [
+        "of_the_governor",
+        "seal_ring"
+      ],
+      "depends_on": [
+        "s03",
+        "s14"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "Tap the edge of the governor base lightly with a plastic hammer to loosen it; then, remove the base and seal ring from the governor housing and dowel pins.",
+        "verified": true,
+        "char_start": 2112,
+        "char_end": 2267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s21",
+      "index": 20,
+      "text": "Remove the oil pump drive and driven gears from the governor base or housing.",
+      "source_number": 22,
+      "installs": [
+        "oil_pump_drive",
+        "driven_gear"
+      ],
+      "depends_on": [
+        "s03",
+        "s05",
+        "s16"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "Remove the oil pump drive and driven gears from the governor base or housing.",
+        "verified": true,
+        "char_start": 2272,
+        "char_end": 2349,
+        "bbox": [
+          356.88,
+          147.68499999999995,
+          591.378,
+          168.50599999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s22",
+      "index": 21,
+      "text": "Inspect the terminal lever shaft sleeve bushings for wear or scoring and, if necessary, remove the sleeve and bushing assemblies from the governor housing as follows: a. Clamp the bottom (square portion) of the governor housing between the soft jaws of a bench vise. b. Insert a 5/16\" bolt, approximately 5\" long, through one of the terminal lever shaft sleeves, then thread a 5/16\" nut, approximately 1/4\" from the end, on the bolt inside of the housing. c. Place the threaded end of the bolt inside the sleeve in the opposite side of the housing. Then drive the sleeve and bushing assembly out of the governor housing with a hammer. d. Reverse the bolt in the governor housing and remove the remaining terminal lever shaft sleeve and bushing assembly.",
+      "source_number": 23,
+      "installs": [
+        "connecting_rod_bushing",
+        "bolt_thread",
+        "of_the_bolt"
+      ],
+      "depends_on": [
+        "s03",
+        "s05",
+        "s06",
+        "s07",
+        "s08",
+        "s14",
+        "s16",
+        "s20"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "Inspect the terminal lever shaft sleeve bushings for wear or scoring and, if necessary, remove the sleeve and bushing assemblies from the governor housing as follows: a. Clamp the bottom (square portion) of the governor housing between t...",
+        "verified": true,
+        "char_start": 2354,
+        "char_end": 3107,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s23",
+      "index": 22,
+      "text": "If necessary, remove the pipe plug in the forward face of the governor housing.",
+      "source_number": 24,
+      "installs": [
+        "pipe_plug"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 312,
+        "quote": "If necessary, remove the pipe plug in the forward face of the governor housing.",
+        "verified": true,
+        "char_start": 3112,
+        "char_end": 3191,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

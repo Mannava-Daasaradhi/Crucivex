@@ -1,0 +1,1178 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.278 - Attach a new gasket to the governor...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 278,
+        "quote": "Attach a new gasket to the governor weight housing.",
+        "verified": true,
+        "char_start": 973,
+        "char_end": 1024,
+        "bbox": [
+          341.52000000000004,
+          224.12999999999988,
+          569.0064,
+          234.12999999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_weight_housing",
+      "name": "Governor weight housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_housing",
+      "provenance": {
+        "page": 278,
+        "quote": "Attach a new gasket to the governor weight housing.",
+        "verified": true,
+        "char_start": 973,
+        "char_end": 1024,
+        "bbox": [
+          341.52000000000004,
+          224.12999999999988,
+          569.0064,
+          234.12999999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_gear",
+      "name": "Governor drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_gear",
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_bolt",
+      "name": "Cylinder head bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_bolt",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the three 12-point head bolts with copper washers in the governor weight housing next to the cylinder block. Install the two remaining. bolts with stee] washers and lock washers. Tighten the bolts to 35 lb-ft torque.",
+        "verified": true,
+        "char_start": 1314,
+        "char_end": 1538,
+        "bbox": [
+          330.00000000000006,
+          323.64899999999994,
+          571.0326000000001,
+          376.1989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the three 12-point head bolts with copper washers in the governor weight housing next to the cylinder block. Install the two remaining. bolts with stee] washers and lock washers. Tighten the bolts to 35 lb-ft torque.",
+        "verified": true,
+        "char_start": 1314,
+        "char_end": 1538,
+        "bbox": [
+          330.00000000000006,
+          323.64899999999994,
+          571.0326000000001,
+          376.1989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the three 12-point head bolts with copper washers in the governor weight housing next to the cylinder block. Install the two remaining. bolts with stee] washers and lock washers. Tighten the bolts to 35 lb-ft torque.",
+        "verified": true,
+        "char_start": 1314,
+        "char_end": 1538,
+        "bbox": [
+          330.00000000000006,
+          323.64899999999994,
+          571.0326000000001,
+          376.1989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the three 12-point head bolts with copper washers in the governor weight housing next to the cylinder block. Install the two remaining. bolts with stee] washers and lock washers. Tighten the bolts to 35 lb-ft torque.",
+        "verified": true,
+        "char_start": 1314,
+        "char_end": 1538,
+        "bbox": [
+          330.00000000000006,
+          323.64899999999994,
+          571.0326000000001,
+          376.1989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the three 12-point head bolts with copper washers in the governor weight housing next to the cylinder block. Install the two remaining. bolts with stee] washers and lock washers. Tighten the bolts to 35 lb-ft torque.",
+        "verified": true,
+        "char_start": 1314,
+        "char_end": 1538,
+        "bbox": [
+          330.00000000000006,
+          323.64899999999994,
+          571.0326000000001,
+          376.1989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the three 12-point head bolts with copper washers in the governor weight housing next to the cylinder block. Install the two remaining. bolts with stee] washers and lock washers. Tighten the bolts to 35 lb-ft torque.",
+        "verified": true,
+        "char_start": 1314,
+        "char_end": 1538,
+        "bbox": [
+          330.00000000000006,
+          323.64899999999994,
+          571.0326000000001,
+          376.1989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the three 12-point head bolts with copper washers in the governor weight housing next to the cylinder block. Install the two remaining. bolts with stee] washers and lock washers. Tighten the bolts to 35 lb-ft torque.",
+        "verified": true,
+        "char_start": 1314,
+        "char_end": 1538,
+        "bbox": [
+          330.00000000000006,
+          323.64899999999994,
+          571.0326000000001,
+          376.1989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_control",
+      "name": "Governor control",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_control",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the two governor control housing attaching bolts and lock washers. Tighten the bolts to 10-12 Ib-ft torque.",
+        "verified": true,
+        "char_start": 1542,
+        "char_end": 1657,
+        "bbox": [
+          330.72,
+          388.6499999999999,
+          570.6650000000001,
+          420.3689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the two governor control housing attaching bolts and lock washers. Tighten the bolts to 10-12 Ib-ft torque.",
+        "verified": true,
+        "char_start": 1542,
+        "char_end": 1657,
+        "bbox": [
+          330.72,
+          388.6499999999999,
+          570.6650000000001,
+          420.3689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flywheel_attaching_bolt",
+      "name": "Flywheel attaching bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_attaching_bolt",
+      "provenance": {
+        "page": 278,
+        "quote": "Install the two governor control housing attaching bolts and lock washers. Tighten the bolts to 10-12 Ib-ft torque.",
+        "verified": true,
+        "char_start": 1542,
+        "char_end": 1657,
+        "bbox": [
+          330.72,
+          388.6499999999999,
+          570.6650000000001,
+          420.3689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 278,
+        "quote": "On current engines, install tbe lubricating oil lines and fittings from the weight housing to the cylinder block and the control housing.",
+        "verified": true,
+        "char_start": 1661,
+        "char_end": 1798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 278,
+        "quote": "On current engines, install tbe lubricating oil lines and fittings from the weight housing to the cylinder block and the control housing.",
+        "verified": true,
+        "char_start": 1661,
+        "char_end": 1798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "grease_fitting",
+      "name": "Grease fitting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "grease_fitting",
+      "provenance": {
+        "page": 278,
+        "quote": "On current engines, install tbe lubricating oil lines and fittings from the weight housing to the cylinder block and the control housing.",
+        "verified": true,
+        "char_start": 1661,
+        "char_end": 1798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 278,
+        "quote": "On current engines, install tbe lubricating oil lines and fittings from the weight housing to the cylinder block and the control housing.",
+        "verified": true,
+        "char_start": 1661,
+        "char_end": 1798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_housing",
+      "name": "Control housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_housing",
+      "provenance": {
+        "page": 278,
+        "quote": "On current engines, install tbe lubricating oil lines and fittings from the weight housing to the cylinder block and the control housing.",
+        "verified": true,
+        "char_start": 1661,
+        "char_end": 1798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hose_clamp",
+      "name": "Hose clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hose_clamp",
+      "provenance": {
+        "page": 278,
+        "quote": "Align and tighten the hose clamps on the fuel rod cover.",
+        "verified": true,
+        "char_start": 1802,
+        "char_end": 1858,
+        "bbox": [
+          330.4799999999999,
+          476.12899999999996,
+          570.477,
+          497.04999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_rod_cover",
+      "name": "Fuel rod cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_rod_cover",
+      "provenance": {
+        "page": 278,
+        "quote": "Align and tighten the hose clamps on the fuel rod cover.",
+        "verified": true,
+        "char_start": 1802,
+        "char_end": 1858,
+        "bbox": [
+          330.4799999999999,
+          476.12899999999996,
+          570.477,
+          497.04999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 278,
+        "quote": "Attach the fuel rod to the injector control tube lever with a pin and cotter pin.",
+        "verified": true,
+        "char_start": 1862,
+        "char_end": 1943,
+        "bbox": [
+          330.2399999999999,
+          509.00899999999996,
+          570.423,
+          530.057
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 278,
+        "quote": "Attach the fuel rod to the injector control tube lever with a pin and cotter pin.",
+        "verified": true,
+        "char_start": 1862,
+        "char_end": 1943,
+        "bbox": [
+          330.2399999999999,
+          509.00899999999996,
+          570.423,
+          530.057
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 278,
+        "quote": "Attach the fuel rod to the injector control tube lever with a pin and cotter pin.",
+        "verified": true,
+        "char_start": 1862,
+        "char_end": 1943,
+        "bbox": [
+          330.2399999999999,
+          509.00899999999996,
+          570.423,
+          530.057
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cotter_pin",
+      "name": "Cotter pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cotter_pin",
+      "provenance": {
+        "page": 278,
+        "quote": "Attach the fuel rod to the injector control tube lever with a pin and cotter pin.",
+        "verified": true,
+        "char_start": 1862,
+        "char_end": 1943,
+        "bbox": [
+          330.2399999999999,
+          509.00899999999996,
+          570.423,
+          530.057
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "variable_speed_spring",
+      "name": "Variable speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "variable_speed_spring",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_housing_cover",
+      "name": "Spring housing cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_housing_cover",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_spring_housing",
+      "name": "Governor spring housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_spring_housing",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_plunger_guide",
+      "name": "Spring plunger guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_plunger_guide",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "small_brass_rod",
+      "name": "Small brass rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "small_brass_rod",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_plunger",
+      "name": "High speed spring plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_plunger",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Attach a new gasket to the governor weight housing.",
+      "source_number": 2,
+      "installs": [
+        "head_gasket",
+        "governor_weight_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Attach a new gasket to the governor weight housing.",
+        "verified": true,
+        "char_start": 973,
+        "char_end": 1024,
+        "bbox": [
+          341.52000000000004,
+          224.12999999999988,
+          569.0064,
+          234.12999999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teeth on the camshaft gear or balance shaft gear.",
+      "source_number": 3,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "governor_fuel_rod",
+        "breather_tube_clamp",
+        "cylinder_head",
+        "assembly_rear_end_plate",
+        "gear_train_teeth",
+        "governor_drive_gear",
+        "camshaft",
+        "fuel_pump_drive_gear",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Insert the end of the fuel rod through the hose and clamps and into the opening in the cylinder head and position the governor weight housing against the engine rear end plate; the teeth on the governor drive gear must mesh with the teet...",
+        "verified": true,
+        "char_start": 1028,
+        "char_end": 1310,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the three 12-point head bolts with copper washers in the governor weight housing next to the cylinder block. Install the two remaining. bolts with stee] washers and lock washers. Tighten the bolts to 35 lb-ft torque.",
+      "source_number": 4,
+      "installs": [
+        "head_bolt",
+        "copper_washer",
+        "next",
+        "of_the_block",
+        "engine_front_cover_bolt",
+        "another_drive_flange_washer",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 47.5,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Install the three 12-point head bolts with copper washers in the governor weight housing next to the cylinder block. Install the two remaining. bolts with stee] washers and lock washers. Tighten the bolts to 35 lb-ft torque.",
+        "verified": true,
+        "char_start": 1314,
+        "char_end": 1538,
+        "bbox": [
+          330.00000000000006,
+          323.64899999999994,
+          571.0326000000001,
+          376.1989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the two governor control housing attaching bolts and lock washers. Tighten the bolts to 10-12 Ib-ft torque.",
+      "source_number": 5,
+      "installs": [
+        "governor_control",
+        "of_the_flywheel_housing",
+        "flywheel_attaching_bolt"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": 13.6,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Install the two governor control housing attaching bolts and lock washers. Tighten the bolts to 10-12 Ib-ft torque.",
+        "verified": true,
+        "char_start": 1542,
+        "char_end": 1657,
+        "bbox": [
+          330.72,
+          388.6499999999999,
+          570.6650000000001,
+          420.3689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "On current engines, install tbe lubricating oil lines and fittings from the weight housing to the cylinder block and the control housing.",
+      "source_number": 6,
+      "installs": [
+        "engine_front_cover_current",
+        "tbe_lubricating_oil_line",
+        "grease_fitting",
+        "front_balance_weight",
+        "control_housing"
+      ],
+      "depends_on": [
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "On current engines, install tbe lubricating oil lines and fittings from the weight housing to the cylinder block and the control housing.",
+        "verified": true,
+        "char_start": 1661,
+        "char_end": 1798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Align and tighten the hose clamps on the fuel rod cover.",
+      "source_number": 7,
+      "installs": [
+        "hose_clamp",
+        "fuel_rod_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Align and tighten the hose clamps on the fuel rod cover.",
+        "verified": true,
+        "char_start": 1802,
+        "char_end": 1858,
+        "bbox": [
+          330.4799999999999,
+          476.12899999999996,
+          570.477,
+          497.04999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Attach the fuel rod to the injector control tube lever with a pin and cotter pin.",
+      "source_number": 8,
+      "installs": [
+        "injector_control_tube",
+        "of_the_stop_lever",
+        "copper_plated_dowel_pin",
+        "cotter_pin"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Attach the fuel rod to the injector control tube lever with a pin and cotter pin.",
+        "verified": true,
+        "char_start": 1862,
+        "char_end": 1943,
+        "bbox": [
+          330.2399999999999,
+          509.00899999999996,
+          570.423,
+          530.057
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If removed, start the variable speed spring plunger guide straight in the boss inside the governor housing and tap it into place with a small brass rod and hammer. c. Lubricate the small end of the variable speed spring plunger with engine oil. Then insert the plunger in the plunger guide inside the governor housing.",
+      "source_number": 9,
+      "installs": [
+        "nut_securing_fig",
+        "variable_speed_spring",
+        "blower_the_engine_governor",
+        "spring_housing_cover",
+        "governor_spring_housing",
+        "of_the_buffer_screw",
+        "engine_speed",
+        "spring_plunger_guide",
+        "press_the_shaft_straight",
+        "disassemble_governor_housing",
+        "small_brass_rod",
+        "high_speed_spring_plunger",
+        "area_of_the_plunger",
+        "cam_follower_guide"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 278,
+        "quote": "Refer to Fig. 3 and attach the variable speed spring and housing to the governor as follows: a. On current governors, use a new gasket and attach the spring housing cover to the spring housing with a screw and a lock washer. b. If remove...",
+        "verified": true,
+        "char_start": 1947,
+        "char_end": 2493,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

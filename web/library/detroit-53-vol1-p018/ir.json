@@ -1,0 +1,601 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.43 - Rest the cylinder head on its side...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 43,
+        "quote": "Rest the cylinder head on its side and remove the two bolts and lock washers securing the cam follower guide to the bottom of the cylinder head (Fig. 2). Remove the guide.",
+        "verified": true,
+        "char_start": 771,
+        "char_end": 942,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 43,
+        "quote": "Rest the cylinder head on its side and remove the two bolts and lock washers securing the cam follower guide to the bottom of the cylinder head (Fig. 2). Remove the guide.",
+        "verified": true,
+        "char_start": 771,
+        "char_end": 942,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 43,
+        "quote": "Rest the cylinder head on its side and remove the two bolts and lock washers securing the cam follower guide to the bottom of the cylinder head (Fig. 2). Remove the guide.",
+        "verified": true,
+        "char_start": 771,
+        "char_end": 942,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 43,
+        "quote": "Rest the cylinder head on its side and remove the two bolts and lock washers securing the cam follower guide to the bottom of the cylinder head (Fig. 2). Remove the guide.",
+        "verified": true,
+        "char_start": 771,
+        "char_end": 942,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 43,
+        "quote": "Rest the cylinder head on its side and remove the two bolts and lock washers securing the cam follower guide to the bottom of the cylinder head (Fig. 2). Remove the guide.",
+        "verified": true,
+        "char_start": 771,
+        "char_end": 942,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 43,
+        "quote": "Pull the cam followers from the bottom of the cylinder head.",
+        "verified": true,
+        "char_start": 946,
+        "char_end": 1006,
+        "bbox": [
+          80.16,
+          407.8059999999999,
+          322.4772,
+          426.60599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "leaking_fuel_pipe",
+      "name": "Leaking fuel pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "leaking_fuel_pipe",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors.",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1074,
+        "bbox": [
+          93.6,
+          435.31499999999994,
+          413.45259999999996,
+          447.72799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors.",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1074,
+        "bbox": [
+          93.6,
+          435.31499999999994,
+          413.45259999999996,
+          447.72799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_connector",
+      "name": "Fuel connector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_connector",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors.",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1074,
+        "bbox": [
+          93.6,
+          435.31499999999994,
+          413.45259999999996,
+          447.72799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nuts at the upper end of the push rods and unscrew the push rods from the rocker arm clevises.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1188,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nuts at the upper end of the push rods and unscrew the push rods from the rocker arm clevises.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1188,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nuts at the upper end of the push rods and unscrew the push rods from the rocker arm clevises.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1188,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nuts at the upper end of the push rods and unscrew the push rods from the rocker arm clevises.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1188,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 43,
+        "quote": "Pull the push rod and spring assemblies from the bottom of the cylinder head.",
+        "verified": true,
+        "char_start": 1192,
+        "char_end": 1269,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod_lock",
+      "name": "Push rod lock",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod_lock",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_seat_retainer",
+      "name": "Spring seat retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_seat_retainer",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "e_cylinder_insert_head",
+      "name": "E cylinder insert head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "e_cylinder_insert_head",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod_spring",
+      "name": "Push rod spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod_spring",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Rest the cylinder head on its side and remove the two bolts and lock washers securing the cam follower guide to the bottom of the cylinder head (Fig. 2). Remove the guide.",
+      "source_number": 1,
+      "installs": [
+        "cylinder_head",
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "cam_follower_guide",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Rest the cylinder head on its side and remove the two bolts and lock washers securing the cam follower guide to the bottom of the cylinder head (Fig. 2). Remove the guide.",
+        "verified": true,
+        "char_start": 771,
+        "char_end": 942,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Pull the cam followers from the bottom of the cylinder head.",
+      "source_number": 2,
+      "installs": [
+        "cam_follower"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Pull the cam followers from the bottom of the cylinder head.",
+        "verified": true,
+        "char_start": 946,
+        "char_end": 1006,
+        "bbox": [
+          80.16,
+          407.8059999999999,
+          322.4772,
+          426.60599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the fuel pipes from the injector and the fuel connectors.",
+      "source_number": 3,
+      "installs": [
+        "leaking_fuel_pipe",
+        "end_of_the_injector",
+        "fuel_connector"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors.",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1074,
+        "bbox": [
+          93.6,
+          435.31499999999994,
+          413.45259999999996,
+          447.72799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Loosen the lock nuts at the upper end of the push rods and unscrew the push rods from the rocker arm clevises.",
+      "source_number": 4,
+      "installs": [
+        "bearing_lock_nut",
+        "push_rod",
+        "bearing_pilot_rod",
+        "rocker_arm"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nuts at the upper end of the push rods and unscrew the push rods from the rocker arm clevises.",
+        "verified": true,
+        "char_start": 1078,
+        "char_end": 1188,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Pull the push rod and spring assemblies from the bottom of the cylinder head.",
+      "source_number": 5,
+      "installs": [
+        "end_of_the_spring"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Pull the push rod and spring assemblies from the bottom of the cylinder head.",
+        "verified": true,
+        "char_start": 1192,
+        "char_end": 1269,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers must be removed and installed in the new head. Remove Cam Follower and Push Rod Assembly (Cylinder Head Not Removed from Engine) A push rod, push rod spring, spring seats and cam follower may be removed from the top of the cylinder head by using tool J 3092-01 as shown in Fig. 3.",
+      "source_number": 6,
+      "installs": [
+        "push_rod_lock",
+        "front_balance_weight_nut",
+        "hammer_spring_scale_upper",
+        "drive_spring_seat",
+        "insert_remover_valve_seat",
+        "spring_seat_retainer",
+        "drive_shaft_retainer",
+        "e_cylinder_insert_head",
+        "push_rod_spring",
+        "t_push_rod_cam"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the push rod lock nut, upper spring seat, spring and lower spring seat from each push rod for cleaning and inspection. The push rod spring seat retainers remain in the cylinder head. If the head is to be changed, these retainers m...",
+        "verified": true,
+        "char_start": 1273,
+        "char_end": 1789,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

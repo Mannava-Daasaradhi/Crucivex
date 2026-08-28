@@ -1,0 +1,299 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.273 - Press the bearing retainer (Fig. 7) from...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "bearing_retainer",
+      "name": "Bearing retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer",
+      "provenance": {
+        "page": 273,
+        "quote": "Press the bearing retainer (Fig. 7) from the weight shaft.",
+        "verified": true,
+        "char_start": 2082,
+        "char_end": 2140,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 273,
+        "quote": "Press the bearing retainer (Fig. 7) from the weight shaft.",
+        "verified": true,
+        "char_start": 2082,
+        "char_end": 2140,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 273,
+        "quote": "Press the bearing retainer (Fig. 7) from the weight shaft.",
+        "verified": true,
+        "char_start": 2082,
+        "char_end": 2140,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 273,
+        "quote": "lf necessary, remove the snap ring and press the bearing from the retainer.",
+        "verified": true,
+        "char_start": 2144,
+        "char_end": 2219,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 273,
+        "quote": "lf necessary, remove the snap ring and press the bearing from the retainer.",
+        "verified": true,
+        "char_start": 2144,
+        "char_end": 2219,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 273,
+        "quote": "lf necessary, remove the snap ring and press the bearing from the retainer.",
+        "verified": true,
+        "char_start": 2144,
+        "char_end": 2219,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_pin_retainer",
+      "name": "Weight pin retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_pin_retainer",
+      "provenance": {
+        "page": 273,
+        "quote": "Remove the weight pin retainers and drive the pins out of the carrier and weights. Remove the weights.",
+        "verified": true,
+        "char_start": 2223,
+        "char_end": 2325,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 273,
+        "quote": "Remove the weight pin retainers and drive the pins out of the carrier and weights. Remove the weights.",
+        "verified": true,
+        "char_start": 2223,
+        "char_end": 2325,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_carrier",
+      "name": "Weight carrier",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_carrier",
+      "provenance": {
+        "page": 273,
+        "quote": "Remove the weight pin retainers and drive the pins out of the carrier and weights. Remove the weights.",
+        "verified": true,
+        "char_start": 2223,
+        "char_end": 2325,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 273,
+        "quote": "Remove the weight pin retainers and drive the pins out of the carrier and weights. Remove the weights.",
+        "verified": true,
+        "char_start": 2223,
+        "char_end": 2325,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 274,
+        "quote": "Slide the riser and bearing assembly from the shaft. Do not attempt to remove the bearing since the riser and bearing are serviced only as an assembly.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 254,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 274,
+        "quote": "Slide the riser and bearing assembly from the shaft. Do not attempt to remove the bearing since the riser and bearing are serviced only as an assembly.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 254,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Press the bearing retainer (Fig. 7) from the weight shaft.",
+      "source_number": 1,
+      "installs": [
+        "bearing_retainer",
+        "nut_securing_fig",
+        "governor_weight_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 273,
+        "quote": "Press the bearing retainer (Fig. 7) from the weight shaft.",
+        "verified": true,
+        "char_start": 2082,
+        "char_end": 2140,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "lf necessary, remove the snap ring and press the bearing from the retainer.",
+      "source_number": 2,
+      "installs": [
+        "external_snap_ring",
+        "bearing_the_end_bearing",
+        "drive_shaft_retainer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 273,
+        "quote": "lf necessary, remove the snap ring and press the bearing from the retainer.",
+        "verified": true,
+        "char_start": 2144,
+        "char_end": 2219,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the weight pin retainers and drive the pins out of the carrier and weights. Remove the weights.",
+      "source_number": 3,
+      "installs": [
+        "weight_pin_retainer",
+        "copper_plated_dowel_pin",
+        "weight_carrier",
+        "front_balance_weight"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 273,
+        "quote": "Remove the weight pin retainers and drive the pins out of the carrier and weights. Remove the weights.",
+        "verified": true,
+        "char_start": 2223,
+        "char_end": 2325,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Slide the riser and bearing assembly from the shaft. Do not attempt to remove the bearing since the riser and bearing are serviced only as an assembly.",
+      "source_number": 4,
+      "installs": [
+        "governor_riser",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not attempt to remove the bearing since the riser and bearing are serviced only as an assembly.",
+      "provenance": {
+        "page": 274,
+        "quote": "Slide the riser and bearing assembly from the shaft. Do not attempt to remove the bearing since the riser and bearing are serviced only as an assembly.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 254,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

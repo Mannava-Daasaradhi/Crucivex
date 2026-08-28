@@ -1,0 +1,440 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.83 - If removed, pilot the damper inner cone...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 83,
+        "quote": "If removed, pilot the damper inner cone over the end of the crankshaft, through the oil seal and up against the oil slinger, with the tapered end of the cone pointing toward the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 439,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "vibration_damper",
+      "name": "Vibration damper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "vibration_damper",
+      "provenance": {
+        "page": 83,
+        "quote": "If removed, pilot the damper inner cone over the end of the crankshaft, through the oil seal and up against the oil slinger, with the tapered end of the cone pointing toward the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 439,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inner_cone",
+      "name": "Inner cone",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner_cone",
+      "provenance": {
+        "page": 83,
+        "quote": "If removed, pilot the damper inner cone over the end of the crankshaft, through the oil seal and up against the oil slinger, with the tapered end of the cone pointing toward the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 439,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 83,
+        "quote": "If removed, pilot the damper inner cone over the end of the crankshaft, through the oil seal and up against the oil slinger, with the tapered end of the cone pointing toward the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 439,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 83,
+        "quote": "If removed, pilot the damper inner cone over the end of the crankshaft, through the oil seal and up against the oil slinger, with the tapered end of the cone pointing toward the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 439,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 83,
+        "quote": "Slide the damper and hub as an assembly over the end of the crankshaft (with the long end of the hub facing the inner cone) and up against the damper inner cone. Do not hit the damper with a hammer to position it on the crankshaft.",
+        "verified": true,
+        "char_start": 443,
+        "char_end": 674,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 83,
+        "quote": "Slide the damper and hub as an assembly over the end of the crankshaft (with the long end of the hub facing the inner cone) and up against the damper inner cone. Do not hit the damper with a hammer to position it on the crankshaft.",
+        "verified": true,
+        "char_start": 443,
+        "char_end": 674,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "damper_outer_cone",
+      "name": "Damper outer cone",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "damper_outer_cone",
+      "provenance": {
+        "page": 83,
+        "quote": "Slide the damper outer cone over the end of the crankshaft and up against the damper hub, with the tapered end of the cone pointing toward the hub.",
+        "verified": true,
+        "char_start": 678,
+        "char_end": 825,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 83,
+        "quote": "Install the pulley on the crankshaft.",
+        "verified": true,
+        "char_start": 829,
+        "char_end": 866,
+        "bbox": [
+          330.0,
+          107.52699999999993,
+          481.95759999999996,
+          117.52699999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 83,
+        "quote": "Place the washer on the crankshaft end bolt and thread the bolt into the end of the crankshaft.",
+        "verified": true,
+        "char_start": 870,
+        "char_end": 965,
+        "bbox": [
+          319.68000000000006,
+          130.36799999999994,
+          557.5965600000001,
+          149.18799999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_end_bolt",
+      "name": "Crankshaft end bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_end_bolt",
+      "provenance": {
+        "page": 83,
+        "quote": "Place the washer on the crankshaft end bolt and thread the bolt into the end of the crankshaft.",
+        "verified": true,
+        "char_start": 870,
+        "char_end": 965,
+        "bbox": [
+          319.68000000000006,
+          130.36799999999994,
+          557.5965600000001,
+          149.18799999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 83,
+        "quote": "Place the washer on the crankshaft end bolt and thread the bolt into the end of the crankshaft.",
+        "verified": true,
+        "char_start": 870,
+        "char_end": 965,
+        "bbox": [
+          319.68000000000006,
+          130.36799999999994,
+          557.5965600000001,
+          149.18799999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 83,
+        "quote": "Place the washer on the crankshaft end bolt and thread the bolt into the end of the crankshaft.",
+        "verified": true,
+        "char_start": 870,
+        "char_end": 965,
+        "bbox": [
+          319.68000000000006,
+          130.36799999999994,
+          557.5965600000001,
+          149.18799999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_bolt",
+      "name": "Of the bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bolt",
+      "provenance": {
+        "page": 83,
+        "quote": "Tighten the crankshaft end bolt as follows: a. Tighten the bolt to 180 Ib-ft torque. b. Strike the end of the bolt a sharp blow with a 2 to 3 pound lead hammer. c. Tighten the bolt to 290-310 lb-ft torque and strike the bolt again. d. Re...",
+        "verified": true,
+        "char_start": 969,
+        "char_end": 1247,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "If removed, pilot the damper inner cone over the end of the crankshaft, through the oil seal and up against the oil slinger, with the tapered end of the cone pointing toward the front end of the crankshaft.",
+      "source_number": 1,
+      "installs": [
+        "needle_bearing_pilot",
+        "vibration_damper",
+        "inner_cone",
+        "halve_of_the_crankshaft",
+        "crankshaft_front_oil_seal"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 83,
+        "quote": "If removed, pilot the damper inner cone over the end of the crankshaft, through the oil seal and up against the oil slinger, with the tapered end of the cone pointing toward the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 439,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Slide the damper and hub as an assembly over the end of the crankshaft (with the long end of the hub facing the inner cone) and up against the damper inner cone. Do not hit the damper with a hammer to position it on the crankshaft.",
+      "source_number": 2,
+      "installs": [
+        "blower_drive_hub",
+        "side_of_the_inner"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not hit the damper with a hammer to position it on the crankshaft.",
+      "provenance": {
+        "page": 83,
+        "quote": "Slide the damper and hub as an assembly over the end of the crankshaft (with the long end of the hub facing the inner cone) and up against the damper inner cone. Do not hit the damper with a hammer to position it on the crankshaft.",
+        "verified": true,
+        "char_start": 443,
+        "char_end": 674,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Slide the damper outer cone over the end of the crankshaft and up against the damper hub, with the tapered end of the cone pointing toward the hub.",
+      "source_number": 3,
+      "installs": [
+        "damper_outer_cone"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 83,
+        "quote": "Slide the damper outer cone over the end of the crankshaft and up against the damper hub, with the tapered end of the cone pointing toward the hub.",
+        "verified": true,
+        "char_start": 678,
+        "char_end": 825,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the pulley on the crankshaft.",
+      "source_number": 4,
+      "installs": [
+        "crankshaft_splined_crankshaft_pulley"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 83,
+        "quote": "Install the pulley on the crankshaft.",
+        "verified": true,
+        "char_start": 829,
+        "char_end": 866,
+        "bbox": [
+          330.0,
+          107.52699999999993,
+          481.95759999999996,
+          117.52699999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Place the washer on the crankshaft end bolt and thread the bolt into the end of the crankshaft.",
+      "source_number": 5,
+      "installs": [
+        "another_drive_flange_washer",
+        "crankshaft_end_bolt",
+        "bolt_thread",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 83,
+        "quote": "Place the washer on the crankshaft end bolt and thread the bolt into the end of the crankshaft.",
+        "verified": true,
+        "char_start": 870,
+        "char_end": 965,
+        "bbox": [
+          319.68000000000006,
+          130.36799999999994,
+          557.5965600000001,
+          149.18799999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Tighten the crankshaft end bolt as follows: a. Tighten the bolt to 180 Ib-ft torque. b. Strike the end of the bolt a sharp blow with a 2 to 3 pound lead hammer. c. Tighten the bolt to 290-310 lb-ft torque and strike the bolt again. d. Retighten the bolt to 290-310 Ib-ft torque.",
+      "source_number": 6,
+      "installs": [
+        "of_the_bolt"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": 244.0,
+      "warning": null,
+      "provenance": {
+        "page": 83,
+        "quote": "Tighten the crankshaft end bolt as follows: a. Tighten the bolt to 180 Ib-ft torque. b. Strike the end of the bolt a sharp blow with a 2 to 3 pound lead hammer. c. Tighten the bolt to 290-310 lb-ft torque and strike the bolt again. d. Re...",
+        "verified": true,
+        "char_start": 969,
+        "char_end": 1247,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

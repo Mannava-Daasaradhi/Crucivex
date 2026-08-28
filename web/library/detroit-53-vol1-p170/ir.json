@@ -1,0 +1,851 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.285 - Remove the outer nut on the variable...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "outer_nut",
+      "name": "Outer nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outer_nut",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the outer nut on the variable speed spring eye bolt. Then remove the spring and eye bolt.",
+        "verified": true,
+        "char_start": 2062,
+        "char_end": 2158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "variable_speed_spring",
+      "name": "Variable speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "variable_speed_spring",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the outer nut on the variable speed spring eye bolt. Then remove the spring and eye bolt.",
+        "verified": true,
+        "char_start": 2062,
+        "char_end": 2158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the outer nut on the variable speed spring eye bolt. Then remove the spring and eye bolt.",
+        "verified": true,
+        "char_start": 2062,
+        "char_end": 2158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the outer nut on the variable speed spring eye bolt. Then remove the spring and eye bolt.",
+        "verified": true,
+        "char_start": 2062,
+        "char_end": 2158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pry",
+      "name": "Pry",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pry",
+      "provenance": {
+        "page": 285,
+        "quote": "Pry the plug from the bottom of the weight housing.",
+        "verified": true,
+        "char_start": 2162,
+        "char_end": 2213,
+        "bbox": [
+          335.04,
+          410.16799999999995,
+          560.1117599999999,
+          419.16799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 285,
+        "quote": "Pry the plug from the bottom of the weight housing.",
+        "verified": true,
+        "char_start": 2162,
+        "char_end": 2213,
+        "bbox": [
+          335.04,
+          410.16799999999995,
+          560.1117599999999,
+          419.16799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_weight",
+      "name": "Of the weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_weight",
+      "provenance": {
+        "page": 285,
+        "quote": "Pry the plug from the bottom of the weight housing.",
+        "verified": true,
+        "char_start": 2162,
+        "char_end": 2213,
+        "bbox": [
+          335.04,
+          410.16799999999995,
+          560.1117599999999,
+          419.16799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 285,
+        "quote": "Pry the plug from the bottom of the weight housing.",
+        "verified": true,
+        "char_start": 2162,
+        "char_end": 2213,
+        "bbox": [
+          335.04,
+          410.16799999999995,
+          560.1117599999999,
+          419.16799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the snap ring from the lower end of the operating shaft and tap the shaft and lever assembly out of the contro] housing.",
+        "verified": true,
+        "char_start": 2217,
+        "char_end": 2344,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_operating",
+      "name": "End of the operating",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_operating",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the snap ring from the lower end of the operating shaft and tap the shaft and lever assembly out of the contro] housing.",
+        "verified": true,
+        "char_start": 2217,
+        "char_end": 2344,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the snap ring from the lower end of the operating shaft and tap the shaft and lever assembly out of the contro] housing.",
+        "verified": true,
+        "char_start": 2217,
+        "char_end": 2344,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the snap ring from the lower end of the operating shaft and tap the shaft and lever assembly out of the contro] housing.",
+        "verified": true,
+        "char_start": 2217,
+        "char_end": 2344,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_contro",
+      "name": "Speed contro",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_contro",
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the snap ring from the lower end of the operating shaft and tap the shaft and lever assembly out of the contro] housing.",
+        "verified": true,
+        "char_start": 2217,
+        "char_end": 2344,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft_bearing",
+      "name": "Governor operating shaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft_bearing",
+      "provenance": {
+        "page": 286,
+        "quote": "Remove the snap ring and press the lower operating shaft bearing out of the weight housing.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 94,
+        "bbox": [
+          92.16,
+          67.65199999999993,
+          330.17519999999996,
+          88.17799999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "booster_spring",
+      "name": "Booster spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring",
+      "provenance": {
+        "page": 286,
+        "quote": "Withdraw the outer nut and remove the booster spring and eye bolt.",
+        "verified": true,
+        "char_start": 98,
+        "char_end": 164,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 286,
+        "quote": "Drive the pin from the speed control lever and remove the lever from the shaft.",
+        "verified": true,
+        "char_start": 168,
+        "char_end": 247,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_control_lever",
+      "name": "Speed control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_lever",
+      "provenance": {
+        "page": 286,
+        "quote": "Drive the pin from the speed control lever and remove the lever from the shaft.",
+        "verified": true,
+        "char_start": 168,
+        "char_end": 247,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 286,
+        "quote": "Slide the shaft and booster spring bracket from the housing.",
+        "verified": true,
+        "char_start": 251,
+        "char_end": 311,
+        "bbox": [
+          91.44000000000003,
+          164.9709999999999,
+          330.48030000000006,
+          185.64599999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 286,
+        "quote": "Remove the buffer screw.",
+        "verified": true,
+        "char_start": 315,
+        "char_end": 339,
+        "bbox": [
+          102.0,
+          198.52800000000002,
+          208.10448,
+          206.52800000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "operating_shaft_lever",
+      "name": "Operating shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "operating_shaft_lever",
+      "provenance": {
+        "page": 286,
+        "quote": "Disengage the small spring between the operating shaft lever and the stop lever.",
+        "verified": true,
+        "char_start": 343,
+        "char_end": 423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "follower_retaining_ring",
+      "name": "Follower retaining ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_retaining_ring",
+      "provenance": {
+        "page": 286,
+        "quote": "Remove the retaining ring and washer and lift the stop lever from the operating shaft.",
+        "verified": true,
+        "char_start": 428,
+        "char_end": 514,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 286,
+        "quote": "Remove the retaining ring and washer and lift the stop lever from the operating shaft.",
+        "verified": true,
+        "char_start": 428,
+        "char_end": 514,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 286,
+        "quote": "Remove the retaining ring and washer and lift the stop lever from the operating shaft.",
+        "verified": true,
+        "char_start": 428,
+        "char_end": 514,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_shield",
+      "name": "Bearing shield",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_shield",
+      "provenance": {
+        "page": 286,
+        "quote": "Slide the bearing shield from the operating shaft.",
+        "verified": true,
+        "char_start": 605,
+        "char_end": 655,
+        "bbox": [
+          106.56,
+          313.16599999999994,
+          321.02400000000006,
+          323.16599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 286,
+        "quote": "Press the bearing from the operating shaft.",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 703,
+        "bbox": [
+          107.03999999999999,
+          334.16999999999996,
+          292.4916,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the outer nut on the variable speed spring eye bolt. Then remove the spring and eye bolt.",
+      "source_number": 1,
+      "installs": [
+        "outer_nut",
+        "variable_speed_spring",
+        "engine_front_cover_bolt",
+        "end_of_the_spring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the outer nut on the variable speed spring eye bolt. Then remove the spring and eye bolt.",
+        "verified": true,
+        "char_start": 2062,
+        "char_end": 2158,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Pry the plug from the bottom of the weight housing.",
+      "source_number": 2,
+      "installs": [
+        "pry",
+        "edge_of_the_plug",
+        "of_the_weight",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 285,
+        "quote": "Pry the plug from the bottom of the weight housing.",
+        "verified": true,
+        "char_start": 2162,
+        "char_end": 2213,
+        "bbox": [
+          335.04,
+          410.16799999999995,
+          560.1117599999999,
+          419.16799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the snap ring from the lower end of the operating shaft and tap the shaft and lever assembly out of the contro] housing.",
+      "source_number": 3,
+      "installs": [
+        "external_snap_ring",
+        "end_of_the_operating",
+        "end_of_the_shaft",
+        "of_the_stop_lever",
+        "speed_contro"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 285,
+        "quote": "Remove the snap ring from the lower end of the operating shaft and tap the shaft and lever assembly out of the contro] housing.",
+        "verified": true,
+        "char_start": 2217,
+        "char_end": 2344,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the snap ring and press the lower operating shaft bearing out of the weight housing.",
+      "source_number": 4,
+      "installs": [
+        "governor_operating_shaft_bearing"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Remove the snap ring and press the lower operating shaft bearing out of the weight housing.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 94,
+        "bbox": [
+          92.16,
+          67.65199999999993,
+          330.17519999999996,
+          88.17799999999988
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Withdraw the outer nut and remove the booster spring and eye bolt.",
+      "source_number": 5,
+      "installs": [
+        "booster_spring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Withdraw the outer nut and remove the booster spring and eye bolt.",
+        "verified": true,
+        "char_start": 98,
+        "char_end": 164,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Drive the pin from the speed control lever and remove the lever from the shaft.",
+      "source_number": 6,
+      "installs": [
+        "copper_plated_dowel_pin",
+        "speed_control_lever"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Drive the pin from the speed control lever and remove the lever from the shaft.",
+        "verified": true,
+        "char_start": 168,
+        "char_end": 247,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Slide the shaft and booster spring bracket from the housing.",
+      "source_number": 7,
+      "installs": [
+        "booster_spring_bracket"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Slide the shaft and booster spring bracket from the housing.",
+        "verified": true,
+        "char_start": 251,
+        "char_end": 311,
+        "bbox": [
+          91.44000000000003,
+          164.9709999999999,
+          330.48030000000006,
+          185.64599999999984
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the buffer screw.",
+      "source_number": 8,
+      "installs": [
+        "of_the_buffer_screw"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Remove the buffer screw.",
+        "verified": true,
+        "char_start": 315,
+        "char_end": 339,
+        "bbox": [
+          102.0,
+          198.52800000000002,
+          208.10448,
+          206.52800000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Disengage the small spring between the operating shaft lever and the stop lever.",
+      "source_number": 9,
+      "installs": [
+        "operating_shaft_lever"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Disengage the small spring between the operating shaft lever and the stop lever.",
+        "verified": true,
+        "char_start": 343,
+        "char_end": 423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Remove the retaining ring and washer and lift the stop lever from the operating shaft.",
+      "source_number": 10,
+      "installs": [
+        "follower_retaining_ring",
+        "another_drive_flange_washer",
+        "governor_operating_shaft"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Remove the retaining ring and washer and lift the stop lever from the operating shaft.",
+        "verified": true,
+        "char_start": 428,
+        "char_end": 514,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Drive the pin from the operating shaft lever and remove the lever from the shaft.",
+      "source_number": 11,
+      "installs": [],
+      "depends_on": [
+        "s03",
+        "s06",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Drive the pin from the operating shaft lever and remove the lever from the shaft.",
+        "verified": true,
+        "char_start": 519,
+        "char_end": 600,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Slide the bearing shield from the operating shaft.",
+      "source_number": 12,
+      "installs": [
+        "bearing_shield"
+      ],
+      "depends_on": [
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Slide the bearing shield from the operating shaft.",
+        "verified": true,
+        "char_start": 605,
+        "char_end": 655,
+        "bbox": [
+          106.56,
+          313.16599999999994,
+          321.02400000000006,
+          323.16599999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Press the bearing from the operating shaft.",
+      "source_number": 13,
+      "installs": [
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 286,
+        "quote": "Press the bearing from the operating shaft.",
+        "verified": true,
+        "char_start": 660,
+        "char_end": 703,
+        "bbox": [
+          107.03999999999999,
+          334.16999999999996,
+          292.4916,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

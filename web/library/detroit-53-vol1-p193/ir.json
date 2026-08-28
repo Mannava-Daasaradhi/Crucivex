@@ -1,0 +1,329 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.333 - SPRAY TIP OR ORIFICES | 5. CRACKED...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 333,
+        "quote": "SPRAY TIP OR ORIFICES | 5. CRACKED VALVE PARTS |",
+        "verified": true,
+        "char_start": 56,
+        "char_end": 104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 333,
+        "quote": "SPRAY TIP OR ORIFICES | 5. CRACKED VALVE PARTS |",
+        "verified": true,
+        "char_start": 56,
+        "char_end": 104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 333,
+        "quote": "Disassemble the injector and clean the parts. Chart, try changing the spray tip. However, use only a tip specified for the injector being tested.",
+        "verified": true,
+        "char_start": 1012,
+        "char_end": 1157,
+        "bbox": [
+          75.36000000000004,
+          606.194,
+          536.7108,
+          632.622
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 333,
+        "quote": "Disassemble the injector and clean the parts. Chart, try changing the spray tip. However, use only a tip specified for the injector being tested.",
+        "verified": true,
+        "char_start": 1012,
+        "char_end": 1157,
+        "bbox": [
+          75.36000000000004,
+          606.194,
+          536.7108,
+          632.622
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 333,
+        "quote": "Assemble the gear with the drill spot mark on the tooth engaged between the two marked teeth of the",
+        "verified": true,
+        "char_start": 1161,
+        "char_end": 1260,
+        "bbox": [
+          331.68,
+          626.972,
+          572.0888999999999,
+          648.012
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drill",
+      "name": "Drill",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drill",
+      "provenance": {
+        "page": 333,
+        "quote": "Assemble the gear with the drill spot mark on the tooth engaged between the two marked teeth of the",
+        "verified": true,
+        "char_start": 1161,
+        "char_end": 1260,
+        "bbox": [
+          331.68,
+          626.972,
+          572.0888999999999,
+          648.012
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 333,
+        "quote": "Assemble the gear with the drill spot mark on the tooth engaged between the two marked teeth of the",
+        "verified": true,
+        "char_start": 1161,
+        "char_end": 1260,
+        "bbox": [
+          331.68,
+          626.972,
+          572.0888999999999,
+          648.012
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "SPRAY TIP OR ORIFICES | 5. CRACKED VALVE PARTS |",
+      "source_number": 1,
+      "installs": [
+        "indicate_the_spray_tip",
+        "engine_front_cover_valve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 333,
+        "quote": "SPRAY TIP OR ORIFICES | 5. CRACKED VALVE PARTS |",
+        "verified": true,
+        "char_start": 56,
+        "char_end": 104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Replace the spray tip.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 333,
+        "quote": "Replace the spray tip.",
+        "verified": true,
+        "char_start": 641,
+        "char_end": 663,
+        "bbox": [
+          71.52,
+          527.0229999999999,
+          167.09799999999998,
+          537.0229999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Replace the cracked parts. NOTE: The fuel output of an injector varies with the use of different spray tips of the same 6. Replace the plunger and bushing assembly. size due to manufacturing tolerances in drilling",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The fuel output of an injector varies with the use of different spray tips of the same 6.",
+      "provenance": {
+        "page": 333,
+        "quote": "Replace the cracked parts. NOTE: The fuel output of an injector varies with the use of different spray tips of the same 6. Replace the plunger and bushing assembly. size due to manufacturing tolerances in drilling",
+        "verified": true,
+        "char_start": 667,
+        "char_end": 880,
+        "bbox": [
+          75.12000000000003,
+          543.096,
+          530.1438,
+          586.304
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Re-lap the sealing surfaces. the tips. If the fuel output does not fall within the specified limits of the Fuel Output Check",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 333,
+        "quote": "Re-lap the sealing surfaces. the tips. If the fuel output does not fall within the specified limits of the Fuel Output Check",
+        "verified": true,
+        "char_start": 884,
+        "char_end": 1008,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Disassemble the injector and clean the parts. Chart, try changing the spray tip. However, use only a tip specified for the injector being tested.",
+      "source_number": 8,
+      "installs": [
+        "end_of_the_injector",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 333,
+        "quote": "Disassemble the injector and clean the parts. Chart, try changing the spray tip. However, use only a tip specified for the injector being tested.",
+        "verified": true,
+        "char_start": 1012,
+        "char_end": 1157,
+        "bbox": [
+          75.36000000000004,
+          606.194,
+          536.7108,
+          632.622
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Assemble the gear with the drill spot mark on the tooth engaged between the two marked teeth of the",
+      "source_number": 9,
+      "installs": [
+        "fuel_pump_drive_gear",
+        "drill",
+        "gear_train_teeth"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 333,
+        "quote": "Assemble the gear with the drill spot mark on the tooth engaged between the two marked teeth of the",
+        "verified": true,
+        "char_start": 1161,
+        "char_end": 1260,
+        "bbox": [
+          331.68,
+          626.972,
+          572.0888999999999,
+          648.012
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.113 - Install the upper bearing shell -- the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "upper_bearing_shell",
+      "name": "Upper bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_bearing_shell",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rod_cap",
+      "name": "Connecting rod cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rod_cap",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "short",
+      "name": "Short",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "short",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "notch",
+      "name": "Notch",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "notch",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bearing_shell",
+      "name": "Connecting rod bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing_shell",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lower_bearing_cap",
+      "name": "Lower bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_bearing_cap",
+      "provenance": {
+        "page": 114,
+        "quote": "Install the bearing cap and shell on the connecting rod with the numbers on the cap and the rod adjacent to each other. On the 3/8\" -24 bolts (In-line and \u201cV\u201d engines), tighten the nuts to 40-45 lb-ft torque. Tighten the nuts on the 5/16...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 114,
+        "quote": "Install the bearing cap and shell on the connecting rod with the numbers on the cap and the rod adjacent to each other. On the 3/8\" -24 bolts (In-line and \u201cV\u201d engines), tighten the nuts to 40-45 lb-ft torque. Tighten the nuts on the 5/16...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "number",
+      "provenance": {
+        "page": 114,
+        "quote": "Install the bearing cap and shell on the connecting rod with the numbers on the cap and the rod adjacent to each other. On the 3/8\" -24 bolts (In-line and \u201cV\u201d engines), tighten the nuts to 40-45 lb-ft torque. Tighten the nuts on the 5/16...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 114,
+        "quote": "Install the bearing cap and shell on the connecting rod with the numbers on the cap and the rod adjacent to each other. On the 3/8\" -24 bolts (In-line and \u201cV\u201d engines), tighten the nuts to 40-45 lb-ft torque. Tighten the nuts on the 5/16...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 114,
+        "quote": "Install the bearing cap and shell on the connecting rod with the numbers on the cap and the rod adjacent to each other. On the 3/8\" -24 bolts (In-line and \u201cV\u201d engines), tighten the nuts to 40-45 lb-ft torque. Tighten the nuts on the 5/16...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 114,
+        "quote": "Check the connecting rod side clearance. The clearance between the side of the rod and the crankshaft should be 006\" to .012\" with new parts on an In-line or .008\" to .016\" clearance between the connecting rods on a V-type engine.",
+        "verified": true,
+        "char_start": 498,
+        "char_end": 728,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "liner_hold_down_clamp",
+      "name": "Liner hold-down clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "liner_hold_down_clamp",
+      "provenance": {
+        "page": 114,
+        "quote": "Remove the liner hold-down clamps.",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 767,
+        "bbox": [
+          328.08,
+          74.7299999999999,
+          486.08709999999996,
+          84.7299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "compression_gasket",
+      "name": "Compression gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "compression_gasket",
+      "provenance": {
+        "page": 114,
+        "quote": "Install new compression gaskets and water and oil seals as outlined in Section 1.2. Then, install the cylinder head.",
+        "verified": true,
+        "char_start": 772,
+        "char_end": 888,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 114,
+        "quote": "Install new compression gaskets and water and oil seals as outlined in Section 1.2. Then, install the cylinder head.",
+        "verified": true,
+        "char_start": 772,
+        "char_end": 888,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 114,
+        "quote": "Install new compression gaskets and water and oil seals as outlined in Section 1.2. Then, install the cylinder head.",
+        "verified": true,
+        "char_start": 772,
+        "char_end": 888,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 114,
+        "quote": "Install new compression gaskets and water and oil seals as outlined in Section 1.2. Then, install the cylinder head.",
+        "verified": true,
+        "char_start": 772,
+        "char_end": 888,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 114,
+        "quote": "If new parts such as pistons, rings, cylinder liners or bearings were installed, operate the engine on the RUN-IN schedule given in Section 13.2.1.",
+        "verified": true,
+        "char_start": 1192,
+        "char_end": 1339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 114,
+        "quote": "If new parts such as pistons, rings, cylinder liners or bearings were installed, operate the engine on the RUN-IN schedule given in Section 13.2.1.",
+        "verified": true,
+        "char_start": 1192,
+        "char_end": 1339,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 114,
+        "quote": "If new parts such as pistons, rings, cylinder liners or bearings were installed, operate the engine on the RUN-IN schedule given in Section 13.2.1.",
+        "verified": true,
+        "char_start": 1192,
+        "char_end": 1339,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell with clean engine oil. Lubricate the bearing shell with clean engine oil.",
+      "source_number": 5,
+      "installs": [
+        "upper_bearing_shell",
+        "of_the_groove",
+        "rod_cap",
+        "short",
+        "tbe_lubricating_oil_line",
+        "bearing_the_end_bearing",
+        "notch",
+        "clean_shipping_cap",
+        "bearing_pilot_rod",
+        "connecting_rod_bearing_shell",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Install the upper bearing shell -- the one with a continuous oil groove -- in the connecting rod cap with short groove at each parting line -- in the connecting the tang on the bearing in the notch in the cap. rod. Lubricate the shell wi...",
+        "verified": true,
+        "char_start": 1760,
+        "char_end": 2068,
+        "bbox": [
+          74.15999999999997,
+          688.05,
+          579.7747999999998,
+          719.663
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the bearing cap and shell on the connecting rod with the numbers on the cap and the rod adjacent to each other. On the 3/8\" -24 bolts (In-line and \u201cV\u201d engines), tighten the nuts to 40-45 lb-ft torque. Tighten the nuts on the 5/16\" -24 bolts (early 6V engines) to 24-28 lb-ft torque. NOTE: Rework of an old 6V-53 rod assembly to utilize 3/8\" bolts is not recommended. IMPORTANT: The new 6V-53 rod assembly with 3/8\" bolts should be used for replacement at the ume of normal overhaul.",
+      "source_number": 9,
+      "installs": [
+        "lower_bearing_cap",
+        "connecting_rod",
+        "number",
+        "engine_front_cover_bolt",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 54.2,
+      "warning": "NOTE: Rework of an old 6V-53 rod assembly to utilize 3/8\" bolts is not recommended.",
+      "provenance": {
+        "page": 114,
+        "quote": "Install the bearing cap and shell on the connecting rod with the numbers on the cap and the rod adjacent to each other. On the 3/8\" -24 bolts (In-line and \u201cV\u201d engines), tighten the nuts to 40-45 lb-ft torque. Tighten the nuts on the 5/16...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 493,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Check the connecting rod side clearance. The clearance between the side of the rod and the crankshaft should be 006\" to .012\" with new parts on an In-line or .008\" to .016\" clearance between the connecting rods on a V-type engine.",
+      "source_number": 10,
+      "installs": [
+        "halve_of_the_crankshaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 114,
+        "quote": "Check the connecting rod side clearance. The clearance between the side of the rod and the crankshaft should be 006\" to .012\" with new parts on an In-line or .008\" to .016\" clearance between the connecting rods on a V-type engine.",
+        "verified": true,
+        "char_start": 498,
+        "char_end": 728,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the liner hold-down clamps.",
+      "source_number": 11,
+      "installs": [
+        "liner_hold_down_clamp"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 114,
+        "quote": "Remove the liner hold-down clamps.",
+        "verified": true,
+        "char_start": 733,
+        "char_end": 767,
+        "bbox": [
+          328.08,
+          74.7299999999999,
+          486.08709999999996,
+          84.7299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install new compression gaskets and water and oil seals as outlined in Section 1.2. Then, install the cylinder head.",
+      "source_number": 12,
+      "installs": [
+        "compression_gasket",
+        "crankshaft_front_oil_seal",
+        "spray_nozzle_outlined",
+        "cylinder_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 114,
+        "quote": "Install new compression gaskets and water and oil seals as outlined in Section 1.2. Then, install the cylinder head.",
+        "verified": true,
+        "char_start": 772,
+        "char_end": 888,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install any other parts which were removed from the engine.",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 114,
+        "quote": "Install any other parts which were removed from the engine.",
+        "verified": true,
+        "char_start": 893,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "After the engine has been completely reassembled, refer to the Lubricating Oil Specifications in Sec- tion 13.3 and refill the crankcase to the proper level on the dipstick.",
+      "source_number": 14,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 114,
+        "quote": "After the engine has been completely reassembled, refer to the Lubricating Oil Specifications in Sec- tion 13.3 and refill the crankcase to the proper level on the dipstick.",
+        "verified": true,
+        "char_start": 957,
+        "char_end": 1130,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Close all of the drains and fill the cooling system.",
+      "source_number": 15,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 114,
+        "quote": "Close all of the drains and fill the cooling system.",
+        "verified": true,
+        "char_start": 1135,
+        "char_end": 1187,
+        "bbox": [
+          327.36,
+          232.8989999999999,
+          541.2834,
+          242.8989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "If new parts such as pistons, rings, cylinder liners or bearings were installed, operate the engine on the RUN-IN schedule given in Section 13.2.1.",
+      "source_number": 16,
+      "installs": [
+        "of_the_selected_piston",
+        "piston_ring",
+        "cylinder_liner"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 114,
+        "quote": "If new parts such as pistons, rings, cylinder liners or bearings were installed, operate the engine on the RUN-IN schedule given in Section 13.2.1.",
+        "verified": true,
+        "char_start": 1192,
+        "char_end": 1339,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

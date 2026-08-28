@@ -1,0 +1,28 @@
+{
+  "_comment": "Domain vocabulary: part id -> surface forms as they appear in prose. In production this is derived from the parts table / BOM of the document itself; it is checked in here so the demo pipeline has no network or model dependency. Longer forms are matched first, so 'connecting rod cap' wins over 'connecting rod'.",
+  "_attaches_to": "Assembly semantics the prose never states outright: a fastener cannot be fitted before the thing it fastens. Text alone cannot recover this, because 'tighten the connecting rod bolts' names only the bolts. Declaring it here is what turns a list of steps into a dependency graph. Parts with no entry are bench subassembly and are legitimately unordered.",
+  "parts": {
+    "crankcase":       { "name": "Crankcase",             "forms": ["crankcase", "crank case", "cylinder block"] },
+    "crankshaft":      { "name": "Crankshaft",            "forms": ["crankshaft", "crank shaft"],          "attaches_to": ["crankcase"] },
+    "camshaft":        { "name": "Camshaft assembly",     "forms": ["camshaft", "cam shaft", "cam gear"],  "attaches_to": ["crankcase"] },
+    "connecting_rod":  { "name": "Connecting rod",        "forms": ["connecting rod", "conrod", "con rod"], "attaches_to": ["crankshaft"] },
+    "rod_cap":         { "name": "Connecting rod cap",    "forms": ["connecting rod cap", "rod cap", "big end cap"], "attaches_to": ["connecting_rod"] },
+    "rod_bolt":        { "name": "Connecting rod bolt",   "forms": ["connecting rod bolt", "rod bolt", "big end bolt"], "attaches_to": ["rod_cap"] },
+    "cylinder_barrel": { "name": "Cylinder barrel",       "forms": ["cylinder barrel", "cylinder bore", "barrel", "bore"], "attaches_to": ["crankcase"] },
+    "piston":          { "name": "Piston",                "forms": ["piston"] },
+    "piston_ring":     { "name": "Piston ring set",       "forms": ["piston ring", "compression ring", "ring set", "rings"], "attaches_to": ["piston"] },
+    "wrist_pin":       { "name": "Wrist pin",             "forms": ["wrist pin", "gudgeon pin", "piston pin"], "attaches_to": ["piston", "connecting_rod"] },
+    "intake_valve":    { "name": "Intake valve",          "forms": ["intake valve", "inlet valve"] },
+    "exhaust_valve":   { "name": "Exhaust valve",         "forms": ["exhaust valve"] },
+    "valve_spring":    { "name": "Valve spring",          "forms": ["valve spring", "spring and retainer"], "attaches_to": ["intake_valve", "exhaust_valve"] },
+    "head_gasket":     { "name": "Cylinder head gasket",  "forms": ["cylinder head gasket", "head gasket", "gasket"], "attaches_to": ["cylinder_barrel"] },
+    "cylinder_head":   { "name": "Cylinder head",         "forms": ["cylinder head", "head"],              "attaches_to": ["head_gasket"] },
+    "head_bolt":       { "name": "Cylinder head bolt",    "forms": ["cylinder head bolt", "head bolt"],    "attaches_to": ["cylinder_head"] },
+    "spark_plug":      { "name": "Spark plug",            "forms": ["spark plug", "sparking plug", "plug"], "attaches_to": ["cylinder_head"] },
+    "flywheel":        { "name": "Flywheel",              "forms": ["flywheel", "fly wheel"],              "attaches_to": ["crankshaft"] }
+  },
+  "tools": [
+    "torque wrench", "ring compressor", "ring expander", "valve spring compressor",
+    "feeler gauge", "plug socket", "flywheel puller", "dial indicator", "micrometer"
+  ]
+}

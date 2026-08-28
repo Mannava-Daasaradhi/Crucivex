@@ -1,0 +1,473 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.106 - Apply a coat of engine oil to...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 106,
+        "quote": "Apply a coat of engine oil to the circumference of each piston ring and piston.",
+        "verified": true,
+        "char_start": 65,
+        "char_end": 144,
+        "bbox": [
+          305.52000000000004,
+          107.8569,
+          552.4784533333332,
+          130.00080000000003
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "related_part_piston",
+      "name": "Related part piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "related_part_piston",
+      "provenance": {
+        "page": 106,
+        "quote": "Apply a coat of engine oil to the circumference of each piston ring and piston.",
+        "verified": true,
+        "char_start": 65,
+        "char_end": 144,
+        "bbox": [
+          305.52000000000004,
+          107.8569,
+          552.4784533333332,
+          130.00080000000003
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "piston_ring_gap",
+      "name": "Piston ring gap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring_gap",
+      "provenance": {
+        "page": 106,
+        "quote": "Position the piston ring gaps as shown in the illustr- ation respectively. Note: The piston ring gaps must not be placed at the lateral pressure side of the piston, but place them at the piston pin end side having no lateral pressure app...",
+        "verified": true,
+        "char_start": 148,
+        "char_end": 394,
+        "bbox": [
+          286.56,
+          135.9438,
+          550.6544959999999,
+          213.71980000000008
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "water_pump_bearing",
+      "name": "Water pump bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_pump_bearing",
+      "provenance": {
+        "page": 106,
+        "quote": "Apply a coat of engine oil to the upper bearing surfaces.",
+        "verified": true,
+        "char_start": 891,
+        "char_end": 948,
+        "bbox": [
+          309.35999999999996,
+          669.0849000000001,
+          553.3097463333332,
+          691.3288
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_barrel",
+      "name": "Cylinder barrel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_barrel",
+      "provenance": {
+        "page": 106,
+        "quote": "Apply a coat of engine oil to the cylinder bore.",
+        "verified": true,
+        "char_start": 952,
+        "char_end": 1000,
+        "bbox": [
+          309.35999999999996,
+          697.2419,
+          527.7881816666666,
+          706.8085666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 107,
+        "quote": "Use a piston ring compressor to compress the piston rings. Piston Ring Compressor: 5-8840-9018-0 2 Use a hammer grip to push the piston in until the connecting rod makes contact with the crankpin. At the same time, rotate the crankshaft ...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 269,
+        "bbox": [
+          289.92,
+          74.18179999999995,
+          555.9256560000001,
+          168.24956666666662
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 107,
+        "quote": "Use a piston ring compressor to compress the piston rings. Piston Ring Compressor: 5-8840-9018-0 2 Use a hammer grip to push the piston in until the connecting rod makes contact with the crankpin. At the same time, rotate the crankshaft ...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 269,
+        "bbox": [
+          289.92,
+          74.18179999999995,
+          555.9256560000001,
+          168.24956666666662
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_cylinder",
+      "name": "Bearing cap cylinder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_cylinder",
+      "provenance": {
+        "page": 107,
+        "quote": "Align the bearing cap cylinder number marks and the connecting rod cylinder number marks.",
+        "verified": true,
+        "char_start": 273,
+        "char_end": 362,
+        "bbox": [
+          309.84000000000003,
+          187.96979999999996,
+          554.967432,
+          209.66656666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 107,
+        "quote": "Apply a coat of engine oil to the threads and setting faces of each connecting rod cap bolt. GESIIIB11 )A ,Tig h ten the connecting rod caps to the specified torque.",
+        "verified": true,
+        "char_start": 367,
+        "char_end": 532,
+        "bbox": [
+          252.72000000000003,
+          330.0169,
+          555.225341,
+          389.79453333333333
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply a coat of engine oil to the circumference of each piston ring and piston.",
+      "source_number": 1,
+      "installs": [
+        "piston_ring",
+        "related_part_piston"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 106,
+        "quote": "Apply a coat of engine oil to the circumference of each piston ring and piston.",
+        "verified": true,
+        "char_start": 65,
+        "char_end": 144,
+        "bbox": [
+          305.52000000000004,
+          107.8569,
+          552.4784533333332,
+          130.00080000000003
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Position the piston ring gaps as shown in the illustr- ation respectively. Note: The piston ring gaps must not be placed at the lateral pressure side of the piston, but place them at the piston pin end side having no lateral pressure application.",
+      "source_number": 2,
+      "installs": [
+        "piston_ring_gap"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note: The piston ring gaps must not be placed at the lateral pressure side of the piston, but place them at the piston pin end side having no lateral pressure application.",
+      "provenance": {
+        "page": 106,
+        "quote": "Position the piston ring gaps as shown in the illustr- ation respectively. Note: The piston ring gaps must not be placed at the lateral pressure side of the piston, but place them at the piston pin end side having no lateral pressure app...",
+        "verified": true,
+        "char_start": 148,
+        "char_end": 394,
+        "bbox": [
+          286.56,
+          135.9438,
+          550.6544959999999,
+          213.71980000000008
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Apply a coat of molybdenum disulfide grease to the two piston skirts. This will facilitate smooth break-in when the engine is first started after reassembly.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 106,
+        "quote": "Apply a coat of molybdenum disulfide grease to the two piston skirts. This will facilitate smooth break-in when the engine is first started after reassembly.",
+        "verified": true,
+        "char_start": 730,
+        "char_end": 887,
+        "bbox": [
+          308.88,
+          613.0628,
+          554.160102,
+          662.9248
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Apply a coat of engine oil to the upper bearing surfaces.",
+      "source_number": 4,
+      "installs": [
+        "water_pump_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 106,
+        "quote": "Apply a coat of engine oil to the upper bearing surfaces.",
+        "verified": true,
+        "char_start": 891,
+        "char_end": 948,
+        "bbox": [
+          309.35999999999996,
+          669.0849000000001,
+          553.3097463333332,
+          691.3288
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Apply a coat of engine oil to the cylinder bore.",
+      "source_number": 5,
+      "installs": [
+        "cylinder_barrel"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 106,
+        "quote": "Apply a coat of engine oil to the cylinder bore.",
+        "verified": true,
+        "char_start": 952,
+        "char_end": 1000,
+        "bbox": [
+          309.35999999999996,
+          697.2419,
+          527.7881816666666,
+          706.8085666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Use a piston ring compressor to compress the piston rings. Piston Ring Compressor: 5-8840-9018-0 2 Use a hammer grip to push the piston in until the connecting rod makes contact with the crankpin. At the same time, rotate the crankshaft until the crankpin is at BDC.",
+      "source_number": 7,
+      "installs": [
+        "connecting_rod",
+        "crankshaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": "ring compressor",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 107,
+        "quote": "Use a piston ring compressor to compress the piston rings. Piston Ring Compressor: 5-8840-9018-0 2 Use a hammer grip to push the piston in until the connecting rod makes contact with the crankpin. At the same time, rotate the crankshaft ...",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 269,
+        "bbox": [
+          289.92,
+          74.18179999999995,
+          555.9256560000001,
+          168.24956666666662
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Align the bearing cap cylinder number marks and the connecting rod cylinder number marks.",
+      "source_number": 9,
+      "installs": [
+        "bearing_cap_cylinder"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 107,
+        "quote": "Align the bearing cap cylinder number marks and the connecting rod cylinder number marks.",
+        "verified": true,
+        "char_start": 273,
+        "char_end": 362,
+        "bbox": [
+          309.84000000000003,
+          187.96979999999996,
+          554.967432,
+          209.66656666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Apply a coat of engine oil to the threads and setting faces of each connecting rod cap bolt. GESIIIB11 )A ,Tig h ten the connecting rod caps to the specified torque.",
+      "source_number": 10,
+      "installs": [
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 107,
+        "quote": "Apply a coat of engine oil to the threads and setting faces of each connecting rod cap bolt. GESIIIB11 )A ,Tig h ten the connecting rod caps to the specified torque.",
+        "verified": true,
+        "char_start": 367,
+        "char_end": 532,
+        "bbox": [
+          252.72000000000003,
+          330.0169,
+          555.225341,
+          389.79453333333333
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

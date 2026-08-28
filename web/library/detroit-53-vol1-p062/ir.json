@@ -1,0 +1,378 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.113 - Apply hydrogenated vegetable type shortening or crankshaft...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 113,
+        "quote": "Apply hydrogenated vegetable type shortening or crankshaft journal. Use care so the bearing shell will permanent type antifreeze solution to the inner not be dislodged from the rod. surface of the seal ring.",
+        "verified": true,
+        "char_start": 908,
+        "char_end": 1115,
+        "bbox": [
+          73.68,
+          534.096,
+          579.7424,
+          565.554
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bearing_shell",
+      "name": "Connecting rod bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing_shell",
+      "provenance": {
+        "page": 113,
+        "quote": "Apply hydrogenated vegetable type shortening or crankshaft journal. Use care so the bearing shell will permanent type antifreeze solution to the inner not be dislodged from the rod. surface of the seal ring.",
+        "verified": true,
+        "char_start": 908,
+        "char_end": 1115,
+        "bbox": [
+          73.68,
+          534.096,
+          579.7424,
+          565.554
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 113,
+        "quote": "Apply hydrogenated vegetable type shortening or crankshaft journal. Use care so the bearing shell will permanent type antifreeze solution to the inner not be dislodged from the rod. surface of the seal ring.",
+        "verified": true,
+        "char_start": 908,
+        "char_end": 1115,
+        "bbox": [
+          73.68,
+          534.096,
+          579.7424,
+          565.554
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 113,
+        "quote": "Apply hydrogenated vegetable type shortening or crankshaft journal. Use care so the bearing shell will permanent type antifreeze solution to the inner not be dislodged from the rod. surface of the seal ring.",
+        "verified": true,
+        "char_start": 908,
+        "char_end": 1115,
+        "bbox": [
+          73.68,
+          534.096,
+          579.7424,
+          565.554
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_seal",
+      "name": "Of the seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_seal",
+      "provenance": {
+        "page": 113,
+        "quote": "Apply hydrogenated vegetable type shortening or crankshaft journal. Use care so the bearing shell will permanent type antifreeze solution to the inner not be dislodged from the rod. surface of the seal ring.",
+        "verified": true,
+        "char_start": 908,
+        "char_end": 1115,
+        "bbox": [
+          73.68,
+          534.096,
+          579.7424,
+          565.554
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 113,
+        "quote": "Apply hydrogenated vegetable type shortening or crankshaft journal. Use care so the bearing shell will permanent type antifreeze solution to the inner not be dislodged from the rod. surface of the seal ring.",
+        "verified": true,
+        "char_start": 908,
+        "char_end": 1115,
+        "bbox": [
+          73.68,
+          534.096,
+          579.7424,
+          565.554
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 113,
+        "quote": "If any of the pistons and liners are already in the CAUTION: On \u00e0 V engine, the distance from the engine, use hold-down clamps (Fig. 5) to retain the center of the connecung rod bolts to the sides of the rod are not equal. Therefore, to ...",
+        "verified": true,
+        "char_start": 1119,
+        "char_end": 1494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "portion_of_the_liner",
+      "name": "Portion of the liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "portion_of_the_liner",
+      "provenance": {
+        "page": 113,
+        "quote": "If any of the pistons and liners are already in the CAUTION: On \u00e0 V engine, the distance from the engine, use hold-down clamps (Fig. 5) to retain the center of the connecung rod bolts to the sides of the rod are not equal. Therefore, to ...",
+        "verified": true,
+        "char_start": 1119,
+        "char_end": 1494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 113,
+        "quote": "Rotate the crankshaft until the connecting rod crankshaft. journal of the particular cylinder being worked on is at the bottom of its travel, wipe the journal clean, and lubricate it with clean engine oil.",
+        "verified": true,
+        "char_start": 1498,
+        "char_end": 1703,
+        "bbox": [
+          72.96000000000001,
+          629.4929999999999,
+          400.83759999999984,
+          672.0089999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 113,
+        "quote": "Rotate the crankshaft until the connecting rod crankshaft. journal of the particular cylinder being worked on is at the bottom of its travel, wipe the journal clean, and lubricate it with clean engine oil.",
+        "verified": true,
+        "char_start": 1498,
+        "char_end": 1703,
+        "bbox": [
+          72.96000000000001,
+          629.4929999999999,
+          400.83759999999984,
+          672.0089999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lower_bearing_shell",
+      "name": "Lower bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_bearing_shell",
+      "provenance": {
+        "page": 113,
+        "quote": "Place the lower bearing shell -- the one with the",
+        "verified": true,
+        "char_start": 1707,
+        "char_end": 1756,
+        "bbox": [
+          354.24,
+          677.25,
+          580.0943999999998,
+          687.25
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply hydrogenated vegetable type shortening or crankshaft journal. Use care so the bearing shell will permanent type antifreeze solution to the inner not be dislodged from the rod. surface of the seal ring.",
+      "source_number": 2,
+      "installs": [
+        "halve_of_the_crankshaft",
+        "connecting_rod_bearing_shell",
+        "side_of_the_inner",
+        "bearing_pilot_rod",
+        "of_the_seal",
+        "bottom_oil_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Apply hydrogenated vegetable type shortening or crankshaft journal. Use care so the bearing shell will permanent type antifreeze solution to the inner not be dislodged from the rod. surface of the seal ring.",
+        "verified": true,
+        "char_start": 908,
+        "char_end": 1115,
+        "bbox": [
+          73.68,
+          534.096,
+          579.7424,
+          565.554
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "If any of the pistons and liners are already in the CAUTION: On \u00e0 V engine, the distance from the engine, use hold-down clamps (Fig. 5) to retain the center of the connecung rod bolts to the sides of the rod are not equal. Therefore, to avoid liners in place when the crankshaft is rotated. cocking the rods, the narrow sides of the rods must be together when attached to the",
+      "source_number": 3,
+      "installs": [
+        "of_the_selected_piston",
+        "portion_of_the_liner"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: On \u00e0 V engine, the distance from the engine, use hold-down clamps (Fig.",
+      "provenance": {
+        "page": 113,
+        "quote": "If any of the pistons and liners are already in the CAUTION: On \u00e0 V engine, the distance from the engine, use hold-down clamps (Fig. 5) to retain the center of the connecung rod bolts to the sides of the rod are not equal. Therefore, to ...",
+        "verified": true,
+        "char_start": 1119,
+        "char_end": 1494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Rotate the crankshaft until the connecting rod crankshaft. journal of the particular cylinder being worked on is at the bottom of its travel, wipe the journal clean, and lubricate it with clean engine oil.",
+      "source_number": 4,
+      "installs": [
+        "connecting_rod",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Rotate the crankshaft until the connecting rod crankshaft. journal of the particular cylinder being worked on is at the bottom of its travel, wipe the journal clean, and lubricate it with clean engine oil.",
+        "verified": true,
+        "char_start": 1498,
+        "char_end": 1703,
+        "bbox": [
+          72.96000000000001,
+          629.4929999999999,
+          400.83759999999984,
+          672.0089999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Place the lower bearing shell -- the one with the",
+      "source_number": 8,
+      "installs": [
+        "lower_bearing_shell"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Place the lower bearing shell -- the one with the",
+        "verified": true,
+        "char_start": 1707,
+        "char_end": 1756,
+        "bbox": [
+          354.24,
+          677.25,
+          580.0943999999998,
+          687.25
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

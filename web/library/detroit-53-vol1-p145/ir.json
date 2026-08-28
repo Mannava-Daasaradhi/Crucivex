@@ -1,0 +1,394 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.260 - Remove the retaining ring and the two...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "follower_retaining_ring",
+      "name": "Follower retaining ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_retaining_ring",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the retaining ring and the two seal retaining: washers. Withdraw the throttle shaft from the cover (Fig. 4).",
+        "verified": true,
+        "char_start": 152,
+        "char_end": 267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_retaining",
+      "name": "Seal retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_retaining",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the retaining ring and the two seal retaining: washers. Withdraw the throttle shaft from the cover (Fig. 4).",
+        "verified": true,
+        "char_start": 152,
+        "char_end": 267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the retaining ring and the two seal retaining: washers. Withdraw the throttle shaft from the cover (Fig. 4).",
+        "verified": true,
+        "char_start": 152,
+        "char_end": 267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_throttle_shaft",
+      "name": "Governor throttle shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_throttle_shaft",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the retaining ring and the two seal retaining: washers. Withdraw the throttle shaft from the cover (Fig. 4).",
+        "verified": true,
+        "char_start": 152,
+        "char_end": 267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the retaining ring and the two seal retaining: washers. Withdraw the throttle shaft from the cover (Fig. 4).",
+        "verified": true,
+        "char_start": 152,
+        "char_end": 267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the retaining ring and the two seal retaining: washers. Withdraw the throttle shaft from the cover (Fig. 4).",
+        "verified": true,
+        "char_start": 152,
+        "char_end": 267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the seal ring from the cover.",
+        "verified": true,
+        "char_start": 271,
+        "char_end": 307,
+        "bbox": [
+          102.0,
+          183.2299999999999,
+          260.6244,
+          193.2299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 260,
+        "quote": "At this stage of disassembly, wash the cover assembly thoroughly in clean fuel oil and inspect the bearings or bushing for wear or damage. |f the os \u0420\u0420\u0415 PLUG \u201c\u043e",
+        "verified": true,
+        "char_start": 311,
+        "char_end": 471,
+        "bbox": [
+          90.96,
+          204.09299999999985,
+          330.39719999999994,
+          285.14
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 260,
+        "quote": "At this stage of disassembly, wash the cover assembly thoroughly in clean fuel oil and inspect the bearings or bushing for wear or damage. |f the os \u0420\u0420\u0415 PLUG \u201c\u043e",
+        "verified": true,
+        "char_start": 311,
+        "char_end": 471,
+        "bbox": [
+          90.96,
+          204.09299999999985,
+          330.39719999999994,
+          285.14
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 260,
+        "quote": "At this stage of disassembly, wash the cover assembly thoroughly in clean fuel oil and inspect the bearings or bushing for wear or damage. |f the os \u0420\u0420\u0415 PLUG \u201c\u043e",
+        "verified": true,
+        "char_start": 311,
+        "char_end": 471,
+        "bbox": [
+          90.96,
+          204.09299999999985,
+          330.39719999999994,
+          285.14
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 260,
+        "quote": "At this stage of disassembly, wash the cover assembly thoroughly in clean fuel oil and inspect the bearings or bushing for wear or damage. |f the os \u0420\u0420\u0415 PLUG \u201c\u043e",
+        "verified": true,
+        "char_start": 311,
+        "char_end": 471,
+        "bbox": [
+          90.96,
+          204.09299999999985,
+          330.39719999999994,
+          285.14
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 260,
+        "quote": "If the bearings (or bushing) are to be removed. place the governor cover with the inner face down on an arbor press. Place a hollow spacer between the cover and the bed of the press (Fig. 5). Place the bearing remover J 21967 on top of t...",
+        "verified": true,
+        "char_start": 800,
+        "char_end": 1121,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hollow_spacer",
+      "name": "Hollow spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hollow_spacer",
+      "provenance": {
+        "page": 260,
+        "quote": "If the bearings (or bushing) are to be removed. place the governor cover with the inner face down on an arbor press. Place a hollow spacer between the cover and the bed of the press (Fig. 5). Place the bearing remover J 21967 on top of t...",
+        "verified": true,
+        "char_start": 800,
+        "char_end": 1121,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 260,
+        "quote": "If the bearings (or bushing) are to be removed. place the governor cover with the inner face down on an arbor press. Place a hollow spacer between the cover and the bed of the press (Fig. 5). Place the bearing remover J 21967 on top of t...",
+        "verified": true,
+        "char_start": 800,
+        "char_end": 1121,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the retaining ring and the two seal retaining: washers. Withdraw the throttle shaft from the cover (Fig. 4).",
+      "source_number": 2,
+      "installs": [
+        "follower_retaining_ring",
+        "seal_retaining",
+        "another_drive_flange_washer",
+        "governor_throttle_shaft",
+        "underside_of_the_cover",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the retaining ring and the two seal retaining: washers. Withdraw the throttle shaft from the cover (Fig. 4).",
+        "verified": true,
+        "char_start": 152,
+        "char_end": 267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the seal ring from the cover.",
+      "source_number": 3,
+      "installs": [
+        "seal_ring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the seal ring from the cover.",
+        "verified": true,
+        "char_start": 271,
+        "char_end": 307,
+        "bbox": [
+          102.0,
+          183.2299999999999,
+          260.6244,
+          193.2299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "At this stage of disassembly, wash the cover assembly thoroughly in clean fuel oil and inspect the bearings or bushing for wear or damage. |f the os \u0420\u0420\u0415 PLUG \u201c\u043e",
+      "source_number": 4,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "bearing_the_end_bearing",
+        "connecting_rod_bushing",
+        "edge_of_the_plug"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 260,
+        "quote": "At this stage of disassembly, wash the cover assembly thoroughly in clean fuel oil and inspect the bearings or bushing for wear or damage. |f the os \u0420\u0420\u0415 PLUG \u201c\u043e",
+        "verified": true,
+        "char_start": 311,
+        "char_end": 471,
+        "bbox": [
+          90.96,
+          204.09299999999985,
+          330.39719999999994,
+          285.14
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "If the bearings (or bushing) are to be removed. place the governor cover with the inner face down on an arbor press. Place a hollow spacer between the cover and the bed of the press (Fig. 5). Place the bearing remover J 21967 on top of the upper bearing (or bushing) and press both bearings (or bushing) out of the cover.",
+      "source_number": 5,
+      "installs": [
+        "governor_cover",
+        "hollow_spacer",
+        "hammer_spring_scale_upper"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 260,
+        "quote": "If the bearings (or bushing) are to be removed. place the governor cover with the inner face down on an arbor press. Place a hollow spacer between the cover and the bed of the press (Fig. 5). Place the bearing remover J 21967 on top of t...",
+        "verified": true,
+        "char_start": 800,
+        "char_end": 1121,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

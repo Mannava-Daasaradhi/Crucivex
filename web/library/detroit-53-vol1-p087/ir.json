@@ -1,0 +1,434 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.150 - Affix a new gasket to the cover",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 150,
+        "quote": "Affix a new gasket to the cover.",
+        "verified": true,
+        "char_start": 402,
+        "char_end": 434,
+        "bbox": [
+          68.88,
+          208.2739999999999,
+          202.0662,
+          218.2739999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 150,
+        "quote": "Affix a new gasket to the cover.",
+        "verified": true,
+        "char_start": 402,
+        "char_end": 434,
+        "bbox": [
+          68.88,
+          208.2739999999999,
+          202.0662,
+          218.2739999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_seal",
+      "name": "Of the oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_seal",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_slinger",
+      "name": "Oil slinger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_slinger",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "number",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "woodruff_key",
+      "name": "Woodruff key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "woodruff_key",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pulley_retaining_nut",
+      "name": "Pulley retaining nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pulley_retaining_nut",
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Affix a new gasket to the cover.",
+      "source_number": 1,
+      "installs": [
+        "head_gasket",
+        "underside_of_the_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 150,
+        "quote": "Affix a new gasket to the cover.",
+        "verified": true,
+        "char_start": 402,
+        "char_end": 434,
+        "bbox": [
+          68.88,
+          208.2739999999999,
+          202.0662,
+          218.2739999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines use an oil slinger between the oil seal spacer and the shoulder on the camshaft and between the spacer and the end bearing on the balance shaft (In-line engine). Addition of the oil slinger improves sealing by reducing the amount of oil in the area of the oil seals. If oil slingers are installed on in-line engines built prior to serial numbers 20-9278, 3D-573 and 40-944, check the distance from the holes to the gasket flange (Fig. 2). If necessary, machine or grind the cover to provide sufficient clearance for the slingers. Install a Woodruff key in each shaft. Install the pulleys on the shafts. Install and tighten the pulley retaining nuts to 300-325 Ib-ft (407-441 \u2116: \u0442) torque.",
+      "source_number": 2,
+      "installs": [
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "of_the_oil_seal",
+        "drive_gear_spacer",
+        "end_of_the_shaft",
+        "engine_front_cover_current",
+        "oil_slinger",
+        "crankshaft_front_oil_seal",
+        "shoulder",
+        "camshaft",
+        "bearing_the_end_bearing",
+        "tbe_lubricating_oil_line",
+        "number",
+        "of_the_oil_hole",
+        "flange",
+        "nut_securing_fig",
+        "woodruff_key",
+        "crankshaft_splined_crankshaft_pulley",
+        "pulley_retaining_nut"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 47.5,
+      "warning": null,
+      "provenance": {
+        "page": 150,
+        "quote": "Install the cover on the engine and secure it with bolts and lock washers. Tighten the bolts to 35 lb-ft (47 N-m) torque. Apply cup grease to the outside diameter of the oil seal spacers, then slide them on the shafts. Current engines us...",
+        "verified": true,
+        "char_start": 438,
+        "char_end": 1361,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1094 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.280 - Body--Governor Assembly--Operating 22. Seal- Rocker Shaft 49...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 280,
+        "quote": "Body--Governor Assembly--Operating 22. Seal- Rocker Shaft 49. Lever- Governor Speed",
+        "verified": true,
+        "char_start": 140,
+        "char_end": 223,
+        "bbox": [
+          82.08000000000025,
+          332.373,
+          539.0164500000004,
+          339.373
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_assembly",
+      "name": "Governor assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_assembly",
+      "provenance": {
+        "page": 280,
+        "quote": "Body--Governor Assembly--Operating 22. Seal- Rocker Shaft 49. Lever- Governor Speed",
+        "verified": true,
+        "char_start": 140,
+        "char_end": 223,
+        "bbox": [
+          82.08000000000025,
+          332.373,
+          539.0164500000004,
+          339.373
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 280,
+        "quote": "Body--Governor Assembly--Operating 22. Seal- Rocker Shaft 49. Lever- Governor Speed",
+        "verified": true,
+        "char_start": 140,
+        "char_end": 223,
+        "bbox": [
+          82.08000000000025,
+          332.373,
+          539.0164500000004,
+          339.373
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rocker_shaft",
+      "name": "Rocker shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_shaft",
+      "provenance": {
+        "page": 280,
+        "quote": "Body--Governor Assembly--Operating 22. Seal- Rocker Shaft 49. Lever- Governor Speed",
+        "verified": true,
+        "char_start": 140,
+        "char_end": 223,
+        "bbox": [
+          82.08000000000025,
+          332.373,
+          539.0164500000004,
+          339.373
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 280,
+        "quote": "Body--Governor Assembly--Operating 22. Seal- Rocker Shaft 49. Lever- Governor Speed",
+        "verified": true,
+        "char_start": 140,
+        "char_end": 223,
+        "bbox": [
+          82.08000000000025,
+          332.373,
+          539.0164500000004,
+          339.373
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 280,
+        "quote": "Body--Governor Assembly--Operating 22. Seal- Rocker Shaft 49. Lever- Governor Speed",
+        "verified": true,
+        "char_start": 140,
+        "char_end": 223,
+        "bbox": [
+          82.08000000000025,
+          332.373,
+          539.0164500000004,
+          339.373
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 280,
+        "quote": "Body--Governor Assembly--Operating 22. Seal- Rocker Shaft 49. Lever- Governor Speed",
+        "verified": true,
+        "char_start": 140,
+        "char_end": 223,
+        "bbox": [
+          82.08000000000025,
+          332.373,
+          539.0164500000004,
+          339.373
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 280,
+        "quote": "Fork--Operating 11. Snap Ring--Internal 23. Retainer--Oil Seal Control",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 297,
+        "bbox": [
+          82.32000000000038,
+          342.24,
+          483.8285300000004,
+          349.24
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 280,
+        "quote": "Fork--Operating 11. Snap Ring--Internal 23. Retainer--Oil Seal Control",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 297,
+        "bbox": [
+          82.32000000000038,
+          342.24,
+          483.8285300000004,
+          349.24
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 280,
+        "quote": "Fork--Operating 11. Snap Ring--Internal 23. Retainer--Oil Seal Control",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 297,
+        "bbox": [
+          82.32000000000038,
+          342.24,
+          483.8285300000004,
+          349.24
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 280,
+        "quote": "Bolt--Special 12. Bearing 24. Shaft--Rocker 51. Gaskets--Oil Seal Plug",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 371,
+        "bbox": [
+          82.08000000000038,
+          352.053,
+          539.9197200000004,
+          359.053
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 280,
+        "quote": "Bolt--Special 12. Bearing 24. Shaft--Rocker 51. Gaskets--Oil Seal Plug",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 371,
+        "bbox": [
+          82.08000000000038,
+          352.053,
+          539.9197200000004,
+          359.053
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 280,
+        "quote": "Bolt--Special 12. Bearing 24. Shaft--Rocker 51. Gaskets--Oil Seal Plug",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 371,
+        "bbox": [
+          82.08000000000038,
+          352.053,
+          539.9197200000004,
+          359.053
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 280,
+        "quote": "Bolt--Special 12. Bearing 24. Shaft--Rocker 51. Gaskets--Oil Seal Plug",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 371,
+        "bbox": [
+          82.08000000000038,
+          352.053,
+          539.9197200000004,
+          359.053
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_seal_plug",
+      "name": "Oil seal plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_plug",
+      "provenance": {
+        "page": 280,
+        "quote": "Bolt--Special 12. Bearing 24. Shaft--Rocker 51. Gaskets--Oil Seal Plug",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 371,
+        "bbox": [
+          82.08000000000038,
+          352.053,
+          539.9197200000004,
+          359.053
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 280,
+        "quote": "Bearing--Riser Thrust 13. Gasket--Body-to-Bearing 27. Lever--Rocker Shaft 55. Spacer--Spider and",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 471,
+        "bbox": [
+          82.0800000000004,
+          361.899,
+          527.5996200000004,
+          368.899
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 280,
+        "quote": "Bearing--Riser Thrust 13. Gasket--Body-to-Bearing 27. Lever--Rocker Shaft 55. Spacer--Spider and",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 471,
+        "bbox": [
+          82.0800000000004,
+          361.899,
+          527.5996200000004,
+          368.899
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spider",
+      "provenance": {
+        "page": 280,
+        "quote": "Bearing--Riser Thrust 13. Gasket--Body-to-Bearing 27. Lever--Rocker Shaft 55. Spacer--Spider and",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 471,
+        "bbox": [
+          82.0800000000004,
+          361.899,
+          527.5996200000004,
+          368.899
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 280,
+        "quote": "Riser Housing 39. Spring--Speed Adjusting Shaft Assembly",
+        "verified": true,
+        "char_start": 475,
+        "char_end": 531,
+        "bbox": [
+          82.08000000000038,
+          371.969,
+          514.5809600000003,
+          378.969
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 280,
+        "quote": "Riser Housing 39. Spring--Speed Adjusting Shaft Assembly",
+        "verified": true,
+        "char_start": 475,
+        "char_end": 531,
+        "bbox": [
+          82.08000000000038,
+          371.969,
+          514.5809600000003,
+          378.969
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_adjusting_shaft",
+      "name": "Speed adjusting shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_shaft",
+      "provenance": {
+        "page": 280,
+        "quote": "Riser Housing 39. Spring--Speed Adjusting Shaft Assembly",
+        "verified": true,
+        "char_start": 475,
+        "char_end": 531,
+        "bbox": [
+          82.08000000000038,
+          371.969,
+          514.5809600000003,
+          378.969
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flyweight",
+      "name": "Flyweight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flyweight",
+      "provenance": {
+        "page": 280,
+        "quote": "Flyweights 17. Plug--Oil Seal 42. Screw and Spring 56. Snap Ring- External",
+        "verified": true,
+        "char_start": 535,
+        "char_end": 609,
+        "bbox": [
+          82.3200000000004,
+          381.818,
+          531.1580800000005,
+          388.818
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 280,
+        "quote": "Flyweights 17. Plug--Oil Seal 42. Screw and Spring 56. Snap Ring- External",
+        "verified": true,
+        "char_start": 535,
+        "char_end": 609,
+        "bbox": [
+          82.3200000000004,
+          381.818,
+          531.1580800000005,
+          388.818
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 280,
+        "quote": "Flyweights 17. Plug--Oil Seal 42. Screw and Spring 56. Snap Ring- External",
+        "verified": true,
+        "char_start": 535,
+        "char_end": 609,
+        "bbox": [
+          82.3200000000004,
+          381.818,
+          531.1580800000005,
+          388.818
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 280,
+        "quote": "Pin--Weight Supporting 18. Snap Ring Assembly--Bufter",
+        "verified": true,
+        "char_start": 613,
+        "char_end": 666,
+        "bbox": [
+          82.08000000000038,
+          392.20599999999996,
+          393.9500800000004,
+          399.20599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 280,
+        "quote": "Pin--Weight Supporting 18. Snap Ring Assembly--Bufter",
+        "verified": true,
+        "char_start": 613,
+        "char_end": 666,
+        "bbox": [
+          82.08000000000038,
+          392.20599999999996,
+          393.9500800000004,
+          399.20599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 280,
+        "quote": "Retainer Ring 19. Bearing--Ball (Inner) 43. Housing--Bearing",
+        "verified": true,
+        "char_start": 670,
+        "char_end": 730,
+        "bbox": [
+          82.08000000000045,
+          401.806,
+          394.95696000000044,
+          408.806
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_ball",
+      "name": "End of the ball",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_ball",
+      "provenance": {
+        "page": 280,
+        "quote": "Retainer Ring 19. Bearing--Ball (Inner) 43. Housing--Bearing",
+        "verified": true,
+        "char_start": 670,
+        "char_end": 730,
+        "bbox": [
+          82.08000000000045,
+          401.806,
+          394.95696000000044,
+          408.806
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 280,
+        "quote": "Retainer Ring 19. Bearing--Ball (Inner) 43. Housing--Bearing",
+        "verified": true,
+        "char_start": 670,
+        "char_end": 730,
+        "bbox": [
+          82.08000000000045,
+          401.806,
+          394.95696000000044,
+          408.806
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 280,
+        "quote": "Spider and Shaft 20. Bearing--Ball (Outer) 45. Spacer--Gear Fig. 2 - Cross-Section of Governor flyweights will overcome the spring tension and move",
+        "verified": true,
+        "char_start": 735,
+        "char_end": 882,
+        "bbox": [
+          58.8,
+          411.73499999999996,
+          378.8964000000004,
+          457.68999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 280,
+        "quote": "Spider and Shaft 20. Bearing--Ball (Outer) 45. Spacer--Gear Fig. 2 - Cross-Section of Governor flyweights will overcome the spring tension and move",
+        "verified": true,
+        "char_start": 735,
+        "char_end": 882,
+        "bbox": [
+          58.8,
+          411.73499999999996,
+          378.8964000000004,
+          457.68999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 280,
+        "quote": "Spider and Shaft 20. Bearing--Ball (Outer) 45. Spacer--Gear Fig. 2 - Cross-Section of Governor flyweights will overcome the spring tension and move",
+        "verified": true,
+        "char_start": 735,
+        "char_end": 882,
+        "bbox": [
+          58.8,
+          411.73499999999996,
+          378.8964000000004,
+          457.68999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Body--Governor Assembly--Operating 22. Seal- Rocker Shaft 49. Lever- Governor Speed",
+      "source_number": 1,
+      "installs": [
+        "breather_body",
+        "governor_assembly",
+        "crankshaft_front_oil_seal",
+        "rocker_shaft",
+        "of_the_stop_lever",
+        "blower_the_engine_governor",
+        "engine_speed"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 280,
+        "quote": "Body--Governor Assembly--Operating 22. Seal- Rocker Shaft 49. Lever- Governor Speed",
+        "verified": true,
+        "char_start": 140,
+        "char_end": 223,
+        "bbox": [
+          82.08000000000025,
+          332.373,
+          539.0164500000004,
+          339.373
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Fork--Operating 11. Snap Ring--Internal 23. Retainer--Oil Seal Control",
+      "source_number": 3,
+      "installs": [
+        "governor_operating_fork",
+        "external_snap_ring",
+        "drive_shaft_retainer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 280,
+        "quote": "Fork--Operating 11. Snap Ring--Internal 23. Retainer--Oil Seal Control",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 297,
+        "bbox": [
+          82.32000000000038,
+          342.24,
+          483.8285300000004,
+          349.24
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Bolt--Special 12. Bearing 24. Shaft--Rocker 51. Gaskets--Oil Seal Plug",
+      "source_number": 4,
+      "installs": [
+        "engine_front_cover_bolt",
+        "bearing_the_end_bearing",
+        "end_of_the_shaft",
+        "head_gasket",
+        "oil_seal_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 280,
+        "quote": "Bolt--Special 12. Bearing 24. Shaft--Rocker 51. Gaskets--Oil Seal Plug",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 371,
+        "bbox": [
+          82.08000000000038,
+          352.053,
+          539.9197200000004,
+          359.053
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Bearing--Riser Thrust 13. Gasket--Body-to-Bearing 27. Lever--Rocker Shaft 55. Spacer--Spider and",
+      "source_number": 5,
+      "installs": [
+        "governor_riser",
+        "drive_gear_spacer",
+        "spider"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 280,
+        "quote": "Bearing--Riser Thrust 13. Gasket--Body-to-Bearing 27. Lever--Rocker Shaft 55. Spacer--Spider and",
+        "verified": true,
+        "char_start": 375,
+        "char_end": 471,
+        "bbox": [
+          82.0800000000004,
+          361.899,
+          527.5996200000004,
+          368.899
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Riser Housing 39. Spring--Speed Adjusting Shaft Assembly",
+      "source_number": 6,
+      "installs": [
+        "of_the_flywheel_housing",
+        "end_of_the_spring",
+        "speed_adjusting_shaft"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 280,
+        "quote": "Riser Housing 39. Spring--Speed Adjusting Shaft Assembly",
+        "verified": true,
+        "char_start": 475,
+        "char_end": 531,
+        "bbox": [
+          82.08000000000038,
+          371.969,
+          514.5809600000003,
+          378.969
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Flyweights 17. Plug--Oil Seal 42. Screw and Spring 56. Snap Ring- External",
+      "source_number": 7,
+      "installs": [
+        "flyweight",
+        "edge_of_the_plug",
+        "of_the_buffer_screw"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 280,
+        "quote": "Flyweights 17. Plug--Oil Seal 42. Screw and Spring 56. Snap Ring- External",
+        "verified": true,
+        "char_start": 535,
+        "char_end": 609,
+        "bbox": [
+          82.3200000000004,
+          381.818,
+          531.1580800000005,
+          388.818
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Pin--Weight Supporting 18. Snap Ring Assembly--Bufter",
+      "source_number": 8,
+      "installs": [
+        "copper_plated_dowel_pin",
+        "front_balance_weight"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 280,
+        "quote": "Pin--Weight Supporting 18. Snap Ring Assembly--Bufter",
+        "verified": true,
+        "char_start": 613,
+        "char_end": 666,
+        "bbox": [
+          82.08000000000038,
+          392.20599999999996,
+          393.9500800000004,
+          399.20599999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Retainer Ring 19. Bearing--Ball (Inner) 43. Housing--Bearing",
+      "source_number": 9,
+      "installs": [
+        "bottom_oil_ring",
+        "end_of_the_ball",
+        "side_of_the_inner"
+      ],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 280,
+        "quote": "Retainer Ring 19. Bearing--Ball (Inner) 43. Housing--Bearing",
+        "verified": true,
+        "char_start": 670,
+        "char_end": 730,
+        "bbox": [
+          82.08000000000045,
+          401.806,
+          394.95696000000044,
+          408.806
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Spider and Shaft 20. Bearing--Ball (Outer) 45. Spacer--Gear Fig. 2 - Cross-Section of Governor flyweights will overcome the spring tension and move",
+      "source_number": 10,
+      "installs": [
+        "idler_gear_outer",
+        "fuel_pump_drive_gear",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s04",
+        "s05",
+        "s06",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 280,
+        "quote": "Spider and Shaft 20. Bearing--Ball (Outer) 45. Spacer--Gear Fig. 2 - Cross-Section of Governor flyweights will overcome the spring tension and move",
+        "verified": true,
+        "char_start": 735,
+        "char_end": 882,
+        "bbox": [
+          58.8,
+          411.73499999999996,
+          378.8964000000004,
+          457.68999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,853 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.230 - Remove the governor buffer screw and spring",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "governor_buffer_screw",
+      "name": "Governor buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_buffer_screw",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the governor buffer screw and spring.",
+        "verified": true,
+        "char_start": 838,
+        "char_end": 882,
+        "bbox": [
+          64.80000000000001,
+          595.424,
+          266.0424,
+          605.424
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the governor buffer screw and spring.",
+        "verified": true,
+        "char_start": 838,
+        "char_end": 882,
+        "bbox": [
+          64.80000000000001,
+          595.424,
+          266.0424,
+          605.424
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spring_pin",
+      "name": "Spring pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_pin",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the control link lever pin (Fig. 7) and withdraw the control link lever and washer.",
+        "verified": true,
+        "char_start": 886,
+        "char_end": 1007,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the control link lever pin (Fig. 7) and withdraw the control link lever and washer.",
+        "verified": true,
+        "char_start": 886,
+        "char_end": 1007,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_link_lever",
+      "name": "Control link lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_lever",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the control link lever pin (Fig. 7) and withdraw the control link lever and washer.",
+        "verified": true,
+        "char_start": 886,
+        "char_end": 1007,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the control link lever pin (Fig. 7) and withdraw the control link lever and washer.",
+        "verified": true,
+        "char_start": 886,
+        "char_end": 1007,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the control link lever pin (Fig. 7) and withdraw the control link lever and washer.",
+        "verified": true,
+        "char_start": 886,
+        "char_end": 1007,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_link",
+      "name": "Connecting link",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_link",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the control link lever pin (Fig. 7) and withdraw the control link lever and washer.",
+        "verified": true,
+        "char_start": 886,
+        "char_end": 1007,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the control link lever pin (Fig. 7) and withdraw the control link lever and washer.",
+        "verified": true,
+        "char_start": 886,
+        "char_end": 1007,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 230,
+        "quote": "If the bearings require replacement, support the control link lever on a sleeve placed on the bed of an arbor press. Then, press the bearings out of the lever with tool J 8985 (Fig. 8).",
+        "verified": true,
+        "char_start": 1011,
+        "char_end": 1196,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 230,
+        "quote": "If the bearings require replacement, support the control link lever on a sleeve placed on the bed of an arbor press. Then, press the bearings out of the lever with tool J 8985 (Fig. 8).",
+        "verified": true,
+        "char_start": 1011,
+        "char_end": 1196,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 230,
+        "quote": "If the bearings require replacement, support the control link lever on a sleeve placed on the bed of an arbor press. Then, press the bearings out of the lever with tool J 8985 (Fig. 8).",
+        "verified": true,
+        "char_start": 1011,
+        "char_end": 1196,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "differential_the_operating",
+      "name": "Differential the operating",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "differential_the_operating",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the pin in and remove the differential the operating shaft lever lever.",
+        "verified": true,
+        "char_start": 1200,
+        "char_end": 1309,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the pin in and remove the differential the operating shaft lever lever.",
+        "verified": true,
+        "char_start": 1200,
+        "char_end": 1309,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the plug at the bottom of the governor housing.",
+        "verified": true,
+        "char_start": 1313,
+        "char_end": 1367,
+        "bbox": [
+          322.8,
+          110.05499999999995,
+          559.6094799999998,
+          130.08799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the plug at the bottom of the governor housing.",
+        "verified": true,
+        "char_start": 1313,
+        "char_end": 1367,
+        "bbox": [
+          322.8,
+          110.05499999999995,
+          559.6094799999998,
+          130.08799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "set_screw",
+      "name": "Set screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "set_screw",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the set screws, 1f used, from the governor operaung fork.",
+        "verified": true,
+        "char_start": 1371,
+        "char_end": 1435,
+        "bbox": [
+          322.56,
+          141.96899999999994,
+          559.60848,
+          161.7689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the set screws, 1f used, from the governor operaung fork.",
+        "verified": true,
+        "char_start": 1371,
+        "char_end": 1435,
+        "bbox": [
+          322.56,
+          141.96899999999994,
+          559.60848,
+          161.7689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the set screws, 1f used, from the governor operaung fork.",
+        "verified": true,
+        "char_start": 1371,
+        "char_end": 1435,
+        "bbox": [
+          322.56,
+          141.96899999999994,
+          559.60848,
+          161.7689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the operating shaft upper bearing retaining screw and washer.",
+        "verified": true,
+        "char_start": 1439,
+        "char_end": 1507,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "upper_bearing_retaining",
+      "name": "Upper bearing retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_bearing_retaining",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the operating shaft upper bearing retaining screw and washer.",
+        "verified": true,
+        "char_start": 1439,
+        "char_end": 1507,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the operating shaft upper bearing retaining screw and washer.",
+        "verified": true,
+        "char_start": 1439,
+        "char_end": 1507,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "operating_shaft_lower",
+      "name": "Operating shaft lower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "operating_shaft_lower",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the operating shaft lower bearing by placing the inverted governor housing on the bed of an arbor press: use wood block\u00eds) to prevent damage to the dowel pins in the housing. Press on the shaft. using a rod small enough to pass th...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "block_of_wood",
+      "name": "Block of wood",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "block_of_wood",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the operating shaft lower bearing by placing the inverted governor housing on the bed of an arbor press: use wood block\u00eds) to prevent damage to the dowel pins in the housing. Press on the shaft. using a rod small enough to pass th...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the operating shaft lower bearing by placing the inverted governor housing on the bed of an arbor press: use wood block\u00eds) to prevent damage to the dowel pins in the housing. Press on the shaft. using a rod small enough to pass th...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the operating shaft lower bearing by placing the inverted governor housing on the bed of an arbor press: use wood block\u00eds) to prevent damage to the dowel pins in the housing. Press on the shaft. using a rod small enough to pass th...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_operating",
+      "name": "End of the operating",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_operating",
+      "provenance": {
+        "page": 230,
+        "quote": "Place \u00e0n end wrench between the operating fork and the governor housing: also place a rod on the end of the operating shaft and press the shaft out of the fork (Fig. 9).",
+        "verified": true,
+        "char_start": 1838,
+        "char_end": 2007,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "operating_shaft_lever",
+      "name": "Operating shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "operating_shaft_lever",
+      "provenance": {
+        "page": 230,
+        "quote": "Withdraw the operating shaft. operating shaft lever and bearings.",
+        "verified": true,
+        "char_start": 2012,
+        "char_end": 2077,
+        "bbox": [
+          323.28,
+          344.85099999999994,
+          560.4885,
+          365.88499999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 230,
+        "quote": "Press the shaft from the operating shaft lever and the upper bearing.",
+        "verified": true,
+        "char_start": 2082,
+        "char_end": 2151,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the governor buffer screw and spring.",
+      "source_number": 1,
+      "installs": [
+        "governor_buffer_screw",
+        "end_of_the_spring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the governor buffer screw and spring.",
+        "verified": true,
+        "char_start": 838,
+        "char_end": 882,
+        "bbox": [
+          64.80000000000001,
+          595.424,
+          266.0424,
+          605.424
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the spring pin and washer from the control link lever pin (Fig. 7) and withdraw the control link lever and washer.",
+      "source_number": 2,
+      "installs": [
+        "spring_pin",
+        "another_drive_flange_washer",
+        "control_link_lever",
+        "copper_plated_dowel_pin",
+        "nut_securing_fig",
+        "connecting_link",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the control link lever pin (Fig. 7) and withdraw the control link lever and washer.",
+        "verified": true,
+        "char_start": 886,
+        "char_end": 1007,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "If the bearings require replacement, support the control link lever on a sleeve placed on the bed of an arbor press. Then, press the bearings out of the lever with tool J 8985 (Fig. 8).",
+      "source_number": 3,
+      "installs": [
+        "bearing_the_end_bearing",
+        "blower_drive_support",
+        "crankshaft_front_sleeve"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "If the bearings require replacement, support the control link lever on a sleeve placed on the bed of an arbor press. Then, press the bearings out of the lever with tool J 8985 (Fig. 8).",
+        "verified": true,
+        "char_start": 1011,
+        "char_end": 1196,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the spring pin and washer from the pin in and remove the differential the operating shaft lever lever.",
+      "source_number": 4,
+      "installs": [
+        "differential_the_operating",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the spring pin and washer from the pin in and remove the differential the operating shaft lever lever.",
+        "verified": true,
+        "char_start": 1200,
+        "char_end": 1309,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the plug at the bottom of the governor housing.",
+      "source_number": 5,
+      "installs": [
+        "edge_of_the_plug",
+        "disassemble_governor_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the plug at the bottom of the governor housing.",
+        "verified": true,
+        "char_start": 1313,
+        "char_end": 1367,
+        "bbox": [
+          322.8,
+          110.05499999999995,
+          559.6094799999998,
+          130.08799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the set screws, 1f used, from the governor operaung fork.",
+      "source_number": 6,
+      "installs": [
+        "set_screw",
+        "blower_the_engine_governor",
+        "governor_operating_fork"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the set screws, 1f used, from the governor operaung fork.",
+        "verified": true,
+        "char_start": 1371,
+        "char_end": 1435,
+        "bbox": [
+          322.56,
+          141.96899999999994,
+          559.60848,
+          161.7689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the operating shaft upper bearing retaining screw and washer.",
+      "source_number": 7,
+      "installs": [
+        "governor_operating_shaft",
+        "upper_bearing_retaining",
+        "of_the_buffer_screw"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the operating shaft upper bearing retaining screw and washer.",
+        "verified": true,
+        "char_start": 1439,
+        "char_end": 1507,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the operating shaft lower bearing by placing the inverted governor housing on the bed of an arbor press: use wood block\u00eds) to prevent damage to the dowel pins in the housing. Press on the shaft. using a rod small enough to pass through the bearing. until the bearing is free of the shaft. Then. withdraw the bearing.",
+      "source_number": 8,
+      "installs": [
+        "operating_shaft_lower",
+        "block_of_wood",
+        "of_the_flywheel_housing",
+        "bearing_pilot_rod"
+      ],
+      "depends_on": [
+        "s02",
+        "s03",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "Remove the operating shaft lower bearing by placing the inverted governor housing on the bed of an arbor press: use wood block\u00eds) to prevent damage to the dowel pins in the housing. Press on the shaft. using a rod small enough to pass th...",
+        "verified": true,
+        "char_start": 1511,
+        "char_end": 1834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Place \u00e0n end wrench between the operating fork and the governor housing: also place a rod on the end of the operating shaft and press the shaft out of the fork (Fig. 9).",
+      "source_number": 9,
+      "installs": [
+        "end_of_the_operating"
+      ],
+      "depends_on": [
+        "s02",
+        "s04",
+        "s05",
+        "s06",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "Place \u00e0n end wrench between the operating fork and the governor housing: also place a rod on the end of the operating shaft and press the shaft out of the fork (Fig. 9).",
+        "verified": true,
+        "char_start": 1838,
+        "char_end": 2007,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Withdraw the operating shaft. operating shaft lever and bearings.",
+      "source_number": 10,
+      "installs": [
+        "operating_shaft_lever"
+      ],
+      "depends_on": [
+        "s03",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "Withdraw the operating shaft. operating shaft lever and bearings.",
+        "verified": true,
+        "char_start": 2012,
+        "char_end": 2077,
+        "bbox": [
+          323.28,
+          344.85099999999994,
+          560.4885,
+          365.88499999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Press the shaft from the operating shaft lever and the upper bearing.",
+      "source_number": 11,
+      "installs": [
+        "hammer_spring_scale_upper"
+      ],
+      "depends_on": [
+        "s03",
+        "s04",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 230,
+        "quote": "Press the shaft from the operating shaft lever and the upper bearing.",
+        "verified": true,
+        "char_start": 2082,
+        "char_end": 2151,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

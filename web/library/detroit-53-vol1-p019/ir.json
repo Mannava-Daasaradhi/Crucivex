@@ -1,0 +1,677 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.43 - Clean and remove the valve rocker cover",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 43,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 1862,
+        "char_end": 1902,
+        "bbox": [
+          360.72,
+          399.86299999999994,
+          537.58416,
+          407.86299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover",
+      "name": "Valve rocker cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover",
+      "provenance": {
+        "page": 43,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 1862,
+        "char_end": 1902,
+        "bbox": [
+          360.72,
+          399.86299999999994,
+          537.58416,
+          407.86299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "leaking_fuel_pipe",
+      "name": "Leaking fuel pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "leaking_fuel_pipe",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors.",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1074,
+        "bbox": [
+          93.6,
+          435.31499999999994,
+          413.45259999999996,
+          447.72799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors.",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1074,
+        "bbox": [
+          93.6,
+          435.31499999999994,
+          413.45259999999996,
+          447.72799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_connector",
+      "name": "Fuel connector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_connector",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors.",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1074,
+        "bbox": [
+          93.6,
+          435.31499999999994,
+          413.45259999999996,
+          447.72799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rocker_arm_bracket",
+      "name": "Rocker arm bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm_bracket",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the rocker arm brackets and rocker arm shaft as outlined in Steps 3 and 4 under Remove Rocker Arms and Rocker Arm Shaft.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2101,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm_shaft",
+      "name": "Rocker arm shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm_shaft",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the rocker arm brackets and rocker arm shaft as outlined in Steps 3 and 4 under Remove Rocker Arms and Rocker Arm Shaft.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2101,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the rocker arm brackets and rocker arm shaft as outlined in Steps 3 and 4 under Remove Rocker Arms and Rocker Arm Shaft.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2101,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the rocker arm brackets and rocker arm shaft as outlined in Steps 3 and 4 under Remove Rocker Arms and Rocker Arm Shaft.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2101,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the rocker arm brackets and rocker arm shaft as outlined in Steps 3 and 4 under Remove Rocker Arms and Rocker Arm Shaft.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2101,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nut at the upper end of the push rod, next to the clevis, and unscrew the rocker arm from the push rod to be removed. Remove the lock nut from the push rod.",
+        "verified": true,
+        "char_start": 2105,
+        "char_end": 2277,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nut at the upper end of the push rod, next to the clevis, and unscrew the rocker arm from the push rod to be removed. Remove the lock nut from the push rod.",
+        "verified": true,
+        "char_start": 2105,
+        "char_end": 2277,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nut at the upper end of the push rod, next to the clevis, and unscrew the rocker arm from the push rod to be removed. Remove the lock nut from the push rod.",
+        "verified": true,
+        "char_start": 2105,
+        "char_end": 2277,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nut at the upper end of the push rod, next to the clevis, and unscrew the rocker arm from the push rod to be removed. Remove the lock nut from the push rod.",
+        "verified": true,
+        "char_start": 2105,
+        "char_end": 2277,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nut at the upper end of the push rod, next to the clevis, and unscrew the rocker arm from the push rod to be removed. Remove the lock nut from the push rod.",
+        "verified": true,
+        "char_start": 2105,
+        "char_end": 2277,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 43,
+        "quote": "Install the remover J 3092-01, a flat washer and nut on the push rod (Fig. 3). Screw the nut down on the end of the push rod to compress the push rod spring.",
+        "verified": true,
+        "char_start": 2281,
+        "char_end": 2438,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 43,
+        "quote": "Install the remover J 3092-01, a flat washer and nut on the push rod (Fig. 3). Screw the nut down on the end of the push rod to compress the push rod spring.",
+        "verified": true,
+        "char_start": 2281,
+        "char_end": 2438,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 43,
+        "quote": "Install the remover J 3092-01, a flat washer and nut on the push rod (Fig. 3). Screw the nut down on the end of the push rod to compress the push rod spring.",
+        "verified": true,
+        "char_start": 2281,
+        "char_end": 2438,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod_spring",
+      "name": "Push rod spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod_spring",
+      "provenance": {
+        "page": 43,
+        "quote": "Install the remover J 3092-01, a flat washer and nut on the push rod (Fig. 3). Screw the nut down on the end of the push rod to compress the push rod spring.",
+        "verified": true,
+        "char_start": 2281,
+        "char_end": 2438,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the retainer from the cylinder head with a screw driver or similar tool as shown in Fig. 3.",
+        "verified": true,
+        "char_start": 2442,
+        "char_end": 2540,
+        "bbox": [
+          348.96000000000004,
+          623.01,
+          588.12,
+          644.6149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the retainer from the cylinder head with a screw driver or similar tool as shown in Fig. 3.",
+        "verified": true,
+        "char_start": 2442,
+        "char_end": 2540,
+        "bbox": [
+          348.96000000000004,
+          623.01,
+          588.12,
+          644.6149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 43,
+        "quote": "Unscrew the nut at the outer end of the push rod. thus releasing the spring.",
+        "verified": true,
+        "char_start": 2544,
+        "char_end": 2620,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 43,
+        "quote": "Pull the push rod, spring, spring seats and cam follower out through the top of the cylinder head.",
+        "verified": true,
+        "char_start": 2624,
+        "char_end": 2722,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 43,
+        "quote": "Pull the push rod, spring, spring seats and cam follower out through the top of the cylinder head.",
+        "verified": true,
+        "char_start": 2624,
+        "char_end": 2722,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clean and remove the valve rocker cover.",
+      "source_number": 1,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "valve_rocker_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Clean and remove the valve rocker cover.",
+        "verified": true,
+        "char_start": 1862,
+        "char_end": 1902,
+        "bbox": [
+          360.72,
+          399.86299999999994,
+          537.58416,
+          407.86299999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the fuel pipes from the injector and the fuel connectors.",
+      "source_number": 2,
+      "installs": [
+        "leaking_fuel_pipe",
+        "end_of_the_injector",
+        "fuel_connector"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the fuel pipes from the injector and the fuel connectors.",
+        "verified": true,
+        "char_start": 1010,
+        "char_end": 1074,
+        "bbox": [
+          93.6,
+          435.31499999999994,
+          413.45259999999996,
+          447.72799999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the rocker arm brackets and rocker arm shaft as outlined in Steps 3 and 4 under Remove Rocker Arms and Rocker Arm Shaft.",
+      "source_number": 3,
+      "installs": [
+        "rocker_arm_bracket",
+        "rocker_arm_shaft",
+        "spray_nozzle_outlined",
+        "rocker_arm",
+        "end_of_the_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the rocker arm brackets and rocker arm shaft as outlined in Steps 3 and 4 under Remove Rocker Arms and Rocker Arm Shaft.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2101,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Loosen the lock nut at the upper end of the push rod, next to the clevis, and unscrew the rocker arm from the push rod to be removed. Remove the lock nut from the push rod.",
+      "source_number": 4,
+      "installs": [
+        "bearing_lock_nut",
+        "push_rod",
+        "next",
+        "bearing_pilot_rod",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Loosen the lock nut at the upper end of the push rod, next to the clevis, and unscrew the rocker arm from the push rod to be removed. Remove the lock nut from the push rod.",
+        "verified": true,
+        "char_start": 2105,
+        "char_end": 2277,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the remover J 3092-01, a flat washer and nut on the push rod (Fig. 3). Screw the nut down on the end of the push rod to compress the push rod spring.",
+      "source_number": 5,
+      "installs": [
+        "flat_washer",
+        "nut_securing_fig",
+        "of_the_buffer_screw",
+        "push_rod_spring"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Install the remover J 3092-01, a flat washer and nut on the push rod (Fig. 3). Screw the nut down on the end of the push rod to compress the push rod spring.",
+        "verified": true,
+        "char_start": 2281,
+        "char_end": 2438,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the retainer from the cylinder head with a screw driver or similar tool as shown in Fig. 3.",
+      "source_number": 6,
+      "installs": [
+        "drive_shaft_retainer",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Remove the retainer from the cylinder head with a screw driver or similar tool as shown in Fig. 3.",
+        "verified": true,
+        "char_start": 2442,
+        "char_end": 2540,
+        "bbox": [
+          348.96000000000004,
+          623.01,
+          588.12,
+          644.6149999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Unscrew the nut at the outer end of the push rod. thus releasing the spring.",
+      "source_number": 7,
+      "installs": [
+        "end_of_the_spring"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Unscrew the nut at the outer end of the push rod. thus releasing the spring.",
+        "verified": true,
+        "char_start": 2544,
+        "char_end": 2620,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Pull the push rod, spring, spring seats and cam follower out through the top of the cylinder head.",
+      "source_number": 8,
+      "installs": [
+        "drive_spring_seat",
+        "cam_follower"
+      ],
+      "depends_on": [
+        "s04",
+        "s06",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 43,
+        "quote": "Pull the push rod, spring, spring seats and cam follower out through the top of the cylinder head.",
+        "verified": true,
+        "char_start": 2624,
+        "char_end": 2722,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.111 - Wipe the crankcase oil pan mounting flange...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "crankcase",
+      "name": "Crankcase",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankcase",
+      "provenance": {
+        "page": 111,
+        "quote": "Wipe the crankcase oil pan mounting flange surfaces and oil pan flange surfaces before the liquid gasket coating.",
+        "verified": true,
+        "char_start": 17,
+        "char_end": 130,
+        "bbox": [
+          304.56,
+          89.03679999999997,
+          551.1256559999999,
+          123.11956666666663
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_pan",
+      "name": "Oil pan",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pan",
+      "provenance": {
+        "page": 111,
+        "quote": "Wipe the crankcase oil pan mounting flange surfaces and oil pan flange surfaces before the liquid gasket coating.",
+        "verified": true,
+        "char_start": 17,
+        "char_end": 130,
+        "bbox": [
+          304.56,
+          89.03679999999997,
+          551.1256559999999,
+          123.11956666666663
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 111,
+        "quote": "Wipe the crankcase oil pan mounting flange surfaces and oil pan flange surfaces before the liquid gasket coating.",
+        "verified": true,
+        "char_start": 17,
+        "char_end": 130,
+        "bbox": [
+          304.56,
+          89.03679999999997,
+          551.1256559999999,
+          123.11956666666663
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_pan_bolt",
+      "name": "Oil pan bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pan_bolt",
+      "provenance": {
+        "page": 111,
+        "quote": "Tighten the oil pan bolts to the specified torque starting from @ and @ alternately, as shown in the illustration and, work out toward the arrow directions. Oil Pan Bolt Torque kg-m (Ib.ft/N-m) 0.6 - 1.0 (4.4 \u2014 7.2/6.0 - 9.6)",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 486,
+        "bbox": [
+          286.32,
+          193.0888,
+          551.280102,
+          274.4612666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 111,
+        "quote": "Tighten the oil pan bolts to the specified torque starting from @ and @ alternately, as shown in the illustration and, work out toward the arrow directions. Oil Pan Bolt Torque kg-m (Ib.ft/N-m) 0.6 - 1.0 (4.4 \u2014 7.2/6.0 - 9.6)",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 486,
+        "bbox": [
+          286.32,
+          193.0888,
+          551.280102,
+          274.4612666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Wipe the crankcase oil pan mounting flange surfaces and oil pan flange surfaces before the liquid gasket coating.",
+      "source_number": 1,
+      "installs": [
+        "crankcase",
+        "oil_pan",
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 111,
+        "quote": "Wipe the crankcase oil pan mounting flange surfaces and oil pan flange surfaces before the liquid gasket coating.",
+        "verified": true,
+        "char_start": 17,
+        "char_end": 130,
+        "bbox": [
+          304.56,
+          89.03679999999997,
+          551.1256559999999,
+          123.11956666666663
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Apply a coat of liquid gasket on the crankcase flange evenly.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 111,
+        "quote": "Apply a coat of liquid gasket on the crankcase flange evenly.",
+        "verified": true,
+        "char_start": 134,
+        "char_end": 195,
+        "bbox": [
+          305.03999999999996,
+          129.35479999999995,
+          550.4207640000002,
+          151.57456666666656
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Affix the oil pan gasket and install the oil pan. iFtO) ES",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 111,
+        "quote": "Affix the oil pan gasket and install the oil pan. iFtO) ES",
+        "verified": true,
+        "char_start": 199,
+        "char_end": 257,
+        "bbox": [
+          247.67999999999998,
+          160.37279999999998,
+          521.493872,
+          221.79453333333333
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Tighten the oil pan bolts to the specified torque starting from @ and @ alternately, as shown in the illustration and, work out toward the arrow directions. Oil Pan Bolt Torque kg-m (Ib.ft/N-m) 0.6 - 1.0 (4.4 \u2014 7.2/6.0 - 9.6)",
+      "source_number": 4,
+      "installs": [
+        "oil_pan_bolt",
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 5.9,
+      "warning": null,
+      "provenance": {
+        "page": 111,
+        "quote": "Tighten the oil pan bolts to the specified torque starting from @ and @ alternately, as shown in the illustration and, work out toward the arrow directions. Oil Pan Bolt Torque kg-m (Ib.ft/N-m) 0.6 - 1.0 (4.4 \u2014 7.2/6.0 - 9.6)",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 486,
+        "bbox": [
+          286.32,
+          193.0888,
+          551.280102,
+          274.4612666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

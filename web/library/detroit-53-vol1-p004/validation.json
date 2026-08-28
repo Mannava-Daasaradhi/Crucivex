@@ -1,0 +1,54 @@
+{
+  "assembly_title": "Detroit Diesel Series 53 - p.23 - Drain the cooling system. The current 8V...",
+  "ok": true,
+  "checks": [
+    {
+      "code": "P8",
+      "name": "single procedure",
+      "status": "PASS",
+      "detail": "15 steps, 0 numbering restart(s)"
+    },
+    {
+      "code": "P1",
+      "name": "acyclic assembly order",
+      "status": "PASS",
+      "detail": "15 steps sorted"
+    },
+    {
+      "code": "P2",
+      "name": "referential integrity",
+      "status": "PASS",
+      "detail": "60 references resolved"
+    },
+    {
+      "code": "P3",
+      "name": "no orphan parts",
+      "status": "PASS",
+      "detail": "all 45 parts installed"
+    },
+    {
+      "code": "P4",
+      "name": "recovered branches",
+      "status": "PASS",
+      "detail": "4 independent branches, largest 12 steps"
+    },
+    {
+      "code": "P5",
+      "name": "provenance coverage",
+      "status": "PASS",
+      "detail": "60/60 spans verified verbatim (100%)"
+    },
+    {
+      "code": "P6",
+      "name": "torque plausibility",
+      "status": "PASS",
+      "detail": "no torque specs to check"
+    },
+    {
+      "code": "P7",
+      "name": "identifier uniqueness",
+      "status": "PASS",
+      "detail": "60 unique ids"
+    }
+  ]
+}

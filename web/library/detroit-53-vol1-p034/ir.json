@@ -1,0 +1,332 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.68 - Stone the high spots from the oil...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 68,
+        "quote": "Stone the high spots from the oil seal contact surface of the crankshaft.",
+        "verified": true,
+        "char_start": 1221,
+        "char_end": 1294,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 68,
+        "quote": "Stone the high spots from the oil seal contact surface of the crankshaft.",
+        "verified": true,
+        "char_start": 1221,
+        "char_end": 1294,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 68,
+        "quote": "Stone the high spots from the oil seal contact surface of the crankshaft.",
+        "verified": true,
+        "char_start": 1221,
+        "char_end": 1294,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 68,
+        "quote": "Coat the area of the shaft where the sleeve will be positioned with shellac or an equivalent sealant.",
+        "verified": true,
+        "char_start": 1298,
+        "char_end": 1399,
+        "bbox": [
+          60.23999999999998,
+          451.64599999999996,
+          300.92819999999995,
+          472.734
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 68,
+        "quote": "Coat the area of the shaft where the sleeve will be positioned with shellac or an equivalent sealant.",
+        "verified": true,
+        "char_start": 1298,
+        "char_end": 1399,
+        "bbox": [
+          60.23999999999998,
+          451.64599999999996,
+          300.92819999999995,
+          472.734
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_seal_sleeve",
+      "name": "Oil seal sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_sleeve",
+      "provenance": {
+        "page": 69,
+        "quote": "Press the sleeve squarely on the crankshaft with front oil seal sleeve installer J 22524 and the crankshaft pulley retaining bolt.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 233,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 69,
+        "quote": "Press the sleeve squarely on the crankshaft with front oil seal sleeve installer J 22524 and the crankshaft pulley retaining bolt.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 233,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_pulley_retaining",
+      "name": "Crankshaft pulley retaining",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_pulley_retaining",
+      "provenance": {
+        "page": 69,
+        "quote": "Press the sleeve squarely on the crankshaft with front oil seal sleeve installer J 22524 and the crankshaft pulley retaining bolt.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 233,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 69,
+        "quote": "Press the sleeve squarely on the crankshaft with front oil seal sleeve installer J 22524 and the crankshaft pulley retaining bolt.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 233,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "excess_sealant",
+      "name": "Excess sealant",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "excess_sealant",
+      "provenance": {
+        "page": 69,
+        "quote": "Wipe off any excess sealant. To remove a worn sleeve, peen the sleeve until it stretches sufficiently so that it can be slipped off of the shaft.",
+        "verified": true,
+        "char_start": 237,
+        "char_end": 382,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "worn_sleeve",
+      "name": "Worn sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn_sleeve",
+      "provenance": {
+        "page": 69,
+        "quote": "Wipe off any excess sealant. To remove a worn sleeve, peen the sleeve until it stretches sufficiently so that it can be slipped off of the shaft.",
+        "verified": true,
+        "char_start": 237,
+        "char_end": 382,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Stone the high spots from the oil seal contact surface of the crankshaft.",
+      "source_number": 1,
+      "installs": [
+        "crankshaft_front_oil_seal",
+        "contact",
+        "halve_of_the_crankshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 68,
+        "quote": "Stone the high spots from the oil seal contact surface of the crankshaft.",
+        "verified": true,
+        "char_start": 1221,
+        "char_end": 1294,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Coat the area of the shaft where the sleeve will be positioned with shellac or an equivalent sealant.",
+      "source_number": 2,
+      "installs": [
+        "end_of_the_shaft",
+        "crankshaft_front_sleeve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 68,
+        "quote": "Coat the area of the shaft where the sleeve will be positioned with shellac or an equivalent sealant.",
+        "verified": true,
+        "char_start": 1298,
+        "char_end": 1399,
+        "bbox": [
+          60.23999999999998,
+          451.64599999999996,
+          300.92819999999995,
+          472.734
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Position the sleeve on the crankshaft with the radius on the sleeve facing away from the engine.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "Position the sleeve on the crankshaft with the radius on the sleeve facing away from the engine.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 99,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Press the sleeve squarely on the crankshaft with front oil seal sleeve installer J 22524 and the crankshaft pulley retaining bolt.",
+      "source_number": 4,
+      "installs": [
+        "oil_seal_sleeve",
+        "oil_seal_installer",
+        "crankshaft_pulley_retaining",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "Press the sleeve squarely on the crankshaft with front oil seal sleeve installer J 22524 and the crankshaft pulley retaining bolt.",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 233,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Wipe off any excess sealant. To remove a worn sleeve, peen the sleeve until it stretches sufficiently so that it can be slipped off of the shaft.",
+      "source_number": 5,
+      "installs": [
+        "excess_sealant",
+        "worn_sleeve"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "Wipe off any excess sealant. To remove a worn sleeve, peen the sleeve until it stretches sufficiently so that it can be slipped off of the shaft.",
+        "verified": true,
+        "char_start": 237,
+        "char_end": 382,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

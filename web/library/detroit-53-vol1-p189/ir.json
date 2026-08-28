@@ -1,0 +1,123 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.327 - A hot or cold water rinse",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "too",
+      "name": "Too",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "too",
+      "provenance": {
+        "page": 328,
+        "quote": "An engine lubricating oil bath (180 \u00b0-212 \u00b0F.) to rust of personnel carrying out the procedures. When proof. The bluing tank should be a double walled, 1-1/ preparing the solutions, the compounds should be added 2 \" insulated type of No....",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 1771,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "A hot or cold water rinse.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 327,
+        "quote": "A hot or cold water rinse.",
+        "verified": true,
+        "char_start": 3150,
+        "char_end": 3176,
+        "bbox": [
+          337.2,
+          714.6479999999999,
+          446.88671999999997,
+          722.6479999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "The bluing solution bath. followed for preparing and using the solutions.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 328,
+        "quote": "The bluing solution bath. followed for preparing and using the solutions.",
+        "verified": true,
+        "char_start": 56,
+        "char_end": 129,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "A cold water rinse. Protective clothing such as rubber gloves, rubber aprons and protective glasses contribute to the safety",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 328,
+        "quote": "A cold water rinse. Protective clothing such as rubber gloves, rubber aprons and protective glasses contribute to the safety",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 257,
+        "bbox": [
+          90.72,
+          96.029,
+          587.9526000000002,
+          119.65199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "An engine lubricating oil bath (180 \u00b0-212 \u00b0F.) to rust of personnel carrying out the procedures. When proof. The bluing tank should be a double walled, 1-1/ preparing the solutions, the compounds should be added 2 \" insulated type of No. 10 gage steel. to the water and not water added to the compounds. The temperature of the sodium hydroxide, sodium The dipping tanks should be properly vented and all nitrite and phosphoric acid solution for bluing steel fumes exhausted to the outside atmosphere. Since parts should be 295 \u00b0 to 305 ^F. The boiling point of temperatures of the caustic solutions exceed the the solution is directly related to its concentration. boiling point of water, any splashing encountered Therefore, when the boiling point is too high, the while adding make-up water can cause serious burns. solution is too concentrated and the volume of water is Always add water slowly and with extreme care. When probably low. When this occurs, the boiling point can the parts to be dipped are cold, caution should be be reduced to 300 \u00b0F. by adding water. The parts taken to avoid splashing that might occur when the should be placed in the solution for 15 to 30 minutes. cold parts come in contact with the hot solutions. A It is extremely important that the parts be free of oil heavy wire-screen type basket, suitable for holding a quantity of injector bodies, is recommended for before placing them in the bluing bath. Oil will produce a varied color part. dipping the parts in the solutions.",
+      "source_number": 5,
+      "installs": [
+        "too"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "caution should be be reduced to 300 \u00b0F.",
+      "provenance": {
+        "page": 328,
+        "quote": "An engine lubricating oil bath (180 \u00b0-212 \u00b0F.) to rust of personnel carrying out the procedures. When proof. The bluing tank should be a double walled, 1-1/ preparing the solutions, the compounds should be added 2 \" insulated type of No....",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 1771,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

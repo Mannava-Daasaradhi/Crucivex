@@ -1,0 +1,455 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.127 - Install new end plugs in the camshaft...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "end_plug",
+      "name": "End plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_plug",
+      "provenance": {
+        "page": 127,
+        "quote": "Install new end plugs in the camshaft. Press the gears with bolts and lock washers and ughten the bolts plugs in to a depth of 1.940 7 \u043e 2.060 '*. to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 528,
+        "char_end": 697,
+        "bbox": [
+          77.27999999999994,
+          422.40799999999996,
+          585.976,
+          449.154
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 127,
+        "quote": "Install new end plugs in the camshaft. Press the gears with bolts and lock washers and ughten the bolts plugs in to a depth of 1.940 7 \u043e 2.060 '*. to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 528,
+        "char_end": 697,
+        "bbox": [
+          77.27999999999994,
+          422.40799999999996,
+          585.976,
+          449.154
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 127,
+        "quote": "Install new end plugs in the camshaft. Press the gears with bolts and lock washers and ughten the bolts plugs in to a depth of 1.940 7 \u043e 2.060 '*. to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 528,
+        "char_end": 697,
+        "bbox": [
+          77.27999999999994,
+          422.40799999999996,
+          585.976,
+          449.154
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 127,
+        "quote": "Install new end plugs in the camshaft. Press the gears with bolts and lock washers and ughten the bolts plugs in to a depth of 1.940 7 \u043e 2.060 '*. to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 528,
+        "char_end": 697,
+        "bbox": [
+          77.27999999999994,
+          422.40799999999996,
+          585.976,
+          449.154
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 127,
+        "quote": "Install new end plugs in the camshaft. Press the gears with bolts and lock washers and ughten the bolts plugs in to a depth of 1.940 7 \u043e 2.060 '*. to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 528,
+        "char_end": 697,
+        "bbox": [
+          77.27999999999994,
+          422.40799999999996,
+          585.976,
+          449.154
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 127,
+        "quote": "Install new end plugs in the camshaft. Press the gears with bolts and lock washers and ughten the bolts plugs in to a depth of 1.940 7 \u043e 2.060 '*. to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 528,
+        "char_end": 697,
+        "bbox": [
+          77.27999999999994,
+          422.40799999999996,
+          585.976,
+          449.154
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 127,
+        "quote": "Install the gears and thrust washers on their respective shafts as outlined in Section. 1.7.3. 9. Check the clearance between the thrust washer and the gear on both shafts. The clearance should be",
+        "verified": true,
+        "char_start": 701,
+        "char_end": 897,
+        "bbox": [
+          76.80000000000001,
+          455.4479999999999,
+          586.63248,
+          486.12799999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 127,
+        "quote": "Install the gears and thrust washers on their respective shafts as outlined in Section. 1.7.3. 9. Check the clearance between the thrust washer and the gear on both shafts. The clearance should be",
+        "verified": true,
+        "char_start": 701,
+        "char_end": 897,
+        "bbox": [
+          76.80000000000001,
+          455.4479999999999,
+          586.63248,
+          486.12799999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 127,
+        "quote": "Install the gears and thrust washers on their respective shafts as outlined in Section. 1.7.3. 9. Check the clearance between the thrust washer and the gear on both shafts. The clearance should be",
+        "verified": true,
+        "char_start": 701,
+        "char_end": 897,
+        "bbox": [
+          76.80000000000001,
+          455.4479999999999,
+          586.63248,
+          486.12799999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 127,
+        "quote": "Install the gears and thrust washers on their respective shafts as outlined in Section. 1.7.3. 9. Check the clearance between the thrust washer and the gear on both shafts. The clearance should be",
+        "verified": true,
+        "char_start": 701,
+        "char_end": 897,
+        "bbox": [
+          76.80000000000001,
+          455.4479999999999,
+          586.63248,
+          486.12799999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 127,
+        "quote": "Lubricate the bearings and shafts with engine oil 005 7\u201d to .015 \". or \u0430 maximum of .019 \" with used and slide the shaft assemblies into the cylinder block parts. being careful not to damage the bearings or the cams and journals. Make su...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1168,
+        "bbox": [
+          76.56,
+          485.36999999999995,
+          584.9654400000001,
+          528.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 127,
+        "quote": "Lubricate the bearings and shafts with engine oil 005 7\u201d to .015 \". or \u0430 maximum of .019 \" with used and slide the shaft assemblies into the cylinder block parts. being careful not to damage the bearings or the cams and journals. Make su...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1168,
+        "bbox": [
+          76.56,
+          485.36999999999995,
+          584.9654400000001,
+          528.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 127,
+        "quote": "Lubricate the bearings and shafts with engine oil 005 7\u201d to .015 \". or \u0430 maximum of .019 \" with used and slide the shaft assemblies into the cylinder block parts. being careful not to damage the bearings or the cams and journals. Make su...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1168,
+        "bbox": [
+          76.56,
+          485.36999999999995,
+          584.9654400000001,
+          528.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install new end plugs in the camshaft. Press the gears with bolts and lock washers and ughten the bolts plugs in to a depth of 1.940 7 \u043e 2.060 '*. to 35-39 ]b-ft torque.",
+      "source_number": 1,
+      "installs": [
+        "end_plug",
+        "camshaft",
+        "fuel_pump_drive_gear",
+        "engine_front_cover_bolt",
+        "special_lock_washer",
+        "edge_of_the_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 127,
+        "quote": "Install new end plugs in the camshaft. Press the gears with bolts and lock washers and ughten the bolts plugs in to a depth of 1.940 7 \u043e 2.060 '*. to 35-39 ]b-ft torque.",
+        "verified": true,
+        "char_start": 528,
+        "char_end": 697,
+        "bbox": [
+          77.27999999999994,
+          422.40799999999996,
+          585.976,
+          449.154
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the gears and thrust washers on their respective shafts as outlined in Section. 1.7.3. 9. Check the clearance between the thrust washer and the gear on both shafts. The clearance should be",
+      "source_number": 2,
+      "installs": [
+        "crankshaft_thrust_washer",
+        "end_of_the_shaft",
+        "spray_nozzle_outlined",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 127,
+        "quote": "Install the gears and thrust washers on their respective shafts as outlined in Section. 1.7.3. 9. Check the clearance between the thrust washer and the gear on both shafts. The clearance should be",
+        "verified": true,
+        "char_start": 701,
+        "char_end": 897,
+        "bbox": [
+          76.80000000000001,
+          455.4479999999999,
+          586.63248,
+          486.12799999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Lubricate the bearings and shafts with engine oil 005 7\u201d to .015 \". or \u0430 maximum of .019 \" with used and slide the shaft assemblies into the cylinder block parts. being careful not to damage the bearings or the cams and journals. Make sure that the appropriate timing",
+      "source_number": 3,
+      "installs": [
+        "bearing_the_end_bearing",
+        "of_the_block",
+        "t_push_rod_cam"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 127,
+        "quote": "Lubricate the bearings and shafts with engine oil 005 7\u201d to .015 \". or \u0430 maximum of .019 \" with used and slide the shaft assemblies into the cylinder block parts. being careful not to damage the bearings or the cams and journals. Make su...",
+        "verified": true,
+        "char_start": 901,
+        "char_end": 1168,
+        "bbox": [
+          76.56,
+          485.36999999999995,
+          584.9654400000001,
+          528.3679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Check the backlash between the mating gears. The marks on the gears are aligned. Refer to Gear Train backlash should be .003 \" to .005 \" and should not and Engine Timing in Section 1.7.1. exceed 007 \u201d between used gears.",
+      "source_number": 10,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 127,
+        "quote": "Check the backlash between the mating gears. The marks on the gears are aligned. Refer to Gear Train backlash should be .003 \" to .005 \" and should not and Engine Timing in Section 1.7.1. exceed 007 \u201d between used gears.",
+        "verified": true,
+        "char_start": 1173,
+        "char_end": 1393,
+        "bbox": [
+          76.32000000000008,
+          523.6499999999999,
+          585.2776799999999,
+          555.608
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

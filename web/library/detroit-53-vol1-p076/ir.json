@@ -1,0 +1,436 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.136 - Mount the idler gear assembly on the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "idler_gear_assembly",
+      "name": "Idler gear assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_assembly",
+      "provenance": {
+        "page": 136,
+        "quote": "Mount the idler gear assembly on the engine.",
+        "verified": true,
+        "char_start": 781,
+        "char_end": 825,
+        "bbox": [
+          92.64,
+          265.433,
+          287.84163,
+          274.433
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "center_bolt",
+      "name": "Center bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_bolt",
+      "provenance": {
+        "page": 136,
+        "quote": "Install the center bolt through the gear hub and thread it into the cylinder block. Tighten the bolt to 40-45 ]b-ft torque.",
+        "verified": true,
+        "char_start": 829,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_hub",
+      "name": "Idler gear hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_hub",
+      "provenance": {
+        "page": 136,
+        "quote": "Install the center bolt through the gear hub and thread it into the cylinder block. Tighten the bolt to 40-45 ]b-ft torque.",
+        "verified": true,
+        "char_start": 829,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 136,
+        "quote": "Install the center bolt through the gear hub and thread it into the cylinder block. Tighten the bolt to 40-45 ]b-ft torque.",
+        "verified": true,
+        "char_start": 829,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 136,
+        "quote": "Install the center bolt through the gear hub and thread it into the cylinder block. Tighten the bolt to 40-45 ]b-ft torque.",
+        "verified": true,
+        "char_start": 829,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 136,
+        "quote": "Install the center bolt through the gear hub and thread it into the cylinder block. Tighten the bolt to 40-45 ]b-ft torque.",
+        "verified": true,
+        "char_start": 829,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "steel_plate",
+      "name": "Steel plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "steel_plate",
+      "provenance": {
+        "page": 136,
+        "quote": "Place the steel plate (lower plate shown in Fig. 11) against the hub and bearing. Insert two 3/8 ''-16 bolts and one 5/16 \u2018\u2019-18 bolt through the plate and thread it into the cylinder block. Tighten the two 3/8 \u2019\u2019-16 bolts to 40-45 lb-ft ...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1245,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plate_shown",
+      "name": "Plate shown",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plate_shown",
+      "provenance": {
+        "page": 136,
+        "quote": "Place the steel plate (lower plate shown in Fig. 11) against the hub and bearing. Insert two 3/8 ''-16 bolts and one 5/16 \u2018\u2019-18 bolt through the plate and thread it into the cylinder block. Tighten the two 3/8 \u2019\u2019-16 bolts to 40-45 lb-ft ...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1245,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 136,
+        "quote": "Place the steel plate (lower plate shown in Fig. 11) against the hub and bearing. Insert two 3/8 ''-16 bolts and one 5/16 \u2018\u2019-18 bolt through the plate and thread it into the cylinder block. Tighten the two 3/8 \u2019\u2019-16 bolts to 40-45 lb-ft ...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1245,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 136,
+        "quote": "Place the steel plate (lower plate shown in Fig. 11) against the hub and bearing. Insert two 3/8 ''-16 bolts and one 5/16 \u2018\u2019-18 bolt through the plate and thread it into the cylinder block. Tighten the two 3/8 \u2019\u2019-16 bolts to 40-45 lb-ft ...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1245,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 136,
+        "quote": "Place the steel plate (lower plate shown in Fig. 11) against the hub and bearing. Insert two 3/8 ''-16 bolts and one 5/16 \u2018\u2019-18 bolt through the plate and thread it into the cylinder block. Tighten the two 3/8 \u2019\u2019-16 bolts to 40-45 lb-ft ...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1245,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 136,
+        "quote": "Place the steel plate (lower plate shown in Fig. 11) against the hub and bearing. Insert two 3/8 ''-16 bolts and one 5/16 \u2018\u2019-18 bolt through the plate and thread it into the cylinder block. Tighten the two 3/8 \u2019\u2019-16 bolts to 40-45 lb-ft ...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1245,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cord",
+      "name": "Cord",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cord",
+      "provenance": {
+        "page": 136,
+        "quote": "Tie one end of a piece of lintless 1/8 \" cord around \u0430 1/8\u201d round piece of wood (or soft metal stock). Place the wood between the teeth of the gear, then wrap the cord around the periphery of the gear several times. Attach the other end ...",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 2347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "block_of_wood",
+      "name": "Block of wood",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "block_of_wood",
+      "provenance": {
+        "page": 136,
+        "quote": "Tie one end of a piece of lintless 1/8 \" cord around \u0430 1/8\u201d round piece of wood (or soft metal stock). Place the wood between the teeth of the gear, then wrap the cord around the periphery of the gear several times. Attach the other end ...",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 2347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 136,
+        "quote": "Tie one end of a piece of lintless 1/8 \" cord around \u0430 1/8\u201d round piece of wood (or soft metal stock). Place the wood between the teeth of the gear, then wrap the cord around the periphery of the gear several times. Attach the other end ...",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 2347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 136,
+        "quote": "Tie one end of a piece of lintless 1/8 \" cord around \u0430 1/8\u201d round piece of wood (or soft metal stock). Place the wood between the teeth of the gear, then wrap the cord around the periphery of the gear several times. Attach the other end ...",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 2347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 136,
+        "quote": "Tie one end of a piece of lintless 1/8 \" cord around \u0430 1/8\u201d round piece of wood (or soft metal stock). Place the wood between the teeth of the gear, then wrap the cord around the periphery of the gear several times. Attach the other end ...",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 2347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 136,
+        "quote": "Tie one end of a piece of lintless 1/8 \" cord around \u0430 1/8\u201d round piece of wood (or soft metal stock). Place the wood between the teeth of the gear, then wrap the cord around the periphery of the gear several times. Attach the other end ...",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 2347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 136,
+        "quote": "Tie one end of a piece of lintless 1/8 \" cord around \u0430 1/8\u201d round piece of wood (or soft metal stock). Place the wood between the teeth of the gear, then wrap the cord around the periphery of the gear several times. Attach the other end ...",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 2347,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Mount the idler gear assembly on the engine.",
+      "source_number": 1,
+      "installs": [
+        "idler_gear_assembly"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 136,
+        "quote": "Mount the idler gear assembly on the engine.",
+        "verified": true,
+        "char_start": 781,
+        "char_end": 825,
+        "bbox": [
+          92.64,
+          265.433,
+          287.84163,
+          274.433
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the center bolt through the gear hub and thread it into the cylinder block. Tighten the bolt to 40-45 ]b-ft torque.",
+      "source_number": 2,
+      "installs": [
+        "center_bolt",
+        "idler_gear_hub",
+        "bolt_thread",
+        "of_the_block",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 136,
+        "quote": "Install the center bolt through the gear hub and thread it into the cylinder block. Tighten the bolt to 40-45 ]b-ft torque.",
+        "verified": true,
+        "char_start": 829,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place the steel plate (lower plate shown in Fig. 11) against the hub and bearing. Insert two 3/8 ''-16 bolts and one 5/16 \u2018\u2019-18 bolt through the plate and thread it into the cylinder block. Tighten the two 3/8 \u2019\u2019-16 bolts to 40-45 lb-ft torque and the 5/16 \"-18 bolt to 19-23 lb-ft torque.",
+      "source_number": 3,
+      "installs": [
+        "steel_plate",
+        "plate_shown",
+        "nut_securing_fig",
+        "bearing_the_end_bearing",
+        "exhaust_valve_seat_insert",
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 54.2,
+      "warning": null,
+      "provenance": {
+        "page": 136,
+        "quote": "Place the steel plate (lower plate shown in Fig. 11) against the hub and bearing. Insert two 3/8 ''-16 bolts and one 5/16 \u2018\u2019-18 bolt through the plate and thread it into the cylinder block. Tighten the two 3/8 \u2019\u2019-16 bolts to 40-45 lb-ft ...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1245,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Tie one end of a piece of lintless 1/8 \" cord around \u0430 1/8\u201d round piece of wood (or soft metal stock). Place the wood between the teeth of the gear, then wrap the cord around the periphery of the gear several times. Attach the other end of the cord to a spring scale, J 8129 (Fig. 12). Maintain a straight, steady pull on the scale, 90 * to the axis of the hub, and note the pull, in pounds and ounces, required to start the gear rotating. Make several checks to obtain an average reading. If the pull is within 1-1/4 Jb. minimum to 6 165. 12 ounces maximum and does not fluctuate more than 2 lbs. 11 ounces, the idler gear and bearing assembly are satisfactory for use. If the crankshaft and camshaft gears are mounted on the engine, a suitable fixture which may be held in a vise can be made as shown in Fig. 10 with two plates as shown in Fig. 11. One of the plates is used to take the place of the flywheel housing and the other the cylinder block. Engine mounted conditions are simulated by tightening the 3/8 \"-16 attaching bolts and nuts to 40-45 Ib-ft torque. Check the pre-load as follows:",
+      "source_number": 4,
+      "installs": [
+        "cord",
+        "block_of_wood",
+        "gear_train_teeth",
+        "fuel_pump_drive_gear",
+        "end_of_the_spring",
+        "press_the_shaft_straight",
+        "blower_drive_hub"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": 54.2,
+      "warning": "note the pull, in pounds and ounces, required to start the gear rotating.",
+      "provenance": {
+        "page": 136,
+        "quote": "Tie one end of a piece of lintless 1/8 \" cord around \u0430 1/8\u201d round piece of wood (or soft metal stock). Place the wood between the teeth of the gear, then wrap the cord around the periphery of the gear several times. Attach the other end ...",
+        "verified": true,
+        "char_start": 1249,
+        "char_end": 2347,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

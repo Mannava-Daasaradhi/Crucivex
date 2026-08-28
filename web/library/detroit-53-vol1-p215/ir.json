@@ -1,0 +1,593 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.377 - On the former blower, attach the blower...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 377,
+        "quote": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 ...",
+        "verified": true,
+        "char_start": 1820,
+        "char_end": 2070,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 377,
+        "quote": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 ...",
+        "verified": true,
+        "char_start": 1820,
+        "char_end": 2070,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 377,
+        "quote": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 ...",
+        "verified": true,
+        "char_start": 1820,
+        "char_end": 2070,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "left_hand_helix_rotor",
+      "name": "Left-hand helix rotor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "left_hand_helix_rotor",
+      "provenance": {
+        "page": 377,
+        "quote": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 ...",
+        "verified": true,
+        "char_start": 1820,
+        "char_end": 2070,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 377,
+        "quote": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 ...",
+        "verified": true,
+        "char_start": 1820,
+        "char_end": 2070,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 377,
+        "quote": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 ...",
+        "verified": true,
+        "char_start": 1820,
+        "char_end": 2070,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 377,
+        "quote": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 ...",
+        "verified": true,
+        "char_start": 1820,
+        "char_end": 2070,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "steel_plate",
+      "name": "Steel plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "steel_plate",
+      "provenance": {
+        "page": 377,
+        "quote": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 ...",
+        "verified": true,
+        "char_start": 1820,
+        "char_end": 2070,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "helix",
+      "name": "Helix",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "helix",
+      "provenance": {
+        "page": 377,
+        "quote": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 ...",
+        "verified": true,
+        "char_start": 1820,
+        "char_end": 2070,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 377,
+        "quote": "If removed, install the blower drive hub oil seal in the groove in the outside diameter of the drive hub.",
+        "verified": true,
+        "char_start": 2074,
+        "char_end": 2179,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 377,
+        "quote": "If removed, install the blower drive hub oil seal in the groove in the outside diameter of the drive hub.",
+        "verified": true,
+        "char_start": 2074,
+        "char_end": 2179,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support_assembly",
+      "name": "Blower drive support assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support_assembly",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the ga...",
+        "verified": true,
+        "char_start": 2183,
+        "char_end": 2602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_assembly",
+      "name": "Blower assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_assembly",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the ga...",
+        "verified": true,
+        "char_start": 2183,
+        "char_end": 2602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the ga...",
+        "verified": true,
+        "char_start": 2183,
+        "char_end": 2602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the ga...",
+        "verified": true,
+        "char_start": 2183,
+        "char_end": 2602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the ga...",
+        "verified": true,
+        "char_start": 2183,
+        "char_end": 2602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the ga...",
+        "verified": true,
+        "char_start": 2183,
+        "char_end": 2602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the ga...",
+        "verified": true,
+        "char_start": 2183,
+        "char_end": 2602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the ga...",
+        "verified": true,
+        "char_start": 2183,
+        "char_end": 2602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "socket_head_bolt",
+      "name": "Socket head bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "socket_head_bolt",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the ga...",
+        "verified": true,
+        "char_start": 2183,
+        "char_end": 2602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_assembly",
+      "name": "Governor assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_assembly",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rot...",
+        "verified": true,
+        "char_start": 2606,
+        "char_end": 3178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_end_plate",
+      "name": "Front end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_end_plate",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rot...",
+        "verified": true,
+        "char_start": 2606,
+        "char_end": 3178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rot...",
+        "verified": true,
+        "char_start": 2606,
+        "char_end": 3178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rot...",
+        "verified": true,
+        "char_start": 2606,
+        "char_end": 3178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rot...",
+        "verified": true,
+        "char_start": 2606,
+        "char_end": 3178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rot...",
+        "verified": true,
+        "char_start": 2606,
+        "char_end": 3178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rot...",
+        "verified": true,
+        "char_start": 2606,
+        "char_end": 3178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spline",
+      "name": "Spline",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spline",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rot...",
+        "verified": true,
+        "char_start": 2606,
+        "char_end": 3178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rot...",
+        "verified": true,
+        "char_start": 2606,
+        "char_end": 3178,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 Ib-ft torque.",
+      "source_number": 1,
+      "installs": [
+        "of_the_former",
+        "assembly_examine_the_blower",
+        "blower_drive_hub",
+        "left_hand_helix_rotor",
+        "fuel_pump_drive_gear",
+        "engine_front_cover_bolt",
+        "engine_front_cover_current",
+        "steel_plate",
+        "helix"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 20.3,
+      "warning": null,
+      "provenance": {
+        "page": 377,
+        "quote": "On the former blower, attach the blower drive hub to the left-hand helix rotor gear with four bolts. On the current blower, bolt two steel plates between the left-hand helix rotor drive gear and the drive hub. Tighten the bolts to 15-19 ...",
+        "verified": true,
+        "char_start": 1820,
+        "char_end": 2070,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "If removed, install the blower drive hub oil seal in the groove in the outside diameter of the drive hub.",
+      "source_number": 2,
+      "installs": [
+        "crankshaft_front_oil_seal",
+        "of_the_groove"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 377,
+        "quote": "If removed, install the blower drive hub oil seal in the groove in the outside diameter of the drive hub.",
+        "verified": true,
+        "char_start": 2074,
+        "char_end": 2179,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the gasket. b. Attach the blower drive support assembly to the rear end plate with six bolts, lock washers, plain washers and one socket head bolt. Tighten the bolts to 20-24 lb-ft torque.",
+      "source_number": 3,
+      "installs": [
+        "blower_drive_support_assembly",
+        "blower_assembly",
+        "head_gasket",
+        "assembly_rear_end_plate",
+        "copper_plated_dowel_pin",
+        "blower_drive_support",
+        "special_lock_washer",
+        "plain_washer",
+        "socket_head_bolt"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": null,
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the blower drive support assembly to the blower assembly as follows: a. Affix a new gasket to the blower rear end plate. Then place the blower drive support assembly over the two dowel pins in the rear end plate and against the ga...",
+        "verified": true,
+        "char_start": 2183,
+        "char_end": 2602,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rotor shaft. If necessary, rotate the weight shaft or rotor shaft to align the splines. Now push the governor assembly on the dowel pins in the end plate and against the gasket. c. Attach the governor to the front. end plate with seven bolts and copper washers (two bolts inside and five outside). Tighten the bolts to 20-24 Ib-ft torque.",
+      "source_number": 4,
+      "installs": [
+        "governor_assembly",
+        "front_end_plate",
+        "blower_the_engine_governor",
+        "governor_weight_shaft",
+        "press_the_shaft_straight",
+        "end_of_the_shaft",
+        "front_balance_weight",
+        "spline",
+        "copper_washer"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": null,
+      "provenance": {
+        "page": 377,
+        "quote": "Attach the governor assembly to the blower assembly as follows: a. Affix a new gasket to the blower front end plate. b. Position. the. governor assembly in front of the blower, then start the weight shaft straight into the end of the rot...",
+        "verified": true,
+        "char_start": 2606,
+        "char_end": 3178,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

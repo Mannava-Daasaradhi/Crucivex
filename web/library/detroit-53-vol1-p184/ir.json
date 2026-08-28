@@ -1,0 +1,2039 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.318 - If removed, install the pipe plug in...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "pipe_plug",
+      "name": "Pipe plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pipe_plug",
+      "provenance": {
+        "page": 318,
+        "quote": "If removed, install the pipe plug in the governor base on a current design housing, No. 3 housing. tapered dowel pins must be used. Refer to Fig. 13 for fabrication of tools necessary to properly align the base and the housing and",
+        "verified": true,
+        "char_start": 2986,
+        "char_end": 3216,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 318,
+        "quote": "If removed, install the pipe plug in the governor base on a current design housing, No. 3 housing. tapered dowel pins must be used. Refer to Fig. 13 for fabrication of tools necessary to properly align the base and the housing and",
+        "verified": true,
+        "char_start": 2986,
+        "char_end": 3216,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "base",
+      "name": "Base",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "base",
+      "provenance": {
+        "page": 318,
+        "quote": "If removed, install the pipe plug in the governor base on a current design housing, No. 3 housing. tapered dowel pins must be used. Refer to Fig. 13 for fabrication of tools necessary to properly align the base and the housing and",
+        "verified": true,
+        "char_start": 2986,
+        "char_end": 3216,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 318,
+        "quote": "If removed, install the pipe plug in the governor base on a current design housing, No. 3 housing. tapered dowel pins must be used. Refer to Fig. 13 for fabrication of tools necessary to properly align the base and the housing and",
+        "verified": true,
+        "char_start": 2986,
+        "char_end": 3216,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 318,
+        "quote": "If removed, install the pipe plug in the governor base on a current design housing, No. 3 housing. tapered dowel pins must be used. Refer to Fig. 13 for fabrication of tools necessary to properly align the base and the housing and",
+        "verified": true,
+        "char_start": 2986,
+        "char_end": 3216,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 318,
+        "quote": "If removed, install the pipe plug in the governor base on a current design housing, No. 3 housing. tapered dowel pins must be used. Refer to Fig. 13 for fabrication of tools necessary to properly align the base and the housing and",
+        "verified": true,
+        "char_start": 2986,
+        "char_end": 3216,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 318,
+        "quote": "If removed, install the pipe plug in the governor base on a current design housing, No. 3 housing. tapered dowel pins must be used. Refer to Fig. 13 for fabrication of tools necessary to properly align the base and the housing and",
+        "verified": true,
+        "char_start": 2986,
+        "char_end": 3216,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 318,
+        "quote": "Lubricate the two oil pump gears with engine oil, proceed as follows: and place them in their respective positions in the governor base. a. Position the dummy gear over the idler gear stud.",
+        "verified": true,
+        "char_start": 3220,
+        "char_end": 3409,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 318,
+        "quote": "Lubricate the two oil pump gears with engine oil, proceed as follows: and place them in their respective positions in the governor base. a. Position the dummy gear over the idler gear stud.",
+        "verified": true,
+        "char_start": 3220,
+        "char_end": 3409,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "dummy_gear",
+      "name": "Dummy gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dummy_gear",
+      "provenance": {
+        "page": 318,
+        "quote": "Lubricate the two oil pump gears with engine oil, proceed as follows: and place them in their respective positions in the governor base. a. Position the dummy gear over the idler gear stud.",
+        "verified": true,
+        "char_start": 3220,
+        "char_end": 3409,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 318,
+        "quote": "Lubricate the two oil pump gears with engine oil, proceed as follows: and place them in their respective positions in the governor base. a. Position the dummy gear over the idler gear stud.",
+        "verified": true,
+        "char_start": 3220,
+        "char_end": 3409,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 318,
+        "quote": "Place a new seal ring in the groove in the governor b. Position the base against the governor housing base, with the wide side of the seal down in the groove. and align them with the tapered arbor.",
+        "verified": true,
+        "char_start": 3413,
+        "char_end": 3610,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 318,
+        "quote": "Place a new seal ring in the groove in the governor b. Position the base against the governor housing base, with the wide side of the seal down in the groove. and align them with the tapered arbor.",
+        "verified": true,
+        "char_start": 3413,
+        "char_end": 3610,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_seal",
+      "name": "Of the seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_seal",
+      "provenance": {
+        "page": 318,
+        "quote": "Place a new seal ring in the groove in the governor b. Position the base against the governor housing base, with the wide side of the seal down in the groove. and align them with the tapered arbor.",
+        "verified": true,
+        "char_start": 3413,
+        "char_end": 3610,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 318,
+        "quote": "Set the governor housing on the base with the c. Enlarge the dowel pin holes to .200\"-.212\" dowels in the base registering with the holes in the diameter and taper ream to allow for a No. 3 housing and the idler gear stud in the housing ...",
+        "verified": true,
+        "char_start": 3614,
+        "char_end": 4094,
+        "bbox": [
+          87.35999999999984,
+          670.41,
+          594.7979999999998,
+          724.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "dowel_pin_hole",
+      "name": "Dowel pin hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dowel_pin_hole",
+      "provenance": {
+        "page": 318,
+        "quote": "Set the governor housing on the base with the c. Enlarge the dowel pin holes to .200\"-.212\" dowels in the base registering with the holes in the diameter and taper ream to allow for a No. 3 housing and the idler gear stud in the housing ...",
+        "verified": true,
+        "char_start": 3614,
+        "char_end": 4094,
+        "bbox": [
+          87.35999999999984,
+          670.41,
+          594.7979999999998,
+          724.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 318,
+        "quote": "Set the governor housing on the base with the c. Enlarge the dowel pin holes to .200\"-.212\" dowels in the base registering with the holes in the diameter and taper ream to allow for a No. 3 housing and the idler gear stud in the housing ...",
+        "verified": true,
+        "char_start": 3614,
+        "char_end": 4094,
+        "bbox": [
+          87.35999999999984,
+          670.41,
+          594.7979999999998,
+          724.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drill",
+      "name": "Drill",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drill",
+      "provenance": {
+        "page": 318,
+        "quote": "Set the governor housing on the base with the c. Enlarge the dowel pin holes to .200\"-.212\" dowels in the base registering with the holes in the diameter and taper ream to allow for a No. 3 housing and the idler gear stud in the housing ...",
+        "verified": true,
+        "char_start": 3614,
+        "char_end": 4094,
+        "bbox": [
+          87.35999999999984,
+          670.41,
+          594.7979999999998,
+          724.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_governor",
+      "name": "Of the governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_governor",
+      "provenance": {
+        "page": 318,
+        "quote": "Set the governor housing on the base with the c. Enlarge the dowel pin holes to .200\"-.212\" dowels in the base registering with the holes in the diameter and taper ream to allow for a No. 3 housing and the idler gear stud in the housing ...",
+        "verified": true,
+        "char_start": 3614,
+        "char_end": 4094,
+        "bbox": [
+          87.35999999999984,
+          670.41,
+          594.7979999999998,
+          724.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 318,
+        "quote": "Set the governor housing on the base with the c. Enlarge the dowel pin holes to .200\"-.212\" dowels in the base registering with the holes in the diameter and taper ream to allow for a No. 3 housing and the idler gear stud in the housing ...",
+        "verified": true,
+        "char_start": 3614,
+        "char_end": 4094,
+        "bbox": [
+          87.35999999999984,
+          670.41,
+          594.7979999999998,
+          724.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "ball_head_lock",
+      "name": "Ball head lock",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ball_head_lock",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the ball head lock ring in the groove in the ball head shaft with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the ball head lock ring in the groove in the ball head shaft with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "ball_head",
+      "name": "Ball head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ball_head",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the ball head lock ring in the groove in the ball head shaft with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the ball head lock ring in the groove in the ball head shaft with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the ball head lock ring in the groove in the ball head shaft with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 319,
+        "quote": "Determine the type of governor being assembled. right-hand or left-hand, then place a new gasket on the relief valve assembly and thread it into the proper opening in the side of the governor housing.",
+        "verified": true,
+        "char_start": 108,
+        "char_end": 308,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "relief_valve_assembly",
+      "name": "Relief valve assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "relief_valve_assembly",
+      "provenance": {
+        "page": 319,
+        "quote": "Determine the type of governor being assembled. right-hand or left-hand, then place a new gasket on the relief valve assembly and thread it into the proper opening in the side of the governor housing.",
+        "verified": true,
+        "char_start": 108,
+        "char_end": 308,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 319,
+        "quote": "Determine the type of governor being assembled. right-hand or left-hand, then place a new gasket on the relief valve assembly and thread it into the proper opening in the side of the governor housing.",
+        "verified": true,
+        "char_start": 108,
+        "char_end": 308,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "dummy_hole_plug",
+      "name": "Dummy hole plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "dummy_hole_plug",
+      "provenance": {
+        "page": 319,
+        "quote": "Place a new gasket on the dummy hole plug and thread it into the opening in the housing opposite the relief valve assembly.",
+        "verified": true,
+        "char_start": 313,
+        "char_end": 436,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 319,
+        "quote": "Clamp the bottom (square portion) of the governor housing between the soft jaws of a bench vise. Then tighten the relief valve assembly and dummy hole plug securely.",
+        "verified": true,
+        "char_start": 441,
+        "char_end": 606,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "power_piston",
+      "name": "Power piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "power_piston",
+      "provenance": {
+        "page": 319,
+        "quote": "Lubricate the power piston with engine oil; then insert the piston, small end down, straight into the piston bore in the governor housing and push it in until it bottoms.",
+        "verified": true,
+        "char_start": 611,
+        "char_end": 781,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 319,
+        "quote": "Lubricate the power piston with engine oil; then insert the piston, small end down, straight into the piston bore in the governor housing and push it in until it bottoms.",
+        "verified": true,
+        "char_start": 611,
+        "char_end": 781,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 319,
+        "quote": "Lubricate the power piston with engine oil; then insert the piston, small end down, straight into the piston bore in the governor housing and push it in until it bottoms.",
+        "verified": true,
+        "char_start": 611,
+        "char_end": 781,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 319,
+        "quote": "Lubricate the power piston with engine oil; then insert the piston, small end down, straight into the piston bore in the governor housing and push it in until it bottoms.",
+        "verified": true,
+        "char_start": 611,
+        "char_end": 781,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_lever",
+      "name": "Speed adjusting lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_lever",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_fork",
+      "name": "Spring fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_fork",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pilot_valve_plunger",
+      "name": "Pilot valve plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pilot_valve_plunger",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_shaft",
+      "name": "Speed adjusting shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_shaft",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_floating",
+      "name": "Speed adjusting floating",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_floating",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_slot",
+      "name": "Tbe slot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_slot",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cotter_pin",
+      "name": "Cotter pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cotter_pin",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_pilot_valve",
+      "name": "Of the pilot valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_pilot_valve",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inboard_thrust_bearing",
+      "name": "Inboard thrust bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inboard_thrust_bearing",
+      "provenance": {
+        "page": 319,
+        "quote": "Lubricate the pilot valve plunger thrust bearing with engine oil and place it over the end of the pilot valve plunger with the smallest, outside diameter, bearing race next to the spring seat.",
+        "verified": true,
+        "char_start": 2319,
+        "char_end": 2511,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 319,
+        "quote": "Lubricate the pilot valve plunger thrust bearing with engine oil and place it over the end of the pilot valve plunger with the smallest, outside diameter, bearing race next to the spring seat.",
+        "verified": true,
+        "char_start": 2319,
+        "char_end": 2511,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 319,
+        "quote": "Lubricate the pilot valve plunger thrust bearing with engine oil and place it over the end of the pilot valve plunger with the smallest, outside diameter, bearing race next to the spring seat.",
+        "verified": true,
+        "char_start": 2319,
+        "char_end": 2511,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flyweight",
+      "name": "Flyweight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flyweight",
+      "provenance": {
+        "page": 319,
+        "quote": "Hold the bearing against the bottom of the spring seat and start the end of the speed adjusting shaft through the proper opening, relief valve assembly side, in the governor housing. Then start the end of the pilot valve plunger straight...",
+        "verified": true,
+        "char_start": 2516,
+        "char_end": 3195,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 319,
+        "quote": "If removed, apply a thin coat of sealing compound to the outside diameter of the new speed adjusting shaft oil seals, then press the oil seals in the speed adjusting shaft sleeve with the hp of the inner seal facing down and the lip of t...",
+        "verified": true,
+        "char_start": 3200,
+        "char_end": 3461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 319,
+        "quote": "If removed, apply a thin coat of sealing compound to the outside diameter of the new speed adjusting shaft oil seals, then press the oil seals in the speed adjusting shaft sleeve with the hp of the inner seal facing down and the lip of t...",
+        "verified": true,
+        "char_start": 3200,
+        "char_end": 3461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 319,
+        "quote": "If removed, apply a thin coat of sealing compound to the outside diameter of the new speed adjusting shaft oil seals, then press the oil seals in the speed adjusting shaft sleeve with the hp of the inner seal facing down and the lip of t...",
+        "verified": true,
+        "char_start": 3200,
+        "char_end": 3461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 319,
+        "quote": "If removed, apply a thin coat of sealing compound to the outside diameter of the new speed adjusting shaft oil seals, then press the oil seals in the speed adjusting shaft sleeve with the hp of the inner seal facing down and the lip of t...",
+        "verified": true,
+        "char_start": 3200,
+        "char_end": 3461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 319,
+        "quote": "Place a gasket on the speed adjusting shaft cap and thread the cap into the opposite side of the governor housing and over the end of the speed adjusting shaft. Tighten the cap securely.",
+        "verified": true,
+        "char_start": 3710,
+        "char_end": 3896,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lever_retracting_spring",
+      "name": "Lever retracting spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lever_retracting_spring",
+      "provenance": {
+        "page": 319,
+        "quote": "On a governor equipped with a synchronizing motor, rotate the speed adjusting lever retracting spring clockwise around the shaft sleeve and insert the hooked end of the spring in the small hole in the side of the speed adjusting lever wi...",
+        "verified": true,
+        "char_start": 3901,
+        "char_end": 4169,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "terminal_lever",
+      "name": "Terminal lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "terminal_lever",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the terminal lever, terminal lever shafts, cotter pins and cup plugs in the governor housing as follows: a. Place the flat side of the droop adjusting bracket against the inside face of the terminal lever boss as shown in Fig. 2 ...",
+        "verified": true,
+        "char_start": 4174,
+        "char_end": 4540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "terminal_lever_shaft",
+      "name": "Terminal lever shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "terminal_lever_shaft",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the terminal lever, terminal lever shafts, cotter pins and cup plugs in the governor housing as follows: a. Place the flat side of the droop adjusting bracket against the inside face of the terminal lever boss as shown in Fig. 2 ...",
+        "verified": true,
+        "char_start": 4174,
+        "char_end": 4540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cup_plug",
+      "name": "Cup plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cup_plug",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the terminal lever, terminal lever shafts, cotter pins and cup plugs in the governor housing as follows: a. Place the flat side of the droop adjusting bracket against the inside face of the terminal lever boss as shown in Fig. 2 ...",
+        "verified": true,
+        "char_start": 4174,
+        "char_end": 4540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "droop_adjusting_bracket",
+      "name": "Droop adjusting bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "droop_adjusting_bracket",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the terminal lever, terminal lever shafts, cotter pins and cup plugs in the governor housing as follows: a. Place the flat side of the droop adjusting bracket against the inside face of the terminal lever boss as shown in Fig. 2 ...",
+        "verified": true,
+        "char_start": 4174,
+        "char_end": 4540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_terminal",
+      "name": "Edge of the terminal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_terminal",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the terminal lever, terminal lever shafts, cotter pins and cup plugs in the governor housing as follows: a. Place the flat side of the droop adjusting bracket against the inside face of the terminal lever boss as shown in Fig. 2 ...",
+        "verified": true,
+        "char_start": 4174,
+        "char_end": 4540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the terminal lever, terminal lever shafts, cotter pins and cup plugs in the governor housing as follows: a. Place the flat side of the droop adjusting bracket against the inside face of the terminal lever boss as shown in Fig. 2 ...",
+        "verified": true,
+        "char_start": 4174,
+        "char_end": 4540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the terminal lever, terminal lever shafts, cotter pins and cup plugs in the governor housing as follows: a. Place the flat side of the droop adjusting bracket against the inside face of the terminal lever boss as shown in Fig. 2 ...",
+        "verified": true,
+        "char_start": 4174,
+        "char_end": 4540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 319,
+        "quote": "Install the terminal lever, terminal lever shafts, cotter pins and cup plugs in the governor housing as follows: a. Place the flat side of the droop adjusting bracket against the inside face of the terminal lever boss as shown in Fig. 2 ...",
+        "verified": true,
+        "char_start": 4174,
+        "char_end": 4540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, thread the lock nut on the maximum speed adjusting screw. Place the copper washer on the adjusting screw, then thread the screw approximately half way in the governor housing (Fig. 2).",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1384,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_screw",
+      "name": "Speed adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_screw",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, thread the lock nut on the maximum speed adjusting screw. Place the copper washer on the adjusting screw, then thread the screw approximately half way in the governor housing (Fig. 2).",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1384,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, thread the lock nut on the maximum speed adjusting screw. Place the copper washer on the adjusting screw, then thread the screw approximately half way in the governor housing (Fig. 2).",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1384,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gap_adjusting_screw",
+      "name": "Gap adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gap_adjusting_screw",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, thread the lock nut on the maximum speed adjusting screw. Place the copper washer on the adjusting screw, then thread the screw approximately half way in the governor housing (Fig. 2).",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1384,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, thread the lock nut on the maximum speed adjusting screw. Place the copper washer on the adjusting screw, then thread the screw approximately half way in the governor housing (Fig. 2).",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1384,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "stop_pin",
+      "name": "Stop pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "stop_pin",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, place a copper washer over the threaded end of the speed adjusting lever stop pin. Insert the threaded end of the stop pin through the hole in the governor cover and secure it in place with a nut.",
+        "verified": true,
+        "char_start": 1389,
+        "char_end": 1597,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, place a copper washer over the threaded end of the speed adjusting lever stop pin. Insert the threaded end of the stop pin through the hole in the governor cover and secure it in place with a nut.",
+        "verified": true,
+        "char_start": 1389,
+        "char_end": 1597,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, place a copper washer over the threaded end of the speed adjusting lever stop pin. Insert the threaded end of the stop pin through the hole in the governor cover and secure it in place with a nut.",
+        "verified": true,
+        "char_start": 1389,
+        "char_end": 1597,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, place a copper washer over the threaded end of the speed adjusting lever stop pin. Insert the threaded end of the stop pin through the hole in the governor cover and secure it in place with a nut.",
+        "verified": true,
+        "char_start": 1389,
+        "char_end": 1597,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 320,
+        "quote": "Affix a new governor cover gasket to the bottom face of the cover. Place the cover on the governor housing and secure it in place with the three screws with lock washers.",
+        "verified": true,
+        "char_start": 1602,
+        "char_end": 1772,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle_control_terminal",
+      "name": "Throttle control terminal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_control_terminal",
+      "provenance": {
+        "page": 320,
+        "quote": "Place the throttle control terminal lever on the governor terminal lever shaft in the same position it was in at the time of removal, then tighten the retaining bolt to 7-9 lb-ft torque.",
+        "verified": true,
+        "char_start": 1777,
+        "char_end": 1963,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retaining_bolt",
+      "name": "Bearing retaining bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retaining_bolt",
+      "provenance": {
+        "page": 320,
+        "quote": "Place the throttle control terminal lever on the governor terminal lever shaft in the same position it was in at the time of removal, then tighten the retaining bolt to 7-9 lb-ft torque.",
+        "verified": true,
+        "char_start": 1777,
+        "char_end": 1963,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle_control_lever",
+      "name": "Throttle control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_control_lever",
+      "provenance": {
+        "page": 320,
+        "quote": "Place the throttle control lever with the throttle control rod assembly attached, on the speed adjusting lever shaft in the same position it was in at the time of removal, then tighten the retaining bolt to 7-9 ]b-ft torque.",
+        "verified": true,
+        "char_start": 1968,
+        "char_end": 2192,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle_control_rod",
+      "name": "Throttle control rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_control_rod",
+      "provenance": {
+        "page": 320,
+        "quote": "Place the throttle control lever with the throttle control rod assembly attached, on the speed adjusting lever shaft in the same position it was in at the time of removal, then tighten the retaining bolt to 7-9 ]b-ft torque.",
+        "verified": true,
+        "char_start": 1968,
+        "char_end": 2192,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_inlet_tube",
+      "name": "Oil inlet tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_inlet_tube",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, install the oil inlet tube elbow in the oil inlet plug.",
+        "verified": true,
+        "char_start": 2197,
+        "char_end": 2264,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_inlet_plug",
+      "name": "Oil inlet plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_inlet_plug",
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, install the oil inlet tube elbow in the oil inlet plug.",
+        "verified": true,
+        "char_start": 2197,
+        "char_end": 2264,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "If removed, install the pipe plug in the governor base on a current design housing, No. 3 housing. tapered dowel pins must be used. Refer to Fig. 13 for fabrication of tools necessary to properly align the base and the housing and",
+      "source_number": 2,
+      "installs": [
+        "pipe_plug",
+        "blower_the_engine_governor",
+        "base",
+        "engine_front_cover_current",
+        "of_the_flywheel_housing",
+        "copper_plated_dowel_pin",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 318,
+        "quote": "If removed, install the pipe plug in the governor base on a current design housing, No. 3 housing. tapered dowel pins must be used. Refer to Fig. 13 for fabrication of tools necessary to properly align the base and the housing and",
+        "verified": true,
+        "char_start": 2986,
+        "char_end": 3216,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Lubricate the two oil pump gears with engine oil, proceed as follows: and place them in their respective positions in the governor base. a. Position the dummy gear over the idler gear stud.",
+      "source_number": 3,
+      "installs": [
+        "lubricating_oil_pump",
+        "fuel_pump_drive_gear",
+        "dummy_gear",
+        "idler_gear"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 318,
+        "quote": "Lubricate the two oil pump gears with engine oil, proceed as follows: and place them in their respective positions in the governor base. a. Position the dummy gear over the idler gear stud.",
+        "verified": true,
+        "char_start": 3220,
+        "char_end": 3409,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place a new seal ring in the groove in the governor b. Position the base against the governor housing base, with the wide side of the seal down in the groove. and align them with the tapered arbor.",
+      "source_number": 4,
+      "installs": [
+        "seal_ring",
+        "of_the_groove",
+        "of_the_seal"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 318,
+        "quote": "Place a new seal ring in the groove in the governor b. Position the base against the governor housing base, with the wide side of the seal down in the groove. and align them with the tapered arbor.",
+        "verified": true,
+        "char_start": 3413,
+        "char_end": 3610,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Set the governor housing on the base with the c. Enlarge the dowel pin holes to .200\"-.212\" dowels in the base registering with the holes in the diameter and taper ream to allow for a No. 3 housing and the idler gear stud in the housing tapered pin. Always drill from the base to the registering with the hole in the idler gear. Press the housing and be sure the tapered pin is flush with housing down against the seal ring in the base. the bottom of the governor mounting flange.",
+      "source_number": 5,
+      "installs": [
+        "disassemble_governor_housing",
+        "dowel_pin_hole",
+        "of_the_oil_hole",
+        "drill",
+        "of_the_governor",
+        "flange"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 318,
+        "quote": "Set the governor housing on the base with the c. Enlarge the dowel pin holes to .200\"-.212\" dowels in the base registering with the holes in the diameter and taper ream to allow for a No. 3 housing and the idler gear stud in the housing ...",
+        "verified": true,
+        "char_start": 3614,
+        "char_end": 4094,
+        "bbox": [
+          87.35999999999984,
+          670.41,
+          594.7979999999998,
+          724.81
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install the ball head lock ring in the groove in the ball head shaft with a pair of snap ring pliers.",
+      "source_number": 8,
+      "installs": [
+        "ball_head_lock",
+        "bottom_oil_ring",
+        "ball_head",
+        "end_of_the_shaft",
+        "external_snap_ring"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "Install the ball head lock ring in the groove in the ball head shaft with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Determine the type of governor being assembled. right-hand or left-hand, then place a new gasket on the relief valve assembly and thread it into the proper opening in the side of the governor housing.",
+      "source_number": 9,
+      "installs": [
+        "head_gasket",
+        "relief_valve_assembly",
+        "bolt_thread"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "Determine the type of governor being assembled. right-hand or left-hand, then place a new gasket on the relief valve assembly and thread it into the proper opening in the side of the governor housing.",
+        "verified": true,
+        "char_start": 108,
+        "char_end": 308,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Place a new gasket on the dummy hole plug and thread it into the opening in the housing opposite the relief valve assembly.",
+      "source_number": 10,
+      "installs": [
+        "dummy_hole_plug"
+      ],
+      "depends_on": [
+        "s01",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "Place a new gasket on the dummy hole plug and thread it into the opening in the housing opposite the relief valve assembly.",
+        "verified": true,
+        "char_start": 313,
+        "char_end": 436,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Clamp the bottom (square portion) of the governor housing between the soft jaws of a bench vise. Then tighten the relief valve assembly and dummy hole plug securely.",
+      "source_number": 11,
+      "installs": [
+        "breather_tube_clamp"
+      ],
+      "depends_on": [
+        "s04",
+        "s06",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "Clamp the bottom (square portion) of the governor housing between the soft jaws of a bench vise. Then tighten the relief valve assembly and dummy hole plug securely.",
+        "verified": true,
+        "char_start": 441,
+        "char_end": 606,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Lubricate the power piston with engine oil; then insert the piston, small end down, straight into the piston bore in the governor housing and push it in until it bottoms.",
+      "source_number": 12,
+      "installs": [
+        "power_piston",
+        "exhaust_valve_seat_insert",
+        "of_the_selected_piston",
+        "press_the_shaft_straight"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "Lubricate the power piston with engine oil; then insert the piston, small end down, straight into the piston bore in the governor housing and push it in until it bottoms.",
+        "verified": true,
+        "char_start": 611,
+        "char_end": 781,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting floating lever in the slot of the speed adjusting lever so the pin holes are in alignment. b. Insert the pin through the pin holes in the levers, with the small pin hole in the pin and floating lever in alignment, then insert the long end of the wire pin through the floating lever and pin. c. Place the speed adjusting floating lever in the slot of the spring fork so the pin holes are in alignment. d. Insert the second pin through the pin holes in the spring fork and floating lever, with the small pin hole in the pin and floating lever in alignment, then insert the short end of the wire pin through the floating lever and pin. Push the wire pin in against the floating lever and bend the long end of the wire pin over against the floating lever. e. Insert the serrated end of the speed adjusting shaft into the speed adjusting lever with the cotter pin hole in the shaft and lever in alignment and the machined slot in the non-splined end of the shaft in the same position it was in at the time of removal. Align the pin holes in the shaft and lever and install the cotter pin. Bend the ends of the cotter pin over. f. Press the lower end of the spring fork into the small end of the speeder spring; then insert the large end of the spring in the spring seat of the pilot valve plunger.",
+      "source_number": 13,
+      "installs": [
+        "speed_adjusting_lever",
+        "of_the_stop_lever",
+        "spring_fork",
+        "end_of_the_spring",
+        "pilot_valve_plunger",
+        "speed_adjusting_shaft",
+        "speed_adjusting_floating",
+        "tbe_slot",
+        "engine_speed",
+        "lock_wire",
+        "governor_operating_fork",
+        "cotter_pin",
+        "drive_spring_seat",
+        "of_the_pilot_valve",
+        "area_of_the_plunger"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s05",
+        "s09"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "If disassembled, refer to Figs. 2 and 18 and assemble the speed adjusting lever, floating lever, spring fork. speeder spring, pilot valve plunger and speed adjusting shaft as follows: a. Place the non-slotted end of the speed adjusting f...",
+        "verified": true,
+        "char_start": 786,
+        "char_end": 2314,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Lubricate the pilot valve plunger thrust bearing with engine oil and place it over the end of the pilot valve plunger with the smallest, outside diameter, bearing race next to the spring seat.",
+      "source_number": 14,
+      "installs": [
+        "inboard_thrust_bearing",
+        "bearing_the_end_bearing",
+        "next"
+      ],
+      "depends_on": [
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "Lubricate the pilot valve plunger thrust bearing with engine oil and place it over the end of the pilot valve plunger with the smallest, outside diameter, bearing race next to the spring seat.",
+        "verified": true,
+        "char_start": 2319,
+        "char_end": 2511,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Hold the bearing against the bottom of the spring seat and start the end of the speed adjusting shaft through the proper opening, relief valve assembly side, in the governor housing. Then start the end of the pilot valve plunger straight in the opening in the ball head assembly and push it in until the bearing race rests on the flyweights. CAUTION: Do not damage the plunger by applying undue pressure. On a governor equipped with a synchronizing motor, place the speed adjusting lever retracting spring over the speed adjusting lever shaft and place the hooked end of the spring over the top of the speed adjusting lever before installing the assembly in the governor housing.",
+      "source_number": 15,
+      "installs": [
+        "flyweight"
+      ],
+      "depends_on": [
+        "s04",
+        "s05",
+        "s09",
+        "s10",
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Do not damage the plunger by applying undue pressure.",
+      "provenance": {
+        "page": 319,
+        "quote": "Hold the bearing against the bottom of the spring seat and start the end of the speed adjusting shaft through the proper opening, relief valve assembly side, in the governor housing. Then start the end of the pilot valve plunger straight...",
+        "verified": true,
+        "char_start": 2516,
+        "char_end": 3195,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "If removed, apply a thin coat of sealing compound to the outside diameter of the new speed adjusting shaft oil seals, then press the oil seals in the speed adjusting shaft sleeve with the hp of the inner seal facing down and the lip of the outer seal facing up.",
+      "source_number": 16,
+      "installs": [
+        "crankshaft_front_oil_seal",
+        "crankshaft_front_sleeve",
+        "side_of_the_inner",
+        "idler_gear_outer"
+      ],
+      "depends_on": [
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "If removed, apply a thin coat of sealing compound to the outside diameter of the new speed adjusting shaft oil seals, then press the oil seals in the speed adjusting shaft sleeve with the hp of the inner seal facing down and the lip of t...",
+        "verified": true,
+        "char_start": 3200,
+        "char_end": 3461,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Place a gasket on the speed adjusting shaft sleeve. Lubricate the speed adjusting shaft with engine oil, then start the small end of the sleeve over the end of the shaft and thread it into the governor housing. Tighten the sleeve securely.",
+      "source_number": 17,
+      "installs": [],
+      "depends_on": [
+        "s04",
+        "s05",
+        "s06",
+        "s10",
+        "s13"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "Place a gasket on the speed adjusting shaft sleeve. Lubricate the speed adjusting shaft with engine oil, then start the small end of the sleeve over the end of the shaft and thread it into the governor housing. Tighten the sleeve securely.",
+        "verified": true,
+        "char_start": 3466,
+        "char_end": 3705,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Place a gasket on the speed adjusting shaft cap and thread the cap into the opposite side of the governor housing and over the end of the speed adjusting shaft. Tighten the cap securely.",
+      "source_number": 18,
+      "installs": [
+        "clean_shipping_cap"
+      ],
+      "depends_on": [
+        "s04",
+        "s06",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "Place a gasket on the speed adjusting shaft cap and thread the cap into the opposite side of the governor housing and over the end of the speed adjusting shaft. Tighten the cap securely.",
+        "verified": true,
+        "char_start": 3710,
+        "char_end": 3896,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "On a governor equipped with a synchronizing motor, rotate the speed adjusting lever retracting spring clockwise around the shaft sleeve and insert the hooked end of the spring in the small hole in the side of the speed adjusting lever with a pair of small nose pliers.",
+      "source_number": 19,
+      "installs": [
+        "lever_retracting_spring"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s05",
+        "s09",
+        "s10",
+        "s13"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "On a governor equipped with a synchronizing motor, rotate the speed adjusting lever retracting spring clockwise around the shaft sleeve and insert the hooked end of the spring in the small hole in the side of the speed adjusting lever wi...",
+        "verified": true,
+        "char_start": 3901,
+        "char_end": 4169,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s17",
+      "index": 16,
+      "text": "Install the terminal lever, terminal lever shafts, cotter pins and cup plugs in the governor housing as follows: a. Place the flat side of the droop adjusting bracket against the inside face of the terminal lever boss as shown in Fig. 2 and secure it to the terminal lever with a flat washer, lock washer and bolt. b. Place the terminal lever between the ends of the",
+      "source_number": 20,
+      "installs": [
+        "terminal_lever",
+        "terminal_lever_shaft",
+        "cup_plug",
+        "droop_adjusting_bracket",
+        "edge_of_the_terminal",
+        "flat_washer",
+        "special_lock_washer",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 319,
+        "quote": "Install the terminal lever, terminal lever shafts, cotter pins and cup plugs in the governor housing as follows: a. Place the flat side of the droop adjusting bracket against the inside face of the terminal lever boss as shown in Fig. 2 ...",
+        "verified": true,
+        "char_start": 4174,
+        "char_end": 4540,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s18",
+      "index": 17,
+      "text": "If removed, thread the lock nut on the maximum speed adjusting screw. Place the copper washer on the adjusting screw, then thread the screw approximately half way in the governor housing (Fig. 2).",
+      "source_number": 21,
+      "installs": [
+        "bearing_lock_nut",
+        "speed_adjusting_screw",
+        "copper_washer",
+        "gap_adjusting_screw",
+        "of_the_buffer_screw"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, thread the lock nut on the maximum speed adjusting screw. Place the copper washer on the adjusting screw, then thread the screw approximately half way in the governor housing (Fig. 2).",
+        "verified": true,
+        "char_start": 1188,
+        "char_end": 1384,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s19",
+      "index": 18,
+      "text": "If removed, place a copper washer over the threaded end of the speed adjusting lever stop pin. Insert the threaded end of the stop pin through the hole in the governor cover and secure it in place with a nut.",
+      "source_number": 22,
+      "installs": [
+        "stop_pin",
+        "solid_stop",
+        "governor_cover",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s09",
+        "s10",
+        "s18"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, place a copper washer over the threaded end of the speed adjusting lever stop pin. Insert the threaded end of the stop pin through the hole in the governor cover and secure it in place with a nut.",
+        "verified": true,
+        "char_start": 1389,
+        "char_end": 1597,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s20",
+      "index": 19,
+      "text": "Affix a new governor cover gasket to the bottom face of the cover. Place the cover on the governor housing and secure it in place with the three screws with lock washers.",
+      "source_number": 23,
+      "installs": [
+        "underside_of_the_cover"
+      ],
+      "depends_on": [
+        "s04",
+        "s06",
+        "s17",
+        "s18",
+        "s19"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "Affix a new governor cover gasket to the bottom face of the cover. Place the cover on the governor housing and secure it in place with the three screws with lock washers.",
+        "verified": true,
+        "char_start": 1602,
+        "char_end": 1772,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s21",
+      "index": 20,
+      "text": "Place the throttle control terminal lever on the governor terminal lever shaft in the same position it was in at the time of removal, then tighten the retaining bolt to 7-9 lb-ft torque.",
+      "source_number": 24,
+      "installs": [
+        "throttle_control_terminal",
+        "bearing_retaining_bolt"
+      ],
+      "depends_on": [
+        "s01",
+        "s10",
+        "s17"
+      ],
+      "tool": null,
+      "torque_nm": 9.5,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "Place the throttle control terminal lever on the governor terminal lever shaft in the same position it was in at the time of removal, then tighten the retaining bolt to 7-9 lb-ft torque.",
+        "verified": true,
+        "char_start": 1777,
+        "char_end": 1963,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s22",
+      "index": 21,
+      "text": "Place the throttle control lever with the throttle control rod assembly attached, on the speed adjusting lever shaft in the same position it was in at the time of removal, then tighten the retaining bolt to 7-9 ]b-ft torque.",
+      "source_number": 25,
+      "installs": [
+        "throttle_control_lever",
+        "throttle_control_rod"
+      ],
+      "depends_on": [
+        "s05",
+        "s10",
+        "s21"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "Place the throttle control lever with the throttle control rod assembly attached, on the speed adjusting lever shaft in the same position it was in at the time of removal, then tighten the retaining bolt to 7-9 ]b-ft torque.",
+        "verified": true,
+        "char_start": 1968,
+        "char_end": 2192,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s23",
+      "index": 22,
+      "text": "If removed, install the oil inlet tube elbow in the oil inlet plug.",
+      "source_number": 26,
+      "installs": [
+        "oil_inlet_tube",
+        "oil_inlet_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 320,
+        "quote": "If removed, install the oil inlet tube elbow in the oil inlet plug.",
+        "verified": true,
+        "char_start": 2197,
+        "char_end": 2264,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.192 - Whenever the fuel pipes are removed from...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "leaking_fuel_pipe",
+      "name": "Leaking fuel pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "leaking_fuel_pipe",
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever the fuel pipes are removed from an injector, cover the filter caps with shipping caps to keep dirt out of the injectors and prevent damage. Also, protect the fuel pipes and fuel connectors from damage and the entry of dirt or ot...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever the fuel pipes are removed from an injector, cover the filter caps with shipping caps to keep dirt out of the injectors and prevent damage. Also, protect the fuel pipes and fuel connectors from damage and the entry of dirt or ot...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever the fuel pipes are removed from an injector, cover the filter caps with shipping caps to keep dirt out of the injectors and prevent damage. Also, protect the fuel pipes and fuel connectors from damage and the entry of dirt or ot...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_filter_cap",
+      "name": "Injector filter cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_filter_cap",
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever the fuel pipes are removed from an injector, cover the filter caps with shipping caps to keep dirt out of the injectors and prevent damage. Also, protect the fuel pipes and fuel connectors from damage and the entry of dirt or ot...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever the fuel pipes are removed from an injector, cover the filter caps with shipping caps to keep dirt out of the injectors and prevent damage. Also, protect the fuel pipes and fuel connectors from damage and the entry of dirt or ot...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_connector",
+      "name": "Fuel connector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_connector",
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever the fuel pipes are removed from an injector, cover the filter caps with shipping caps to keep dirt out of the injectors and prevent damage. Also, protect the fuel pipes and fuel connectors from damage and the entry of dirt or ot...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "foreign_material",
+      "name": "Foreign material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "foreign_material",
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever the fuel pipes are removed from an injector, cover the filter caps with shipping caps to keep dirt out of the injectors and prevent damage. Also, protect the fuel pipes and fuel connectors from damage and the entry of dirt or ot...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever an injector has been removed and reinstalled or replaced in an engine, make the following adjustments as outlined in Section 14: a. Time the injector. b. Position the injector control rack.",
+        "verified": true,
+        "char_start": 1336,
+        "char_end": 1534,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_rack",
+      "name": "Injector control rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_rack",
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever an injector has been removed and reinstalled or replaced in an engine, make the following adjustments as outlined in Section 14: a. Time the injector. b. Position the injector control rack.",
+        "verified": true,
+        "char_start": 1336,
+        "char_end": 1534,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rust_preventive",
+      "name": "Rust preventive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rust_preventive",
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever an engine is to be out of service for an extended period, purge the fuel system, then fill it with a good grade of rust preventive (refer to Section 15.3).",
+        "verified": true,
+        "char_start": 1538,
+        "char_end": 1702,
+        "bbox": [
+          66.48000000000002,
+          464.76899999999995,
+          290.0178000000001,
+          496.21599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Whenever the fuel pipes are removed from an injector, cover the filter caps with shipping caps to keep dirt out of the injectors and prevent damage. Also, protect the fuel pipes and fuel connectors from damage and the entry of dirt or other foreign material.",
+      "source_number": 1,
+      "installs": [
+        "leaking_fuel_pipe",
+        "end_of_the_injector",
+        "underside_of_the_cover",
+        "injector_filter_cap",
+        "clean_shipping_cap",
+        "fuel_connector",
+        "foreign_material"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever the fuel pipes are removed from an injector, cover the filter caps with shipping caps to keep dirt out of the injectors and prevent damage. Also, protect the fuel pipes and fuel connectors from damage and the entry of dirt or ot...",
+        "verified": true,
+        "char_start": 851,
+        "char_end": 1109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "After an injector has been operated in an engine, do not remove the filter caps or filters while the injector is in the engine. Replace the filters only at the time of complete disassembly and overhaul of an injector. `",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "do not remove the filter caps or filters while the injector is in the engine.",
+      "provenance": {
+        "page": 192,
+        "quote": "After an injector has been operated in an engine, do not remove the filter caps or filters while the injector is in the engine. Replace the filters only at the time of complete disassembly and overhaul of an injector. `",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1332,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Whenever an injector has been removed and reinstalled or replaced in an engine, make the following adjustments as outlined in Section 14: a. Time the injector. b. Position the injector control rack.",
+      "source_number": 3,
+      "installs": [
+        "spray_nozzle_outlined",
+        "injector_control_rack"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever an injector has been removed and reinstalled or replaced in an engine, make the following adjustments as outlined in Section 14: a. Time the injector. b. Position the injector control rack.",
+        "verified": true,
+        "char_start": 1336,
+        "char_end": 1534,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Whenever an engine is to be out of service for an extended period, purge the fuel system, then fill it with a good grade of rust preventive (refer to Section 15.3).",
+      "source_number": 4,
+      "installs": [
+        "rust_preventive"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 192,
+        "quote": "Whenever an engine is to be out of service for an extended period, purge the fuel system, then fill it with a good grade of rust preventive (refer to Section 15.3).",
+        "verified": true,
+        "char_start": 1538,
+        "char_end": 1702,
+        "bbox": [
+          66.48000000000002,
+          464.76899999999995,
+          290.0178000000001,
+          496.21599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "When a reconditioned injector is to be placed in stock, fill it with injector test oil J 26400. Do not use fuel oil. Install shipping caps on both filter caps immediately after filling. Store the injector in an upright position to prevent test oil leakage. NOTICE: Make sure that new filters have been installed in a reconditioned injector which is to be placed in stock. This precaution will prevent dirt particles from entering the injector due to a possible reversal of fuel flow when installing the injector in an engine other than the original unit.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not use fuel oil.",
+      "provenance": {
+        "page": 192,
+        "quote": "When a reconditioned injector is to be placed in stock, fill it with injector test oil J 26400. Do not use fuel oil. Install shipping caps on both filter caps immediately after filling. Store the injector in an upright position to preven...",
+        "verified": true,
+        "char_start": 1706,
+        "char_end": 2260,
+        "bbox": [
+          66.23999999999995,
+          502.0469999999999,
+          290.91234,
+          641.2829999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

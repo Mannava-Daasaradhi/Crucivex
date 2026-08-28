@@ -1,0 +1,503 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.125 - Insert the new intermediate or center bearing...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 125,
+        "quote": "Insert the new intermediate or center bearing into the camshaft bore and position it correctly. Install the center bearing first.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "intermediate",
+      "name": "Intermediate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "intermediate",
+      "provenance": {
+        "page": 125,
+        "quote": "Insert the new intermediate or center bearing into the camshaft bore and position it correctly. Install the center bearing first.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "center_bearing",
+      "name": "Center bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_bearing",
+      "provenance": {
+        "page": 125,
+        "quote": "Insert the new intermediate or center bearing into the camshaft bore and position it correctly. Install the center bearing first.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 125,
+        "quote": "Insert the new intermediate or center bearing into the camshaft bore and position it correctly. Install the center bearing first.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 125,
+        "quote": "Then. with the unthreaded end of shaft J 7593-1 started through the pilot, push the shaft through the entire length of the block bore.",
+        "verified": true,
+        "char_start": 2107,
+        "char_end": 2241,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 125,
+        "quote": "Then. with the unthreaded end of shaft J 7593-1 started through the pilot, push the shaft through the entire length of the block bore.",
+        "verified": true,
+        "char_start": 2107,
+        "char_end": 2241,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 125,
+        "quote": "Slide installer J 7593-6 on the shaft until the locating pin registers with the notch in the bearing. Then. slide installer J 7593-3 or J 7593-15 on the shaft with the large diameter inserted into the end of the block bore. Refer to C an...",
+        "verified": true,
+        "char_start": 2245,
+        "char_end": 2499,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locating_pin",
+      "name": "Locating pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locating_pin",
+      "provenance": {
+        "page": 125,
+        "quote": "Slide installer J 7593-6 on the shaft until the locating pin registers with the notch in the bearing. Then. slide installer J 7593-3 or J 7593-15 on the shaft with the large diameter inserted into the end of the block bore. Refer to C an...",
+        "verified": true,
+        "char_start": 2245,
+        "char_end": 2499,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "notch",
+      "name": "Notch",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "notch",
+      "provenance": {
+        "page": 125,
+        "quote": "Slide installer J 7593-6 on the shaft until the locating pin registers with the notch in the bearing. Then. slide installer J 7593-3 or J 7593-15 on the shaft with the large diameter inserted into the end of the block bore. Refer to C an...",
+        "verified": true,
+        "char_start": 2245,
+        "char_end": 2499,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "short",
+      "name": "Short",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "short",
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 125,
+        "quote": "Align the shaft in such a way that a \u201c\u0421\u201d washer. J 7593-4. can be inserted in \u0430 groove in the shaft adjacent to installer \u0408 7593-6.",
+        "verified": true,
+        "char_start": 2780,
+        "char_end": 2911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 125,
+        "quote": "Align the shaft in such a way that a \u201c\u0421\u201d washer. J 7593-4. can be inserted in \u0430 groove in the shaft adjacent to installer \u0408 7593-6.",
+        "verified": true,
+        "char_start": 2780,
+        "char_end": 2911,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Insert the new intermediate or center bearing into the camshaft bore and position it correctly. Install the center bearing first.",
+      "source_number": 2,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "intermediate",
+        "center_bearing",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 125,
+        "quote": "Insert the new intermediate or center bearing into the camshaft bore and position it correctly. Install the center bearing first.",
+        "verified": true,
+        "char_start": 1974,
+        "char_end": 2103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Then. with the unthreaded end of shaft J 7593-1 started through the pilot, push the shaft through the entire length of the block bore.",
+      "source_number": 3,
+      "installs": [
+        "end_of_the_shaft",
+        "needle_bearing_pilot"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 125,
+        "quote": "Then. with the unthreaded end of shaft J 7593-1 started through the pilot, push the shaft through the entire length of the block bore.",
+        "verified": true,
+        "char_start": 2107,
+        "char_end": 2241,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Slide installer J 7593-6 on the shaft until the locating pin registers with the notch in the bearing. Then. slide installer J 7593-3 or J 7593-15 on the shaft with the large diameter inserted into the end of the block bore. Refer to C and note of Fig. 7.",
+      "source_number": 4,
+      "installs": [
+        "oil_seal_installer",
+        "locating_pin",
+        "notch"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 125,
+        "quote": "Slide installer J 7593-6 on the shaft until the locating pin registers with the notch in the bearing. Then. slide installer J 7593-3 or J 7593-15 on the shaft with the large diameter inserted into the end of the block bore. Refer to C an...",
+        "verified": true,
+        "char_start": 2245,
+        "char_end": 2499,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-10 is used on the two cylinder block.",
+      "source_number": 5,
+      "installs": [
+        "next",
+        "drive_gear_spacer",
+        "of_the_required",
+        "crankshaft_thrust_washer",
+        "plain_washer",
+        "front_balance_weight_nut",
+        "short",
+        "nut_securing_fig",
+        "tbe_lubricating_oil_line",
+        "of_the_block"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 125,
+        "quote": "Next, place a spacer (if required). thrust washer. plain washer and hex nut over the threaded end of the puller. The short spacer J 7593-11. shown in Fig. 4, is used on the three cylinder (In-Line) and 6V blocks. The long spacer J 7593-1...",
+        "verified": true,
+        "char_start": 2503,
+        "char_end": 2776,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Align the shaft in such a way that a \u201c\u0421\u201d washer. J 7593-4. can be inserted in \u0430 groove in the shaft adjacent to installer \u0408 7593-6.",
+      "source_number": 6,
+      "installs": [
+        "another_drive_flange_washer",
+        "of_the_groove"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 125,
+        "quote": "Align the shaft in such a way that a \u201c\u0421\u201d washer. J 7593-4. can be inserted in \u0430 groove in the shaft adjacent to installer \u0408 7593-6.",
+        "verified": true,
+        "char_start": 2780,
+        "char_end": 2911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Place a \"C\" washer in the groove near the end of the shaft and. using a suitable wrench on the hex nut, draw the bearing into place untl the \"C\" washer butts up against installer J 7593-3 and prevents the shaft from further movement.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 125,
+        "quote": "Place a \"C\" washer in the groove near the end of the shaft and. using a suitable wrench on the hex nut, draw the bearing into place untl the \"C\" washer butts up against installer J 7593-3 and prevents the shaft from further movement.",
+        "verified": true,
+        "char_start": 2915,
+        "char_end": 3148,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

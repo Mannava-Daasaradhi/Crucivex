@@ -1,0 +1,320 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.70 - Use new kerosene or diesel oil to...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 70,
+        "quote": "Use new kerosene or diesel oil to thoroughly clean the cylinder liners and bores.",
+        "verified": true,
+        "char_start": 382,
+        "char_end": 463,
+        "bbox": [
+          315.5999999999999,
+          360.32779999999997,
+          539.5397999999999,
+          382.3113333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_barrel",
+      "name": "Cylinder barrel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_barrel",
+      "provenance": {
+        "page": 70,
+        "quote": "Use new kerosene or diesel oil to thoroughly clean the cylinder liners and bores.",
+        "verified": true,
+        "char_start": 382,
+        "char_end": 463,
+        "bbox": [
+          315.5999999999999,
+          360.32779999999997,
+          539.5397999999999,
+          382.3113333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "replacement_valve_seat_insert",
+      "name": "Replacement valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "replacement_valve_seat_insert",
+      "provenance": {
+        "page": 70,
+        "quote": "Insert the cylinder liner @ into the cylinder body @ from the top of the cylinder body.",
+        "verified": true,
+        "char_start": 659,
+        "char_end": 746,
+        "bbox": [
+          316.31999999999994,
+          460.6399,
+          541.0707546666666,
+          482.36879999999996
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_body",
+      "name": "Cylinder body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_body",
+      "provenance": {
+        "page": 70,
+        "quote": "Insert the cylinder liner @ into the cylinder body @ from the top of the cylinder body.",
+        "verified": true,
+        "char_start": 659,
+        "char_end": 746,
+        "bbox": [
+          316.31999999999994,
+          460.6399,
+          541.0707546666666,
+          482.36879999999996
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Use new kerosene or diesel oil to thoroughly clean the cylinder liners and bores.",
+      "source_number": 1,
+      "installs": [
+        "cylinder_liner",
+        "cylinder_barrel"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 70,
+        "quote": "Use new kerosene or diesel oil to thoroughly clean the cylinder liners and bores.",
+        "verified": true,
+        "char_start": 382,
+        "char_end": 463,
+        "bbox": [
+          315.5999999999999,
+          360.32779999999997,
+          539.5397999999999,
+          382.3113333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Use compressed air to blow-dry the cylinder liner and bore surfaces. Note: All foreign material must be carefully removed from the cylinder liner and the cylinder bore before installation.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note: All foreign material must be carefully removed from the cylinder liner and the cylinder bore before installation.",
+      "provenance": {
+        "page": 70,
+        "quote": "Use compressed air to blow-dry the cylinder liner and bore surfaces. Note: All foreign material must be carefully removed from the cylinder liner and the cylinder bore before installation.",
+        "verified": true,
+        "char_start": 467,
+        "char_end": 655,
+        "bbox": [
+          276.72,
+          388.76,
+          541.3614930000001,
+          454.51180000000005
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Insert the cylinder liner @ into the cylinder body @ from the top of the cylinder body.",
+      "source_number": 3,
+      "installs": [
+        "replacement_valve_seat_insert",
+        "cylinder_body"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 70,
+        "quote": "Insert the cylinder liner @ into the cylinder body @ from the top of the cylinder body.",
+        "verified": true,
+        "char_start": 659,
+        "char_end": 746,
+        "bbox": [
+          316.31999999999994,
+          460.6399,
+          541.0707546666666,
+          482.36879999999996
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Set the cylinder liner installer @ to the top of the cylinder liner. Cylinder Liner Installer : 9-8523-2551-0 Position the cylinder body so that the installer center @) is directly beneath the bench press shaft center @. Note: Check that the cylinder liner is set perpendicular to the bench press and that there is no wobble.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note: Check that the cylinder liner is set perpendicular to the bench press and that there is no wobble.",
+      "provenance": {
+        "page": 70,
+        "quote": "Set the cylinder liner installer @ to the top of the cylinder liner. Cylinder Liner Installer : 9-8523-2551-0 Position the cylinder body so that the installer center @) is directly beneath the bench press shaft center @. Note: Check that...",
+        "verified": true,
+        "char_start": 750,
+        "char_end": 1075,
+        "bbox": [
+          277.92,
+          488.71990000000005,
+          542.641284,
+          610.5598
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Use the bench press to apply a seating force of 500 kg (1,102.5 Ib/4,900 N) to the cylinder liner.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 70,
+        "quote": "Use the bench press to apply a seating force of 500 kg (1,102.5 Ib/4,900 N) to the cylinder liner.",
+        "verified": true,
+        "char_start": 1079,
+        "char_end": 1177,
+        "bbox": [
+          317.76,
+          616.5139,
+          544.4526460000001,
+          637.9820333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Apply a force of 2,500 kg (5,512.5 Ib/24,500 N) to fully seat the cylinder liner.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 70,
+        "quote": "Apply a force of 2,500 kg (5,512.5 Ib/24,500 N) to fully seat the cylinder liner.",
+        "verified": true,
+        "char_start": 1181,
+        "char_end": 1262,
+        "bbox": [
+          317.52,
+          644.5939000000001,
+          543.9216960000001,
+          666.2338
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "After installing the cylinder liner, measure the cylinder liner projection. Refer to \u201cCylinder Liner Projection Inspection\u201d.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 70,
+        "quote": "After installing the cylinder liner, measure the cylinder liner projection. Refer to \u201cCylinder Liner Projection Inspection\u201d.",
+        "verified": true,
+        "char_start": 1266,
+        "char_end": 1390,
+        "bbox": [
+          318.0,
+          672.2008000000001,
+          543.445656,
+          710.0940333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

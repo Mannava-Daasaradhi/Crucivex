@@ -1,0 +1,520 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.46 - Install a serrated lower spring seat on...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 46,
+        "quote": "Install a serrated lower spring seat on each push rod. If the engine being assembled was equipped with plain lower spring seats, replace them with serrated spring seats (Fig. 8).",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 2515,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod",
+      "name": "Push rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod",
+      "provenance": {
+        "page": 46,
+        "quote": "Install a serrated lower spring seat on each push rod. If the engine being assembled was equipped with plain lower spring seats, replace them with serrated spring seats (Fig. 8).",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 2515,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 46,
+        "quote": "Install a serrated lower spring seat on each push rod. If the engine being assembled was equipped with plain lower spring seats, replace them with serrated spring seats (Fig. 8).",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 2515,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 46,
+        "quote": "Install a serrated lower spring seat on each push rod. If the engine being assembled was equipped with plain lower spring seats, replace them with serrated spring seats (Fig. 8).",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 2515,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 46,
+        "quote": "Install a serrated lower spring seat on each push rod. If the engine being assembled was equipped with plain lower spring seats, replace them with serrated spring seats (Fig. 8).",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 2515,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod_spring",
+      "name": "Push rod spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod_spring",
+      "provenance": {
+        "page": 46,
+        "quote": "Place the push rod springs (Fig. 11) on the push rods.",
+        "verified": true,
+        "char_start": 2519,
+        "char_end": 2573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 46,
+        "quote": "Install the proper upper spring seat on each push rod. The cup shaped spring seat used with the current type push rod spring may also be used with the former spring.",
+        "verified": true,
+        "char_start": 2577,
+        "char_end": 2742,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 46,
+        "quote": "Install the proper upper spring seat on each push rod. The cup shaped spring seat used with the current type push rod spring may also be used with the former spring.",
+        "verified": true,
+        "char_start": 2577,
+        "char_end": 2742,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_seat_retainer",
+      "name": "Spring seat retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_seat_retainer",
+      "provenance": {
+        "page": 46,
+        "quote": "Install the spring seat retainer in the cylinder head. Then slide the push rod, lower spring seat, spring and upper spring seat as an assembly into the cam follower bore from the bottom of the cylinder head.",
+        "verified": true,
+        "char_start": 2746,
+        "char_end": 2953,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 46,
+        "quote": "Install the spring seat retainer in the cylinder head. Then slide the push rod, lower spring seat, spring and upper spring seat as an assembly into the cam follower bore from the bottom of the cylinder head.",
+        "verified": true,
+        "char_start": 2746,
+        "char_end": 2953,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 46,
+        "quote": "Install the spring seat retainer in the cylinder head. Then slide the push rod, lower spring seat, spring and upper spring seat as an assembly into the cam follower bore from the bottom of the cylinder head.",
+        "verified": true,
+        "char_start": 2746,
+        "char_end": 2953,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 46,
+        "quote": "Screw the push rod lock nut down on the upper end of the push rod as far as possible. Then screw the push rod into the clevis until the end of the rod is flush with or above the inner side of the clevis.",
+        "verified": true,
+        "char_start": 2957,
+        "char_end": 3160,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod_lock",
+      "name": "Push rod lock",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod_lock",
+      "provenance": {
+        "page": 46,
+        "quote": "Screw the push rod lock nut down on the upper end of the push rod as far as possible. Then screw the push rod into the clevis until the end of the rod is flush with or above the inner side of the clevis.",
+        "verified": true,
+        "char_start": 2957,
+        "char_end": 3160,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 46,
+        "quote": "Screw the push rod lock nut down on the upper end of the push rod as far as possible. Then screw the push rod into the clevis until the end of the rod is flush with or above the inner side of the clevis.",
+        "verified": true,
+        "char_start": 2957,
+        "char_end": 3160,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 46,
+        "quote": "Screw the push rod lock nut down on the upper end of the push rod as far as possible. Then screw the push rod into the clevis until the end of the rod is flush with or above the inner side of the clevis.",
+        "verified": true,
+        "char_start": 2957,
+        "char_end": 3160,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 46,
+        "quote": "Immerse the cam follower assemblies in clean Cindol 1705 (heated to 100 7-125 \u00b0F.) for at least one hour before placing them in the cylinder head, to ensure initial lubrication between the cam follower roller pins and the roller bushings...",
+        "verified": true,
+        "char_start": 3164,
+        "char_end": 3834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 46,
+        "quote": "Immerse the cam follower assemblies in clean Cindol 1705 (heated to 100 7-125 \u00b0F.) for at least one hour before placing them in the cylinder head, to ensure initial lubrication between the cam follower roller pins and the roller bushings...",
+        "verified": true,
+        "char_start": 3164,
+        "char_end": 3834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_roller",
+      "name": "Cam follower roller",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_roller",
+      "provenance": {
+        "page": 46,
+        "quote": "Immerse the cam follower assemblies in clean Cindol 1705 (heated to 100 7-125 \u00b0F.) for at least one hour before placing them in the cylinder head, to ensure initial lubrication between the cam follower roller pins and the roller bushings...",
+        "verified": true,
+        "char_start": 3164,
+        "char_end": 3834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 46,
+        "quote": "Immerse the cam follower assemblies in clean Cindol 1705 (heated to 100 7-125 \u00b0F.) for at least one hour before placing them in the cylinder head, to ensure initial lubrication between the cam follower roller pins and the roller bushings...",
+        "verified": true,
+        "char_start": 3164,
+        "char_end": 3834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 46,
+        "quote": "Immerse the cam follower assemblies in clean Cindol 1705 (heated to 100 7-125 \u00b0F.) for at least one hour before placing them in the cylinder head, to ensure initial lubrication between the cam follower roller pins and the roller bushings...",
+        "verified": true,
+        "char_start": 3164,
+        "char_end": 3834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 46,
+        "quote": "Immerse the cam follower assemblies in clean Cindol 1705 (heated to 100 7-125 \u00b0F.) for at least one hour before placing them in the cylinder head, to ensure initial lubrication between the cam follower roller pins and the roller bushings...",
+        "verified": true,
+        "char_start": 3164,
+        "char_end": 3834,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "more",
+      "name": "More",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "more",
+      "provenance": {
+        "page": 46,
+        "quote": "Immerse the cam follower assemblies in clean Cindol 1705 (heated to 100 7-125 \u00b0F.) for at least one hour before placing them in the cylinder head, to ensure initial lubrication between the cam follower roller pins and the roller bushings...",
+        "verified": true,
+        "char_start": 3164,
+        "char_end": 3834,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install a serrated lower spring seat on each push rod. If the engine being assembled was equipped with plain lower spring seats, replace them with serrated spring seats (Fig. 8).",
+      "source_number": 1,
+      "installs": [
+        "insert_remover_valve_seat",
+        "push_rod",
+        "drive_spring_seat",
+        "end_of_the_spring",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Install a serrated lower spring seat on each push rod. If the engine being assembled was equipped with plain lower spring seats, replace them with serrated spring seats (Fig. 8).",
+        "verified": true,
+        "char_start": 2337,
+        "char_end": 2515,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the push rod springs (Fig. 11) on the push rods.",
+      "source_number": 2,
+      "installs": [
+        "push_rod_spring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Place the push rod springs (Fig. 11) on the push rods.",
+        "verified": true,
+        "char_start": 2519,
+        "char_end": 2573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the proper upper spring seat on each push rod. The cup shaped spring seat used with the current type push rod spring may also be used with the former spring.",
+      "source_number": 3,
+      "installs": [
+        "engine_front_cover_current",
+        "of_the_former"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Install the proper upper spring seat on each push rod. The cup shaped spring seat used with the current type push rod spring may also be used with the former spring.",
+        "verified": true,
+        "char_start": 2577,
+        "char_end": 2742,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the spring seat retainer in the cylinder head. Then slide the push rod, lower spring seat, spring and upper spring seat as an assembly into the cam follower bore from the bottom of the cylinder head.",
+      "source_number": 4,
+      "installs": [
+        "spring_seat_retainer",
+        "cylinder_head",
+        "hammer_spring_scale_upper"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Install the spring seat retainer in the cylinder head. Then slide the push rod, lower spring seat, spring and upper spring seat as an assembly into the cam follower bore from the bottom of the cylinder head.",
+        "verified": true,
+        "char_start": 2746,
+        "char_end": 2953,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Screw the push rod lock nut down on the upper end of the push rod as far as possible. Then screw the push rod into the clevis until the end of the rod is flush with or above the inner side of the clevis.",
+      "source_number": 5,
+      "installs": [
+        "of_the_buffer_screw",
+        "push_rod_lock",
+        "front_balance_weight_nut",
+        "bearing_pilot_rod"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Screw the push rod lock nut down on the upper end of the push rod as far as possible. Then screw the push rod into the clevis until the end of the rod is flush with or above the inner side of the clevis.",
+        "verified": true,
+        "char_start": 2957,
+        "char_end": 3160,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Immerse the cam follower assemblies in clean Cindol 1705 (heated to 100 7-125 \u00b0F.) for at least one hour before placing them in the cylinder head, to ensure initial lubrication between the cam follower roller pins and the roller bushings. Rotate the cam follower roller during the soaking period to aid in purging any air from the bushing-roller area. The heated Cindol 1705 results in better penetration as it is less viscous than engine oil and flows more easily between the pin and roller bushing surfaces. After the cam follower is removed from the Cindol 1705, the cooling action of any trapped air in the pin and bushing area tends to pull the oil into the cavity.",
+      "source_number": 6,
+      "installs": [
+        "cam_follower",
+        "valve_rocker_cover_clean",
+        "cam_follower_roller",
+        "copper_plated_dowel_pin",
+        "connecting_rod_bushing",
+        "t_push_rod_cam",
+        "more"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 46,
+        "quote": "Immerse the cam follower assemblies in clean Cindol 1705 (heated to 100 7-125 \u00b0F.) for at least one hour before placing them in the cylinder head, to ensure initial lubrication between the cam follower roller pins and the roller bushings...",
+        "verified": true,
+        "char_start": 3164,
+        "char_end": 3834,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

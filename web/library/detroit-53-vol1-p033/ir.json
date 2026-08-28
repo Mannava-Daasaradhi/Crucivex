@@ -1,0 +1,407 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.67 - Remove the engine front cover, outboard bearing...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover",
+      "name": "Engine front cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover",
+      "provenance": {
+        "page": 67,
+        "quote": "Remove the engine front cover, outboard bearing or the flywheel housing and remove the oil seals as follows:",
+        "verified": true,
+        "char_start": 813,
+        "char_end": 921,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 67,
+        "quote": "Remove the engine front cover, outboard bearing or the flywheel housing and remove the oil seals as follows:",
+        "verified": true,
+        "char_start": 813,
+        "char_end": 921,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 67,
+        "quote": "Remove the engine front cover, outboard bearing or the flywheel housing and remove the oil seals as follows:",
+        "verified": true,
+        "char_start": 813,
+        "char_end": 921,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 67,
+        "quote": "Remove the engine front cover, outboard bearing or the flywheel housing and remove the oil seals as follows:",
+        "verified": true,
+        "char_start": 813,
+        "char_end": 921,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 67,
+        "quote": "Support the forward face of the front cover, or the outboard bearing support. on two wood blocks next to the oil seal bore. Then press or drive the oil seal out of the front cover or the outboard bearing support. Discard the oil seal.",
+        "verified": true,
+        "char_start": 925,
+        "char_end": 1159,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "outboard_bearing_support",
+      "name": "Outboard bearing support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outboard_bearing_support",
+      "provenance": {
+        "page": 67,
+        "quote": "Support the forward face of the front cover, or the outboard bearing support. on two wood blocks next to the oil seal bore. Then press or drive the oil seal out of the front cover or the outboard bearing support. Discard the oil seal.",
+        "verified": true,
+        "char_start": 925,
+        "char_end": 1159,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "wood_block",
+      "name": "Wood block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wood_block",
+      "provenance": {
+        "page": 67,
+        "quote": "Support the forward face of the front cover, or the outboard bearing support. on two wood blocks next to the oil seal bore. Then press or drive the oil seal out of the front cover or the outboard bearing support. Discard the oil seal.",
+        "verified": true,
+        "char_start": 925,
+        "char_end": 1159,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 67,
+        "quote": "Support the forward face of the front cover, or the outboard bearing support. on two wood blocks next to the oil seal bore. Then press or drive the oil seal out of the front cover or the outboard bearing support. Discard the oil seal.",
+        "verified": true,
+        "char_start": 925,
+        "char_end": 1159,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 67,
+        "quote": "Support the forward face of the front cover, or the outboard bearing support. on two wood blocks next to the oil seal bore. Then press or drive the oil seal out of the front cover or the outboard bearing support. Discard the oil seal.",
+        "verified": true,
+        "char_start": 925,
+        "char_end": 1159,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 67,
+        "quote": "Support the forward face of the flywheel housing on In-line or 6V engines and the rear face of the flywheel housing on 8V engines on two wood blocks next to the \u041e\u0418 SEAL Fig. 1 - Crankshaft Front Oil Seal",
+        "verified": true,
+        "char_start": 1163,
+        "char_end": 1366,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 67,
+        "quote": "Support the forward face of the flywheel housing on In-line or 6V engines and the rear face of the flywheel housing on 8V engines on two wood blocks next to the \u041e\u0418 SEAL Fig. 1 - Crankshaft Front Oil Seal",
+        "verified": true,
+        "char_start": 1163,
+        "char_end": 1366,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 67,
+        "quote": "Clean the oil seal bore in the front cover, outboard bearing support or flywheel housing thoroughly before installing a new oil seal. When necessary, the crankshaft oil seals may be removed without removing the front cover, outboard bear...",
+        "verified": true,
+        "char_start": 1470,
+        "char_end": 1958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_oil_seal",
+      "name": "Crankshaft oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_oil_seal",
+      "provenance": {
+        "page": 67,
+        "quote": "Clean the oil seal bore in the front cover, outboard bearing support or flywheel housing thoroughly before installing a new oil seal. When necessary, the crankshaft oil seals may be removed without removing the front cover, outboard bear...",
+        "verified": true,
+        "char_start": 1470,
+        "char_end": 1958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 67,
+        "quote": "Clean the oil seal bore in the front cover, outboard bearing support or flywheel housing thoroughly before installing a new oil seal. When necessary, the crankshaft oil seals may be removed without removing the front cover, outboard bear...",
+        "verified": true,
+        "char_start": 1470,
+        "char_end": 1958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 67,
+        "quote": "Clean the oil seal bore in the front cover, outboard bearing support or flywheel housing thoroughly before installing a new oil seal. When necessary, the crankshaft oil seals may be removed without removing the front cover, outboard bear...",
+        "verified": true,
+        "char_start": 1470,
+        "char_end": 1958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 67,
+        "quote": "Clean the oil seal bore in the front cover, outboard bearing support or flywheel housing thoroughly before installing a new oil seal. When necessary, the crankshaft oil seals may be removed without removing the front cover, outboard bear...",
+        "verified": true,
+        "char_start": 1470,
+        "char_end": 1958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 67,
+        "quote": "Clean the oil seal bore in the front cover, outboard bearing support or flywheel housing thoroughly before installing a new oil seal. When necessary, the crankshaft oil seals may be removed without removing the front cover, outboard bear...",
+        "verified": true,
+        "char_start": 1470,
+        "char_end": 1958,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pry",
+      "name": "Pry",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pry",
+      "provenance": {
+        "page": 67,
+        "quote": "Clean the oil seal bore in the front cover, outboard bearing support or flywheel housing thoroughly before installing a new oil seal. When necessary, the crankshaft oil seals may be removed without removing the front cover, outboard bear...",
+        "verified": true,
+        "char_start": 1470,
+        "char_end": 1958,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the engine front cover, outboard bearing or the flywheel housing and remove the oil seals as follows:",
+      "source_number": 1,
+      "installs": [
+        "engine_front_cover",
+        "bearing_the_end_bearing",
+        "of_the_flywheel_housing",
+        "crankshaft_front_oil_seal"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 67,
+        "quote": "Remove the engine front cover, outboard bearing or the flywheel housing and remove the oil seals as follows:",
+        "verified": true,
+        "char_start": 813,
+        "char_end": 921,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Support the forward face of the front cover, or the outboard bearing support. on two wood blocks next to the oil seal bore. Then press or drive the oil seal out of the front cover or the outboard bearing support. Discard the oil seal.",
+      "source_number": 2,
+      "installs": [
+        "blower_drive_support",
+        "outboard_bearing_support",
+        "wood_block",
+        "next",
+        "underside_of_the_cover"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 67,
+        "quote": "Support the forward face of the front cover, or the outboard bearing support. on two wood blocks next to the oil seal bore. Then press or drive the oil seal out of the front cover or the outboard bearing support. Discard the oil seal.",
+        "verified": true,
+        "char_start": 925,
+        "char_end": 1159,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Support the forward face of the flywheel housing on In-line or 6V engines and the rear face of the flywheel housing on 8V engines on two wood blocks next to the \u041e\u0418 SEAL Fig. 1 - Crankshaft Front Oil Seal",
+      "source_number": 3,
+      "installs": [
+        "tbe_lubricating_oil_line",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 67,
+        "quote": "Support the forward face of the flywheel housing on In-line or 6V engines and the rear face of the flywheel housing on 8V engines on two wood blocks next to the \u041e\u0418 SEAL Fig. 1 - Crankshaft Front Oil Seal",
+        "verified": true,
+        "char_start": 1163,
+        "char_end": 1366,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Clean the oil seal bore in the front cover, outboard bearing support or flywheel housing thoroughly before installing a new oil seal. When necessary, the crankshaft oil seals may be removed without removing the front cover, outboard bearing support or flywheel housing. This may be done by driling diametrically opposite holes in the seal casing and threading metal screws, backed by flat washers, into the casing. Then the seal may be removed by prying against the washers with pry bars.",
+      "source_number": 4,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "crankshaft_oil_seal",
+        "hammer_puller_set_flywheel",
+        "of_the_oil_hole",
+        "of_the_buffer_screw",
+        "flat_washer",
+        "pry"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 67,
+        "quote": "Clean the oil seal bore in the front cover, outboard bearing support or flywheel housing thoroughly before installing a new oil seal. When necessary, the crankshaft oil seals may be removed without removing the front cover, outboard bear...",
+        "verified": true,
+        "char_start": 1470,
+        "char_end": 1958,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

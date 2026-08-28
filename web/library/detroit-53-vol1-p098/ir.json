@@ -1,0 +1,1342 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.197 - Follower Spring: Examine the outside diameter of...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "follower_spring",
+      "name": "Follower spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_spring",
+      "provenance": {
+        "page": 197,
+        "quote": "Follower Spring: Examine the outside diameter of the follower spring coils for wear caused by the rocker arms contacting the coils. If worn, do not reuse. Also, inspect for damage from rust pitting, nicks or notches in the coils, broken ...",
+        "verified": true,
+        "char_start": 1301,
+        "char_end": 2198,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 197,
+        "quote": "Follower Spring: Examine the outside diameter of the follower spring coils for wear caused by the rocker arms contacting the coils. If worn, do not reuse. Also, inspect for damage from rust pitting, nicks or notches in the coils, broken ...",
+        "verified": true,
+        "char_start": 1301,
+        "char_end": 2198,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 197,
+        "quote": "Follower Spring: Examine the outside diameter of the follower spring coils for wear caused by the rocker arms contacting the coils. If worn, do not reuse. Also, inspect for damage from rust pitting, nicks or notches in the coils, broken ...",
+        "verified": true,
+        "char_start": 1301,
+        "char_end": 2198,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 197,
+        "quote": "Follower Spring: Examine the outside diameter of the follower spring coils for wear caused by the rocker arms contacting the coils. If worn, do not reuse. Also, inspect for damage from rust pitting, nicks or notches in the coils, broken ...",
+        "verified": true,
+        "char_start": 1301,
+        "char_end": 2198,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "worn",
+      "name": "Worn",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn",
+      "provenance": {
+        "page": 197,
+        "quote": "Follower Spring: Examine the outside diameter of the follower spring coils for wear caused by the rocker arms contacting the coils. If worn, do not reuse. Also, inspect for damage from rust pitting, nicks or notches in the coils, broken ...",
+        "verified": true,
+        "char_start": 1301,
+        "char_end": 2198,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_body",
+      "name": "Injector body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_body",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "filter_cap_gasket",
+      "name": "Filter cap gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter_cap_gasket",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_rack",
+      "name": "Injector control rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_rack",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_filter_cap",
+      "name": "Injector filter cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_filter_cap",
+      "provenance": {
+        "page": 197,
+        "quote": "Filter Cap: Check the condition of the jumper line sealing surfaces on the filter caps, the copper gasket sealing surfaces, the threads and the fuel passage.",
+        "verified": true,
+        "char_start": 2427,
+        "char_end": 2584,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 197,
+        "quote": "Filter Cap: Check the condition of the jumper line sealing surfaces on the filter caps, the copper gasket sealing surfaces, the threads and the fuel passage.",
+        "verified": true,
+        "char_start": 2427,
+        "char_end": 2584,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "filter",
+      "name": "Filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter",
+      "provenance": {
+        "page": 197,
+        "quote": "Filter Cap: Check the condition of the jumper line sealing surfaces on the filter caps, the copper gasket sealing surfaces, the threads and the fuel passage.",
+        "verified": true,
+        "char_start": 2427,
+        "char_end": 2584,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 197,
+        "quote": "Filter Cap: Check the condition of the jumper line sealing surfaces on the filter caps, the copper gasket sealing surfaces, the threads and the fuel passage.",
+        "verified": true,
+        "char_start": 2427,
+        "char_end": 2584,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 197,
+        "quote": "Filter Cap: Check the condition of the jumper line sealing surfaces on the filter caps, the copper gasket sealing surfaces, the threads and the fuel passage.",
+        "verified": true,
+        "char_start": 2427,
+        "char_end": 2584,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "varnish",
+      "name": "Varnish",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "varnish",
+      "provenance": {
+        "page": 198,
+        "quote": "Bushing: Check the bushing lapped sealing surface for scratches, the bushing internal diameter for scoring, the condition of the dowell pin and check for corrosion or varnish (Fig. 20).",
+        "verified": true,
+        "char_start": 63,
+        "char_end": 248,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 198,
+        "quote": "Bushing: Check the bushing lapped sealing surface for scratches, the bushing internal diameter for scoring, the condition of the dowell pin and check for corrosion or varnish (Fig. 20).",
+        "verified": true,
+        "char_start": 63,
+        "char_end": 248,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 198,
+        "quote": "Plunger: Check the plunger for corrosion or varnish, scoring, scratching or wear and chips along the edge oft he helix (Fig. 21).",
+        "verified": true,
+        "char_start": 252,
+        "char_end": 381,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "helix",
+      "name": "Helix",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "helix",
+      "provenance": {
+        "page": 198,
+        "quote": "Plunger: Check the plunger for corrosion or varnish, scoring, scratching or wear and chips along the edge oft he helix (Fig. 21).",
+        "verified": true,
+        "char_start": 252,
+        "char_end": 381,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "check_valve",
+      "name": "Check valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "check_valve",
+      "provenance": {
+        "page": 198,
+        "quote": "Check Valve: Inspect the check valve for cracks and scratches on the lapped surfaces or for corrosion and varnish. Advanced stage of Chipped at The above condition erosion caused by lower helix. can be caused by foreign matter in either ...",
+        "verified": true,
+        "char_start": 385,
+        "char_end": 737,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 198,
+        "quote": "Check Valve: Inspect the check valve for cracks and scratches on the lapped surfaces or for corrosion and varnish. Advanced stage of Chipped at The above condition erosion caused by lower helix. can be caused by foreign matter in either ...",
+        "verified": true,
+        "char_start": 385,
+        "char_end": 737,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "chipped",
+      "name": "Chipped",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "chipped",
+      "provenance": {
+        "page": 198,
+        "quote": "Check Valve: Inspect the check valve for cracks and scratches on the lapped surfaces or for corrosion and varnish. Advanced stage of Chipped at The above condition erosion caused by lower helix. can be caused by foreign matter in either ...",
+        "verified": true,
+        "char_start": 385,
+        "char_end": 737,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head_due",
+      "name": "Cylinder head due",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_due",
+      "provenance": {
+        "page": 198,
+        "quote": "Check Valve: Inspect the check valve for cracks and scratches on the lapped surfaces or for corrosion and varnish. Advanced stage of Chipped at The above condition erosion caused by lower helix. can be caused by foreign matter in either ...",
+        "verified": true,
+        "char_start": 385,
+        "char_end": 737,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 198,
+        "quote": "Check Valve: Inspect the check valve for cracks and scratches on the lapped surfaces or for corrosion and varnish. Advanced stage of Chipped at The above condition erosion caused by lower helix. can be caused by foreign matter in either ...",
+        "verified": true,
+        "char_start": 385,
+        "char_end": 737,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "check_valve_cage",
+      "name": "Check valve cage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "check_valve_cage",
+      "provenance": {
+        "page": 198,
+        "quote": "Check Valve Cage: Inspect the check valve cage for cracks and scratches on the lapped surfaces or for corrosion, varnish and wear.",
+        "verified": true,
+        "char_start": 742,
+        "char_end": 872,
+        "bbox": [
+          343.68000000000006,
+          75.72899999999993,
+          565.5203700000002,
+          122.649
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_valve",
+      "name": "Injector valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_valve",
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nick",
+      "name": "Nick",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nick",
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "standard",
+      "name": "Standard",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "standard",
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drill",
+      "name": "Drill",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drill",
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_cage",
+      "name": "Spring cage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_cage",
+      "provenance": {
+        "page": 198,
+        "quote": "Spring Cage: Inspect for cracks, corrosion or varnish and scratches on the lapped sealing surfaces. Also, inspect the spring seat surface and the needle valve seating surface for wear.",
+        "verified": true,
+        "char_start": 1949,
+        "char_end": 2133,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_valve",
+      "name": "Needle valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_valve",
+      "provenance": {
+        "page": 198,
+        "quote": "Spring Cage: Inspect for cracks, corrosion or varnish and scratches on the lapped sealing surfaces. Also, inspect the spring seat surface and the needle valve seating surface for wear.",
+        "verified": true,
+        "char_start": 1949,
+        "char_end": 2133,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 198,
+        "quote": "Spray Tip: Check for cracks, enlarged spray holes, corrosion on the outside diameter taper and oxide scale on the spray hole end. Then, check the nut-to-tip sealing surface and the lapped sealing surface for scratches. Do not reuse if th...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2420,
+        "bbox": [
+          343.92,
+          498.12899999999996,
+          566.15895,
+          567.3689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 198,
+        "quote": "Spray Tip: Check for cracks, enlarged spray holes, corrosion on the outside diameter taper and oxide scale on the spray hole end. Then, check the nut-to-tip sealing surface and the lapped sealing surface for scratches. Do not reuse if th...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2420,
+        "bbox": [
+          343.92,
+          498.12899999999996,
+          566.15895,
+          567.3689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 198,
+        "quote": "Needle Valve: Check the spray tip needle valve for erosion at the seat shoulder, scratches and overheating (discolored). 16. Nut: Check the nut for damaged threads, the condition of the seal ring seating area, the condition of spray tip ...",
+        "verified": true,
+        "char_start": 2425,
+        "char_end": 2729,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_seal",
+      "name": "Of the seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_seal",
+      "provenance": {
+        "page": 198,
+        "quote": "Needle Valve: Check the spray tip needle valve for erosion at the seat shoulder, scratches and overheating (discolored). 16. Nut: Check the nut for damaged threads, the condition of the seal ring seating area, the condition of spray tip ...",
+        "verified": true,
+        "char_start": 2425,
+        "char_end": 2729,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 198,
+        "quote": "Needle Valve: Check the spray tip needle valve for erosion at the seat shoulder, scratches and overheating (discolored). 16. Nut: Check the nut for damaged threads, the condition of the seal ring seating area, the condition of spray tip ...",
+        "verified": true,
+        "char_start": 2425,
+        "char_end": 2729,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "corroded",
+      "name": "Corroded",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "corroded",
+      "provenance": {
+        "page": 198,
+        "quote": "Needle Valve: Check the spray tip needle valve for erosion at the seat shoulder, scratches and overheating (discolored). 16. Nut: Check the nut for damaged threads, the condition of the seal ring seating area, the condition of spray tip ...",
+        "verified": true,
+        "char_start": 2425,
+        "char_end": 2729,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spill_deflector",
+      "name": "Spill deflector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spill_deflector",
+      "provenance": {
+        "page": 198,
+        "quote": "Spill Deflector: Inspect both ends of the spill deflector for sharp edges or burrs.",
+        "verified": true,
+        "char_start": 2734,
+        "char_end": 2817,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "burr",
+      "name": "Burr",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "burr",
+      "provenance": {
+        "page": 198,
+        "quote": "Spill Deflector: Inspect both ends of the spill deflector for sharp edges or burrs.",
+        "verified": true,
+        "char_start": 2734,
+        "char_end": 2817,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 199,
+        "quote": "Needle Valve Lift: Measure the needle valve lift, using tool J 9462-02 (Fig. 22) as follows: a. Zero the indicator by placing the bottom surface of the plunger assembly on a flat surface and zero the indicator dial. b. Place the spray ti...",
+        "verified": true,
+        "char_start": 238,
+        "char_end": 959,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 199,
+        "quote": "Needle Valve Lift: Measure the needle valve lift, using tool J 9462-02 (Fig. 22) as follows: a. Zero the indicator by placing the bottom surface of the plunger assembly on a flat surface and zero the indicator dial. b. Place the spray ti...",
+        "verified": true,
+        "char_start": 238,
+        "char_end": 959,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "foreign_material",
+      "name": "Foreign material",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "foreign_material",
+      "provenance": {
+        "page": 199,
+        "quote": "Needle Valve Lift: Measure the needle valve lift, using tool J 9462-02 (Fig. 22) as follows: a. Zero the indicator by placing the bottom surface of the plunger assembly on a flat surface and zero the indicator dial. b. Place the spray ti...",
+        "verified": true,
+        "char_start": 238,
+        "char_end": 959,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Follower Spring: Examine the outside diameter of the follower spring coils for wear caused by the rocker arms contacting the coils. If worn, do not reuse. Also, inspect for damage from rust pitting, nicks or notches in the coils, broken coils, broken coil ends and notches under the coil ends. If damaged, do not reuse. Check the follower spring tension with spring Tester J 29196. a The current injector follower spring (.142\" diameter wire) has a free length of approximately 1.504\u201d and should be replaced when a load of less than 70 Ibs. will compress it to 1.028\". The former spring wire was .120\" diameter. It is recommended that at the time of overhaul, all injectors in an engine be converted to incorporate the current spring (.142\" diameter wire). However, in the event that one or two injectors are changed, the remaining injectors need not be reworked to incorporate the current spring.",
+      "source_number": 2,
+      "installs": [
+        "follower_spring",
+        "cam_follower",
+        "end_of_the_spring",
+        "rocker_arm",
+        "worn"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "do not reuse. Also, inspect for damage from rust pitting, nicks or notches in the coils, broken coils, broken coil ends and notches under the coil ends.",
+      "provenance": {
+        "page": 197,
+        "quote": "Follower Spring: Examine the outside diameter of the follower spring coils for wear caused by the rocker arms contacting the coils. If worn, do not reuse. Also, inspect for damage from rust pitting, nicks or notches in the coils, broken ...",
+        "verified": true,
+        "char_start": 1301,
+        "char_end": 2198,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+      "source_number": 3,
+      "installs": [
+        "injector_body",
+        "end_of_the_injector",
+        "breather_body",
+        "bolt_thread",
+        "connecting_rod_bushing",
+        "filter_cap_gasket",
+        "injector_control_rack",
+        "of_the_oil_hole",
+        "seal_ring",
+        "breather_tube_clamp",
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 197,
+        "quote": "Injector Body: Inspect the injector body threads, the bushing seating surface and the filter cap gasket sealing surfaces for damage. Then, inspect the rack hole, body seal ring sealing surface, clamp radius and dowel pin.",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2423,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Filter Cap: Check the condition of the jumper line sealing surfaces on the filter caps, the copper gasket sealing surfaces, the threads and the fuel passage.",
+      "source_number": 4,
+      "installs": [
+        "injector_filter_cap",
+        "tbe_lubricating_oil_line",
+        "filter",
+        "clean_shipping_cap",
+        "head_gasket"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 197,
+        "quote": "Filter Cap: Check the condition of the jumper line sealing surfaces on the filter caps, the copper gasket sealing surfaces, the threads and the fuel passage.",
+        "verified": true,
+        "char_start": 2427,
+        "char_end": 2584,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Bushing: Check the bushing lapped sealing surface for scratches, the bushing internal diameter for scoring, the condition of the dowell pin and check for corrosion or varnish (Fig. 20).",
+      "source_number": 7,
+      "installs": [
+        "varnish",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 198,
+        "quote": "Bushing: Check the bushing lapped sealing surface for scratches, the bushing internal diameter for scoring, the condition of the dowell pin and check for corrosion or varnish (Fig. 20).",
+        "verified": true,
+        "char_start": 63,
+        "char_end": 248,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Plunger: Check the plunger for corrosion or varnish, scoring, scratching or wear and chips along the edge oft he helix (Fig. 21).",
+      "source_number": 8,
+      "installs": [
+        "area_of_the_plunger",
+        "helix"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 198,
+        "quote": "Plunger: Check the plunger for corrosion or varnish, scoring, scratching or wear and chips along the edge oft he helix (Fig. 21).",
+        "verified": true,
+        "char_start": 252,
+        "char_end": 381,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Check Valve: Inspect the check valve for cracks and scratches on the lapped surfaces or for corrosion and varnish. Advanced stage of Chipped at The above condition erosion caused by lower helix. can be caused by foreign matter in either lack of fuel fuel due to improper at high speeds or filtration. water in fuel. Fig. 21 \u2013 Unusable Injector Plungers",
+      "source_number": 9,
+      "installs": [
+        "check_valve",
+        "engine_front_cover_valve",
+        "chipped",
+        "cylinder_head_due",
+        "engine_speed"
+      ],
+      "depends_on": [
+        "s02",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 198,
+        "quote": "Check Valve: Inspect the check valve for cracks and scratches on the lapped surfaces or for corrosion and varnish. Advanced stage of Chipped at The above condition erosion caused by lower helix. can be caused by foreign matter in either ...",
+        "verified": true,
+        "char_start": 385,
+        "char_end": 737,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Check Valve Cage: Inspect the check valve cage for cracks and scratches on the lapped surfaces or for corrosion, varnish and wear.",
+      "source_number": 10,
+      "installs": [
+        "check_valve_cage"
+      ],
+      "depends_on": [
+        "s04",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 198,
+        "quote": "Check Valve Cage: Inspect the check valve cage for cracks and scratches on the lapped surfaces or for corrosion, varnish and wear.",
+        "verified": true,
+        "char_start": 742,
+        "char_end": 872,
+        "bbox": [
+          343.68000000000006,
+          75.72899999999993,
+          565.5203700000002,
+          122.649
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. NOTICE: A high V.O.P. (valve opening pressure) valve spring and seat are being used in certain high output engine injectors. The high V.O.P. spring is made of a thicker diameter wire than the standard valve spring and has a smaller inside diameter (.174\" I.D. vs .184\u201d LD.). A no. 15 (.180\") drill may be used to distinguish the two springs. The drill will fit into the standard spring, but not into the high V.O.P. spring. The high V.O.P. spring seat can be distinguished from the standard spring seat by its smaller diameter post and the groove on the end of this post. To ensure proper operation, the high V.O.P. spring and seat must be used together.",
+      "source_number": 11,
+      "installs": [
+        "exhaust_valve_spring",
+        "injector_valve",
+        "nick",
+        "clamping_pressure",
+        "insert_remover_valve_seat",
+        "lock_wire",
+        "standard",
+        "drill",
+        "drive_spring_seat",
+        "of_the_groove"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 198,
+        "quote": "Valve Spring: Check the injector valve spring for wear on the coil ends, broken coil ends and notches under the coil ends. Then, check for corrosion, nicks and cavitation erosion on the inside at approximately 1-1/2 coils from the end. N...",
+        "verified": true,
+        "char_start": 877,
+        "char_end": 1767,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Spring Seat: Check the surfaces for wear.",
+      "source_number": 12,
+      "installs": [],
+      "depends_on": [
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 198,
+        "quote": "Spring Seat: Check the surfaces for wear.",
+        "verified": true,
+        "char_start": 1903,
+        "char_end": 1944,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Spring Cage: Inspect for cracks, corrosion or varnish and scratches on the lapped sealing surfaces. Also, inspect the spring seat surface and the needle valve seating surface for wear.",
+      "source_number": 13,
+      "installs": [
+        "spring_cage",
+        "needle_valve"
+      ],
+      "depends_on": [
+        "s04",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 198,
+        "quote": "Spring Cage: Inspect for cracks, corrosion or varnish and scratches on the lapped sealing surfaces. Also, inspect the spring seat surface and the needle valve seating surface for wear.",
+        "verified": true,
+        "char_start": 1949,
+        "char_end": 2133,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Spray Tip: Check for cracks, enlarged spray holes, corrosion on the outside diameter taper and oxide scale on the spray hole end. Then, check the nut-to-tip sealing surface and the lapped sealing surface for scratches. Do not reuse if there is scale, cracks or enlarged spray holes.",
+      "source_number": 14,
+      "installs": [
+        "indicate_the_spray_tip",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not reuse if there is scale, cracks or enlarged spray holes.",
+      "provenance": {
+        "page": 198,
+        "quote": "Spray Tip: Check for cracks, enlarged spray holes, corrosion on the outside diameter taper and oxide scale on the spray hole end. Then, check the nut-to-tip sealing surface and the lapped sealing surface for scratches. Do not reuse if th...",
+        "verified": true,
+        "char_start": 2138,
+        "char_end": 2420,
+        "bbox": [
+          343.92,
+          498.12899999999996,
+          566.15895,
+          567.3689999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Needle Valve: Check the spray tip needle valve for erosion at the seat shoulder, scratches and overheating (discolored). 16. Nut: Check the nut for damaged threads, the condition of the seal ring seating area, the condition of spray tip seating area and the spray tip hole for being corroded irregularly.",
+      "source_number": 15,
+      "installs": [
+        "shoulder",
+        "of_the_seal",
+        "bottom_oil_ring",
+        "corroded"
+      ],
+      "depends_on": [
+        "s02",
+        "s06",
+        "s08",
+        "s10",
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 198,
+        "quote": "Needle Valve: Check the spray tip needle valve for erosion at the seat shoulder, scratches and overheating (discolored). 16. Nut: Check the nut for damaged threads, the condition of the seal ring seating area, the condition of spray tip ...",
+        "verified": true,
+        "char_start": 2425,
+        "char_end": 2729,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Spill Deflector: Inspect both ends of the spill deflector for sharp edges or burrs.",
+      "source_number": 17,
+      "installs": [
+        "spill_deflector",
+        "burr"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 198,
+        "quote": "Spill Deflector: Inspect both ends of the spill deflector for sharp edges or burrs.",
+        "verified": true,
+        "char_start": 2734,
+        "char_end": 2817,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Part Thickness: Check the minimum thickness of the parts (see Table 1).",
+      "source_number": 18,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 199,
+        "quote": "Part Thickness: Check the minimum thickness of the parts (see Table 1).",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 75,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Needle Valve Lift: Measure the needle valve lift, using tool J 9462-02 (Fig. 22) as follows: a. Zero the indicator by placing the bottom surface of the plunger assembly on a flat surface and zero the indicator dial. b. Place the spray tip and needle valve assembly tight against the bottom of the gage with the quill of the needle valve in the hole in the plunger. c. While holding the spray tip and needle valve assembly tight against the gage, read the needle valve lift on the indicator. The lift should be .008\" to .018\". If it exceeds .018\", the tip assembly must be replaced. If it is less than .008^, inspect for foreign material between the needle valve and the tip seat. Fig. 22 - Checking Needle Valve Lift with",
+      "source_number": 19,
+      "installs": [
+        "flat",
+        "locknut_finger_tight",
+        "foreign_material"
+      ],
+      "depends_on": [
+        "s02",
+        "s04",
+        "s05",
+        "s06",
+        "s08",
+        "s10",
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 199,
+        "quote": "Needle Valve Lift: Measure the needle valve lift, using tool J 9462-02 (Fig. 22) as follows: a. Zero the indicator by placing the bottom surface of the plunger assembly on a flat surface and zero the indicator dial. b. Place the spray ti...",
+        "verified": true,
+        "char_start": 238,
+        "char_end": 959,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "Classify Spray Tip: Match the plunger/bushing assembly with the proper spray tip using Flow Gage J 25600\u2014A (see Section 2.0).",
+      "source_number": 20,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s05",
+        "s11"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 199,
+        "quote": "Classify Spray Tip: Match the plunger/bushing assembly with the proper spray tip using Flow Gage J 25600\u2014A (see Section 2.0).",
+        "verified": true,
+        "char_start": 1260,
+        "char_end": 1385,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

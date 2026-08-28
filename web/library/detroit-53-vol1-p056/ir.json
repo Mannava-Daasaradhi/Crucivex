@@ -1,0 +1,578 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.105 - Clamp reaming fixture J 7608-4 in a...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 105,
+        "quote": "Clamp reaming fixture J 7608-4 in a vise.",
+        "verified": true,
+        "char_start": 96,
+        "char_end": 137,
+        "bbox": [
+          57.36,
+          269.02199999999993,
+          239.50424999999998,
+          278.02199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fixture",
+      "name": "Fixture",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fixture",
+      "provenance": {
+        "page": 105,
+        "quote": "Clamp reaming fixture J 7608-4 in a vise.",
+        "verified": true,
+        "char_start": 96,
+        "char_end": 137,
+        "bbox": [
+          57.36,
+          269.02199999999993,
+          239.50424999999998,
+          278.02199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 105,
+        "quote": "Slide sleeve J 7608-5 on the arbor of the fixture (V- type engine connecting rod).",
+        "verified": true,
+        "char_start": 141,
+        "char_end": 223,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 105,
+        "quote": "Slide sleeve J 7608-5 on the arbor of the fixture (V- type engine connecting rod).",
+        "verified": true,
+        "char_start": 141,
+        "char_end": 223,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 105,
+        "quote": "Place the crankshaft end of the connecting rod on the arbor of the fixture. Tighten the nuts on the 3/8\" - 24 bolts (In-line and V-type engines) to 40-45 Ib-ft torque. Tighten the nuts on the 5/16\" -24 bolts (early 6V engines) to 24-28 l...",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_connecting",
+      "name": "End of the connecting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_connecting",
+      "provenance": {
+        "page": 105,
+        "quote": "Place the crankshaft end of the connecting rod on the arbor of the fixture. Tighten the nuts on the 3/8\" - 24 bolts (In-line and V-type engines) to 40-45 Ib-ft torque. Tighten the nuts on the 5/16\" -24 bolts (early 6V engines) to 24-28 l...",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 105,
+        "quote": "Place the crankshaft end of the connecting rod on the arbor of the fixture. Tighten the nuts on the 3/8\" - 24 bolts (In-line and V-type engines) to 40-45 Ib-ft torque. Tighten the nuts on the 5/16\" -24 bolts (early 6V engines) to 24-28 l...",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 105,
+        "quote": "Place the crankshaft end of the connecting rod on the arbor of the fixture. Tighten the nuts on the 3/8\" - 24 bolts (In-line and V-type engines) to 40-45 Ib-ft torque. Tighten the nuts on the 5/16\" -24 bolts (early 6V engines) to 24-28 l...",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 105,
+        "quote": "Place the crankshaft end of the connecting rod on the arbor of the fixture. Tighten the nuts on the 3/8\" - 24 bolts (In-line and V-type engines) to 40-45 Ib-ft torque. Tighten the nuts on the 5/16\" -24 bolts (early 6V engines) to 24-28 l...",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 105,
+        "quote": "Place the crankshaft end of the connecting rod on the arbor of the fixture. Tighten the nuts on the 3/8\" - 24 bolts (In-line and V-type engines) to 40-45 Ib-ft torque. Tighten the nuts on the 5/16\" -24 bolts (early 6V engines) to 24-28 l...",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_guide_bushing",
+      "name": "Front guide bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_guide_bushing",
+      "provenance": {
+        "page": 105,
+        "quote": "Install the front guide bushing J 4971-6 in the fixture (pin end out). 5. [nstall spacer J 7608-3 in the fixture.",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 105,
+        "quote": "Install the front guide bushing J 4971-6 in the fixture (pin end out). 5. [nstall spacer J 7608-3 in the fixture.",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 105,
+        "quote": "Align the upper end of the connecung rod with the hole in the reaming fixture.",
+        "verified": true,
+        "char_start": 597,
+        "char_end": 675,
+        "bbox": [
+          48.0,
+          440.48299999999995,
+          289.2708,
+          461.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rear_guide_bushing",
+      "name": "Rear guide bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rear_guide_bushing",
+      "provenance": {
+        "page": 105,
+        "quote": "Install the rear guide bushing J 1686-5 on the reamer J 7608-21; then, slide the reamer and bushing into the fixture.",
+        "verified": true,
+        "char_start": 679,
+        "char_end": 796,
+        "bbox": [
+          48.23999999999995,
+          472.40399999999994,
+          289.2003,
+          504.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "shoulder_of_the_reamer",
+      "name": "Shoulder of the reamer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder_of_the_reamer",
+      "provenance": {
+        "page": 105,
+        "quote": "Install the rear guide bushing J 1686-5 on the reamer J 7608-21; then, slide the reamer and bushing into the fixture.",
+        "verified": true,
+        "char_start": 679,
+        "char_end": 796,
+        "bbox": [
+          48.23999999999995,
+          472.40399999999994,
+          289.2003,
+          504.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 105,
+        "quote": "Install the rear guide bushing J 1686-5 on the reamer J 7608-21; then, slide the reamer and bushing into the fixture.",
+        "verified": true,
+        "char_start": 679,
+        "char_end": 796,
+        "bbox": [
+          48.23999999999995,
+          472.40399999999994,
+          289.2003,
+          504.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 105,
+        "quote": "Turn the reamer in a clockwise direction only, when reaming or withdrawing the reamer. For best results, use only moderate pressure on the reamer.",
+        "verified": true,
+        "char_start": 800,
+        "char_end": 946,
+        "bbox": [
+          48.240000000000066,
+          517.3609999999999,
+          288.9296000000001,
+          547.221
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clamp reaming fixture J 7608-4 in a vise.",
+      "source_number": 1,
+      "installs": [
+        "breather_tube_clamp",
+        "fixture"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Clamp reaming fixture J 7608-4 in a vise.",
+        "verified": true,
+        "char_start": 96,
+        "char_end": 137,
+        "bbox": [
+          57.36,
+          269.02199999999993,
+          239.50424999999998,
+          278.02199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Slide sleeve J 7608-5 on the arbor of the fixture (V- type engine connecting rod).",
+      "source_number": 2,
+      "installs": [
+        "crankshaft_front_sleeve",
+        "connecting_rod"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Slide sleeve J 7608-5 on the arbor of the fixture (V- type engine connecting rod).",
+        "verified": true,
+        "char_start": 141,
+        "char_end": 223,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place the crankshaft end of the connecting rod on the arbor of the fixture. Tighten the nuts on the 3/8\" - 24 bolts (In-line and V-type engines) to 40-45 Ib-ft torque. Tighten the nuts on the 5/16\" -24 bolts (early 6V engines) to 24-28 lb-ft torque.",
+      "source_number": 3,
+      "installs": [
+        "halve_of_the_crankshaft",
+        "end_of_the_connecting",
+        "bearing_pilot_rod",
+        "front_balance_weight_nut",
+        "engine_front_cover_bolt",
+        "tbe_lubricating_oil_line"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 54.2,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Place the crankshaft end of the connecting rod on the arbor of the fixture. Tighten the nuts on the 3/8\" - 24 bolts (In-line and V-type engines) to 40-45 Ib-ft torque. Tighten the nuts on the 5/16\" -24 bolts (early 6V engines) to 24-28 l...",
+        "verified": true,
+        "char_start": 227,
+        "char_end": 476,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the front guide bushing J 4971-6 in the fixture (pin end out). 5. [nstall spacer J 7608-3 in the fixture.",
+      "source_number": 4,
+      "installs": [
+        "front_guide_bushing",
+        "drive_gear_spacer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Install the front guide bushing J 4971-6 in the fixture (pin end out). 5. [nstall spacer J 7608-3 in the fixture.",
+        "verified": true,
+        "char_start": 480,
+        "char_end": 593,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Align the upper end of the connecung rod with the hole in the reaming fixture.",
+      "source_number": 6,
+      "installs": [
+        "of_the_oil_hole"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Align the upper end of the connecung rod with the hole in the reaming fixture.",
+        "verified": true,
+        "char_start": 597,
+        "char_end": 675,
+        "bbox": [
+          48.0,
+          440.48299999999995,
+          289.2708,
+          461.64899999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install the rear guide bushing J 1686-5 on the reamer J 7608-21; then, slide the reamer and bushing into the fixture.",
+      "source_number": 7,
+      "installs": [
+        "rear_guide_bushing",
+        "shoulder_of_the_reamer",
+        "connecting_rod_bushing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Install the rear guide bushing J 1686-5 on the reamer J 7608-21; then, slide the reamer and bushing into the fixture.",
+        "verified": true,
+        "char_start": 679,
+        "char_end": 796,
+        "bbox": [
+          48.23999999999995,
+          472.40399999999994,
+          289.2003,
+          504.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Turn the reamer in a clockwise direction only, when reaming or withdrawing the reamer. For best results, use only moderate pressure on the reamer.",
+      "source_number": 8,
+      "installs": [
+        "clamping_pressure"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Turn the reamer in a clockwise direction only, when reaming or withdrawing the reamer. For best results, use only moderate pressure on the reamer.",
+        "verified": true,
+        "char_start": 800,
+        "char_end": 946,
+        "bbox": [
+          48.240000000000066,
+          517.3609999999999,
+          288.9296000000001,
+          547.221
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the reamer and the connecung rod from the fixture, blow out the chips and measure the inside diameter of the bushings. The inside diameter of the bushings should be 1.3760\" to 1.3765\" .",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 105,
+        "quote": "Remove the reamer and the connecung rod from the fixture, blow out the chips and measure the inside diameter of the bushings. The inside diameter of the bushings should be 1.3760\" to 1.3765\" .",
+        "verified": true,
+        "char_start": 950,
+        "char_end": 1142,
+        "bbox": [
+          48.48,
+          558.084,
+          289.9203,
+          600.7719999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

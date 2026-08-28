@@ -1,0 +1,556 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.96 - Remove the carbon from the upper inner...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "only_the_carbon",
+      "name": "Only the carbon",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "only_the_carbon",
+      "provenance": {
+        "page": 96,
+        "quote": "Remove the carbon from the upper inner surface of the cylinder liner.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 72,
+        "bbox": [
+          332.6400000000001,
+          66.2109999999999,
+          573.4418000000001,
+          87.1289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 96,
+        "quote": "Remove the carbon from the upper inner surface of the cylinder liner.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 72,
+        "bbox": [
+          332.6400000000001,
+          66.2109999999999,
+          573.4418000000001,
+          87.1289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "side_of_the_inner",
+      "name": "Side of the inner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_inner",
+      "provenance": {
+        "page": 96,
+        "quote": "Remove the carbon from the upper inner surface of the cylinder liner.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 72,
+        "bbox": [
+          332.6400000000001,
+          66.2109999999999,
+          573.4418000000001,
+          87.1289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 96,
+        "quote": "Remove the carbon from the upper inner surface of the cylinder liner.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 72,
+        "bbox": [
+          332.6400000000001,
+          66.2109999999999,
+          573.4418000000001,
+          87.1289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "ridge",
+      "name": "Ridge",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ridge",
+      "provenance": {
+        "page": 96,
+        "quote": "If there is a ridge in the cylinder liner at the top of the piston ring travel, remove the ridge with a ridge cutter, NOTE:. Move the piston to the bottom of its travel and place a cloth on top of the piston to collect the cuttings.",
+        "verified": true,
+        "char_start": 76,
+        "char_end": 308,
+        "bbox": [
+          332.3999999999998,
+          98.25299999999993,
+          573.5681999999999,
+          172.68399999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 96,
+        "quote": "If there is a ridge in the cylinder liner at the top of the piston ring travel, remove the ridge with a ridge cutter, NOTE:. Move the piston to the bottom of its travel and place a cloth on top of the piston to collect the cuttings.",
+        "verified": true,
+        "char_start": 76,
+        "char_end": 308,
+        "bbox": [
+          332.3999999999998,
+          98.25299999999993,
+          573.5681999999999,
+          172.68399999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 96,
+        "quote": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lowe...",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 754,
+        "bbox": [
+          246.23999999999998,
+          183.69099999999992,
+          572.2506000000001,
+          291.0219999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 96,
+        "quote": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lowe...",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 754,
+        "bbox": [
+          246.23999999999998,
+          183.69099999999992,
+          572.2506000000001,
+          291.0219999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cloth",
+      "name": "Cloth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cloth",
+      "provenance": {
+        "page": 96,
+        "quote": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lowe...",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 754,
+        "bbox": [
+          246.23999999999998,
+          183.69099999999992,
+          572.2506000000001,
+          291.0219999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 96,
+        "quote": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lowe...",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 754,
+        "bbox": [
+          246.23999999999998,
+          183.69099999999992,
+          572.2506000000001,
+          291.0219999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lower_bearing_cap",
+      "name": "Lower bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_bearing_cap",
+      "provenance": {
+        "page": 96,
+        "quote": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lowe...",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 754,
+        "bbox": [
+          246.23999999999998,
+          183.69099999999992,
+          572.2506000000001,
+          291.0219999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lower_bearing_shell",
+      "name": "Lower bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lower_bearing_shell",
+      "provenance": {
+        "page": 96,
+        "quote": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lowe...",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 754,
+        "bbox": [
+          246.23999999999998,
+          183.69099999999992,
+          572.2506000000001,
+          291.0219999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_connecting",
+      "name": "End of the connecting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_connecting",
+      "provenance": {
+        "page": 96,
+        "quote": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lowe...",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 754,
+        "bbox": [
+          246.23999999999998,
+          183.69099999999992,
+          572.2506000000001,
+          291.0219999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 96,
+        "quote": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lowe...",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 754,
+        "bbox": [
+          246.23999999999998,
+          183.69099999999992,
+          572.2506000000001,
+          291.0219999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 96,
+        "quote": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lowe...",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 754,
+        "bbox": [
+          246.23999999999998,
+          183.69099999999992,
+          572.2506000000001,
+          291.0219999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bearing_shell",
+      "name": "Connecting rod bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing_shell",
+      "provenance": {
+        "page": 96,
+        "quote": "Reassembie the bearing cap and the bearing shell to the connecting rod.",
+        "verified": true,
+        "char_start": 758,
+        "char_end": 829,
+        "bbox": [
+          332.88,
+          302.0109999999999,
+          572.4483999999999,
+          323.0499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 96,
+        "quote": "Reassembie the bearing cap and the bearing shell to the connecting rod.",
+        "verified": true,
+        "char_start": 758,
+        "char_end": 829,
+        "bbox": [
+          332.88,
+          302.0109999999999,
+          572.4483999999999,
+          323.0499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the carbon from the upper inner surface of the cylinder liner.",
+      "source_number": 3,
+      "installs": [
+        "only_the_carbon",
+        "hammer_spring_scale_upper",
+        "side_of_the_inner",
+        "cylinder_liner"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 96,
+        "quote": "Remove the carbon from the upper inner surface of the cylinder liner.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 72,
+        "bbox": [
+          332.6400000000001,
+          66.2109999999999,
+          573.4418000000001,
+          87.1289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "If there is a ridge in the cylinder liner at the top of the piston ring travel, remove the ridge with a ridge cutter, NOTE:. Move the piston to the bottom of its travel and place a cloth on top of the piston to collect the cuttings.",
+      "source_number": 4,
+      "installs": [
+        "ridge",
+        "piston_ring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE:. Move the piston to the bottom of its travel and place a cloth on top of the piston to collect the cuttings.",
+      "provenance": {
+        "page": 96,
+        "quote": "If there is a ridge in the cylinder liner at the top of the piston ring travel, remove the ridge with a ridge cutter, NOTE:. Move the piston to the bottom of its travel and place a cloth on top of the piston to collect the cuttings.",
+        "verified": true,
+        "char_start": 76,
+        "char_end": 308,
+        "bbox": [
+          332.3999999999998,
+          98.25299999999993,
+          573.5681999999999,
+          172.68399999999986
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lower bearing shell from the lower end of the connecting rod; then push the piston and rod assembly out through the top of the cylinder block. The piston and rod cannot be removed from the bottom of the block.",
+      "source_number": 5,
+      "installs": [
+        "halve_of_the_crankshaft",
+        "of_the_selected_piston",
+        "cloth",
+        "nut_securing_fig",
+        "lower_bearing_cap",
+        "lower_bearing_shell",
+        "end_of_the_connecting",
+        "bearing_pilot_rod",
+        "of_the_block"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 96,
+        "quote": "After the ridge is removed, turn the crankshaft until the piston is at the top of its stroke and carefully remove the cloth with the cuttings. 2-1 8128 6. Refer to Figs. 1 and 2 in Section 1.6.1 and remove -\u2014 the bearing cap and the lowe...",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 754,
+        "bbox": [
+          246.23999999999998,
+          183.69099999999992,
+          572.2506000000001,
+          291.0219999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Reassembie the bearing cap and the bearing shell to the connecting rod.",
+      "source_number": 7,
+      "installs": [
+        "connecting_rod_bearing_shell",
+        "connecting_rod"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 96,
+        "quote": "Reassembie the bearing cap and the bearing shell to the connecting rod.",
+        "verified": true,
+        "char_start": 758,
+        "char_end": 829,
+        "bbox": [
+          332.88,
+          302.0109999999999,
+          572.4483999999999,
+          323.0499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

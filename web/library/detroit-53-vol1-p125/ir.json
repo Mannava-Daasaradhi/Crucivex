@@ -1,0 +1,500 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.240 - Withdraw the weight. riser and shaft assembly",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 240,
+        "quote": "Withdraw the weight. riser and shaft assembly.",
+        "verified": true,
+        "char_start": 1080,
+        "char_end": 1126,
+        "bbox": [
+          72.0,
+          355.28999999999996,
+          276.3675,
+          365.28999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 240,
+        "quote": "Withdraw the weight. riser and shaft assembly.",
+        "verified": true,
+        "char_start": 1080,
+        "char_end": 1126,
+        "bbox": [
+          72.0,
+          355.28999999999996,
+          276.3675,
+          365.28999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 240,
+        "quote": "Withdraw the weight. riser and shaft assembly.",
+        "verified": true,
+        "char_start": 1080,
+        "char_end": 1126,
+        "bbox": [
+          72.0,
+          355.28999999999996,
+          276.3675,
+          365.28999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "weight_shaft_bearing",
+      "name": "Weight shaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_shaft_bearing",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the weight shaft bearing from the governor housing. Refer to Fig. 9 and disassemble the governor weights as follows:",
+        "verified": true,
+        "char_start": 1169,
+        "char_end": 1292,
+        "bbox": [
+          61.200000000000074,
+          377.40899999999993,
+          569.2662,
+          411.96099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the weight shaft bearing from the governor housing. Refer to Fig. 9 and disassemble the governor weights as follows:",
+        "verified": true,
+        "char_start": 1169,
+        "char_end": 1292,
+        "bbox": [
+          61.200000000000074,
+          377.40899999999993,
+          569.2662,
+          411.96099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the weight shaft bearing from the governor housing. Refer to Fig. 9 and disassemble the governor weights as follows:",
+        "verified": true,
+        "char_start": 1169,
+        "char_end": 1292,
+        "bbox": [
+          61.200000000000074,
+          377.40899999999993,
+          569.2662,
+          411.96099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "light_governor_weight",
+      "name": "Light governor weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "light_governor_weight",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the weight shaft bearing from the governor housing. Refer to Fig. 9 and disassemble the governor weights as follows:",
+        "verified": true,
+        "char_start": 1169,
+        "char_end": 1292,
+        "bbox": [
+          61.200000000000074,
+          377.40899999999993,
+          569.2662,
+          411.96099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 240,
+        "quote": "Loosen the lock nut and remove the buffer screw. l. Remove the riser thrust bearing and riser tube from",
+        "verified": true,
+        "char_start": 1296,
+        "char_end": 1399,
+        "bbox": [
+          72.24,
+          410.21399999999994,
+          568.51872,
+          433.3279999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 240,
+        "quote": "Loosen the lock nut and remove the buffer screw. l. Remove the riser thrust bearing and riser tube from",
+        "verified": true,
+        "char_start": 1296,
+        "char_end": 1399,
+        "bbox": [
+          72.24,
+          410.21399999999994,
+          568.51872,
+          433.3279999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "riser_thrust_bearing",
+      "name": "Riser thrust bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "riser_thrust_bearing",
+      "provenance": {
+        "page": 240,
+        "quote": "Loosen the lock nut and remove the buffer screw. l. Remove the riser thrust bearing and riser tube from",
+        "verified": true,
+        "char_start": 1296,
+        "char_end": 1399,
+        "bbox": [
+          72.24,
+          410.21399999999994,
+          568.51872,
+          433.3279999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "riser_tube",
+      "name": "Riser tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "riser_tube",
+      "provenance": {
+        "page": 240,
+        "quote": "Loosen the lock nut and remove the buffer screw. l. Remove the riser thrust bearing and riser tube from",
+        "verified": true,
+        "char_start": 1296,
+        "char_end": 1399,
+        "bbox": [
+          72.24,
+          410.21399999999994,
+          568.51872,
+          433.3279999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "link_pin",
+      "name": "Link pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "link_pin",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the two link pins from the control link the weight shaft. lever.",
+        "verified": true,
+        "char_start": 1403,
+        "char_end": 1474,
+        "bbox": [
+          61.19999999999996,
+          431.08899999999994,
+          399.0672,
+          450.0079999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_link",
+      "name": "Connecting link",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_link",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the two link pins from the control link the weight shaft. lever.",
+        "verified": true,
+        "char_start": 1403,
+        "char_end": 1474,
+        "bbox": [
+          61.19999999999996,
+          431.08899999999994,
+          399.0672,
+          450.0079999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the two link pins from the control link the weight shaft. lever.",
+        "verified": true,
+        "char_start": 1403,
+        "char_end": 1474,
+        "bbox": [
+          61.19999999999996,
+          431.08899999999994,
+          399.0672,
+          450.0079999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the two link pins from the control link the weight shaft. lever.",
+        "verified": true,
+        "char_start": 1403,
+        "char_end": 1474,
+        "bbox": [
+          61.19999999999996,
+          431.08899999999994,
+          399.0672,
+          450.0079999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Withdraw the weight. riser and shaft assembly.",
+      "source_number": 3,
+      "installs": [
+        "front_balance_weight",
+        "governor_riser",
+        "drive_shaft_assembly"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Withdraw the weight. riser and shaft assembly.",
+        "verified": true,
+        "char_start": 1080,
+        "char_end": 1126,
+        "bbox": [
+          72.0,
+          355.28999999999996,
+          276.3675,
+          365.28999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the weight shaft bearing from the governor housing. Refer to Fig. 9 and disassemble the governor weights as follows:",
+      "source_number": 4,
+      "installs": [
+        "weight_shaft_bearing",
+        "disassemble_governor_housing",
+        "nut_securing_fig",
+        "light_governor_weight"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the weight shaft bearing from the governor housing. Refer to Fig. 9 and disassemble the governor weights as follows:",
+        "verified": true,
+        "char_start": 1169,
+        "char_end": 1292,
+        "bbox": [
+          61.200000000000074,
+          377.40899999999993,
+          569.2662,
+          411.96099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Loosen the lock nut and remove the buffer screw. l. Remove the riser thrust bearing and riser tube from",
+      "source_number": 5,
+      "installs": [
+        "bearing_lock_nut",
+        "of_the_buffer_screw",
+        "riser_thrust_bearing",
+        "riser_tube"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Loosen the lock nut and remove the buffer screw. l. Remove the riser thrust bearing and riser tube from",
+        "verified": true,
+        "char_start": 1296,
+        "char_end": 1399,
+        "bbox": [
+          72.24,
+          410.21399999999994,
+          568.51872,
+          433.3279999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the two link pins from the control link the weight shaft. lever.",
+      "source_number": 6,
+      "installs": [
+        "link_pin",
+        "connecting_link",
+        "governor_weight_shaft",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the two link pins from the control link the weight shaft. lever.",
+        "verified": true,
+        "char_start": 1403,
+        "char_end": 1474,
+        "bbox": [
+          61.19999999999996,
+          431.08899999999994,
+          399.0672,
+          450.0079999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

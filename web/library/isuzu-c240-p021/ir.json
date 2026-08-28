@@ -1,0 +1,300 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.85 - Clean the cylinder body, the journal bearing...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "cylinder_body",
+      "name": "Cylinder body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_body",
+      "provenance": {
+        "page": 85,
+        "quote": "Clean the cylinder body, the journal bearing fitting surface, the bearing caps, and the bearings.",
+        "verified": true,
+        "char_start": 759,
+        "char_end": 856,
+        "bbox": [
+          312.24,
+          490.178,
+          548.8812800000001,
+          511.37056666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "water_pump_bearing",
+      "name": "Water pump bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_pump_bearing",
+      "provenance": {
+        "page": 85,
+        "quote": "Clean the cylinder body, the journal bearing fitting surface, the bearing caps, and the bearings.",
+        "verified": true,
+        "char_start": 759,
+        "char_end": 856,
+        "bbox": [
+          312.24,
+          490.178,
+          548.8812800000001,
+          511.37056666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap",
+      "name": "Bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap",
+      "provenance": {
+        "page": 85,
+        "quote": "Clean the cylinder body, the journal bearing fitting surface, the bearing caps, and the bearings.",
+        "verified": true,
+        "char_start": 759,
+        "char_end": 856,
+        "bbox": [
+          312.24,
+          490.178,
+          548.8812800000001,
+          511.37056666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 85,
+        "quote": "Install the bearings to the cylinder body. Carefully place the crankshaft on the bearings. Rotate the crankshaft approximately 30\u00b0 to seat the 4. bearing.",
+        "verified": true,
+        "char_start": 860,
+        "char_end": 1014,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plastigage",
+      "name": "Plastigage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plastigage",
+      "provenance": {
+        "page": 85,
+        "quote": "Place the Plastigage (arrow) over the crankshaft journal across the full width of the bearing.",
+        "verified": true,
+        "char_start": 1018,
+        "char_end": 1112,
+        "bbox": [
+          313.12443120000006,
+          574.0098275733334,
+          548.6741298666667,
+          596.1969666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clean the cylinder body, the journal bearing fitting surface, the bearing caps, and the bearings.",
+      "source_number": 1,
+      "installs": [
+        "cylinder_body",
+        "water_pump_bearing",
+        "bearing_cap"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Clean the cylinder body, the journal bearing fitting surface, the bearing caps, and the bearings.",
+        "verified": true,
+        "char_start": 759,
+        "char_end": 856,
+        "bbox": [
+          312.24,
+          490.178,
+          548.8812800000001,
+          511.37056666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the bearings to the cylinder body. Carefully place the crankshaft on the bearings. Rotate the crankshaft approximately 30\u00b0 to seat the 4. bearing.",
+      "source_number": 2,
+      "installs": [
+        "crankshaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Install the bearings to the cylinder body. Carefully place the crankshaft on the bearings. Rotate the crankshaft approximately 30\u00b0 to seat the 4. bearing.",
+        "verified": true,
+        "char_start": 860,
+        "char_end": 1014,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place the Plastigage (arrow) over the crankshaft journal across the full width of the bearing.",
+      "source_number": 5,
+      "installs": [
+        "plastigage"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Place the Plastigage (arrow) over the crankshaft journal across the full width of the bearing.",
+        "verified": true,
+        "char_start": 1018,
+        "char_end": 1112,
+        "bbox": [
+          313.12443120000006,
+          574.0098275733334,
+          548.6741298666667,
+          596.1969666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the bearing caps with the bearing.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Install the bearing caps with the bearing.",
+        "verified": true,
+        "char_start": 1116,
+        "char_end": 1158,
+        "bbox": [
+          313.68,
+          601.9639,
+          497.19057066666664,
+          611.5305666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Tighten the bearing caps to the specified torque.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Tighten the bearing caps to the specified torque.",
+        "verified": true,
+        "char_start": 1162,
+        "char_end": 1211,
+        "bbox": [
+          313.44000000000005,
+          617.31,
+          533.0315200000001,
+          626.6433333333333
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the bearing cap.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Remove the bearing cap.",
+        "verified": true,
+        "char_start": 1393,
+        "char_end": 1416,
+        "bbox": [
+          314.88,
+          712.479,
+          425.91914666666673,
+          721.8123333333333
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

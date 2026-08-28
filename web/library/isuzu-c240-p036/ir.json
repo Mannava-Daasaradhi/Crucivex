@@ -1,0 +1,144 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.114 - Check that the timing gear case gasket...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "timing_gear_case",
+      "name": "Timing gear case",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "timing_gear_case",
+      "provenance": {
+        "page": 114,
+        "quote": "Check that the timing gear case gasket is firmly inserted into the gear case groove.",
+        "verified": true,
+        "char_start": 45,
+        "char_end": 129,
+        "bbox": [
+          305.03999999999996,
+          200.16370000000006,
+          550.1910979999999,
+          222.48356666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 114,
+        "quote": "Check that the timing gear case gasket is firmly inserted into the gear case groove.",
+        "verified": true,
+        "char_start": 45,
+        "char_end": 129,
+        "bbox": [
+          305.03999999999996,
+          200.16370000000006,
+          550.1910979999999,
+          222.48356666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 114,
+        "quote": "Tighten the timing gear case bolts to the specified torque in the order shown in the illustration. Timing Gear Case Bolt Torque kg-m (Ib.ft/N-m) 1.4 = 2.4 (10.1 - 17.3/13.7 \u2014 23.5)",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 313,
+        "bbox": [
+          285.6,
+          228.27070000000003,
+          549.5856733333334,
+          283.69003333333336
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Check that the timing gear case gasket is firmly inserted into the gear case groove.",
+      "source_number": 1,
+      "installs": [
+        "timing_gear_case",
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 114,
+        "quote": "Check that the timing gear case gasket is firmly inserted into the gear case groove.",
+        "verified": true,
+        "char_start": 45,
+        "char_end": 129,
+        "bbox": [
+          305.03999999999996,
+          200.16370000000006,
+          550.1910979999999,
+          222.48356666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Tighten the timing gear case bolts to the specified torque in the order shown in the illustration. Timing Gear Case Bolt Torque kg-m (Ib.ft/N-m) 1.4 = 2.4 (10.1 - 17.3/13.7 \u2014 23.5)",
+      "source_number": 2,
+      "installs": [
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 13.7,
+      "warning": null,
+      "provenance": {
+        "page": 114,
+        "quote": "Tighten the timing gear case bolts to the specified torque in the order shown in the illustration. Timing Gear Case Bolt Torque kg-m (Ib.ft/N-m) 1.4 = 2.4 (10.1 - 17.3/13.7 \u2014 23.5)",
+        "verified": true,
+        "char_start": 133,
+        "char_end": 313,
+        "bbox": [
+          285.6,
+          228.27070000000003,
+          549.5856733333334,
+          283.69003333333336
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.98 - Use a piston ring replacer to install...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 98,
+        "quote": "Use a piston ring replacer to install the piston rings.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 833,
+        "bbox": [
+          309.84,
+          523.2259,
+          553.514406,
+          532.7925666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "related_part_piston",
+      "name": "Related part piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "related_part_piston",
+      "provenance": {
+        "page": 98,
+        "quote": "Use a piston ring replacer to install the piston rings.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 833,
+        "bbox": [
+          309.84,
+          523.2259,
+          553.514406,
+          532.7925666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Use a piston ring replacer to install the piston rings.",
+      "source_number": 1,
+      "installs": [
+        "piston_ring",
+        "related_part_piston"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 98,
+        "quote": "Use a piston ring replacer to install the piston rings.",
+        "verified": true,
+        "char_start": 778,
+        "char_end": 833,
+        "bbox": [
+          309.84,
+          523.2259,
+          553.514406,
+          532.7925666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Apply engine oil to the piston ring surfaces.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 99,
+        "quote": "Apply engine oil to the piston ring surfaces.",
+        "verified": true,
+        "char_start": 239,
+        "char_end": 284,
+        "bbox": [
+          311.03999999999996,
+          243.15779999999995,
+          516.3898619999999,
+          252.95780000000002
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Check that the piston rings slide smoothly in the piston ring grooves.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 99,
+        "quote": "Check that the piston rings slide smoothly in the piston ring grooves.",
+        "verified": true,
+        "char_start": 288,
+        "char_end": 358,
+        "bbox": [
+          311.28,
+          274.99760000000003,
+          557.199156,
+          297.27203333333335
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "The oil ring coil expander connecting portion must not have gap. 4 Connecting Rod Bearing Carefully wipe any oil or other foreign material from the connecting rod bearing back face and the connecting rod bearing fitting surface.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "must not have gap. 4 Connecting Rod Bearing Carefully wipe any oil or other foreign material from the connecting rod bearing back face and the connecting rod bearing fitting surface.",
+      "provenance": {
+        "page": 99,
+        "quote": "The oil ring coil expander connecting portion must not have gap. 4 Connecting Rod Bearing Carefully wipe any oil or other foreign material from the connecting rod bearing back face and the connecting rod bearing fitting surface.",
+        "verified": true,
+        "char_start": 362,
+        "char_end": 590,
+        "bbox": [
+          291.8399999999999,
+          331.1639,
+          557.442294,
+          550.9160333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

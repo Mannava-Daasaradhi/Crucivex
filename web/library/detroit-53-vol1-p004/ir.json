@@ -1,0 +1,1489 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.23 - Drain the cooling system. The current 8V...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 23,
+        "quote": "Drain the cooling system. The current 8V service cylinder block now incorporates an oil drain at each corner of the block. 2. Drain the lubricating oil. New service replacement cylinder block assemblies",
+        "verified": true,
+        "char_start": 616,
+        "char_end": 818,
+        "bbox": [
+          95.52000000000004,
+          423.2099999999999,
+          484.10892,
+          477.01199999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 23,
+        "quote": "Drain the cooling system. The current 8V service cylinder block now incorporates an oil drain at each corner of the block. 2. Drain the lubricating oil. New service replacement cylinder block assemblies",
+        "verified": true,
+        "char_start": 616,
+        "char_end": 818,
+        "bbox": [
+          95.52000000000004,
+          423.2099999999999,
+          484.10892,
+          477.01199999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_line",
+      "name": "Fuel line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_line",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the fuel lines. include the main bearing caps, bolts and washers and the camshaft bearings (bushings). The dowels and the",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 954,
+        "bbox": [
+          95.76000000000005,
+          469.72799999999995,
+          483.00096,
+          498.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "main_bearing_cap",
+      "name": "Main bearing cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main_bearing_cap",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the fuel lines. include the main bearing caps, bolts and washers and the camshaft bearings (bushings). The dowels and the",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 954,
+        "bbox": [
+          95.76000000000005,
+          469.72799999999995,
+          483.00096,
+          498.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the fuel lines. include the main bearing caps, bolts and washers and the camshaft bearings (bushings). The dowels and the",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 954,
+        "bbox": [
+          95.76000000000005,
+          469.72799999999995,
+          483.00096,
+          498.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the fuel lines. include the main bearing caps, bolts and washers and the camshaft bearings (bushings). The dowels and the",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 954,
+        "bbox": [
+          95.76000000000005,
+          469.72799999999995,
+          483.00096,
+          498.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the fuel lines. include the main bearing caps, bolts and washers and the camshaft bearings (bushings). The dowels and the",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 954,
+        "bbox": [
+          95.76000000000005,
+          469.72799999999995,
+          483.00096,
+          498.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the fuel lines. include the main bearing caps, bolts and washers and the camshaft bearings (bushings). The dowels and the",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 954,
+        "bbox": [
+          95.76000000000005,
+          469.72799999999995,
+          483.00096,
+          498.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the fuel lines. include the main bearing caps, bolts and washers and the camshaft bearings (bushings). The dowels and the",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 954,
+        "bbox": [
+          95.76000000000005,
+          469.72799999999995,
+          483.00096,
+          498.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_silencer",
+      "name": "Air silencer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_silencer",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air silencer or air cleaner and mounting necessary plugs are also included. bracket. Since the cylinder block is the main structural part of",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1109,
+        "bbox": [
+          95.52,
+          489.5709999999999,
+          599.3912000000001,
+          531.8499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_cleaner",
+      "name": "Air cleaner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_cleaner",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air silencer or air cleaner and mounting necessary plugs are also included. bracket. Since the cylinder block is the main structural part of",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1109,
+        "bbox": [
+          95.52,
+          489.5709999999999,
+          599.3912000000001,
+          531.8499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "battery_charging_generator_mounting",
+      "name": "Battery-charging generator mounting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "battery_charging_generator_mounting",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air silencer or air cleaner and mounting necessary plugs are also included. bracket. Since the cylinder block is the main structural part of",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1109,
+        "bbox": [
+          95.52,
+          489.5709999999999,
+          599.3912000000001,
+          531.8499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air silencer or air cleaner and mounting necessary plugs are also included. bracket. Since the cylinder block is the main structural part of",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1109,
+        "bbox": [
+          95.52,
+          489.5709999999999,
+          599.3912000000001,
+          531.8499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air silencer or air cleaner and mounting necessary plugs are also included. bracket. Since the cylinder block is the main structural part of",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1109,
+        "bbox": [
+          95.52,
+          489.5709999999999,
+          599.3912000000001,
+          531.8499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "main",
+      "name": "Main",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air silencer or air cleaner and mounting necessary plugs are also included. bracket. Since the cylinder block is the main structural part of",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1109,
+        "bbox": [
+          95.52,
+          489.5709999999999,
+          599.3912000000001,
+          531.8499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "turbocharger",
+      "name": "Turbocharger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "turbocharger",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the turbocharger, if used. the engine, the various sub-assemblies must be removed from the cylinder block when an engine is 6. Remove the blower on In-Line engines. overhauled.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1296,
+        "bbox": [
+          95.52000000000007,
+          523.1309999999999,
+          544.88,
+          564.4989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the turbocharger, if used. the engine, the various sub-assemblies must be removed from the cylinder block when an engine is 6. Remove the blower on In-Line engines. overhauled.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1296,
+        "bbox": [
+          95.52000000000007,
+          523.1309999999999,
+          544.88,
+          564.4989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the turbocharger, if used. the engine, the various sub-assemblies must be removed from the cylinder block when an engine is 6. Remove the blower on In-Line engines. overhauled.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1296,
+        "bbox": [
+          95.52000000000007,
+          523.1309999999999,
+          544.88,
+          564.4989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_piping",
+      "name": "Exhaust piping",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_piping",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the exhaust piping and remove the The hydraulically operated overhaul stand (Fig. 9) exhaust manifold(s). provides a convenient support when stripping a cylinder block. The engine is mounted in an upright",
+        "verified": true,
+        "char_start": 1300,
+        "char_end": 1515,
+        "bbox": [
+          95.28,
+          567.4499999999999,
+          601.2219,
+          608.7679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hydraulically_operated",
+      "name": "Hydraulically operated",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hydraulically_operated",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the exhaust piping and remove the The hydraulically operated overhaul stand (Fig. 9) exhaust manifold(s). provides a convenient support when stripping a cylinder block. The engine is mounted in an upright",
+        "verified": true,
+        "char_start": 1300,
+        "char_end": 1515,
+        "bbox": [
+          95.28,
+          567.4499999999999,
+          601.2219,
+          608.7679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the exhaust piping and remove the The hydraulically operated overhaul stand (Fig. 9) exhaust manifold(s). provides a convenient support when stripping a cylinder block. The engine is mounted in an upright",
+        "verified": true,
+        "char_start": 1300,
+        "char_end": 1515,
+        "bbox": [
+          95.28,
+          567.4499999999999,
+          601.2219,
+          608.7679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_manifold",
+      "name": "Exhaust manifold",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_manifold",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the exhaust piping and remove the The hydraulically operated overhaul stand (Fig. 9) exhaust manifold(s). provides a convenient support when stripping a cylinder block. The engine is mounted in an upright",
+        "verified": true,
+        "char_start": 1300,
+        "char_end": 1515,
+        "bbox": [
+          95.28,
+          567.4499999999999,
+          601.2219,
+          608.7679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the exhaust piping and remove the The hydraulically operated overhaul stand (Fig. 9) exhaust manifold(s). provides a convenient support when stripping a cylinder block. The engine is mounted in an upright",
+        "verified": true,
+        "char_start": 1300,
+        "char_end": 1515,
+        "bbox": [
+          95.28,
+          567.4499999999999,
+          601.2219,
+          608.7679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "throttle",
+      "name": "Throttle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the throttle controls. position. It may then be tipped on its side, rotated in either direction 90 ? or 180 \u00b0 where it is locked in place",
+        "verified": true,
+        "char_start": 1519,
+        "char_end": 1667,
+        "bbox": [
+          95.52000000000001,
+          603.1389999999999,
+          511.38984000000005,
+          630.612
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "starting_motor",
+      "name": "Starting motor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "starting_motor",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect and remove the starting motor, battery- and then, if desired, tipped back with either end or the charging generator and other electrical equipment. oil pan side up.",
+        "verified": true,
+        "char_start": 1671,
+        "char_end": 1846,
+        "bbox": [
+          95.03999999999999,
+          623.132,
+          600.8248,
+          652.7069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "battery_charging_generator",
+      "name": "Battery-charging generator",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "battery_charging_generator",
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect and remove the starting motor, battery- and then, if desired, tipped back with either end or the charging generator and other electrical equipment. oil pan side up.",
+        "verified": true,
+        "char_start": 1671,
+        "char_end": 1846,
+        "bbox": [
+          95.03999999999999,
+          623.132,
+          600.8248,
+          652.7069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "radiator",
+      "name": "Radiator",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "radiator",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air compressor, if used. Remove and Disassemble Engine 11. Remove the radiator and fan guard or the heat exchanger and other related cooling system parts. Before mounting an engine on an overhaul stand. it 12. Remove the air b...",
+        "verified": true,
+        "char_start": 1851,
+        "char_end": 2116,
+        "bbox": [
+          95.76,
+          656.473,
+          601.07,
+          722.891
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_box_drain",
+      "name": "Air box drain",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_box_drain",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air compressor, if used. Remove and Disassemble Engine 11. Remove the radiator and fan guard or the heat exchanger and other related cooling system parts. Before mounting an engine on an overhaul stand. it 12. Remove the air b...",
+        "verified": true,
+        "char_start": 1851,
+        "char_end": 2116,
+        "bbox": [
+          95.76,
+          656.473,
+          601.07,
+          722.891
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air compressor, if used. Remove and Disassemble Engine 11. Remove the radiator and fan guard or the heat exchanger and other related cooling system parts. Before mounting an engine on an overhaul stand. it 12. Remove the air b...",
+        "verified": true,
+        "char_start": 1851,
+        "char_end": 2116,
+        "bbox": [
+          95.76,
+          656.473,
+          601.07,
+          722.891
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "grease_fitting",
+      "name": "Grease fitting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "grease_fitting",
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air compressor, if used. Remove and Disassemble Engine 11. Remove the radiator and fan guard or the heat exchanger and other related cooling system parts. Before mounting an engine on an overhaul stand. it 12. Remove the air b...",
+        "verified": true,
+        "char_start": 1851,
+        "char_end": 2116,
+        "bbox": [
+          95.76,
+          656.473,
+          601.07,
+          722.891
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_box_cover",
+      "name": "Air box cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_box_cover",
+      "provenance": {
+        "page": 24,
+        "quote": "Remove the air box covers. 14. Disconnect any lines or electrical connections.",
+        "verified": true,
+        "char_start": 121,
+        "char_end": 199,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "loose_connection",
+      "name": "Loose connection",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "loose_connection",
+      "provenance": {
+        "page": 24,
+        "quote": "Remove the air box covers. 14. Disconnect any lines or electrical connections.",
+        "verified": true,
+        "char_start": 121,
+        "char_end": 199,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "transmission",
+      "name": "Transmission",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "transmission",
+      "provenance": {
+        "page": 24,
+        "quote": "Separate the engine from the transmission or other driven mechanism. ite ETT E \"M CYLINDER LINER \u2014 | 4 HOLES \u041e\u041d PASSAGE p | \u041e\u04a2 PASSAGE ! COMPRESSION GASKET:-",
+        "verified": true,
+        "char_start": 204,
+        "char_end": 361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 24,
+        "quote": "Separate the engine from the transmission or other driven mechanism. ite ETT E \"M CYLINDER LINER \u2014 | 4 HOLES \u041e\u041d PASSAGE p | \u041e\u04a2 PASSAGE ! COMPRESSION GASKET:-",
+        "verified": true,
+        "char_start": 204,
+        "char_end": 361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 24,
+        "quote": "Separate the engine from the transmission or other driven mechanism. ite ETT E \"M CYLINDER LINER \u2014 | 4 HOLES \u041e\u041d PASSAGE p | \u041e\u04a2 PASSAGE ! COMPRESSION GASKET:-",
+        "verified": true,
+        "char_start": 204,
+        "char_end": 361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "compression_gasket",
+      "name": "Compression gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "compression_gasket",
+      "provenance": {
+        "page": 24,
+        "quote": "Separate the engine from the transmission or other driven mechanism. ite ETT E \"M CYLINDER LINER \u2014 | 4 HOLES \u041e\u041d PASSAGE p | \u041e\u04a2 PASSAGE ! COMPRESSION GASKET:-",
+        "verified": true,
+        "char_start": 204,
+        "char_end": 361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_mounting_bolt",
+      "name": "Engine mounting bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_mounting_bolt",
+      "provenance": {
+        "page": 25,
+        "quote": "Remove the engine mounting bolts.",
+        "verified": true,
+        "char_start": 85,
+        "char_end": 118,
+        "bbox": [
+          100.56,
+          356.16499999999996,
+          252.49139999999997,
+          366.16499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "chain_hoist",
+      "name": "Chain hoist",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "chain_hoist",
+      "provenance": {
+        "page": 25,
+        "quote": "Use a chain hoist and suitable sling attached to the engine lifting brackets to lift the engine. CAUTION: Do not lift a V-type engine by the webs in the air inlet opening at the top of the cylinder block.",
+        "verified": true,
+        "char_start": 123,
+        "char_end": 327,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_cylinder",
+      "name": "Side of the cylinder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_cylinder",
+      "provenance": {
+        "page": 25,
+        "quote": "Place the side of the cylinder block against the adaptor plate on the overhaul stand (Fig. 9). Use adaptor plate J 7622 (In-Line engine), J 8683 (6V engine) or J 21966 (8V engine) with overhaul stand J 6837-01.",
+        "verified": true,
+        "char_start": 332,
+        "char_end": 542,
+        "bbox": [
+          83.7599999999999,
+          463.88999999999993,
+          323.67719999999997,
+          517.337
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 25,
+        "quote": "Place the side of the cylinder block against the adaptor plate on the overhaul stand (Fig. 9). Use adaptor plate J 7622 (In-Line engine), J 8683 (6V engine) or J 21966 (8V engine) with overhaul stand J 6837-01.",
+        "verified": true,
+        "char_start": 332,
+        "char_end": 542,
+        "bbox": [
+          83.7599999999999,
+          463.88999999999993,
+          323.67719999999997,
+          517.337
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 25,
+        "quote": "Align the bolt holes in the adaptor plate with the holes in the cylinder block. Then install the 3/8 \"-16 and 5/16 \"'-18 bolts, with a flat washer under the head of each bolt, and tighten them securely. CAUTION: Be sure the engine is sec...",
+        "verified": true,
+        "char_start": 547,
+        "char_end": 977,
+        "bbox": [
+          83.75999999999993,
+          532.41,
+          323.8308,
+          643.6469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 25,
+        "quote": "Align the bolt holes in the adaptor plate with the holes in the cylinder block. Then install the 3/8 \"-16 and 5/16 \"'-18 bolts, with a flat washer under the head of each bolt, and tighten them securely. CAUTION: Be sure the engine is sec...",
+        "verified": true,
+        "char_start": 547,
+        "char_end": 977,
+        "bbox": [
+          83.75999999999993,
+          532.41,
+          323.8308,
+          643.6469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 25,
+        "quote": "Align the bolt holes in the adaptor plate with the holes in the cylinder block. Then install the 3/8 \"-16 and 5/16 \"'-18 bolts, with a flat washer under the head of each bolt, and tighten them securely. CAUTION: Be sure the engine is sec...",
+        "verified": true,
+        "char_start": 547,
+        "char_end": 977,
+        "bbox": [
+          83.75999999999993,
+          532.41,
+          323.8308,
+          643.6469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "steel_plate",
+      "name": "Steel plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "steel_plate",
+      "provenance": {
+        "page": 25,
+        "quote": "With the engine mounted on the overhaul stand, remove all of the remaining sub-assemblies and parts from the cylinder block. The procedure for removing each sub-assembly from Fig. 9 - Engine Mounted on Overhaul Stand the cylinder block. ...",
+        "verified": true,
+        "char_start": 982,
+        "char_end": 1485,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 25,
+        "quote": "With the engine mounted on the overhaul stand, remove all of the remaining sub-assemblies and parts from the cylinder block. The procedure for removing each sub-assembly from Fig. 9 - Engine Mounted on Overhaul Stand the cylinder block. ...",
+        "verified": true,
+        "char_start": 982,
+        "char_end": 1485,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Drain the cooling system. The current 8V service cylinder block now incorporates an oil drain at each corner of the block. 2. Drain the lubricating oil. New service replacement cylinder block assemblies",
+      "source_number": 1,
+      "installs": [
+        "engine_front_cover_current",
+        "of_the_block"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Drain the cooling system. The current 8V service cylinder block now incorporates an oil drain at each corner of the block. 2. Drain the lubricating oil. New service replacement cylinder block assemblies",
+        "verified": true,
+        "char_start": 616,
+        "char_end": 818,
+        "bbox": [
+          95.52000000000004,
+          423.2099999999999,
+          484.10892,
+          477.01199999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Disconnect the fuel lines. include the main bearing caps, bolts and washers and the camshaft bearings (bushings). The dowels and the",
+      "source_number": 3,
+      "installs": [
+        "fuel_line",
+        "main_bearing_cap",
+        "engine_front_cover_bolt",
+        "another_drive_flange_washer",
+        "camshaft",
+        "bearing_the_end_bearing",
+        "connecting_rod_bushing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the fuel lines. include the main bearing caps, bolts and washers and the camshaft bearings (bushings). The dowels and the",
+        "verified": true,
+        "char_start": 822,
+        "char_end": 954,
+        "bbox": [
+          95.76000000000005,
+          469.72799999999995,
+          483.00096,
+          498.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the air silencer or air cleaner and mounting necessary plugs are also included. bracket. Since the cylinder block is the main structural part of",
+      "source_number": 4,
+      "installs": [
+        "air_silencer",
+        "air_cleaner",
+        "battery_charging_generator_mounting",
+        "edge_of_the_plug",
+        "booster_spring_bracket",
+        "main"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air silencer or air cleaner and mounting necessary plugs are also included. bracket. Since the cylinder block is the main structural part of",
+        "verified": true,
+        "char_start": 958,
+        "char_end": 1109,
+        "bbox": [
+          95.52,
+          489.5709999999999,
+          599.3912000000001,
+          531.8499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the turbocharger, if used. the engine, the various sub-assemblies must be removed from the cylinder block when an engine is 6. Remove the blower on In-Line engines. overhauled.",
+      "source_number": 5,
+      "installs": [
+        "turbocharger",
+        "assembly_examine_the_blower",
+        "tbe_lubricating_oil_line"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the turbocharger, if used. the engine, the various sub-assemblies must be removed from the cylinder block when an engine is 6. Remove the blower on In-Line engines. overhauled.",
+        "verified": true,
+        "char_start": 1113,
+        "char_end": 1296,
+        "bbox": [
+          95.52000000000007,
+          523.1309999999999,
+          544.88,
+          564.4989999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Disconnect the exhaust piping and remove the The hydraulically operated overhaul stand (Fig. 9) exhaust manifold(s). provides a convenient support when stripping a cylinder block. The engine is mounted in an upright",
+      "source_number": 7,
+      "installs": [
+        "exhaust_piping",
+        "hydraulically_operated",
+        "nut_securing_fig",
+        "exhaust_manifold",
+        "blower_drive_support"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the exhaust piping and remove the The hydraulically operated overhaul stand (Fig. 9) exhaust manifold(s). provides a convenient support when stripping a cylinder block. The engine is mounted in an upright",
+        "verified": true,
+        "char_start": 1300,
+        "char_end": 1515,
+        "bbox": [
+          95.28,
+          567.4499999999999,
+          601.2219,
+          608.7679999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Disconnect the throttle controls. position. It may then be tipped on its side, rotated in either direction 90 ? or 180 \u00b0 where it is locked in place",
+      "source_number": 8,
+      "installs": [
+        "throttle"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect the throttle controls. position. It may then be tipped on its side, rotated in either direction 90 ? or 180 \u00b0 where it is locked in place",
+        "verified": true,
+        "char_start": 1519,
+        "char_end": 1667,
+        "bbox": [
+          95.52000000000001,
+          603.1389999999999,
+          511.38984000000005,
+          630.612
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Disconnect and remove the starting motor, battery- and then, if desired, tipped back with either end or the charging generator and other electrical equipment. oil pan side up.",
+      "source_number": 9,
+      "installs": [
+        "starting_motor",
+        "battery_charging_generator"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Disconnect and remove the starting motor, battery- and then, if desired, tipped back with either end or the charging generator and other electrical equipment. oil pan side up.",
+        "verified": true,
+        "char_start": 1671,
+        "char_end": 1846,
+        "bbox": [
+          95.03999999999999,
+          623.132,
+          600.8248,
+          652.7069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the air compressor, if used. Remove and Disassemble Engine 11. Remove the radiator and fan guard or the heat exchanger and other related cooling system parts. Before mounting an engine on an overhaul stand. it 12. Remove the air box drain tubes and fittings.",
+      "source_number": 10,
+      "installs": [
+        "radiator",
+        "air_box_drain",
+        "end_of_each_tube",
+        "grease_fitting"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 23,
+        "quote": "Remove the air compressor, if used. Remove and Disassemble Engine 11. Remove the radiator and fan guard or the heat exchanger and other related cooling system parts. Before mounting an engine on an overhaul stand. it 12. Remove the air b...",
+        "verified": true,
+        "char_start": 1851,
+        "char_end": 2116,
+        "bbox": [
+          95.76,
+          656.473,
+          601.07,
+          722.891
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the air box covers. 14. Disconnect any lines or electrical connections.",
+      "source_number": 13,
+      "installs": [
+        "air_box_cover",
+        "loose_connection"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 24,
+        "quote": "Remove the air box covers. 14. Disconnect any lines or electrical connections.",
+        "verified": true,
+        "char_start": 121,
+        "char_end": 199,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Separate the engine from the transmission or other driven mechanism. ite ETT E \"M CYLINDER LINER \u2014 | 4 HOLES \u041e\u041d PASSAGE p | \u041e\u04a2 PASSAGE ! COMPRESSION GASKET:-",
+      "source_number": 15,
+      "installs": [
+        "transmission",
+        "cylinder_liner",
+        "of_the_oil_hole",
+        "compression_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 24,
+        "quote": "Separate the engine from the transmission or other driven mechanism. ite ETT E \"M CYLINDER LINER \u2014 | 4 HOLES \u041e\u041d PASSAGE p | \u041e\u04a2 PASSAGE ! COMPRESSION GASKET:-",
+        "verified": true,
+        "char_start": 204,
+        "char_end": 361,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Remove the engine mounting bolts.",
+      "source_number": 16,
+      "installs": [
+        "engine_mounting_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 25,
+        "quote": "Remove the engine mounting bolts.",
+        "verified": true,
+        "char_start": 85,
+        "char_end": 118,
+        "bbox": [
+          100.56,
+          356.16499999999996,
+          252.49139999999997,
+          366.16499999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Use a chain hoist and suitable sling attached to the engine lifting brackets to lift the engine. CAUTION: Do not lift a V-type engine by the webs in the air inlet opening at the top of the cylinder block.",
+      "source_number": 17,
+      "installs": [
+        "chain_hoist"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Do not lift a V-type engine by the webs in the air inlet opening at the top of the cylinder block.",
+      "provenance": {
+        "page": 25,
+        "quote": "Use a chain hoist and suitable sling attached to the engine lifting brackets to lift the engine. CAUTION: Do not lift a V-type engine by the webs in the air inlet opening at the top of the cylinder block.",
+        "verified": true,
+        "char_start": 123,
+        "char_end": 327,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Place the side of the cylinder block against the adaptor plate on the overhaul stand (Fig. 9). Use adaptor plate J 7622 (In-Line engine), J 8683 (6V engine) or J 21966 (8V engine) with overhaul stand J 6837-01.",
+      "source_number": 18,
+      "installs": [
+        "side_of_the_cylinder",
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [
+        "s01",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 25,
+        "quote": "Place the side of the cylinder block against the adaptor plate on the overhaul stand (Fig. 9). Use adaptor plate J 7622 (In-Line engine), J 8683 (6V engine) or J 21966 (8V engine) with overhaul stand J 6837-01.",
+        "verified": true,
+        "char_start": 332,
+        "char_end": 542,
+        "bbox": [
+          83.7599999999999,
+          463.88999999999993,
+          323.67719999999997,
+          517.337
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Align the bolt holes in the adaptor plate with the holes in the cylinder block. Then install the 3/8 \"-16 and 5/16 \"'-18 bolts, with a flat washer under the head of each bolt, and tighten them securely. CAUTION: Be sure the engine is securely mounted to the overhaul stand before releasing the lifting sling. Severe injury to personnel and destruction of engine parts will result if the engine breaks away from the overhaul stand.",
+      "source_number": 19,
+      "installs": [
+        "bolt_hole",
+        "flat_washer",
+        "cylinder_head"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s10",
+        "s13"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Be sure the engine is securely mounted to the overhaul stand before releasing the lifting sling.",
+      "provenance": {
+        "page": 25,
+        "quote": "Align the bolt holes in the adaptor plate with the holes in the cylinder block. Then install the 3/8 \"-16 and 5/16 \"'-18 bolts, with a flat washer under the head of each bolt, and tighten them securely. CAUTION: Be sure the engine is sec...",
+        "verified": true,
+        "char_start": 547,
+        "char_end": 977,
+        "bbox": [
+          83.75999999999993,
+          532.41,
+          323.8308,
+          643.6469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "With the engine mounted on the overhaul stand, remove all of the remaining sub-assemblies and parts from the cylinder block. The procedure for removing each sub-assembly from Fig. 9 - Engine Mounted on Overhaul Stand the cylinder block. together with disassembly, inspec- tion, repair and reassembly of each, wil! be found in the various sections of this manual. After stripping. the cylinder block must be thoroughly cleaned and inspected. V?\" STEEL PLATE Fig. 10 - Cylinder Block Prepared for Pressure",
+      "source_number": 20,
+      "installs": [
+        "steel_plate",
+        "clamping_pressure"
+      ],
+      "depends_on": [
+        "s01",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 25,
+        "quote": "With the engine mounted on the overhaul stand, remove all of the remaining sub-assemblies and parts from the cylinder block. The procedure for removing each sub-assembly from Fig. 9 - Engine Mounted on Overhaul Stand the cylinder block. ...",
+        "verified": true,
+        "char_start": 982,
+        "char_end": 1485,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

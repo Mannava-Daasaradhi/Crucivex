@@ -1,0 +1,856 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.308 - Note and record the position of the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "oil_inlet_elbow",
+      "name": "Oil inlet elbow",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_inlet_elbow",
+      "provenance": {
+        "page": 308,
+        "quote": "If necessary. remove the oil inlet elbow from the governor housing oil inlet plug.",
+        "verified": true,
+        "char_start": 729,
+        "char_end": 811,
+        "bbox": [
+          351.84,
+          509.768,
+          588.64893,
+          529.3129999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 308,
+        "quote": "If necessary. remove the oil inlet elbow from the governor housing oil inlet plug.",
+        "verified": true,
+        "char_start": 729,
+        "char_end": 811,
+        "bbox": [
+          351.84,
+          509.768,
+          588.64893,
+          529.3129999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_inlet_plug",
+      "name": "Oil inlet plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_inlet_plug",
+      "provenance": {
+        "page": 308,
+        "quote": "If necessary. remove the oil inlet elbow from the governor housing oil inlet plug.",
+        "verified": true,
+        "char_start": 729,
+        "char_end": 811,
+        "bbox": [
+          351.84,
+          509.768,
+          588.64893,
+          529.3129999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 308,
+        "quote": "On a governor equipped with a synchronizing.",
+        "verified": true,
+        "char_start": 953,
+        "char_end": 997,
+        "bbox": [
+          367.2,
+          574.65,
+          589.0488000000001,
+          584.65
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_adjusting_screw",
+      "name": "Speed adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_screw",
+      "provenance": {
+        "page": 308,
+        "quote": "Loosen the maximum speed adjusting screw lock nut",
+        "verified": true,
+        "char_start": 1310,
+        "char_end": 1359,
+        "bbox": [
+          363.12,
+          663.607,
+          588.63249,
+          672.607
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 308,
+        "quote": "Loosen the maximum speed adjusting screw lock nut",
+        "verified": true,
+        "char_start": 1310,
+        "char_end": 1359,
+        "bbox": [
+          363.12,
+          663.607,
+          588.63249,
+          672.607
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_adjusting_lever",
+      "name": "Speed adjusting lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_lever",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed adjusting lever roll (spring) pin from the speed adjusting lever and the lever shaft with a small punch and hammer as shown in Fig. 8.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 312,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed adjusting lever roll (spring) pin from the speed adjusting lever and the lever shaft with a small punch and hammer as shown in Fig. 8.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 312,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed adjusting lever roll (spring) pin from the speed adjusting lever and the lever shaft with a small punch and hammer as shown in Fig. 8.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 312,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed adjusting lever roll (spring) pin from the speed adjusting lever and the lever shaft with a small punch and hammer as shown in Fig. 8.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 312,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed adjusting lever roll (spring) pin from the speed adjusting lever and the lever shaft with a small punch and hammer as shown in Fig. 8.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 312,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed adjusting lever roll (spring) pin from the speed adjusting lever and the lever shaft with a small punch and hammer as shown in Fig. 8.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 312,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed adjusting lever roll (spring) pin from the speed adjusting lever and the lever shaft with a small punch and hammer as shown in Fig. 8.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 312,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "droop_adjusting_bracket",
+      "name": "Droop adjusting bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "droop_adjusting_bracket",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed droop adjusting bracket screw, lock washer and plain washer from the terminal lever; then remove the droop adjusting bracket from the speed adjusting floating lever and the terminal lever.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 791,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed droop adjusting bracket screw, lock washer and plain washer from the terminal lever; then remove the droop adjusting bracket from the speed adjusting floating lever and the terminal lever.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 791,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed droop adjusting bracket screw, lock washer and plain washer from the terminal lever; then remove the droop adjusting bracket from the speed adjusting floating lever and the terminal lever.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 791,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed droop adjusting bracket screw, lock washer and plain washer from the terminal lever; then remove the droop adjusting bracket from the speed adjusting floating lever and the terminal lever.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 791,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "terminal_lever",
+      "name": "Terminal lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "terminal_lever",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed droop adjusting bracket screw, lock washer and plain washer from the terminal lever; then remove the droop adjusting bracket from the speed adjusting floating lever and the terminal lever.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 791,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed droop adjusting bracket screw, lock washer and plain washer from the terminal lever; then remove the droop adjusting bracket from the speed adjusting floating lever and the terminal lever.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 791,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_adjusting_floating",
+      "name": "Speed adjusting floating",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_adjusting_floating",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed droop adjusting bracket screw, lock washer and plain washer from the terminal lever; then remove the droop adjusting bracket from the speed adjusting floating lever and the terminal lever.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 791,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_terminal",
+      "name": "Edge of the terminal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_terminal",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed droop adjusting bracket screw, lock washer and plain washer from the terminal lever; then remove the droop adjusting bracket from the speed adjusting floating lever and the terminal lever.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 791,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_fork",
+      "name": "Spring fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_fork",
+      "provenance": {
+        "page": 309,
+        "quote": "Lift the speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger as an assembly from the governor housing as shown in Fig. 9.",
+        "verified": true,
+        "char_start": 796,
+        "char_end": 956,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pilot_valve_plunger",
+      "name": "Pilot valve plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pilot_valve_plunger",
+      "provenance": {
+        "page": 309,
+        "quote": "Lift the speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger as an assembly from the governor housing as shown in Fig. 9.",
+        "verified": true,
+        "char_start": 796,
+        "char_end": 956,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the pilot valve plunger thrust \u2018bearing and the roll spring pin from the governor housing.",
+        "verified": true,
+        "char_start": 961,
+        "char_end": 1058,
+        "bbox": [
+          57.60000000000002,
+          680.01,
+          298.1601,
+          700.708
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spring_pin",
+      "name": "Spring pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_pin",
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the pilot valve plunger thrust \u2018bearing and the roll spring pin from the governor housing.",
+        "verified": true,
+        "char_start": 961,
+        "char_end": 1058,
+        "bbox": [
+          57.60000000000002,
+          680.01,
+          298.1601,
+          700.708
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 309,
+        "quote": "If necessary, the speed adjusting lever, floating lever. spring fork. speeder spring and pilot valve plunger and spring seat assembly may be disassembled as follows: a. Straighten the bent end of the wire pin securing the speed adjusting...",
+        "verified": true,
+        "char_start": 1353,
+        "char_end": 1701,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_may_be_disassembled",
+      "name": "Assembly may be disassembled",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_may_be_disassembled",
+      "provenance": {
+        "page": 309,
+        "quote": "If necessary, the speed adjusting lever, floating lever. spring fork. speeder spring and pilot valve plunger and spring seat assembly may be disassembled as follows: a. Straighten the bent end of the wire pin securing the speed adjusting...",
+        "verified": true,
+        "char_start": 1353,
+        "char_end": 1701,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_wire",
+      "name": "Lock wire",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_wire",
+      "provenance": {
+        "page": 309,
+        "quote": "If necessary, the speed adjusting lever, floating lever. spring fork. speeder spring and pilot valve plunger and spring seat assembly may be disassembled as follows: a. Straighten the bent end of the wire pin securing the speed adjusting...",
+        "verified": true,
+        "char_start": 1353,
+        "char_end": 1701,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 309,
+        "quote": "If necessary, the speed adjusting lever, floating lever. spring fork. speeder spring and pilot valve plunger and spring seat assembly may be disassembled as follows: a. Straighten the bent end of the wire pin securing the speed adjusting...",
+        "verified": true,
+        "char_start": 1353,
+        "char_end": 1701,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Note and record the position of the throttle control terminal lever on the governor terminal lever shaft. Loosen the bolt securing the lever to the shaft, then slide it off the shaft.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note and record the position of the throttle control terminal lever on the governor terminal lever shaft.",
+      "provenance": {
+        "page": 308,
+        "quote": "Note and record the position of the throttle control terminal lever on the governor terminal lever shaft. Loosen the bolt securing the lever to the shaft, then slide it off the shaft.",
+        "verified": true,
+        "char_start": 481,
+        "char_end": 664,
+        "bbox": [
+          351.84,
+          453.92799999999994,
+          587.82,
+          496.4389999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "If necessary. remove the oil inlet elbow from the governor housing oil inlet plug.",
+      "source_number": 3,
+      "installs": [
+        "oil_inlet_elbow",
+        "disassemble_governor_housing",
+        "oil_inlet_plug"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 308,
+        "quote": "If necessary. remove the oil inlet elbow from the governor housing oil inlet plug.",
+        "verified": true,
+        "char_start": 729,
+        "char_end": 811,
+        "bbox": [
+          351.84,
+          509.768,
+          588.64893,
+          529.3129999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "On a governor equipped with a synchronizing.",
+      "source_number": 5,
+      "installs": [
+        "blower_the_engine_governor"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 308,
+        "quote": "On a governor equipped with a synchronizing.",
+        "verified": true,
+        "char_start": 953,
+        "char_end": 997,
+        "bbox": [
+          367.2,
+          574.65,
+          589.0488000000001,
+          584.65
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Loosen the maximum speed adjusting screw lock nut",
+      "source_number": 7,
+      "installs": [
+        "speed_adjusting_screw",
+        "bearing_lock_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 308,
+        "quote": "Loosen the maximum speed adjusting screw lock nut",
+        "verified": true,
+        "char_start": 1310,
+        "char_end": 1359,
+        "bbox": [
+          363.12,
+          663.607,
+          588.63249,
+          672.607
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the speed adjusting lever roll (spring) pin from the speed adjusting lever and the lever shaft with a small punch and hammer as shown in Fig. 8.",
+      "source_number": 8,
+      "installs": [
+        "speed_adjusting_lever",
+        "end_of_the_spring",
+        "copper_plated_dowel_pin",
+        "engine_speed",
+        "of_the_stop_lever",
+        "end_of_the_shaft",
+        "nut_securing_fig"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed adjusting lever roll (spring) pin from the speed adjusting lever and the lever shaft with a small punch and hammer as shown in Fig. 8.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 312,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Note and record the position of the groove in the outside diameter of the speed adjusting lever shaft to ensure the groove will be installed in the same position at the time of assembly. Then pull the shaft out of the speed adjusting lever and the governor housing.",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note and record the position of the groove in the outside diameter of the speed adjusting lever shaft to ensure the groove will be installed in the same position at the time of assembly.",
+      "provenance": {
+        "page": 309,
+        "quote": "Note and record the position of the groove in the outside diameter of the speed adjusting lever shaft to ensure the groove will be installed in the same position at the time of assembly. Then pull the shaft out of the speed adjusting lev...",
+        "verified": true,
+        "char_start": 316,
+        "char_end": 581,
+        "bbox": [
+          57.59999999999991,
+          505.4119999999999,
+          300.04839999999996,
+          559.3159999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the speed droop adjusting bracket screw, lock washer and plain washer from the terminal lever; then remove the droop adjusting bracket from the speed adjusting floating lever and the terminal lever.",
+      "source_number": 10,
+      "installs": [
+        "droop_adjusting_bracket",
+        "of_the_buffer_screw",
+        "special_lock_washer",
+        "plain_washer",
+        "terminal_lever",
+        "booster_spring_bracket",
+        "speed_adjusting_floating",
+        "edge_of_the_terminal"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the speed droop adjusting bracket screw, lock washer and plain washer from the terminal lever; then remove the droop adjusting bracket from the speed adjusting floating lever and the terminal lever.",
+        "verified": true,
+        "char_start": 586,
+        "char_end": 791,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Lift the speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger as an assembly from the governor housing as shown in Fig. 9.",
+      "source_number": 11,
+      "installs": [
+        "spring_fork",
+        "pilot_valve_plunger"
+      ],
+      "depends_on": [
+        "s02",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 309,
+        "quote": "Lift the speed adjusting lever, floating lever, spring fork, speeder spring and pilot valve plunger as an assembly from the governor housing as shown in Fig. 9.",
+        "verified": true,
+        "char_start": 796,
+        "char_end": 956,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the pilot valve plunger thrust \u2018bearing and the roll spring pin from the governor housing.",
+      "source_number": 12,
+      "installs": [
+        "bearing_the_end_bearing",
+        "spring_pin"
+      ],
+      "depends_on": [
+        "s02",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 309,
+        "quote": "Remove the pilot valve plunger thrust \u2018bearing and the roll spring pin from the governor housing.",
+        "verified": true,
+        "char_start": 961,
+        "char_end": 1058,
+        "bbox": [
+          57.60000000000002,
+          680.01,
+          298.1601,
+          700.708
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "On a governor equipped with a synchronizing \u00c1",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 309,
+        "quote": "On a governor equipped with a synchronizing \u00c1",
+        "verified": true,
+        "char_start": 1063,
+        "char_end": 1108,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "If necessary, the speed adjusting lever, floating lever. spring fork. speeder spring and pilot valve plunger and spring seat assembly may be disassembled as follows: a. Straighten the bent end of the wire pin securing the speed adjusting lever and spring fork to the speed adjusting floating lever. b. Pull the pin out of the speed adjusting lever,",
+      "source_number": 14,
+      "installs": [
+        "drive_spring_seat",
+        "assembly_may_be_disassembled",
+        "lock_wire",
+        "governor_operating_fork"
+      ],
+      "depends_on": [
+        "s05",
+        "s07",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 309,
+        "quote": "If necessary, the speed adjusting lever, floating lever. spring fork. speeder spring and pilot valve plunger and spring seat assembly may be disassembled as follows: a. Straighten the bent end of the wire pin securing the speed adjusting...",
+        "verified": true,
+        "char_start": 1353,
+        "char_end": 1701,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

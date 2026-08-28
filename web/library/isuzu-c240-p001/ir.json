@@ -1,0 +1,250 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.19 - Loosen the drain plug (@ to drain...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "drain_plug",
+      "name": "Drain plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drain_plug",
+      "provenance": {
+        "page": 19,
+        "quote": "Loosen the drain plug (@ to drain the engine oil from the oil filter. Place a receptacle beneath the drain port to contain the drained oil.",
+        "verified": true,
+        "char_start": 64,
+        "char_end": 203,
+        "bbox": [
+          296.4,
+          203.91679999999997,
+          541.2458240000001,
+          254.06380000000013
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_filter",
+      "name": "Oil filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_filter",
+      "provenance": {
+        "page": 19,
+        "quote": "Loosen the drain plug (@ to drain the engine oil from the oil filter. Place a receptacle beneath the drain port to contain the drained oil.",
+        "verified": true,
+        "char_start": 64,
+        "char_end": 203,
+        "bbox": [
+          296.4,
+          203.91679999999997,
+          541.2458240000001,
+          254.06380000000013
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "center_bolt",
+      "name": "Center bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_bolt",
+      "provenance": {
+        "page": 19,
+        "quote": "Remove the center bolt @ and the filter body @ from the filter cover along with the filter element @.",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 308,
+        "bbox": [
+          296.40000000000003,
+          259.94870000000003,
+          542.9057200000001,
+          282.00126666666665
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "filter_body",
+      "name": "Filter body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter_body",
+      "provenance": {
+        "page": 19,
+        "quote": "Remove the center bolt @ and the filter body @ from the filter cover along with the filter element @.",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 308,
+        "bbox": [
+          296.40000000000003,
+          259.94870000000003,
+          542.9057200000001,
+          282.00126666666665
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head_cover",
+      "name": "Cylinder head cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_cover",
+      "provenance": {
+        "page": 19,
+        "quote": "Remove the center bolt @ and the filter body @ from the filter cover along with the filter element @.",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 308,
+        "bbox": [
+          296.40000000000003,
+          259.94870000000003,
+          542.9057200000001,
+          282.00126666666665
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Loosen the drain plug (@ to drain the engine oil from the oil filter. Place a receptacle beneath the drain port to contain the drained oil.",
+      "source_number": 1,
+      "installs": [
+        "drain_plug",
+        "oil_filter"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 19,
+        "quote": "Loosen the drain plug (@ to drain the engine oil from the oil filter. Place a receptacle beneath the drain port to contain the drained oil.",
+        "verified": true,
+        "char_start": 64,
+        "char_end": 203,
+        "bbox": [
+          296.4,
+          203.91679999999997,
+          541.2458240000001,
+          254.06380000000013
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the center bolt @ and the filter body @ from the filter cover along with the filter element @.",
+      "source_number": 2,
+      "installs": [
+        "center_bolt",
+        "filter_body",
+        "cylinder_head_cover"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 19,
+        "quote": "Remove the center bolt @ and the filter body @ from the filter cover along with the filter element @.",
+        "verified": true,
+        "char_start": 207,
+        "char_end": 308,
+        "bbox": [
+          296.40000000000003,
+          259.94870000000003,
+          542.9057200000001,
+          282.00126666666665
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Discard the used filter element.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 19,
+        "quote": "Discard the used filter element.",
+        "verified": true,
+        "char_start": 312,
+        "char_end": 344,
+        "bbox": [
+          297.12,
+          289.2191,
+          441.905584,
+          298.3191
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Wipe the oil filter fitting face clean with a rag. This will allow the new oil filter to seat properly.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 19,
+        "quote": "Wipe the oil filter fitting face clean with a rag. This will allow the new oil filter to seat properly.",
+        "verified": true,
+        "char_start": 348,
+        "char_end": 451,
+        "bbox": [
+          296.4,
+          304.3418,
+          542.4037679999999,
+          326.06556666666665
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

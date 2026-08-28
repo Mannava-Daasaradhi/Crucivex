@@ -1,0 +1,398 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.87 - On an 8V engine, check the extension...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 87,
+        "quote": "On an 8V engine, check the extension of the dowels from the. end of the crankshaft. The dowels must not extend more than 1/2\" from the crankshaft.",
+        "verified": true,
+        "char_start": 2001,
+        "char_end": 2147,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 87,
+        "quote": "If \u0430 pilot bearing is used in the bore of the flywheel and was removed, install the bearing. Install a new seal ring if one was previously used.",
+        "verified": true,
+        "char_start": 2151,
+        "char_end": 2295,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 87,
+        "quote": "If \u0430 pilot bearing is used in the bore of the flywheel and was removed, install the bearing. Install a new seal ring if one was previously used.",
+        "verified": true,
+        "char_start": 2151,
+        "char_end": 2295,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 87,
+        "quote": "If \u0430 pilot bearing is used in the bore of the flywheel and was removed, install the bearing. Install a new seal ring if one was previously used.",
+        "verified": true,
+        "char_start": 2151,
+        "char_end": 2295,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 87,
+        "quote": "If \u0430 pilot bearing is used in the bore of the flywheel and was removed, install the bearing. Install a new seal ring if one was previously used.",
+        "verified": true,
+        "char_start": 2151,
+        "char_end": 2295,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "chain_hoist",
+      "name": "Chain hoist",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "chain_hoist",
+      "provenance": {
+        "page": 87,
+        "quote": "Mount the flywheel. using lifting tool J 6361-01 and a chain hoist. in position against the rear end of the crankshaft.",
+        "verified": true,
+        "char_start": 2299,
+        "char_end": 2418,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 87,
+        "quote": "Apply a small quantity of International Compound No. 2, or equivalent, to the bolt threads and bolt head contact areas of the flywheel attaching bolts.",
+        "verified": true,
+        "char_start": 2422,
+        "char_end": 2573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 87,
+        "quote": "Apply a small quantity of International Compound No. 2, or equivalent, to the bolt threads and bolt head contact areas of the flywheel attaching bolts.",
+        "verified": true,
+        "char_start": 2422,
+        "char_end": 2573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 87,
+        "quote": "Apply a small quantity of International Compound No. 2, or equivalent, to the bolt threads and bolt head contact areas of the flywheel attaching bolts.",
+        "verified": true,
+        "char_start": 2422,
+        "char_end": 2573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 87,
+        "quote": "Apply a small quantity of International Compound No. 2, or equivalent, to the bolt threads and bolt head contact areas of the flywheel attaching bolts.",
+        "verified": true,
+        "char_start": 2422,
+        "char_end": 2573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flywheel_attaching_bolt",
+      "name": "Flywheel attaching bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_attaching_bolt",
+      "provenance": {
+        "page": 87,
+        "quote": "Apply a small quantity of International Compound No. 2, or equivalent, to the bolt threads and bolt head contact areas of the flywheel attaching bolts.",
+        "verified": true,
+        "char_start": 2422,
+        "char_end": 2573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 87,
+        "quote": "While holding the flywheel in place by hand, remove ihe flywheel lifting tool and install the flywheel attaching bolts and scuff plate. Tighten the bolts on all engines, except 8V engines, to 110-120 Ib- ft torque. On an 8V engine. tight...",
+        "verified": true,
+        "char_start": 2577,
+        "char_end": 2852,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 87,
+        "quote": "Mount a dial indicator on the flywheel housing or clutch housing and check the runout of the flywheel at the clutch contact face. Maximum allowable runout is 001\" total indicator reading per inch of radius (the radius is measured from th...",
+        "verified": true,
+        "char_start": 2856,
+        "char_end": 3180,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clutch_housing",
+      "name": "Clutch housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clutch_housing",
+      "provenance": {
+        "page": 87,
+        "quote": "Mount a dial indicator on the flywheel housing or clutch housing and check the runout of the flywheel at the clutch contact face. Maximum allowable runout is 001\" total indicator reading per inch of radius (the radius is measured from th...",
+        "verified": true,
+        "char_start": 2856,
+        "char_end": 3180,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 87,
+        "quote": "Mount a dial indicator on the flywheel housing or clutch housing and check the runout of the flywheel at the clutch contact face. Maximum allowable runout is 001\" total indicator reading per inch of radius (the radius is measured from th...",
+        "verified": true,
+        "char_start": 2856,
+        "char_end": 3180,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "On an 8V engine, check the extension of the dowels from the. end of the crankshaft. The dowels must not extend more than 1/2\" from the crankshaft.",
+      "source_number": 1,
+      "installs": [
+        "halve_of_the_crankshaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "must not extend more than 1/2\" from the crankshaft.",
+      "provenance": {
+        "page": 87,
+        "quote": "On an 8V engine, check the extension of the dowels from the. end of the crankshaft. The dowels must not extend more than 1/2\" from the crankshaft.",
+        "verified": true,
+        "char_start": 2001,
+        "char_end": 2147,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "If \u0430 pilot bearing is used in the bore of the flywheel and was removed, install the bearing. Install a new seal ring if one was previously used.",
+      "source_number": 2,
+      "installs": [
+        "needle_bearing_pilot",
+        "bearing_the_end_bearing",
+        "hammer_puller_set_flywheel",
+        "seal_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 87,
+        "quote": "If \u0430 pilot bearing is used in the bore of the flywheel and was removed, install the bearing. Install a new seal ring if one was previously used.",
+        "verified": true,
+        "char_start": 2151,
+        "char_end": 2295,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Mount the flywheel. using lifting tool J 6361-01 and a chain hoist. in position against the rear end of the crankshaft.",
+      "source_number": 3,
+      "installs": [
+        "chain_hoist"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 87,
+        "quote": "Mount the flywheel. using lifting tool J 6361-01 and a chain hoist. in position against the rear end of the crankshaft.",
+        "verified": true,
+        "char_start": 2299,
+        "char_end": 2418,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Apply a small quantity of International Compound No. 2, or equivalent, to the bolt threads and bolt head contact areas of the flywheel attaching bolts.",
+      "source_number": 4,
+      "installs": [
+        "bolt_thread",
+        "engine_front_cover_bolt",
+        "cylinder_head",
+        "contact",
+        "flywheel_attaching_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 87,
+        "quote": "Apply a small quantity of International Compound No. 2, or equivalent, to the bolt threads and bolt head contact areas of the flywheel attaching bolts.",
+        "verified": true,
+        "char_start": 2422,
+        "char_end": 2573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "While holding the flywheel in place by hand, remove ihe flywheel lifting tool and install the flywheel attaching bolts and scuff plate. Tighten the bolts on all engines, except 8V engines, to 110-120 Ib- ft torque. On an 8V engine. tighten the bolts to 180- 190 lb-ft torque.",
+      "source_number": 5,
+      "installs": [
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": 244.0,
+      "warning": null,
+      "provenance": {
+        "page": 87,
+        "quote": "While holding the flywheel in place by hand, remove ihe flywheel lifting tool and install the flywheel attaching bolts and scuff plate. Tighten the bolts on all engines, except 8V engines, to 110-120 Ib- ft torque. On an 8V engine. tight...",
+        "verified": true,
+        "char_start": 2577,
+        "char_end": 2852,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Mount a dial indicator on the flywheel housing or clutch housing and check the runout of the flywheel at the clutch contact face. Maximum allowable runout is 001\" total indicator reading per inch of radius (the radius is measured from the center of the flywheel to the outer edge of the clutch contact face of the flywheel).",
+      "source_number": 6,
+      "installs": [
+        "of_the_flywheel_housing",
+        "clutch_housing",
+        "idler_gear_outer"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 87,
+        "quote": "Mount a dial indicator on the flywheel housing or clutch housing and check the runout of the flywheel at the clutch contact face. Maximum allowable runout is 001\" total indicator reading per inch of radius (the radius is measured from th...",
+        "verified": true,
+        "char_start": 2856,
+        "char_end": 3180,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

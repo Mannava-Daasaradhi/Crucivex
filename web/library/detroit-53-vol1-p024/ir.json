@@ -1,0 +1,490 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.48 - Apply clean engine oil to the surface...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 48,
+        "quote": "Apply clean engine oil to the surface of the rocker arm shaft.",
+        "verified": true,
+        "char_start": 275,
+        "char_end": 337,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm_shaft",
+      "name": "Rocker arm shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm_shaft",
+      "provenance": {
+        "page": 48,
+        "quote": "Apply clean engine oil to the surface of the rocker arm shaft.",
+        "verified": true,
+        "char_start": 275,
+        "char_end": 337,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bracket_bolt",
+      "name": "Bracket bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bracket_bolt",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bind",
+      "name": "Bind",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bind",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_cylinder",
+      "name": "Valve cylinder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_cylinder",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_an_exhaust_valve",
+      "name": "Insert an exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_an_exhaust_valve",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "leaking_fuel_pipe",
+      "name": "Leaking fuel pipe",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "leaking_fuel_pipe",
+      "provenance": {
+        "page": 48,
+        "quote": "Align the fuel pipes and connect them to the injectors and the fuel connectors. Tighten the fuel pipe nuts to 12-15 Ib-ft torque with socket J 8932-01. CAUTION: Do not bend the fuel pipes and do not exceed the specified torque. Excessive...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1366,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 48,
+        "quote": "Align the fuel pipes and connect them to the injectors and the fuel connectors. Tighten the fuel pipe nuts to 12-15 Ib-ft torque with socket J 8932-01. CAUTION: Do not bend the fuel pipes and do not exceed the specified torque. Excessive...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1366,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_connector",
+      "name": "Fuel connector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_connector",
+      "provenance": {
+        "page": 48,
+        "quote": "Align the fuel pipes and connect them to the injectors and the fuel connectors. Tighten the fuel pipe nuts to 12-15 Ib-ft torque with socket J 8932-01. CAUTION: Do not bend the fuel pipes and do not exceed the specified torque. Excessive...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1366,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pipe_nut",
+      "name": "Fuel pipe nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pipe_nut",
+      "provenance": {
+        "page": 48,
+        "quote": "Align the fuel pipes and connect them to the injectors and the fuel connectors. Tighten the fuel pipe nuts to 12-15 Ib-ft torque with socket J 8932-01. CAUTION: Do not bend the fuel pipes and do not exceed the specified torque. Excessive...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1366,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_injector",
+      "name": "Fuel injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_injector",
+      "provenance": {
+        "page": 48,
+        "quote": "Adjust the exhaust valve clearance and time the fuel injector as outlined in Section 14.1 and 142 before starting the engine.",
+        "verified": true,
+        "char_start": 1398,
+        "char_end": 1523,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 48,
+        "quote": "Adjust the exhaust valve clearance and time the fuel injector as outlined in Section 14.1 and 142 before starting the engine.",
+        "verified": true,
+        "char_start": 1398,
+        "char_end": 1523,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply clean engine oil to the surface of the rocker arm shaft.",
+      "source_number": 2,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "rocker_arm_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 48,
+        "quote": "Apply clean engine oil to the surface of the rocker arm shaft.",
+        "verified": true,
+        "char_start": 275,
+        "char_end": 337,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bind between the rocker arms. CAUTION: On four valve cylinder heads, there is a possibility of damaging the exhaust valves if the valve bridges are not resting on the ends of the valves when tightening the rocker arm shaft bracket bolts (Fig. 12). Therefore, note the position of the exhaust valve bridges before, during and after tightening the rocker arm shaft bracket bolts.",
+      "source_number": 3,
+      "installs": [
+        "rocker_arm",
+        "end_of_the_shaft",
+        "bracket_bolt",
+        "engine_front_cover_bolt",
+        "bind",
+        "valve_cylinder",
+        "cylinder_head",
+        "insert_an_exhaust_valve",
+        "engine_front_cover_valve",
+        "booster_spring_bracket",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "note the position of the exhaust valve bridges before, during and after tightening the rocker arm shaft bracket bolts.",
+      "provenance": {
+        "page": 48,
+        "quote": "Install the rocker arms and rocker arm shaft by reversing the sequence of operations for removal. Tighten the rocker arm shaft bracket bolts to 50-55 Ib- ft torque. After tightening the bolts, check for some side clearance to prevent bin...",
+        "verified": true,
+        "char_start": 341,
+        "char_end": 952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Align the fuel pipes and connect them to the injectors and the fuel connectors. Tighten the fuel pipe nuts to 12-15 Ib-ft torque with socket J 8932-01. CAUTION: Do not bend the fuel pipes and do not exceed the specified torque. Excessive ughtening will twist or fracture the flared ends of the fuel pipes and result in leaks. Lubricating oil diluted by fuel oil can cause serious damage to the engine bearings.",
+      "source_number": 4,
+      "installs": [
+        "leaking_fuel_pipe",
+        "end_of_the_injector",
+        "fuel_connector",
+        "fuel_pipe_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 16.3,
+      "warning": "CAUTION: Do not bend the fuel pipes and do not exceed the specified torque.",
+      "provenance": {
+        "page": 48,
+        "quote": "Align the fuel pipes and connect them to the injectors and the fuel connectors. Tighten the fuel pipe nuts to 12-15 Ib-ft torque with socket J 8932-01. CAUTION: Do not bend the fuel pipes and do not exceed the specified torque. Excessive...",
+        "verified": true,
+        "char_start": 956,
+        "char_end": 1366,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Fill the cooling system.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 48,
+        "quote": "Fill the cooling system.",
+        "verified": true,
+        "char_start": 1370,
+        "char_end": 1394,
+        "bbox": [
+          320.40000000000003,
+          242.45499999999993,
+          419.0896,
+          250.45499999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Adjust the exhaust valve clearance and time the fuel injector as outlined in Section 14.1 and 142 before starting the engine.",
+      "source_number": 6,
+      "installs": [
+        "fuel_injector",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 48,
+        "quote": "Adjust the exhaust valve clearance and time the fuel injector as outlined in Section 14.1 and 142 before starting the engine.",
+        "verified": true,
+        "char_start": 1398,
+        "char_end": 1523,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Start the engine and check for leaks in the fuel, cooling and lubrication systems.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 48,
+        "quote": "Start the engine and check for leaks in the fuel, cooling and lubrication systems.",
+        "verified": true,
+        "char_start": 1527,
+        "char_end": 1609,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Tune-up the engine. as outlined in Section 14, after the engine reaches normal operating temperature.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 48,
+        "quote": "Tune-up the engine. as outlined in Section 14, after the engine reaches normal operating temperature.",
+        "verified": true,
+        "char_start": 1613,
+        "char_end": 1714,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

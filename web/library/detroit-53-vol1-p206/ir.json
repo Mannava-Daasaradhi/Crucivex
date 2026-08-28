@@ -1,0 +1,535 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.362 - Affix a new blower-to-block gasket on the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 362,
+        "quote": "Affix a new blower-to-block gasket on the side of the cylinder block. Use Scotch Grip Rubber Adhesive No. 4300. or equivalent, only on the block side of the gasket.",
+        "verified": true,
+        "char_start": 638,
+        "char_end": 802,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 362,
+        "quote": "Affix a new blower-to-block gasket on the side of the cylinder block. Use Scotch Grip Rubber Adhesive No. 4300. or equivalent, only on the block side of the gasket.",
+        "verified": true,
+        "char_start": 638,
+        "char_end": 802,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 362,
+        "quote": "Affix a new blower-to-block gasket on the side of the cylinder block. Use Scotch Grip Rubber Adhesive No. 4300. or equivalent, only on the block side of the gasket.",
+        "verified": true,
+        "char_start": 638,
+        "char_end": 802,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "side_of_the_cylinder",
+      "name": "Side of the cylinder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "side_of_the_cylinder",
+      "provenance": {
+        "page": 362,
+        "quote": "Affix a new blower-to-block gasket on the side of the cylinder block. Use Scotch Grip Rubber Adhesive No. 4300. or equivalent, only on the block side of the gasket.",
+        "verified": true,
+        "char_start": 638,
+        "char_end": 802,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_end_plate",
+      "name": "Front end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_end_plate",
+      "provenance": {
+        "page": 362,
+        "quote": "Position the blower front end plate and gasket on the end of the blower and install six bolts with two special washers on the center bolts and the reinforcement plates on the two top and two bottom \u0411 le 34\u201d gw onl",
+        "verified": true,
+        "char_start": 806,
+        "char_end": 1019,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 362,
+        "quote": "Position the blower front end plate and gasket on the end of the blower and install six bolts with two special washers on the center bolts and the reinforcement plates on the two top and two bottom \u0411 le 34\u201d gw onl",
+        "verified": true,
+        "char_start": 806,
+        "char_end": 1019,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_washer",
+      "name": "Special washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_washer",
+      "provenance": {
+        "page": 362,
+        "quote": "Position the blower front end plate and gasket on the end of the blower and install six bolts with two special washers on the center bolts and the reinforcement plates on the two top and two bottom \u0411 le 34\u201d gw onl",
+        "verified": true,
+        "char_start": 806,
+        "char_end": 1019,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "center_bolt",
+      "name": "Center bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_bolt",
+      "provenance": {
+        "page": 362,
+        "quote": "Position the blower front end plate and gasket on the end of the blower and install six bolts with two special washers on the center bolts and the reinforcement plates on the two top and two bottom \u0411 le 34\u201d gw onl",
+        "verified": true,
+        "char_start": 806,
+        "char_end": 1019,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 362,
+        "quote": "Position the blower front end plate and gasket on the end of the blower and install six bolts with two special washers on the center bolts and the reinforcement plates on the two top and two bottom \u0411 le 34\u201d gw onl",
+        "verified": true,
+        "char_start": 806,
+        "char_end": 1019,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 362,
+        "quote": "Place the blower on the cylinder block locating flanges and, while holding the blower in place, thread the six bolts finger tight in the rear engine end plate and flywheel housing. Then install the blower-to-block mounting bolts and wash...",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1779,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 362,
+        "quote": "Place the blower on the cylinder block locating flanges and, while holding the blower in place, thread the six bolts finger tight in the rear engine end plate and flywheel housing. Then install the blower-to-block mounting bolts and wash...",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1779,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 362,
+        "quote": "Place the blower on the cylinder block locating flanges and, while holding the blower in place, thread the six bolts finger tight in the rear engine end plate and flywheel housing. Then install the blower-to-block mounting bolts and wash...",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1779,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 362,
+        "quote": "Place the blower on the cylinder block locating flanges and, while holding the blower in place, thread the six bolts finger tight in the rear engine end plate and flywheel housing. Then install the blower-to-block mounting bolts and wash...",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1779,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_to_block_mounting_bolt",
+      "name": "Blower-to-block mounting bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_to_block_mounting_bolt",
+      "provenance": {
+        "page": 362,
+        "quote": "Place the blower on the cylinder block locating flanges and, while holding the blower in place, thread the six bolts finger tight in the rear engine end plate and flywheel housing. Then install the blower-to-block mounting bolts and wash...",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1779,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 362,
+        "quote": "Place the blower on the cylinder block locating flanges and, while holding the blower in place, thread the six bolts finger tight in the rear engine end plate and flywheel housing. Then install the blower-to-block mounting bolts and wash...",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1779,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "center_blower_to_end_plate",
+      "name": "Center blower-to-end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_blower_to_end_plate",
+      "provenance": {
+        "page": 362,
+        "quote": "Tighten the center blower-to-end plate bolts first and then the top and bottom bolts to 20-25 lb-ft torque. Then tighten the blower-to-block bolts to 55-60 lb-ft torque.",
+        "verified": true,
+        "char_start": 1783,
+        "char_end": 1952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_to_block_bolt",
+      "name": "Blower-to-block bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_to_block_bolt",
+      "provenance": {
+        "page": 362,
+        "quote": "Tighten the center blower-to-end plate bolts first and then the top and bottom bolts to 20-25 lb-ft torque. Then tighten the blower-to-block bolts to 55-60 lb-ft torque.",
+        "verified": true,
+        "char_start": 1783,
+        "char_end": 1952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 362,
+        "quote": "Check the backlash between the upper rotor gear and the camshaft or balance shaft gear. The backlash should be .003 \"' to .007 \u201d.",
+        "verified": true,
+        "char_start": 1956,
+        "char_end": 2085,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_rotor_gear",
+      "name": "Blower rotor gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_rotor_gear",
+      "provenance": {
+        "page": 362,
+        "quote": "Check the backlash between the upper rotor gear and the camshaft or balance shaft gear. The backlash should be .003 \"' to .007 \u201d.",
+        "verified": true,
+        "char_start": 1956,
+        "char_end": 2085,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 362,
+        "quote": "Check the backlash between the upper rotor gear and the camshaft or balance shaft gear. The backlash should be .003 \"' to .007 \u201d.",
+        "verified": true,
+        "char_start": 1956,
+        "char_end": 2085,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 362,
+        "quote": "Check the backlash between the upper rotor gear and the camshaft or balance shaft gear. The backlash should be .003 \"' to .007 \u201d.",
+        "verified": true,
+        "char_start": 1956,
+        "char_end": 2085,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 362,
+        "quote": "Check the backlash between the upper rotor gear and the camshaft or balance shaft gear. The backlash should be .003 \"' to .007 \u201d.",
+        "verified": true,
+        "char_start": 1956,
+        "char_end": 2085,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_shut_down_housing",
+      "name": "Air shut-down housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_shut_down_housing",
+      "provenance": {
+        "page": 362,
+        "quote": "Install the air shut-down housing (Section 3.3). 4-53 ENGINE BLOWER",
+        "verified": true,
+        "char_start": 2089,
+        "char_end": 2156,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Affix a new blower-to-block gasket on the side of the cylinder block. Use Scotch Grip Rubber Adhesive No. 4300. or equivalent, only on the block side of the gasket.",
+      "source_number": 1,
+      "installs": [
+        "assembly_examine_the_blower",
+        "of_the_block",
+        "head_gasket",
+        "side_of_the_cylinder"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 362,
+        "quote": "Affix a new blower-to-block gasket on the side of the cylinder block. Use Scotch Grip Rubber Adhesive No. 4300. or equivalent, only on the block side of the gasket.",
+        "verified": true,
+        "char_start": 638,
+        "char_end": 802,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Position the blower front end plate and gasket on the end of the blower and install six bolts with two special washers on the center bolts and the reinforcement plates on the two top and two bottom \u0411 le 34\u201d gw onl",
+      "source_number": 2,
+      "installs": [
+        "front_end_plate",
+        "engine_front_cover_bolt",
+        "special_washer",
+        "center_bolt",
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 362,
+        "quote": "Position the blower front end plate and gasket on the end of the blower and install six bolts with two special washers on the center bolts and the reinforcement plates on the two top and two bottom \u0411 le 34\u201d gw onl",
+        "verified": true,
+        "char_start": 806,
+        "char_end": 1019,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place the blower on the cylinder block locating flanges and, while holding the blower in place, thread the six bolts finger tight in the rear engine end plate and flywheel housing. Then install the blower-to-block mounting bolts and washers and tighten them to 10-15 Ib-ft torque.",
+      "source_number": 3,
+      "installs": [
+        "flange",
+        "bolt_thread",
+        "locknut_finger_tight",
+        "of_the_flywheel_housing",
+        "blower_to_block_mounting_bolt",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 13.6,
+      "warning": null,
+      "provenance": {
+        "page": 362,
+        "quote": "Place the blower on the cylinder block locating flanges and, while holding the blower in place, thread the six bolts finger tight in the rear engine end plate and flywheel housing. Then install the blower-to-block mounting bolts and wash...",
+        "verified": true,
+        "char_start": 1499,
+        "char_end": 1779,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Tighten the center blower-to-end plate bolts first and then the top and bottom bolts to 20-25 lb-ft torque. Then tighten the blower-to-block bolts to 55-60 lb-ft torque.",
+      "source_number": 4,
+      "installs": [
+        "center_blower_to_end_plate",
+        "blower_to_block_bolt"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": null,
+      "provenance": {
+        "page": 362,
+        "quote": "Tighten the center blower-to-end plate bolts first and then the top and bottom bolts to 20-25 lb-ft torque. Then tighten the blower-to-block bolts to 55-60 lb-ft torque.",
+        "verified": true,
+        "char_start": 1783,
+        "char_end": 1952,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Check the backlash between the upper rotor gear and the camshaft or balance shaft gear. The backlash should be .003 \"' to .007 \u201d.",
+      "source_number": 5,
+      "installs": [
+        "hammer_spring_scale_upper",
+        "blower_rotor_gear",
+        "camshaft",
+        "end_of_the_shaft",
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 362,
+        "quote": "Check the backlash between the upper rotor gear and the camshaft or balance shaft gear. The backlash should be .003 \"' to .007 \u201d.",
+        "verified": true,
+        "char_start": 1956,
+        "char_end": 2085,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install the air shut-down housing (Section 3.3). 4-53 ENGINE BLOWER",
+      "source_number": 6,
+      "installs": [
+        "air_shut_down_housing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 362,
+        "quote": "Install the air shut-down housing (Section 3.3). 4-53 ENGINE BLOWER",
+        "verified": true,
+        "char_start": 2089,
+        "char_end": 2156,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

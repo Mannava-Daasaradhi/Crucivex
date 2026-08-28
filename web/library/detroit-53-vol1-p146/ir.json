@@ -1,0 +1,839 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.260 - Loosen the clamp bolt and remove the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "injector_clamp_bolt",
+      "name": "Injector clamp bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_clamp_bolt",
+      "provenance": {
+        "page": 260,
+        "quote": "Loosen the clamp bolt and remove the speed control lever from the shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 1250,
+        "char_end": 1347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "speed_control_lever",
+      "name": "Speed control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_lever",
+      "provenance": {
+        "page": 260,
+        "quote": "Loosen the clamp bolt and remove the speed control lever from the shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 1250,
+        "char_end": 1347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 260,
+        "quote": "Loosen the clamp bolt and remove the speed control lever from the shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 1250,
+        "char_end": 1347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "woodruff_key",
+      "name": "Woodruff key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "woodruff_key",
+      "provenance": {
+        "page": 260,
+        "quote": "Loosen the clamp bolt and remove the speed control lever from the shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 1250,
+        "char_end": 1347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_lever",
+      "name": "Booster spring lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_lever",
+      "provenance": {
+        "page": 260,
+        "quote": "Loosen the clamp bolt and remove the booster spring lever, if used. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 1351,
+        "char_end": 1443,
+        "bbox": [
+          358.32,
+          563.087,
+          593.0096,
+          581.906
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the plain washer and seal ring. If a booster spring lever is used, a washer and seal ring is used at each end of the shaft (Fig. 6).",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 1586,
+        "bbox": [
+          358.3199999999998,
+          592.8899999999999,
+          595.0125999999998,
+          624.8609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the plain washer and seal ring. If a booster spring lever is used, a washer and seal ring is used at each end of the shaft (Fig. 6).",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 1586,
+        "bbox": [
+          358.3199999999998,
+          592.8899999999999,
+          595.0125999999998,
+          624.8609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the plain washer and seal ring. If a booster spring lever is used, a washer and seal ring is used at each end of the shaft (Fig. 6).",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 1586,
+        "bbox": [
+          358.3199999999998,
+          592.8899999999999,
+          595.0125999999998,
+          624.8609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the plain washer and seal ring. If a booster spring lever is used, a washer and seal ring is used at each end of the shaft (Fig. 6).",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 1586,
+        "bbox": [
+          358.3199999999998,
+          592.8899999999999,
+          595.0125999999998,
+          624.8609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the plain washer and seal ring. If a booster spring lever is used, a washer and seal ring is used at each end of the shaft (Fig. 6).",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 1586,
+        "bbox": [
+          358.3199999999998,
+          592.8899999999999,
+          595.0125999999998,
+          624.8609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the plain washer and seal ring. If a booster spring lever is used, a washer and seal ring is used at each end of the shaft (Fig. 6).",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 1586,
+        "bbox": [
+          358.3199999999998,
+          592.8899999999999,
+          595.0125999999998,
+          624.8609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_housing_cover",
+      "name": "Spring housing cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_housing_cover",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "set_screw",
+      "name": "Set screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "set_screw",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_former",
+      "name": "Of the former",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_former",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pipe_plug",
+      "name": "Pipe plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pipe_plug",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 261,
+        "quote": "Support the spring housing in an arbor press. Use a an arbor press: use wood blocks to prevent damage to brass rod to press the shaft. hearing and plug (if used) the dowel pins in the housing. Press on the shaft. using a rod small enough...",
+        "verified": true,
+        "char_start": 231,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_spring_housing",
+      "name": "Governor spring housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_spring_housing",
+      "provenance": {
+        "page": 261,
+        "quote": "Support the spring housing in an arbor press. Use a an arbor press: use wood blocks to prevent damage to brass rod to press the shaft. hearing and plug (if used) the dowel pins in the housing. Press on the shaft. using a rod small enough...",
+        "verified": true,
+        "char_start": 231,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "wood_block",
+      "name": "Wood block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wood_block",
+      "provenance": {
+        "page": 261,
+        "quote": "Support the spring housing in an arbor press. Use a an arbor press: use wood blocks to prevent damage to brass rod to press the shaft. hearing and plug (if used) the dowel pins in the housing. Press on the shaft. using a rod small enough...",
+        "verified": true,
+        "char_start": 231,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 261,
+        "quote": "Support the spring housing in an arbor press. Use a an arbor press: use wood blocks to prevent damage to brass rod to press the shaft. hearing and plug (if used) the dowel pins in the housing. Press on the shaft. using a rod small enough...",
+        "verified": true,
+        "char_start": 231,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 261,
+        "quote": "Support the spring housing in an arbor press. Use a an arbor press: use wood blocks to prevent damage to brass rod to press the shaft. hearing and plug (if used) the dowel pins in the housing. Press on the shaft. using a rod small enough...",
+        "verified": true,
+        "char_start": 231,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 261,
+        "quote": "Support the spring housing in an arbor press. Use a an arbor press: use wood blocks to prevent damage to brass rod to press the shaft. hearing and plug (if used) the dowel pins in the housing. Press on the shaft. using a rod small enough...",
+        "verified": true,
+        "char_start": 231,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 261,
+        "quote": "Support the spring housing in an arbor press. Use a an arbor press: use wood blocks to prevent damage to brass rod to press the shaft. hearing and plug (if used) the dowel pins in the housing. Press on the shaft. using a rod small enough...",
+        "verified": true,
+        "char_start": 231,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_lever_assembly",
+      "name": "Spring lever assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_lever_assembly",
+      "provenance": {
+        "page": 261,
+        "quote": "Remove the spring lever assembly. bearing.",
+        "verified": true,
+        "char_start": 577,
+        "char_end": 619,
+        "bbox": [
+          67.19999999999999,
+          364.93199999999996,
+          356.5004800000001,
+          374.525
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 261,
+        "quote": "Press the second bearing from the housing. 9. Place an end wrench between the operating fork and the governor housing and a rod on the end of the operating shaft. Then press the shaft out of the fork (Fig. 9).",
+        "verified": true,
+        "char_start": 623,
+        "char_end": 832,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 261,
+        "quote": "Press the second bearing from the housing. 9. Place an end wrench between the operating fork and the governor housing and a rod on the end of the operating shaft. Then press the shaft out of the fork (Fig. 9).",
+        "verified": true,
+        "char_start": 623,
+        "char_end": 832,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_operating",
+      "name": "End of the operating",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_operating",
+      "provenance": {
+        "page": 261,
+        "quote": "Press the second bearing from the housing. 9. Place an end wrench between the operating fork and the governor housing and a rod on the end of the operating shaft. Then press the shaft out of the fork (Fig. 9).",
+        "verified": true,
+        "char_start": 623,
+        "char_end": 832,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Loosen the clamp bolt and remove the speed control lever from the shaft. Remove the Woodruff key.",
+      "source_number": 1,
+      "installs": [
+        "injector_clamp_bolt",
+        "speed_control_lever",
+        "end_of_the_shaft",
+        "woodruff_key"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 260,
+        "quote": "Loosen the clamp bolt and remove the speed control lever from the shaft. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 1250,
+        "char_end": 1347,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Loosen the clamp bolt and remove the booster spring lever, if used. Remove the Woodruff key.",
+      "source_number": 2,
+      "installs": [
+        "booster_spring_lever"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 260,
+        "quote": "Loosen the clamp bolt and remove the booster spring lever, if used. Remove the Woodruff key.",
+        "verified": true,
+        "char_start": 1351,
+        "char_end": 1443,
+        "bbox": [
+          358.32,
+          563.087,
+          593.0096,
+          581.906
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the plain washer and seal ring. If a booster spring lever is used, a washer and seal ring is used at each end of the shaft (Fig. 6).",
+      "source_number": 3,
+      "installs": [
+        "plain_washer",
+        "seal_ring",
+        "another_drive_flange_washer",
+        "crankshaft_front_oil_seal",
+        "bottom_oil_ring",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 260,
+        "quote": "Remove the plain washer and seal ring. If a booster spring lever is used, a washer and seal ring is used at each end of the shaft (Fig. 6).",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 1586,
+        "bbox": [
+          358.3199999999998,
+          592.8899999999999,
+          595.0125999999998,
+          624.8609999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the opening, remove the set screw from the spring lever.",
+      "source_number": 4,
+      "installs": [
+        "engine_front_cover_current",
+        "blower_the_engine_governor",
+        "of_the_buffer_screw",
+        "special_lock_washer",
+        "spring_housing_cover",
+        "head_gasket",
+        "set_screw",
+        "of_the_former",
+        "pipe_plug",
+        "of_the_flywheel_housing",
+        "end_of_the_spring",
+        "of_the_stop_lever"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 260,
+        "quote": "On current governors, remove one screw and lock washer and remove the spring housing cover and gasket. Then remove the set screw from the spring lever. On former governors, remove the pipe plug from the housing and, working through the o...",
+        "verified": true,
+        "char_start": 1590,
+        "char_end": 1878,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Support the spring housing in an arbor press. Use a an arbor press: use wood blocks to prevent damage to brass rod to press the shaft. hearing and plug (if used) the dowel pins in the housing. Press on the shaft. using a rod small enough to pass through the bearing, until from the housing. the bearing is free of the shaft. Then withdraw the",
+      "source_number": 5,
+      "installs": [
+        "blower_drive_support",
+        "governor_spring_housing",
+        "wood_block",
+        "bearing_pilot_rod",
+        "edge_of_the_plug",
+        "copper_plated_dowel_pin",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 261,
+        "quote": "Support the spring housing in an arbor press. Use a an arbor press: use wood blocks to prevent damage to brass rod to press the shaft. hearing and plug (if used) the dowel pins in the housing. Press on the shaft. using a rod small enough...",
+        "verified": true,
+        "char_start": 231,
+        "char_end": 573,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the spring lever assembly. bearing.",
+      "source_number": 6,
+      "installs": [
+        "spring_lever_assembly"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 261,
+        "quote": "Remove the spring lever assembly. bearing.",
+        "verified": true,
+        "char_start": 577,
+        "char_end": 619,
+        "bbox": [
+          67.19999999999999,
+          364.93199999999996,
+          356.5004800000001,
+          374.525
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Press the second bearing from the housing. 9. Place an end wrench between the operating fork and the governor housing and a rod on the end of the operating shaft. Then press the shaft out of the fork (Fig. 9).",
+      "source_number": 7,
+      "installs": [
+        "governor_operating_fork",
+        "disassemble_governor_housing",
+        "end_of_the_operating"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 261,
+        "quote": "Press the second bearing from the housing. 9. Place an end wrench between the operating fork and the governor housing and a rod on the end of the operating shaft. Then press the shaft out of the fork (Fig. 9).",
+        "verified": true,
+        "char_start": 623,
+        "char_end": 832,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

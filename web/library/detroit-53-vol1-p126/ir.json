@@ -1,0 +1,894 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.240 - Remove the retaining rings from the weight...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "follower_retaining_ring",
+      "name": "Follower retaining ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_retaining_ring",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the retaining rings from the weight pins.",
+        "verified": true,
+        "char_start": 1478,
+        "char_end": 1526,
+        "bbox": [
+          342.0,
+          455.49099999999993,
+          570.3140000000001,
+          465.49099999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "weight_pin",
+      "name": "Weight pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_pin",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the retaining rings from the weight pins.",
+        "verified": true,
+        "char_start": 1478,
+        "char_end": 1526,
+        "bbox": [
+          342.0,
+          455.49099999999993,
+          570.3140000000001,
+          465.49099999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spring_pin",
+      "name": "Spring pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_pin",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the spring pin and washer and remove the Then drive the pins out of the carrier and the weights connecting link. by tapping on the grooved end of the pins. Remove the governor weights.",
+        "verified": true,
+        "char_start": 1530,
+        "char_end": 1721,
+        "bbox": [
+          60.47999999999996,
+          461.77,
+          569.2046,
+          498.15199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the spring pin and washer and remove the Then drive the pins out of the carrier and the weights connecting link. by tapping on the grooved end of the pins. Remove the governor weights.",
+        "verified": true,
+        "char_start": 1530,
+        "char_end": 1721,
+        "bbox": [
+          60.47999999999996,
+          461.77,
+          569.2046,
+          498.15199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the spring pin and washer and remove the Then drive the pins out of the carrier and the weights connecting link. by tapping on the grooved end of the pins. Remove the governor weights.",
+        "verified": true,
+        "char_start": 1530,
+        "char_end": 1721,
+        "bbox": [
+          60.47999999999996,
+          461.77,
+          569.2046,
+          498.15199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "weight_carrier",
+      "name": "Weight carrier",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_carrier",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the spring pin and washer and remove the Then drive the pins out of the carrier and the weights connecting link. by tapping on the grooved end of the pins. Remove the governor weights.",
+        "verified": true,
+        "char_start": 1530,
+        "char_end": 1721,
+        "bbox": [
+          60.47999999999996,
+          461.77,
+          569.2046,
+          498.15199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the spring pin and washer and remove the Then drive the pins out of the carrier and the weights connecting link. by tapping on the grooved end of the pins. Remove the governor weights.",
+        "verified": true,
+        "char_start": 1530,
+        "char_end": 1721,
+        "bbox": [
+          60.47999999999996,
+          461.77,
+          569.2046,
+          498.15199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "connecting_link",
+      "name": "Connecting link",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_link",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the spring pin and washer and remove the Then drive the pins out of the carrier and the weights connecting link. by tapping on the grooved end of the pins. Remove the governor weights.",
+        "verified": true,
+        "char_start": 1530,
+        "char_end": 1721,
+        "bbox": [
+          60.47999999999996,
+          461.77,
+          569.2046,
+          498.15199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "light_governor_weight",
+      "name": "Light governor weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "light_governor_weight",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the spring pin and washer and remove the Then drive the pins out of the carrier and the weights connecting link. by tapping on the grooved end of the pins. Remove the governor weights.",
+        "verified": true,
+        "char_start": 1530,
+        "char_end": 1721,
+        "bbox": [
+          60.47999999999996,
+          461.77,
+          569.2046,
+          498.15199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the spring pin and washer and remove the differential lever.",
+        "verified": true,
+        "char_start": 1725,
+        "char_end": 1792,
+        "bbox": [
+          60.71999999999997,
+          492.69199999999995,
+          302.4003,
+          513.5
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "control_link_lever",
+      "name": "Control link lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_lever",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with com...",
+        "verified": true,
+        "char_start": 1807,
+        "char_end": 2056,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with com...",
+        "verified": true,
+        "char_start": 1807,
+        "char_end": 2056,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with com...",
+        "verified": true,
+        "char_start": 1807,
+        "char_end": 2056,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with com...",
+        "verified": true,
+        "char_start": 1807,
+        "char_end": 2056,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with com...",
+        "verified": true,
+        "char_start": 1807,
+        "char_end": 2056,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with com...",
+        "verified": true,
+        "char_start": 1807,
+        "char_end": 2056,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "upper_operaung_shaft",
+      "name": "Upper operaung shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "upper_operaung_shaft",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with com...",
+        "verified": true,
+        "char_start": 1807,
+        "char_end": 2056,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with com...",
+        "verified": true,
+        "char_start": 1807,
+        "char_end": 2056,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with com...",
+        "verified": true,
+        "char_start": 1807,
+        "char_end": 2056,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing",
+      "name": "Needle bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing",
+      "provenance": {
+        "page": 240,
+        "quote": "Examine the needle bearings. [f they are sausfactory for further use, removal is unnecessary. NOTE: The operaung shaft bearing is sealed",
+        "verified": true,
+        "char_start": 2061,
+        "char_end": 2197,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 240,
+        "quote": "If the bearings require replacement. support the and must not be cleaned with fuel oil or other cleaning agent. control link lever on a sleeve placed on the bed of an arbor press. Then press the bearings out of the lever with bearing rem...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2557,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft_bearing",
+      "name": "Governor operating shaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft_bearing",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the operating shaft bearing retaining replace bearings which indicate rough or tight spots. screw and washer. The operating shaft and bearing are serviced only as an assembly.",
+        "verified": true,
+        "char_start": 2562,
+        "char_end": 2744,
+        "bbox": [
+          60.72,
+          652.2919999999999,
+          570.1426,
+          684.1399999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the operating shaft bearing retaining replace bearings which indicate rough or tight spots. screw and washer. The operating shaft and bearing are serviced only as an assembly.",
+        "verified": true,
+        "char_start": 2562,
+        "char_end": 2744,
+        "bbox": [
+          60.72,
+          652.2919999999999,
+          570.1426,
+          684.1399999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the operating shaft bearing retaining replace bearings which indicate rough or tight spots. screw and washer. The operating shaft and bearing are serviced only as an assembly.",
+        "verified": true,
+        "char_start": 2562,
+        "char_end": 2744,
+        "bbox": [
+          60.72,
+          652.2919999999999,
+          570.1426,
+          684.1399999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cup_plug",
+      "name": "Cup plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cup_plug",
+      "provenance": {
+        "page": 240,
+        "quote": "Tap the small cup plug out of the housing. Examine the riser thrust bearing for excessive wear,",
+        "verified": true,
+        "char_start": 2749,
+        "char_end": 2844,
+        "bbox": [
+          76.32,
+          684.733,
+          568.7204999999999,
+          705.612
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 240,
+        "quote": "Tap the small cup plug out of the housing. Examine the riser thrust bearing for excessive wear,",
+        "verified": true,
+        "char_start": 2749,
+        "char_end": 2844,
+        "bbox": [
+          76.32,
+          684.733,
+          568.7204999999999,
+          705.612
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "riser_thrust_bearing",
+      "name": "Riser thrust bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "riser_thrust_bearing",
+      "provenance": {
+        "page": 240,
+        "quote": "Tap the small cup plug out of the housing. Examine the riser thrust bearing for excessive wear,",
+        "verified": true,
+        "char_start": 2749,
+        "char_end": 2844,
+        "bbox": [
+          76.32,
+          684.733,
+          568.7204999999999,
+          705.612
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "block_of_wood",
+      "name": "Block of wood",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "block_of_wood",
+      "provenance": {
+        "page": 240,
+        "quote": "Place the governor housing, upside down, on wood flat spots or corrosion.",
+        "verified": true,
+        "char_start": 2849,
+        "char_end": 2922,
+        "bbox": [
+          77.28,
+          705.813,
+          424.1159999999998,
+          716.5079999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 240,
+        "quote": "Place the governor housing, upside down, on wood flat spots or corrosion.",
+        "verified": true,
+        "char_start": 2849,
+        "char_end": 2922,
+        "bbox": [
+          77.28,
+          705.813,
+          424.1159999999998,
+          716.5079999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the retaining rings from the weight pins.",
+      "source_number": 2,
+      "installs": [
+        "follower_retaining_ring",
+        "weight_pin"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the retaining rings from the weight pins.",
+        "verified": true,
+        "char_start": 1478,
+        "char_end": 1526,
+        "bbox": [
+          342.0,
+          455.49099999999993,
+          570.3140000000001,
+          465.49099999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the spring pin and washer and remove the Then drive the pins out of the carrier and the weights connecting link. by tapping on the grooved end of the pins. Remove the governor weights.",
+      "source_number": 7,
+      "installs": [
+        "spring_pin",
+        "another_drive_flange_washer",
+        "copper_plated_dowel_pin",
+        "weight_carrier",
+        "front_balance_weight",
+        "connecting_link",
+        "light_governor_weight"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the spring pin and washer and remove the Then drive the pins out of the carrier and the weights connecting link. by tapping on the grooved end of the pins. Remove the governor weights.",
+        "verified": true,
+        "char_start": 1530,
+        "char_end": 1721,
+        "bbox": [
+          60.47999999999996,
+          461.77,
+          569.2046,
+          498.15199999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the spring pin and washer and remove the differential lever.",
+      "source_number": 8,
+      "installs": [
+        "governor_differential_lever"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the spring pin and washer and remove the differential lever.",
+        "verified": true,
+        "char_start": 1725,
+        "char_end": 1792,
+        "bbox": [
+          60.71999999999997,
+          492.69199999999995,
+          302.4003,
+          513.5
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with compressed air.",
+      "source_number": 9,
+      "installs": [
+        "control_link_lever",
+        "drive_shaft_retainer",
+        "of_the_buffer_screw",
+        "of_the_stop_lever",
+        "end_of_the_shaft",
+        "valve_rocker_cover_clean",
+        "upper_operaung_shaft",
+        "disassemble_governor_housing",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the control link lever shaft retainer and screw. Then withdraw the control link lever. shaft and Clean all of the parts (except the operaung shaft two washers from the governor housing. bearing) with fuel oil and dry them with com...",
+        "verified": true,
+        "char_start": 1807,
+        "char_end": 2056,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Examine the needle bearings. [f they are sausfactory for further use, removal is unnecessary. NOTE: The operaung shaft bearing is sealed",
+      "source_number": 10,
+      "installs": [
+        "needle_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: The operaung shaft bearing is sealed",
+      "provenance": {
+        "page": 240,
+        "quote": "Examine the needle bearings. [f they are sausfactory for further use, removal is unnecessary. NOTE: The operaung shaft bearing is sealed",
+        "verified": true,
+        "char_start": 2061,
+        "char_end": 2197,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "If the bearings require replacement. support the and must not be cleaned with fuel oil or other cleaning agent. control link lever on a sleeve placed on the bed of an arbor press. Then press the bearings out of the lever with bearing remover J 8985 (Fig. 7). Inspect all bearings. Replace corroded or pitted bearings. Revolve ball bearings slowly by hand;",
+      "source_number": 11,
+      "installs": [
+        "blower_drive_support"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "must not be cleaned with fuel oil or other cleaning agent.",
+      "provenance": {
+        "page": 240,
+        "quote": "If the bearings require replacement. support the and must not be cleaned with fuel oil or other cleaning agent. control link lever on a sleeve placed on the bed of an arbor press. Then press the bearings out of the lever with bearing rem...",
+        "verified": true,
+        "char_start": 2202,
+        "char_end": 2557,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the operating shaft bearing retaining replace bearings which indicate rough or tight spots. screw and washer. The operating shaft and bearing are serviced only as an assembly.",
+      "source_number": 12,
+      "installs": [
+        "governor_operating_shaft_bearing",
+        "locknut_finger_tight",
+        "governor_operating_shaft"
+      ],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Remove the operating shaft bearing retaining replace bearings which indicate rough or tight spots. screw and washer. The operating shaft and bearing are serviced only as an assembly.",
+        "verified": true,
+        "char_start": 2562,
+        "char_end": 2744,
+        "bbox": [
+          60.72,
+          652.2919999999999,
+          570.1426,
+          684.1399999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Tap the small cup plug out of the housing. Examine the riser thrust bearing for excessive wear,",
+      "source_number": 13,
+      "installs": [
+        "cup_plug",
+        "of_the_flywheel_housing",
+        "riser_thrust_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Tap the small cup plug out of the housing. Examine the riser thrust bearing for excessive wear,",
+        "verified": true,
+        "char_start": 2749,
+        "char_end": 2844,
+        "bbox": [
+          76.32,
+          684.733,
+          568.7204999999999,
+          705.612
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Place the governor housing, upside down, on wood flat spots or corrosion.",
+      "source_number": 14,
+      "installs": [
+        "block_of_wood",
+        "flat"
+      ],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 240,
+        "quote": "Place the governor housing, upside down, on wood flat spots or corrosion.",
+        "verified": true,
+        "char_start": 2849,
+        "char_end": 2922,
+        "bbox": [
+          77.28,
+          705.813,
+          424.1159999999998,
+          716.5079999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

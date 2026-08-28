@@ -1,0 +1,304 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.19 - Install the three O-rings \u00a9, \u00a9, @...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "o_ring",
+      "name": "O-ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "o_ring",
+      "provenance": {
+        "page": 19,
+        "quote": "Install the three O-rings \u00a9, \u00a9, @ and new element (@ and, check that they are correctly positioned.",
+        "verified": true,
+        "char_start": 468,
+        "char_end": 567,
+        "bbox": [
+          296.88,
+          362.4228,
+          541.0501459999999,
+          384.2625666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "filter_body",
+      "name": "Filter body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter_body",
+      "provenance": {
+        "page": 19,
+        "quote": "Reassemble the filter body @) with the center bolt @. Oil filter Center Bolt Torque kg-m(Ib.ft/N-m) 2.7 - 3.3 (20.5 \u2014 23.7 / 26.5 \u2014 32.3)",
+        "verified": true,
+        "char_start": 571,
+        "char_end": 708,
+        "bbox": [
+          277.91999999999996,
+          390.3698,
+          542.9056639999999,
+          432.9685
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "center_bolt",
+      "name": "Center bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_bolt",
+      "provenance": {
+        "page": 19,
+        "quote": "Reassemble the filter body @) with the center bolt @. Oil filter Center Bolt Torque kg-m(Ib.ft/N-m) 2.7 - 3.3 (20.5 \u2014 23.7 / 26.5 \u2014 32.3)",
+        "verified": true,
+        "char_start": 571,
+        "char_end": 708,
+        "bbox": [
+          277.91999999999996,
+          390.3698,
+          542.9056639999999,
+          432.9685
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_filter",
+      "name": "Oil filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_filter",
+      "provenance": {
+        "page": 19,
+        "quote": "Reassemble the filter body @) with the center bolt @. Oil filter Center Bolt Torque kg-m(Ib.ft/N-m) 2.7 - 3.3 (20.5 \u2014 23.7 / 26.5 \u2014 32.3)",
+        "verified": true,
+        "char_start": 571,
+        "char_end": 708,
+        "bbox": [
+          277.91999999999996,
+          390.3698,
+          542.9056639999999,
+          432.9685
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 19,
+        "quote": "Reassemble the filter body @) with the center bolt @. Oil filter Center Bolt Torque kg-m(Ib.ft/N-m) 2.7 - 3.3 (20.5 \u2014 23.7 / 26.5 \u2014 32.3)",
+        "verified": true,
+        "char_start": 571,
+        "char_end": 708,
+        "bbox": [
+          277.91999999999996,
+          390.3698,
+          542.9056639999999,
+          432.9685
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 19,
+        "quote": "Check that the gasket is properly seated. This will prevent oil leakage.",
+        "verified": true,
+        "char_start": 712,
+        "char_end": 784,
+        "bbox": [
+          297.36,
+          446.7688,
+          543.299752,
+          468.8325666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the three O-rings \u00a9, \u00a9, @ and new element (@ and, check that they are correctly positioned.",
+      "source_number": 1,
+      "installs": [
+        "o_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 19,
+        "quote": "Install the three O-rings \u00a9, \u00a9, @ and new element (@ and, check that they are correctly positioned.",
+        "verified": true,
+        "char_start": 468,
+        "char_end": 567,
+        "bbox": [
+          296.88,
+          362.4228,
+          541.0501459999999,
+          384.2625666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Reassemble the filter body @) with the center bolt @. Oil filter Center Bolt Torque kg-m(Ib.ft/N-m) 2.7 - 3.3 (20.5 \u2014 23.7 / 26.5 \u2014 32.3)",
+      "source_number": 2,
+      "installs": [
+        "filter_body",
+        "center_bolt",
+        "oil_filter",
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 26.5,
+      "warning": null,
+      "provenance": {
+        "page": 19,
+        "quote": "Reassemble the filter body @) with the center bolt @. Oil filter Center Bolt Torque kg-m(Ib.ft/N-m) 2.7 - 3.3 (20.5 \u2014 23.7 / 26.5 \u2014 32.3)",
+        "verified": true,
+        "char_start": 571,
+        "char_end": 708,
+        "bbox": [
+          277.91999999999996,
+          390.3698,
+          542.9056639999999,
+          432.9685
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Check that the gasket is properly seated. This will prevent oil leakage.",
+      "source_number": 3,
+      "installs": [
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 19,
+        "quote": "Check that the gasket is properly seated. This will prevent oil leakage.",
+        "verified": true,
+        "char_start": 712,
+        "char_end": 784,
+        "bbox": [
+          297.36,
+          446.7688,
+          543.299752,
+          468.8325666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Start the engine and check for oil leakage from the oil filter.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 19,
+        "quote": "Start the engine and check for oil leakage from the oil filter.",
+        "verified": true,
+        "char_start": 788,
+        "char_end": 851,
+        "bbox": [
+          297.59999999999997,
+          474.61670000000004,
+          543.039093,
+          496.6958
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Check the engine oil level and replenish to the specified level if required.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 19,
+        "quote": "Check the engine oil level and replenish to the specified level if required.",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 931,
+        "bbox": [
+          297.6,
+          502.6957,
+          543.2056490000001,
+          524.7688
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

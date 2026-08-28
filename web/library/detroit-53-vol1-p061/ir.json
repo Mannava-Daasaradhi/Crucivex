@@ -1,0 +1,657 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.111 - With the piston assembled to the connecting...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_selected_piston",
+      "name": "Of the selected piston",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_selected_piston",
+      "provenance": {
+        "page": 111,
+        "quote": "With the piston assembled to the connecting rod and the piston rings in place. as outlined in Sections 1.6 and 1.6.1. apply clean engine oil to the piston, rings and the inside of the piston ring compressor J 6883.",
+        "verified": true,
+        "char_start": 3290,
+        "char_end": 3504,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod",
+      "name": "Connecting rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod",
+      "provenance": {
+        "page": 111,
+        "quote": "With the piston assembled to the connecting rod and the piston rings in place. as outlined in Sections 1.6 and 1.6.1. apply clean engine oil to the piston, rings and the inside of the piston ring compressor J 6883.",
+        "verified": true,
+        "char_start": 3290,
+        "char_end": 3504,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 111,
+        "quote": "With the piston assembled to the connecting rod and the piston rings in place. as outlined in Sections 1.6 and 1.6.1. apply clean engine oil to the piston, rings and the inside of the piston ring compressor J 6883.",
+        "verified": true,
+        "char_start": 3290,
+        "char_end": 3504,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 111,
+        "quote": "With the piston assembled to the connecting rod and the piston rings in place. as outlined in Sections 1.6 and 1.6.1. apply clean engine oil to the piston, rings and the inside of the piston ring compressor J 6883.",
+        "verified": true,
+        "char_start": 3290,
+        "char_end": 3504,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 111,
+        "quote": "With the piston assembled to the connecting rod and the piston rings in place. as outlined in Sections 1.6 and 1.6.1. apply clean engine oil to the piston, rings and the inside of the piston ring compressor J 6883.",
+        "verified": true,
+        "char_start": 3290,
+        "char_end": 3504,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 111,
+        "quote": "With the piston assembled to the connecting rod and the piston rings in place. as outlined in Sections 1.6 and 1.6.1. apply clean engine oil to the piston, rings and the inside of the piston ring compressor J 6883.",
+        "verified": true,
+        "char_start": 3290,
+        "char_end": 3504,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "wood_block",
+      "name": "Wood block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wood_block",
+      "provenance": {
+        "page": 112,
+        "quote": "Place the piston ring compressor on a wood block (tapered end up).",
+        "verified": true,
+        "char_start": 317,
+        "char_end": 383,
+        "bbox": [
+          55.67999999999998,
+          524.6109999999999,
+          294.7335,
+          545.4179999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_control_ring",
+      "name": "Oil control ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_control_ring",
+      "provenance": {
+        "page": 112,
+        "quote": "Position (stagger) the piston ring gaps properly on the piston. Make sure that the oil control ring expanders are not overlapped.",
+        "verified": true,
+        "char_start": 387,
+        "char_end": 516,
+        "bbox": [
+          55.91999999999996,
+          556.531,
+          296.6864,
+          588.009
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 112,
+        "quote": "Start the top of the piston straight into the ring compressor; then, push the piston down until it contacts the wood block (see Operation 1. Fig. 6).",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 669,
+        "bbox": [
+          55.67999999999995,
+          599.251,
+          298.9924,
+          630.9499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 112,
+        "quote": "Start the top of the piston straight into the ring compressor; then, push the piston down until it contacts the wood block (see Operation 1. Fig. 6).",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 669,
+        "bbox": [
+          55.67999999999995,
+          599.251,
+          298.9924,
+          630.9499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 112,
+        "quote": "Start the top of the piston straight into the ring compressor; then, push the piston down until it contacts the wood block (see Operation 1. Fig. 6).",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 669,
+        "bbox": [
+          55.67999999999995,
+          599.251,
+          298.9924,
+          630.9499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 112,
+        "quote": "Place the ring compressor and the piston and rod assembly on the liner, so the numbers on the rod and cap are aligned with the matchmark on the liner (see Operation 2, Fig. 6). NOTE: The numbers, or number and letter, on the side of the ...",
+        "verified": true,
+        "char_start": 761,
+        "char_end": 1308,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "portion_of_the_liner",
+      "name": "Portion of the liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "portion_of_the_liner",
+      "provenance": {
+        "page": 112,
+        "quote": "Place the ring compressor and the piston and rod assembly on the liner, so the numbers on the rod and cap are aligned with the matchmark on the liner (see Operation 2, Fig. 6). NOTE: The numbers, or number and letter, on the side of the ...",
+        "verified": true,
+        "char_start": 761,
+        "char_end": 1308,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "number",
+      "provenance": {
+        "page": 112,
+        "quote": "Place the ring compressor and the piston and rod assembly on the liner, so the numbers on the rod and cap are aligned with the matchmark on the liner (see Operation 2, Fig. 6). NOTE: The numbers, or number and letter, on the side of the ...",
+        "verified": true,
+        "char_start": 761,
+        "char_end": 1308,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 112,
+        "quote": "Place the ring compressor and the piston and rod assembly on the liner, so the numbers on the rod and cap are aligned with the matchmark on the liner (see Operation 2, Fig. 6). NOTE: The numbers, or number and letter, on the side of the ...",
+        "verified": true,
+        "char_start": 761,
+        "char_end": 1308,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_matchmark",
+      "name": "Of the matchmark",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_matchmark",
+      "provenance": {
+        "page": 112,
+        "quote": "Place the ring compressor and the piston and rod assembly on the liner, so the numbers on the rod and cap are aligned with the matchmark on the liner (see Operation 2, Fig. 6). NOTE: The numbers, or number and letter, on the side of the ...",
+        "verified": true,
+        "char_start": 761,
+        "char_end": 1308,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rod_cap",
+      "name": "Connecting rod cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rod_cap",
+      "provenance": {
+        "page": 112,
+        "quote": "Remove the connecting rod cap and the ring compressor.",
+        "verified": true,
+        "char_start": 1669,
+        "char_end": 1723,
+        "bbox": [
+          321.36,
+          293.24999999999994,
+          561.2396,
+          314.28299999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "port",
+      "name": "Port",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "port",
+      "provenance": {
+        "page": 112,
+        "quote": "Push the piston down into the liner until the compression rings pass the liner ports. Install Cylinder Liner, Piston and Connecting",
+        "verified": true,
+        "char_start": 1727,
+        "char_end": 1858,
+        "bbox": [
+          321.5999999999999,
+          325.0489999999999,
+          560.6351999999999,
+          381.64099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cylinder_liner",
+      "name": "Cylinder liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_liner",
+      "provenance": {
+        "page": 112,
+        "quote": "Push the piston down into the liner until the compression rings pass the liner ports. Install Cylinder Liner, Piston and Connecting",
+        "verified": true,
+        "char_start": 1727,
+        "char_end": 1858,
+        "bbox": [
+          321.5999999999999,
+          325.0489999999999,
+          560.6351999999999,
+          381.64099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "With the piston assembled to the connecting rod and the piston rings in place. as outlined in Sections 1.6 and 1.6.1. apply clean engine oil to the piston, rings and the inside of the piston ring compressor J 6883.",
+      "source_number": 1,
+      "installs": [
+        "of_the_selected_piston",
+        "connecting_rod",
+        "piston_ring",
+        "spray_nozzle_outlined",
+        "valve_rocker_cover_clean",
+        "bottom_oil_ring"
+      ],
+      "depends_on": [],
+      "tool": "ring compressor",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 111,
+        "quote": "With the piston assembled to the connecting rod and the piston rings in place. as outlined in Sections 1.6 and 1.6.1. apply clean engine oil to the piston, rings and the inside of the piston ring compressor J 6883.",
+        "verified": true,
+        "char_start": 3290,
+        "char_end": 3504,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the piston ring compressor on a wood block (tapered end up).",
+      "source_number": 2,
+      "installs": [
+        "wood_block"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": "ring compressor",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 112,
+        "quote": "Place the piston ring compressor on a wood block (tapered end up).",
+        "verified": true,
+        "char_start": 317,
+        "char_end": 383,
+        "bbox": [
+          55.67999999999998,
+          524.6109999999999,
+          294.7335,
+          545.4179999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Position (stagger) the piston ring gaps properly on the piston. Make sure that the oil control ring expanders are not overlapped.",
+      "source_number": 3,
+      "installs": [
+        "oil_control_ring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": "ring expander",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 112,
+        "quote": "Position (stagger) the piston ring gaps properly on the piston. Make sure that the oil control ring expanders are not overlapped.",
+        "verified": true,
+        "char_start": 387,
+        "char_end": 516,
+        "bbox": [
+          55.91999999999996,
+          556.531,
+          296.6864,
+          588.009
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Start the top of the piston straight into the ring compressor; then, push the piston down until it contacts the wood block (see Operation 1. Fig. 6).",
+      "source_number": 4,
+      "installs": [
+        "press_the_shaft_straight",
+        "contact",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": "ring compressor",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 112,
+        "quote": "Start the top of the piston straight into the ring compressor; then, push the piston down until it contacts the wood block (see Operation 1. Fig. 6).",
+        "verified": true,
+        "char_start": 520,
+        "char_end": 669,
+        "bbox": [
+          55.67999999999995,
+          599.251,
+          298.9924,
+          630.9499999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Note the position of the matchmark on the liner and place the liner on a wood block.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note the position of the matchmark on the liner and place the liner on a wood block.",
+      "provenance": {
+        "page": 112,
+        "quote": "Note the position of the matchmark on the liner and place the liner on a wood block.",
+        "verified": true,
+        "char_start": 673,
+        "char_end": 757,
+        "bbox": [
+          56.39999999999995,
+          641.852,
+          296.39549999999997,
+          662.808
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Place the ring compressor and the piston and rod assembly on the liner, so the numbers on the rod and cap are aligned with the matchmark on the liner (see Operation 2, Fig. 6). NOTE: The numbers, or number and letter, on the side of the connecung rod and cap identify the rod with the cap and indicate the particular cylinder in which they are used. If a new service connecting rod is to be installed, the same identification numbers, or number and letter. must be stamped or etched in the same location as on the connecting rod that was replaced.",
+      "source_number": 6,
+      "installs": [
+        "bearing_pilot_rod",
+        "portion_of_the_liner",
+        "number",
+        "clean_shipping_cap",
+        "of_the_matchmark"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": "ring compressor",
+      "torque_nm": null,
+      "warning": "NOTE: The numbers, or number and letter, on the side of the connecung rod and cap identify the rod with the cap and indicate the particular cylinder in which they are used.",
+      "provenance": {
+        "page": 112,
+        "quote": "Place the ring compressor and the piston and rod assembly on the liner, so the numbers on the rod and cap are aligned with the matchmark on the liner (see Operation 2, Fig. 6). NOTE: The numbers, or number and letter, on the side of the ...",
+        "verified": true,
+        "char_start": 761,
+        "char_end": 1308,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Push the piston and rod assembly down into the liner until the piston is out of the ring compressor. CAUTION: Do not force the piston into the liner. The peripheral abutment type expanders apply considerably more force on the oil ring than the standard expander. Therefore, extra care during the loading operation must be taken to prevent ring breakage.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s06"
+      ],
+      "tool": "ring compressor",
+      "torque_nm": null,
+      "warning": "CAUTION: Do not force the piston into the liner.",
+      "provenance": {
+        "page": 112,
+        "quote": "Push the piston and rod assembly down into the liner until the piston is out of the ring compressor. CAUTION: Do not force the piston into the liner. The peripheral abutment type expanders apply considerably more force on the oil ring th...",
+        "verified": true,
+        "char_start": 1312,
+        "char_end": 1665,
+        "bbox": [
+          321.8399999999999,
+          176.48899999999992,
+          560.8802999999999,
+          272.5129999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the connecting rod cap and the ring compressor.",
+      "source_number": 8,
+      "installs": [
+        "rod_cap"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": "ring compressor",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 112,
+        "quote": "Remove the connecting rod cap and the ring compressor.",
+        "verified": true,
+        "char_start": 1669,
+        "char_end": 1723,
+        "bbox": [
+          321.36,
+          293.24999999999994,
+          561.2396,
+          314.28299999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Push the piston down into the liner until the compression rings pass the liner ports. Install Cylinder Liner, Piston and Connecting",
+      "source_number": 9,
+      "installs": [
+        "port",
+        "cylinder_liner"
+      ],
+      "depends_on": [
+        "s01",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 112,
+        "quote": "Push the piston down into the liner until the compression rings pass the liner ports. Install Cylinder Liner, Piston and Connecting",
+        "verified": true,
+        "char_start": 1727,
+        "char_end": 1858,
+        "bbox": [
+          321.5999999999999,
+          325.0489999999999,
+          560.6351999999999,
+          381.64099999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.56 - Hold the valves in place temporarily with...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 56,
+        "quote": "Hold the valves in place temporarily with a strip of masking tape. Then, turn the cylinder head right side up on the work bench. Place a board under the head to support the valves and to provide clearance between the cam followers and th...",
+        "verified": true,
+        "char_start": 1115,
+        "char_end": 1360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 56,
+        "quote": "Hold the valves in place temporarily with a strip of masking tape. Then, turn the cylinder head right side up on the work bench. Place a board under the head to support the valves and to provide clearance between the cam followers and th...",
+        "verified": true,
+        "char_start": 1115,
+        "char_end": 1360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "board",
+      "name": "Board",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "board",
+      "provenance": {
+        "page": 56,
+        "quote": "Hold the valves in place temporarily with a strip of masking tape. Then, turn the cylinder head right side up on the work bench. Place a board under the head to support the valves and to provide clearance between the cam followers and th...",
+        "verified": true,
+        "char_start": 1115,
+        "char_end": 1360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 56,
+        "quote": "Hold the valves in place temporarily with a strip of masking tape. Then, turn the cylinder head right side up on the work bench. Place a board under the head to support the valves and to provide clearance between the cam followers and th...",
+        "verified": true,
+        "char_start": 1115,
+        "char_end": 1360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower",
+      "name": "Cam follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower",
+      "provenance": {
+        "page": 56,
+        "quote": "Hold the valves in place temporarily with a strip of masking tape. Then, turn the cylinder head right side up on the work bench. Place a board under the head to support the valves and to provide clearance between the cam followers and th...",
+        "verified": true,
+        "char_start": 1115,
+        "char_end": 1360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_spring_seat",
+      "name": "Valve spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_spring_seat",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve spring seats. ) _\u0434 l-z q",
+        "verified": true,
+        "char_start": 1364,
+        "char_end": 1406,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_guide_oil_seal",
+      "name": "Valve guide oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_guide_oil_seal",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_guide",
+      "name": "Exhaust valve guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_guide",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plastic_seal_installation",
+      "name": "Plastic seal installation",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plastic_seal_installation",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clean_shipping_cap",
+      "name": "Clean shipping cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clean_shipping_cap",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "runout_exhaust_valve_stem",
+      "name": "Runout exhaust valve stem",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "runout_exhaust_valve_stem",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "more",
+      "name": "More",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "more",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "installation_cap",
+      "name": "Installation cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "installation_cap",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve springs and valve spring caps.",
+        "verified": true,
+        "char_start": 1984,
+        "char_end": 2032,
+        "bbox": [
+          336.00000000000006,
+          518.0929999999998,
+          537.9355,
+          528.0929999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_spring_cap",
+      "name": "Valve spring cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_spring_cap",
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve springs and valve spring caps.",
+        "verified": true,
+        "char_start": 1984,
+        "char_end": 2032,
+        "bbox": [
+          336.00000000000006,
+          518.0929999999998,
+          537.9355,
+          528.0929999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 56,
+        "quote": "Thread the valve spring compressor J 7455 into one of the rocker shaft bolt holes in the cylinder head (Fig. 2).",
+        "verified": true,
+        "char_start": 2036,
+        "char_end": 2148,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rocker_shaft",
+      "name": "Rocker shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_shaft",
+      "provenance": {
+        "page": 56,
+        "quote": "Thread the valve spring compressor J 7455 into one of the rocker shaft bolt holes in the cylinder head (Fig. 2).",
+        "verified": true,
+        "char_start": 2036,
+        "char_end": 2148,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 56,
+        "quote": "Thread the valve spring compressor J 7455 into one of the rocker shaft bolt holes in the cylinder head (Fig. 2).",
+        "verified": true,
+        "char_start": 2036,
+        "char_end": 2148,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 56,
+        "quote": "Thread the valve spring compressor J 7455 into one of the rocker shaft bolt holes in the cylinder head (Fig. 2).",
+        "verified": true,
+        "char_start": 2036,
+        "char_end": 2148,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 56,
+        "quote": "Apply pressure to the free end of the tool to compress the valve spring and install the two-piece tapered valve lock. Exercise care to avoid scoring the valve stem with the valve cap when compressing the spring. Tap the end of the valve ...",
+        "verified": true,
+        "char_start": 2152,
+        "char_end": 2642,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "two_piece_tapered_valve",
+      "name": "Two-piece tapered valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "two_piece_tapered_valve",
+      "provenance": {
+        "page": 56,
+        "quote": "Apply pressure to the free end of the tool to compress the valve spring and install the two-piece tapered valve lock. Exercise care to avoid scoring the valve stem with the valve cap when compressing the spring. Tap the end of the valve ...",
+        "verified": true,
+        "char_start": 2152,
+        "char_end": 2642,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 56,
+        "quote": "Apply pressure to the free end of the tool to compress the valve spring and install the two-piece tapered valve lock. Exercise care to avoid scoring the valve stem with the valve cap when compressing the spring. Tap the end of the valve ...",
+        "verified": true,
+        "char_start": 2152,
+        "char_end": 2642,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 56,
+        "quote": "Apply pressure to the free end of the tool to compress the valve spring and install the two-piece tapered valve lock. Exercise care to avoid scoring the valve stem with the valve cap when compressing the spring. Tap the end of the valve ...",
+        "verified": true,
+        "char_start": 2152,
+        "char_end": 2642,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "two_piece_valve_lock",
+      "name": "Two-piece valve lock",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "two_piece_valve_lock",
+      "provenance": {
+        "page": 56,
+        "quote": "Apply pressure to the free end of the tool to compress the valve spring and install the two-piece tapered valve lock. Exercise care to avoid scoring the valve stem with the valve cap when compressing the spring. Tap the end of the valve ...",
+        "verified": true,
+        "char_start": 2152,
+        "char_end": 2642,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_an_exhaust_valve",
+      "name": "Insert an exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_an_exhaust_valve",
+      "provenance": {
+        "page": 57,
+        "quote": "Release the tool and install the valve locks on the remaining exhaust valves in the same manner.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 99,
+        "bbox": [
+          344.64,
+          66.20999999999992,
+          584.0958,
+          86.7879999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_exhaust_valve",
+      "name": "Of the exhaust valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_exhaust_valve",
+      "provenance": {
+        "page": 57,
+        "quote": "Check the position of the exhaust valve (Fig. 11).",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 153,
+        "bbox": [
+          355.2,
+          98.64299999999992,
+          571.0826399999999,
+          107.64299999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 57,
+        "quote": "Install the injectors, rocker arms, shafts, brackets and any other parts that were previously removed from the cylinder head.",
+        "verified": true,
+        "char_start": 508,
+        "char_end": 633,
+        "bbox": [
+          344.8800000000001,
+          204.56999999999994,
+          582.2552000000001,
+          236.3069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rocker_arm",
+      "name": "Rocker arm",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rocker_arm",
+      "provenance": {
+        "page": 57,
+        "quote": "Install the injectors, rocker arms, shafts, brackets and any other parts that were previously removed from the cylinder head.",
+        "verified": true,
+        "char_start": 508,
+        "char_end": 633,
+        "bbox": [
+          344.8800000000001,
+          204.56999999999994,
+          582.2552000000001,
+          236.3069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 57,
+        "quote": "Install the injectors, rocker arms, shafts, brackets and any other parts that were previously removed from the cylinder head.",
+        "verified": true,
+        "char_start": 508,
+        "char_end": 633,
+        "bbox": [
+          344.8800000000001,
+          204.56999999999994,
+          582.2552000000001,
+          236.3069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 57,
+        "quote": "Install the injectors, rocker arms, shafts, brackets and any other parts that were previously removed from the cylinder head.",
+        "verified": true,
+        "char_start": 508,
+        "char_end": 633,
+        "bbox": [
+          344.8800000000001,
+          204.56999999999994,
+          582.2552000000001,
+          236.3069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Hold the valves in place temporarily with a strip of masking tape. Then, turn the cylinder head right side up on the work bench. Place a board under the head to support the valves and to provide clearance between the cam followers and the bench.",
+      "source_number": 2,
+      "installs": [
+        "engine_front_cover_valve",
+        "cylinder_head",
+        "board",
+        "blower_drive_support",
+        "cam_follower"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 56,
+        "quote": "Hold the valves in place temporarily with a strip of masking tape. Then, turn the cylinder head right side up on the work bench. Place a board under the head to support the valves and to provide clearance between the cam followers and th...",
+        "verified": true,
+        "char_start": 1115,
+        "char_end": 1360,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the valve spring seats. ) _\u0434 l-z q",
+      "source_number": 3,
+      "installs": [
+        "valve_spring_seat"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve spring seats. ) _\u0434 l-z q",
+        "verified": true,
+        "char_start": 1364,
+        "char_end": 1406,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap and cut off the excess length. b. Lubricate the installation cap and start the seal carefully over the valve stem. Push the seal down slowly until it rests on top of the valve guide. c. Remove the installation cap.",
+      "source_number": 4,
+      "installs": [
+        "valve_guide_oil_seal",
+        "exhaust_valve_guide",
+        "plastic_seal_installation",
+        "clean_shipping_cap",
+        "runout_exhaust_valve_stem",
+        "more",
+        "of_the_groove",
+        "installation_cap",
+        "crankshaft_front_oil_seal",
+        "cam_follower_guide"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve guide oil seals. if used, on the valve guides as follows: a. Place the plastic seal installation cap on the end of the valve stem. If the cap extends more than 1/16\" below the groove on the valve stem, remove the cap an...",
+        "verified": true,
+        "char_start": 1531,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the valve springs and valve spring caps.",
+      "source_number": 5,
+      "installs": [
+        "exhaust_valve_spring",
+        "valve_spring_cap"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 56,
+        "quote": "Install the valve springs and valve spring caps.",
+        "verified": true,
+        "char_start": 1984,
+        "char_end": 2032,
+        "bbox": [
+          336.00000000000006,
+          518.0929999999998,
+          537.9355,
+          528.0929999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Thread the valve spring compressor J 7455 into one of the rocker shaft bolt holes in the cylinder head (Fig. 2).",
+      "source_number": 6,
+      "installs": [
+        "bolt_thread",
+        "rocker_shaft",
+        "bolt_hole",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": "valve spring compressor",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 56,
+        "quote": "Thread the valve spring compressor J 7455 into one of the rocker shaft bolt holes in the cylinder head (Fig. 2).",
+        "verified": true,
+        "char_start": 2036,
+        "char_end": 2148,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Apply pressure to the free end of the tool to compress the valve spring and install the two-piece tapered valve lock. Exercise care to avoid scoring the valve stem with the valve cap when compressing the spring. Tap the end of the valve stem lightly with a plastic hammer to seat the valve locks. NOTE: If valve guide oil seals are used, compress the valve spring only enough to permit installation. of the valve locks. Com- pressing the spring too far may result in damage to the oil seal.",
+      "source_number": 7,
+      "installs": [
+        "clamping_pressure",
+        "two_piece_tapered_valve",
+        "end_of_the_spring",
+        "insert_remover_valve_seat",
+        "two_piece_valve_lock"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: If valve guide oil seals are used, compress the valve spring only enough to permit installation.",
+      "provenance": {
+        "page": 56,
+        "quote": "Apply pressure to the free end of the tool to compress the valve spring and install the two-piece tapered valve lock. Exercise care to avoid scoring the valve stem with the valve cap when compressing the spring. Tap the end of the valve ...",
+        "verified": true,
+        "char_start": 2152,
+        "char_end": 2642,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Release the tool and install the valve locks on the remaining exhaust valves in the same manner.",
+      "source_number": 8,
+      "installs": [
+        "insert_an_exhaust_valve"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 57,
+        "quote": "Release the tool and install the valve locks on the remaining exhaust valves in the same manner.",
+        "verified": true,
+        "char_start": 3,
+        "char_end": 99,
+        "bbox": [
+          344.64,
+          66.20999999999992,
+          584.0958,
+          86.7879999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Check the position of the exhaust valve (Fig. 11).",
+      "source_number": 9,
+      "installs": [
+        "of_the_exhaust_valve"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 57,
+        "quote": "Check the position of the exhaust valve (Fig. 11).",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 153,
+        "bbox": [
+          355.2,
+          98.64299999999992,
+          571.0826399999999,
+          107.64299999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "With the exhaust valves installed in the cylinder head, use spring checking gage WRE -500-60 and note the gage reading the moment the exhaust valve starts to open (Fig. 16). The minimum pressure required to start to open the exhaust valve must not be less than 33 pounds for a two valve cylinder head or 25 pounds for a four valve cylinder head.",
+      "source_number": 10,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s06",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "note the gage reading the moment the exhaust valve starts to open (Fig.",
+      "provenance": {
+        "page": 57,
+        "quote": "With the exhaust valves installed in the cylinder head, use spring checking gage WRE -500-60 and note the gage reading the moment the exhaust valve starts to open (Fig. 16). The minimum pressure required to start to open the exhaust valv...",
+        "verified": true,
+        "char_start": 158,
+        "char_end": 503,
+        "bbox": [
+          344.4000000000001,
+          118.52999999999997,
+          584.2084,
+          193.42299999999977
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Install the injectors, rocker arms, shafts, brackets and any other parts that were previously removed from the cylinder head.",
+      "source_number": 11,
+      "installs": [
+        "end_of_the_injector",
+        "rocker_arm",
+        "end_of_the_shaft",
+        "booster_spring_bracket"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 57,
+        "quote": "Install the injectors, rocker arms, shafts, brackets and any other parts that were previously removed from the cylinder head.",
+        "verified": true,
+        "char_start": 508,
+        "char_end": 633,
+        "bbox": [
+          344.8800000000001,
+          204.56999999999994,
+          582.2552000000001,
+          236.3069999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Install the cylinder head. Refer to Pre-Installation Inspection and Install Cylinder Head in Section 1.2.",
+      "source_number": 12,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 57,
+        "quote": "Install the cylinder head. Refer to Pre-Installation Inspection and Install Cylinder Head in Section 1.2.",
+        "verified": true,
+        "char_start": 638,
+        "char_end": 743,
+        "bbox": [
+          344.64000000000004,
+          247.16999999999996,
+          581.6832,
+          268.08799999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Perform a complete engine tune-up. Fig. 16 - Checking Valve Opening Pressure with Gage WRE-500-60",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s05",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 57,
+        "quote": "Perform a complete engine tune-up. Fig. 16 - Checking Valve Opening Pressure with Gage WRE-500-60",
+        "verified": true,
+        "char_start": 748,
+        "char_end": 845,
+        "bbox": [
+          108.24,
+          278.88399999999996,
+          514.9568,
+          397.92799999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

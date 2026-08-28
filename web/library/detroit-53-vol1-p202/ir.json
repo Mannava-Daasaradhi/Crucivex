@@ -1,0 +1,346 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.350 - Place the blower screen and gasket assembly...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_screen",
+      "name": "Blower screen",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_screen",
+      "provenance": {
+        "page": 350,
+        "quote": "Place the blower screen and gasket assembly in position with the screen side of the assembly toward the blower.",
+        "verified": true,
+        "char_start": 1528,
+        "char_end": 1639,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 350,
+        "quote": "Place the blower screen and gasket assembly in position with the screen side of the assembly toward the blower.",
+        "verified": true,
+        "char_start": 1528,
+        "char_end": 1639,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 350,
+        "quote": "Refer to Figs. 1 and 3 and secure the air shut-down housing to the blower with bolts, washers and lock washers as follows: \u0411\u0423 \u041c. -16 x 336 Fig. 4 - Location of Air Shut-Down Housing",
+        "verified": true,
+        "char_start": 1643,
+        "char_end": 1824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_shut_down_housing",
+      "name": "Air shut-down housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_shut_down_housing",
+      "provenance": {
+        "page": 350,
+        "quote": "Refer to Figs. 1 and 3 and secure the air shut-down housing to the blower with bolts, washers and lock washers as follows: \u0411\u0423 \u041c. -16 x 336 Fig. 4 - Location of Air Shut-Down Housing",
+        "verified": true,
+        "char_start": 1643,
+        "char_end": 1824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 350,
+        "quote": "Refer to Figs. 1 and 3 and secure the air shut-down housing to the blower with bolts, washers and lock washers as follows: \u0411\u0423 \u041c. -16 x 336 Fig. 4 - Location of Air Shut-Down Housing",
+        "verified": true,
+        "char_start": 1643,
+        "char_end": 1824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 350,
+        "quote": "Refer to Figs. 1 and 3 and secure the air shut-down housing to the blower with bolts, washers and lock washers as follows: \u0411\u0423 \u041c. -16 x 336 Fig. 4 - Location of Air Shut-Down Housing",
+        "verified": true,
+        "char_start": 1643,
+        "char_end": 1824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 350,
+        "quote": "Refer to Figs. 1 and 3 and secure the air shut-down housing to the blower with bolts, washers and lock washers as follows: \u0411\u0423 \u041c. -16 x 336 Fig. 4 - Location of Air Shut-Down Housing",
+        "verified": true,
+        "char_start": 1643,
+        "char_end": 1824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 350,
+        "quote": "Refer to Figs. 1 and 3 and secure the air shut-down housing to the blower with bolts, washers and lock washers as follows: \u0411\u0423 \u041c. -16 x 336 Fig. 4 - Location of Air Shut-Down Housing",
+        "verified": true,
+        "char_start": 1643,
+        "char_end": 1824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idle",
+      "name": "Idle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idle",
+      "provenance": {
+        "page": 351,
+        "quote": "Start and run the engine at idle speed and no load. Trip the air shut-down. If the engine does not stop, check it for air leakage between the valve and the gasket. If necessary, reposition the valve.",
+        "verified": true,
+        "char_start": 309,
+        "char_end": 508,
+        "bbox": [
+          86.40000000000003,
+          213.68999999999994,
+          329.4372000000001,
+          256.53999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 351,
+        "quote": "Start and run the engine at idle speed and no load. Trip the air shut-down. If the engine does not stop, check it for air leakage between the valve and the gasket. If necessary, reposition the valve.",
+        "verified": true,
+        "char_start": 309,
+        "char_end": 508,
+        "bbox": [
+          86.40000000000003,
+          213.68999999999994,
+          329.4372000000001,
+          256.53999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 351,
+        "quote": "Start and run the engine at idle speed and no load. Trip the air shut-down. If the engine does not stop, check it for air leakage between the valve and the gasket. If necessary, reposition the valve.",
+        "verified": true,
+        "char_start": 309,
+        "char_end": 508,
+        "bbox": [
+          86.40000000000003,
+          213.68999999999994,
+          329.4372000000001,
+          256.53999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 351,
+        "quote": "Start and run the engine at idle speed and no load. Trip the air shut-down. If the engine does not stop, check it for air leakage between the valve and the gasket. If necessary, reposition the valve.",
+        "verified": true,
+        "char_start": 309,
+        "char_end": 508,
+        "bbox": [
+          86.40000000000003,
+          213.68999999999994,
+          329.4372000000001,
+          256.53999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Place the blower screen and gasket assembly in position with the screen side of the assembly toward the blower.",
+      "source_number": 1,
+      "installs": [
+        "blower_screen",
+        "head_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 350,
+        "quote": "Place the blower screen and gasket assembly in position with the screen side of the assembly toward the blower.",
+        "verified": true,
+        "char_start": 1528,
+        "char_end": 1639,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Refer to Figs. 1 and 3 and secure the air shut-down housing to the blower with bolts, washers and lock washers as follows: \u0411\u0423 \u041c. -16 x 336 Fig. 4 - Location of Air Shut-Down Housing",
+      "source_number": 2,
+      "installs": [
+        "nut_securing_fig",
+        "air_shut_down_housing",
+        "assembly_examine_the_blower",
+        "engine_front_cover_bolt",
+        "another_drive_flange_washer",
+        "special_lock_washer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 350,
+        "quote": "Refer to Figs. 1 and 3 and secure the air shut-down housing to the blower with bolts, washers and lock washers as follows: \u0411\u0423 \u041c. -16 x 336 Fig. 4 - Location of Air Shut-Down Housing",
+        "verified": true,
+        "char_start": 1643,
+        "char_end": 1824,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Reset the air shut-down to the run position.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 351,
+        "quote": "Reset the air shut-down to the run position.",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 305,
+        "bbox": [
+          97.91999999999999,
+          192.94899999999996,
+          287.1186,
+          202.94899999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Start and run the engine at idle speed and no load. Trip the air shut-down. If the engine does not stop, check it for air leakage between the valve and the gasket. If necessary, reposition the valve.",
+      "source_number": 4,
+      "installs": [
+        "idle",
+        "engine_speed",
+        "solid_stop",
+        "engine_front_cover_valve"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 351,
+        "quote": "Start and run the engine at idle speed and no load. Trip the air shut-down. If the engine does not stop, check it for air leakage between the valve and the gasket. If necessary, reposition the valve.",
+        "verified": true,
+        "char_start": 309,
+        "char_end": 508,
+        "bbox": [
+          86.40000000000003,
+          213.68999999999994,
+          329.4372000000001,
+          256.53999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

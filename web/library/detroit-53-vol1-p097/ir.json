@@ -1,0 +1,744 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.193 - Support the injector upright in injector holding...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_upright",
+      "name": "Injector upright",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_upright",
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fixture",
+      "name": "Fixture",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fixture",
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_filter_cap",
+      "name": "Injector filter cap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_filter_cap",
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "filter",
+      "name": "Filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "filter",
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_injector",
+      "name": "Fuel injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_injector",
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "follower_spring",
+      "name": "Follower spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_spring",
+      "provenance": {
+        "page": 193,
+        "quote": "Compress the follower spring (Fig. 10). Then, raise the spring above the stop pin with a screwdriver and withdraw the pin. Allow the spring to rise gradually.",
+        "verified": true,
+        "char_start": 2719,
+        "char_end": 2877,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 193,
+        "quote": "Compress the follower spring (Fig. 10). Then, raise the spring above the stop pin with a screwdriver and withdraw the pin. Allow the spring to rise gradually.",
+        "verified": true,
+        "char_start": 2719,
+        "char_end": 2877,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "stop_pin",
+      "name": "Stop pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "stop_pin",
+      "provenance": {
+        "page": 193,
+        "quote": "Compress the follower spring (Fig. 10). Then, raise the spring above the stop pin with a screwdriver and withdraw the pin. Allow the spring to rise gradually.",
+        "verified": true,
+        "char_start": 2719,
+        "char_end": 2877,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 193,
+        "quote": "Compress the follower spring (Fig. 10). Then, raise the spring above the stop pin with a screwdriver and withdraw the pin. Allow the spring to rise gradually.",
+        "verified": true,
+        "char_start": 2719,
+        "char_end": 2877,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plunger_follower",
+      "name": "Plunger follower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plunger_follower",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_body",
+      "name": "Injector body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_body",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_nut_straight",
+      "name": "Injector nut straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_nut_straight",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_valve",
+      "name": "Engine front cover valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_valve",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_cage",
+      "name": "Spring cage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_cage",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "check_valve_cage",
+      "name": "Check valve cage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "check_valve_cage",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "check_valve",
+      "name": "Check valve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "check_valve",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "wood_block",
+      "name": "Wood block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "wood_block",
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spill_deflector",
+      "name": "Spill deflector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spill_deflector",
+      "provenance": {
+        "page": 195,
+        "quote": "Refer to (Fig. 14) and remove the spill deflector. Then, lift the bushing straight out of the injector body.",
+        "verified": true,
+        "char_start": 61,
+        "char_end": 169,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bushing_straight",
+      "name": "Bushing straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bushing_straight",
+      "provenance": {
+        "page": 195,
+        "quote": "Refer to (Fig. 14) and remove the spill deflector. Then, lift the bushing straight out of the injector body.",
+        "verified": true,
+        "char_start": 61,
+        "char_end": 169,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_body",
+      "name": "Breather body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_body",
+      "provenance": {
+        "page": 195,
+        "quote": "Remove the injector body from the holding fixture. Turn the body upside down and catch the gear retainer and gear in your hand as they fall out of the body.",
+        "verified": true,
+        "char_start": 173,
+        "char_end": 329,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gear_retainer",
+      "name": "Gear retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_retainer",
+      "provenance": {
+        "page": 195,
+        "quote": "Remove the injector body from the holding fixture. Turn the body upside down and catch the gear retainer and gear in your hand as they fall out of the body.",
+        "verified": true,
+        "char_start": 173,
+        "char_end": 329,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 195,
+        "quote": "Remove the injector body from the holding fixture. Turn the body upside down and catch the gear retainer and gear in your hand as they fall out of the body.",
+        "verified": true,
+        "char_start": 173,
+        "char_end": 329,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_rack",
+      "name": "Injector control rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_rack",
+      "provenance": {
+        "page": 195,
+        "quote": "Withdraw the injector control rack from the injector body. Also, remove the seal ring from the body.",
+        "verified": true,
+        "char_start": 333,
+        "char_end": 433,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 195,
+        "quote": "Withdraw the injector control rack from the injector body. Also, remove the seal ring from the body.",
+        "verified": true,
+        "char_start": 333,
+        "char_end": 433,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets. In the offset injector, a filter is used in the inlet side only. No filter is required in the outlet side (Fig. 9).",
+      "source_number": 1,
+      "installs": [
+        "blower_drive_support",
+        "injector_upright",
+        "end_of_the_injector",
+        "fixture",
+        "nut_securing_fig",
+        "injector_filter_cap",
+        "head_gasket",
+        "filter",
+        "fuel_injector",
+        "of_the_required"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 193,
+        "quote": "Support the injector upright in injector holding fixture J 22396 (Fig. 8) and remove the filter caps, gaskets and filters. Whenever a fuel injector is disassembled, discard the filters and gaskets and replace with new filters and gaskets...",
+        "verified": true,
+        "char_start": 2361,
+        "char_end": 2715,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Compress the follower spring (Fig. 10). Then, raise the spring above the stop pin with a screwdriver and withdraw the pin. Allow the spring to rise gradually.",
+      "source_number": 2,
+      "installs": [
+        "follower_spring",
+        "end_of_the_spring",
+        "stop_pin",
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 193,
+        "quote": "Compress the follower spring (Fig. 10). Then, raise the spring above the stop pin with a screwdriver and withdraw the pin. Allow the spring to rise gradually.",
+        "verified": true,
+        "char_start": 2719,
+        "char_end": 2877,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip and valve parts. Remove the spray tip, spring cage, valve spring, spring seat, check valve cage and check valve. When an injector has been in use for some time, the spray tip, even though clean on the outside, may not be pushed readily from the nut with the fingers. In this event, support the nut on a wood block and drive the",
+      "source_number": 3,
+      "installs": [
+        "plunger_follower",
+        "area_of_the_plunger",
+        "front_balance_weight_nut",
+        "injector_body",
+        "injector_nut_straight",
+        "indicate_the_spray_tip",
+        "engine_front_cover_valve",
+        "spring_cage",
+        "exhaust_valve_spring",
+        "drive_spring_seat",
+        "check_valve_cage",
+        "check_valve",
+        "valve_rocker_cover_clean",
+        "wood_block"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 194,
+        "quote": "Refer to (Fig. 11) and remove the plunger follower, plunger and spring as an assembly. Using socket J 4983-01, loosen the nut on the injector body (Fig. 12). Lift the injector nut straight up, being careful not to dislodge the spray tip ...",
+        "verified": true,
+        "char_start": 420,
+        "char_end": 984,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Refer to (Fig. 14) and remove the spill deflector. Then, lift the bushing straight out of the injector body.",
+      "source_number": 6,
+      "installs": [
+        "spill_deflector",
+        "bushing_straight"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 195,
+        "quote": "Refer to (Fig. 14) and remove the spill deflector. Then, lift the bushing straight out of the injector body.",
+        "verified": true,
+        "char_start": 61,
+        "char_end": 169,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the injector body from the holding fixture. Turn the body upside down and catch the gear retainer and gear in your hand as they fall out of the body.",
+      "source_number": 7,
+      "installs": [
+        "breather_body",
+        "gear_retainer",
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 195,
+        "quote": "Remove the injector body from the holding fixture. Turn the body upside down and catch the gear retainer and gear in your hand as they fall out of the body.",
+        "verified": true,
+        "char_start": 173,
+        "char_end": 329,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Withdraw the injector control rack from the injector body. Also, remove the seal ring from the body.",
+      "source_number": 8,
+      "installs": [
+        "injector_control_rack",
+        "seal_ring"
+      ],
+      "depends_on": [
+        "s03",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 195,
+        "quote": "Withdraw the injector control rack from the injector body. Also, remove the seal ring from the body.",
+        "verified": true,
+        "char_start": 333,
+        "char_end": 433,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

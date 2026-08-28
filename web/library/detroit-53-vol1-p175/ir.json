@@ -1,0 +1,1405 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.296 - Align tbe slot in the operating lever...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "tbe_slot",
+      "name": "Tbe slot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_slot",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "operating_lever_shaft",
+      "name": "Operating lever shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "operating_lever_shaft",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_pipe_clip",
+      "name": "Breather pipe clip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_pipe_clip",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "lock_chp",
+      "name": "Lock chp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lock_chp",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_connecting",
+      "name": "End of the connecting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_connecting",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_link",
+      "name": "Connecting link",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_link",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_retainer",
+      "name": "High-speed spring retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_retainer",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_link_operating",
+      "name": "Control link operating",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_link_operating",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_pin",
+      "name": "Connecting pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_pin",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "light_governor_weight",
+      "name": "Light governor weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "light_governor_weight",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_carrier",
+      "name": "Weight carrier",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_carrier",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_weight",
+      "name": "Of the weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_weight",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_pin",
+      "name": "Weight pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_pin",
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 297,
+        "quote": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate...",
+        "verified": true,
+        "char_start": 401,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_riser_thrust",
+      "name": "Governor riser thrust",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser_thrust",
+      "provenance": {
+        "page": 297,
+        "quote": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate...",
+        "verified": true,
+        "char_start": 401,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 297,
+        "quote": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate...",
+        "verified": true,
+        "char_start": 401,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inboard_thrust_bearing",
+      "name": "Inboard thrust bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inboard_thrust_bearing",
+      "provenance": {
+        "page": 297,
+        "quote": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate...",
+        "verified": true,
+        "char_start": 401,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "notch",
+      "name": "Notch",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "notch",
+      "provenance": {
+        "page": 297,
+        "quote": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate...",
+        "verified": true,
+        "char_start": 401,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_shaft_bearing",
+      "name": "Weight shaft bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_shaft_bearing",
+      "provenance": {
+        "page": 297,
+        "quote": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate...",
+        "verified": true,
+        "char_start": 401,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 297,
+        "quote": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate...",
+        "verified": true,
+        "char_start": 401,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retainer",
+      "name": "Bearing retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer",
+      "provenance": {
+        "page": 297,
+        "quote": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate...",
+        "verified": true,
+        "char_start": 401,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_bearing",
+      "name": "Of the bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bearing",
+      "provenance": {
+        "page": 297,
+        "quote": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate...",
+        "verified": true,
+        "char_start": 401,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "variable_speed_spring",
+      "name": "Variable speed spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "variable_speed_spring",
+      "provenance": {
+        "page": 298,
+        "quote": "Refer to Figs. 4 and 14 for the location of the parts and assemble the variable speed spring housing as follows: j 9196.2",
+        "verified": true,
+        "char_start": 1326,
+        "char_end": 1447,
+        "bbox": [
+          60.48000000000002,
+          493.0469999999999,
+          514.9572000000001,
+          525.4849999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "solid_stop",
+      "name": "Solid stop",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solid_stop",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_housing_assembly",
+      "name": "Spring housing assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_housing_assembly",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_housing_cover",
+      "name": "Spring housing cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_housing_cover",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_plunger_guide",
+      "name": "Spring plunger guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_plunger_guide",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "small_brass_rod",
+      "name": "Small brass rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "small_brass_rod",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "high_speed_spring_plunger",
+      "name": "High speed spring plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "high_speed_spring_plunger",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_retainer_solid",
+      "name": "Spring retainer solid",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_retainer_solid",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_governor",
+      "name": "Of the governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_governor",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_spring_housing",
+      "name": "Governor spring housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_spring_housing",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_retainer_split",
+      "name": "Spring retainer split",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_retainer_split",
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 300,
+        "quote": "Refer to Fig. 16 for the location of the various parts and assemble the governor cover as follows: a. If the stop lever bushing (Fig. 16) was removed from the cover, place the cover, inner face down, on the bed of an arbor press as shown...",
+        "verified": true,
+        "char_start": 579,
+        "char_end": 2109,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 300,
+        "quote": "Refer to Fig. 16 for the location of the various parts and assemble the governor cover as follows: a. If the stop lever bushing (Fig. 16) was removed from the cover, place the cover, inner face down, on the bed of an arbor press as shown...",
+        "verified": true,
+        "char_start": 579,
+        "char_end": 2109,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential lever pin and secure it in place with a plain washer and spring retainer (Fig. 1). Place the opposite end of the connecting link on top of the control link operating lever and install the connecting pin. n. If removed. thread the lock nut on the buffer screw and thread the buffer screw into the governor housing. o. Affix a new gasket to the breather hole cover, then attach the cover to the governor housing with bolts. lock washers and plain washers.",
+      "source_number": 1,
+      "installs": [
+        "tbe_slot",
+        "operating_lever_shaft",
+        "breather_pipe_clip",
+        "of_the_buffer_screw",
+        "of_the_oil_hole",
+        "next",
+        "lock_chp",
+        "special_lock_washer",
+        "end_of_the_connecting",
+        "connecting_link",
+        "governor_differential_lever",
+        "copper_plated_dowel_pin",
+        "plain_washer",
+        "high_speed_spring_retainer",
+        "nut_securing_fig",
+        "control_link_operating",
+        "of_the_stop_lever",
+        "connecting_pin",
+        "bolt_thread",
+        "bearing_lock_nut",
+        "disassemble_governor_housing",
+        "head_gasket",
+        "underside_of_the_cover",
+        "blower_the_engine_governor",
+        "of_the_flywheel_housing",
+        "engine_front_cover_bolt",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 296,
+        "quote": "Align tbe slot in the operating lever shaft with the lock clip screw hole in the boss next to the shaft. Install the lock chp, lock washer and screw and ughten it securely. m. Place one end of the connecting link over the differential le...",
+        "verified": true,
+        "char_start": 1806,
+        "char_end": 2494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a. Support the weight carrier, rear face up, on a sleeve on the bed of an arbor press as shown in Fig. 13. b. Lubricate the weight carrier surface of the weight shaft with engine oil. Insert the non-splined end of the shaft through the carrier and into the sleeve, then press the shaft straight into the carrier until the shoulder on the shaft is tight against the carrier. c. Clamp the weight carrier and shaft assembly in a vise equipped with soft jaws. d. Place a governor weight in position in the carrier, then insert a weight pin, grooved end first, into",
+      "source_number": 2,
+      "installs": [
+        "light_governor_weight",
+        "drive_shaft_assembly",
+        "weight_carrier",
+        "governor_weight_shaft",
+        "front_balance_weight",
+        "end_of_the_shaft",
+        "blower_drive_support",
+        "crankshaft_front_sleeve",
+        "of_the_weight",
+        "exhaust_valve_seat_insert",
+        "press_the_shaft_straight",
+        "shoulder",
+        "locknut_finger_tight",
+        "breather_tube_clamp",
+        "weight_pin"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 296,
+        "quote": "Assemble the governor weight and shaft assembly as follows: If the governor weight carrier assembly was removed from the weight shaft. the weights must be removed from the carrier before attempting to install the carrier on the shaft. a....",
+        "verified": true,
+        "char_start": 2498,
+        "char_end": 3293,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate the governor riser thrust bearing with engine oil, then place the thrust bearing over the Fig. 13 - Installing Governor Weight Shaft in end of the weight shaft with the bearing race Weight Carrier whichhas the smallest inside diameter against the inner race. Bring the ram of the press down on riser. the sleeve and press the bearing into the housing c. Insert the weight carrier and shaft assembly in the and against the shoulder on the shaft. governor housing. Then support the splined end of the shaft and the governor housing on the bed e. Place the special lock washer on the end of the of an arbor press with the upper end of the shaft weight carrier shaft with the tang on the inner under the ram of the press. diameter of the washer in the notch in the end of the shaft. d. Lubricate the weight shaft bearing with engine oil. then place the bearing in the governor housing f. Place the flat washer on the bearing retainer bolt (numbered side up) and start it straight on the and thread the bolt into the shaft. Clamp the splined end of the weight carrier shaft in the soft end of the weight carrier shaft. Place a sleeve with a 1/2\" inside diameter on top of the bearing jaws of a bench vise and tighten the bearing",
+      "source_number": 3,
+      "installs": [
+        "governor_riser",
+        "governor_riser_thrust",
+        "bearing_the_end_bearing",
+        "inboard_thrust_bearing",
+        "notch",
+        "weight_shaft_bearing",
+        "flat_washer",
+        "bearing_retainer",
+        "of_the_bearing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 297,
+        "quote": "Install the governor weight and shaft assembly in the governor housing as follows: a. Lubricate the weight shaft with engine oil. then slide the governor riser over the end of the shaft and against the fingers of the weight. h. Lubricate...",
+        "verified": true,
+        "char_start": 401,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Refer to Figs. 4 and 14 for the location of the parts and assemble the variable speed spring housing as follows: j 9196.2",
+      "source_number": 4,
+      "installs": [
+        "variable_speed_spring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 298,
+        "quote": "Refer to Figs. 4 and 14 for the location of the parts and assemble the variable speed spring housing as follows: j 9196.2",
+        "verified": true,
+        "char_start": 1326,
+        "char_end": 1447,
+        "bbox": [
+          60.48000000000002,
+          493.0469999999999,
+          514.9572000000001,
+          525.4849999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach the| spring housing cover to the springz housing5 with \u0430 screw and lock washer. . Clamp the flange of the governor housing in a vise equipped with soft jaws. If removed. start the variable speed spring plunger guide straight in the boss inside the governor housing and tap it into place with a small brass rod and hammer. . Lubricate the small end of the variable speed spring plunger with engine oil. Then insert the plunger in the plunger guide inside the governor housing (Fig. 1). the spring retainer solid the . Place stop in counterbore of the governor housing. Lubricate the outside diameter of the variable speed spring retainer with engine oil. Insert the spring retainer, solid end first. into the spring housing and against the spring lever. . Place the same amount of shims in the spring qo retainer that were removed. thin shims first. Then insert the spring retainer split stop in the spring housing approximately 1/16\" from the finished face of the housing. . Affix a new gasket to the forward face of the spring housing. Then insert the variable speed spring into the spring housing and spring retainer with the tightly wound end of the spring against the shims in the retainer. . Place the variable speed spring housing into position against the governor housing, with the",
+      "source_number": 5,
+      "installs": [
+        "area_of_the_plunger",
+        "cam_follower_guide",
+        "drive_shaft_retainer",
+        "rotor_shim",
+        "end_of_the_spring",
+        "solid_stop",
+        "spring_housing_assembly",
+        "engine_front_cover_current",
+        "spring_housing_cover",
+        "flange",
+        "engine_speed",
+        "spring_plunger_guide",
+        "small_brass_rod",
+        "high_speed_spring_plunger",
+        "spring_retainer_solid",
+        "insert_counterbore",
+        "of_the_governor",
+        "governor_spring_housing",
+        "spring_retainer_split"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 299,
+        "quote": "Refer to Figs. | and and 14 and attach the variable speed spring plunger guide. plunger retainer. shims. spring. stops and spring housing assembly to the go vernor housing as follows: . On current governors, use a new gasket and attach t...",
+        "verified": true,
+        "char_start": 2817,
+        "char_end": 4342,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Refer to Fig. 16 for the location of the various parts and assemble the governor cover as follows: a. If the stop lever bushing (Fig. 16) was removed from the cover, place the cover, inner face down, on the bed of an arbor press as shown in Fig. 17. Refer to \"NOTE\" under /nspection, then lubricate the new needle bearing with engine oil and start the bearing, numbered end up, straight in the bearing bore 1n the cover boss. b. Place the correct end of the installer J 21068 in the bearing and under the ram of the press. Then press the bearing into the cover until the stop on the installer contacts the boss on the cover. c. Reverse the cover, inner face up, on the bed of an arbor press. Lubricate the second bearing with engine oil and start the bearing, numbered end up, straight in the bore in the cover boss. d. Place the bearing installer J 21068 in the bearing a n d u n d e r t h e r a m o f t he p r e s s . T h e n pr e s s t h e b e a ri n g i n t h e b o r e u n t il i t i s f l u sh w i t h t h e fa c e of the boss. e. Lubricate the stop lever shaft needle bearings with Shell Alvania No. 2 grease, or equivalent. Then insert the stop shaft through the bearings in the cover. f. Place the seal ring over the shaft and push it into the bearing bore and against the bearing. Place the two seal ring retainer washers on the shaft and against the cover boss, then install the snap ring in the groove in the shaft. g. Install the stop lever on the shaft and secure it in place with the retaining bolt and lock washer.",
+      "source_number": 6,
+      "installs": [
+        "governor_cover",
+        "connecting_rod_bushing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE\" under /nspection, then lubricate the new needle bearing with engine oil and start the bearing, numbered end up, straight in the bearing bore 1n the cover boss.",
+      "provenance": {
+        "page": 300,
+        "quote": "Refer to Fig. 16 for the location of the various parts and assemble the governor cover as follows: a. If the stop lever bushing (Fig. 16) was removed from the cover, place the cover, inner face down, on the bed of an arbor press as shown...",
+        "verified": true,
+        "char_start": 579,
+        "char_end": 2109,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

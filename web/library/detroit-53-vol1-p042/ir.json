@@ -1,0 +1,663 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.79 - Install the camshaft oil seals, if removed...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "camshaft_oil_seal",
+      "name": "Camshaft oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft_oil_seal",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the camshaft oil seals, if removed, with installer J 21899.",
+        "verified": true,
+        "char_start": 1633,
+        "char_end": 1700,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the camshaft oil seals, if removed, with installer J 21899.",
+        "verified": true,
+        "char_start": 1633,
+        "char_end": 1700,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the crankshaft front oil seal as outlined in Section 1.3.2.",
+        "verified": true,
+        "char_start": 1704,
+        "char_end": 1771,
+        "bbox": [
+          343.44000000000005,
+          396.28799999999995,
+          583.876,
+          414.84799999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the crankshaft front oil seal as outlined in Section 1.3.2.",
+        "verified": true,
+        "char_start": 1704,
+        "char_end": 1771,
+        "bbox": [
+          343.44000000000005,
+          396.28799999999995,
+          583.876,
+          414.84799999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cover_gasket",
+      "name": "Cover gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cover_gasket",
+      "provenance": {
+        "page": 79,
+        "quote": "Affix new front cover gaskets to the cylinder block.",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 313,
+        "bbox": [
+          354.24,
+          425.96599999999995,
+          572.784,
+          435.96599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 79,
+        "quote": "Affix new front cover gaskets to the cylinder block.",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 313,
+        "bbox": [
+          354.24,
+          425.96599999999995,
+          572.784,
+          435.96599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the oil seal expander J 21898 over the end of the crankshaft.",
+        "verified": true,
+        "char_start": 1831,
+        "char_end": 1900,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "pilot_stud",
+      "name": "Pilot stud",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pilot_stud",
+      "provenance": {
+        "page": 79,
+        "quote": "Install two pilot studs into diametrically opposite bolt holes in the cylinder block.",
+        "verified": true,
+        "char_start": 1904,
+        "char_end": 1989,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 79,
+        "quote": "Install two pilot studs into diametrically opposite bolt holes in the cylinder block.",
+        "verified": true,
+        "char_start": 1904,
+        "char_end": 1989,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_seal",
+      "name": "Of the oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_seal",
+      "provenance": {
+        "page": 79,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal and guide the front cover over the pilot studs and against the cylinder block.",
+        "verified": true,
+        "char_start": 1993,
+        "char_end": 2131,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 79,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal and guide the front cover over the pilot studs and against the cylinder block.",
+        "verified": true,
+        "char_start": 1993,
+        "char_end": 2131,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover",
+      "name": "Engine front cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover",
+      "provenance": {
+        "page": 79,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal and guide the front cover over the pilot studs and against the cylinder block.",
+        "verified": true,
+        "char_start": 1993,
+        "char_end": 2131,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_cover_attaching",
+      "name": "Front cover attaching",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_cover_attaching",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the front cover attaching bolts and lock washers and tighten the bolts to 30-35 lb-ft torque.",
+        "verified": true,
+        "char_start": 2135,
+        "char_end": 2236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the front cover attaching bolts and lock washers and tighten the bolts to 30-35 lb-ft torque.",
+        "verified": true,
+        "char_start": 2135,
+        "char_end": 2236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the front cover attaching bolts and lock washers and tighten the bolts to 30-35 lb-ft torque.",
+        "verified": true,
+        "char_start": 2135,
+        "char_end": 2236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the crankshaft front sleeve, if used.",
+        "verified": true,
+        "char_start": 1427,
+        "char_end": 1472,
+        "bbox": [
+          355.4400000000001,
+          237.96399999999994,
+          537.3732,
+          245.96399999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the crankshaft pulley as outlined in Section 1.3.7.",
+        "verified": true,
+        "char_start": 1476,
+        "char_end": 1535,
+        "bbox": [
+          343.91999999999996,
+          257.131,
+          584.4719999999999,
+          277.571
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "camshaft_pulley",
+      "name": "Camshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft_pulley",
+      "provenance": {
+        "page": 79,
+        "quote": "Install the camshaft pulleys as outlined in Section 1.7.",
+        "verified": true,
+        "char_start": 1539,
+        "char_end": 1595,
+        "bbox": [
+          343.9200000000001,
+          288.6909999999999,
+          584.232,
+          309.4799999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the camshaft oil seals, if removed, with installer J 21899.",
+      "source_number": 1,
+      "installs": [
+        "camshaft_oil_seal",
+        "oil_seal_installer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install the camshaft oil seals, if removed, with installer J 21899.",
+        "verified": true,
+        "char_start": 1633,
+        "char_end": 1700,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the crankshaft front oil seal as outlined in Section 1.3.2.",
+      "source_number": 2,
+      "installs": [
+        "crankshaft_front_oil_seal",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install the crankshaft front oil seal as outlined in Section 1.3.2.",
+        "verified": true,
+        "char_start": 1704,
+        "char_end": 1771,
+        "bbox": [
+          343.44000000000005,
+          396.28799999999995,
+          583.876,
+          414.84799999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Affix new front cover gaskets to the cylinder block.",
+      "source_number": 3,
+      "installs": [
+        "cover_gasket",
+        "of_the_block"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Affix new front cover gaskets to the cylinder block.",
+        "verified": true,
+        "char_start": 261,
+        "char_end": 313,
+        "bbox": [
+          354.24,
+          425.96599999999995,
+          572.784,
+          435.96599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the oil seal expander J 21898 over the end of the crankshaft.",
+      "source_number": 4,
+      "installs": [
+        "halve_of_the_crankshaft"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install the oil seal expander J 21898 over the end of the crankshaft.",
+        "verified": true,
+        "char_start": 1831,
+        "char_end": 1900,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install two pilot studs into diametrically opposite bolt holes in the cylinder block.",
+      "source_number": 5,
+      "installs": [
+        "pilot_stud",
+        "bolt_hole"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install two pilot studs into diametrically opposite bolt holes in the cylinder block.",
+        "verified": true,
+        "char_start": 1904,
+        "char_end": 1989,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Apply a light coat of cup grease to the lip of the oil seal and guide the front cover over the pilot studs and against the cylinder block.",
+      "source_number": 6,
+      "installs": [
+        "of_the_oil_seal",
+        "cam_follower_guide",
+        "engine_front_cover"
+      ],
+      "depends_on": [
+        "s03",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Apply a light coat of cup grease to the lip of the oil seal and guide the front cover over the pilot studs and against the cylinder block.",
+        "verified": true,
+        "char_start": 1993,
+        "char_end": 2131,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Install the front cover attaching bolts and lock washers and tighten the bolts to 30-35 lb-ft torque.",
+      "source_number": 7,
+      "installs": [
+        "front_cover_attaching",
+        "engine_front_cover_bolt",
+        "special_lock_washer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 40.7,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install the front cover attaching bolts and lock washers and tighten the bolts to 30-35 lb-ft torque.",
+        "verified": true,
+        "char_start": 2135,
+        "char_end": 2236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the oil seal expander and the pilot studs.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Remove the oil seal expander and the pilot studs.",
+        "verified": true,
+        "char_start": 2240,
+        "char_end": 2289,
+        "bbox": [
+          354.0,
+          585.6899999999999,
+          566.913,
+          595.6899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Install the crankshaft front sleeve, if used.",
+      "source_number": 9,
+      "installs": [
+        "crankshaft_front_sleeve"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install the crankshaft front sleeve, if used.",
+        "verified": true,
+        "char_start": 1427,
+        "char_end": 1472,
+        "bbox": [
+          355.4400000000001,
+          237.96399999999994,
+          537.3732,
+          245.96399999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Install the crankshaft pulley as outlined in Section 1.3.7.",
+      "source_number": 10,
+      "installs": [
+        "crankshaft_splined_crankshaft_pulley"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install the crankshaft pulley as outlined in Section 1.3.7.",
+        "verified": true,
+        "char_start": 1476,
+        "char_end": 1535,
+        "bbox": [
+          343.91999999999996,
+          257.131,
+          584.4719999999999,
+          277.571
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Install the camshaft pulleys as outlined in Section 1.7.",
+      "source_number": 11,
+      "installs": [
+        "camshaft_pulley"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 79,
+        "quote": "Install the camshaft pulleys as outlined in Section 1.7.",
+        "verified": true,
+        "char_start": 1539,
+        "char_end": 1595,
+        "bbox": [
+          343.9200000000001,
+          288.6909999999999,
+          584.232,
+          309.4799999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

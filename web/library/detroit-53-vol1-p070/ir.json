@@ -1,0 +1,623 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.125 - Insert support J 7593-12 in the bore...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 125,
+        "quote": "Insert support J 7593-12 in the bore in the opposite end of the block; then, with the unthreaded end of the shaft started through pilot J 7593-2, push the shaft through the block and support J 7593-12.",
+        "verified": true,
+        "char_start": 3464,
+        "char_end": 3665,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 125,
+        "quote": "Insert support J 7593-12 in the bore in the opposite end of the block; then, with the unthreaded end of the shaft started through pilot J 7593-2, push the shaft through the block and support J 7593-12.",
+        "verified": true,
+        "char_start": 3464,
+        "char_end": 3665,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 125,
+        "quote": "Insert support J 7593-12 in the bore in the opposite end of the block; then, with the unthreaded end of the shaft started through pilot J 7593-2, push the shaft through the block and support J 7593-12.",
+        "verified": true,
+        "char_start": 3464,
+        "char_end": 3665,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 125,
+        "quote": "Insert support J 7593-12 in the bore in the opposite end of the block; then, with the unthreaded end of the shaft started through pilot J 7593-2, push the shaft through the block and support J 7593-12.",
+        "verified": true,
+        "char_start": 3464,
+        "char_end": 3665,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 125,
+        "quote": "Insert support J 7593-12 in the bore in the opposite end of the block; then, with the unthreaded end of the shaft started through pilot J 7593-2, push the shaft through the block and support J 7593-12.",
+        "verified": true,
+        "char_start": 3464,
+        "char_end": 3665,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 125,
+        "quote": "Place a new end bearing on installer J 7593-3 and align the notch in the bearings with the pin on the installer. Then, slide the installer and the bearing on the shaft. Position the bearing correctly with the groove in the camshaft bore.",
+        "verified": true,
+        "char_start": 3669,
+        "char_end": 3906,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 125,
+        "quote": "Place a new end bearing on installer J 7593-3 and align the notch in the bearings with the pin on the installer. Then, slide the installer and the bearing on the shaft. Position the bearing correctly with the groove in the camshaft bore.",
+        "verified": true,
+        "char_start": 3669,
+        "char_end": 3906,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "notch",
+      "name": "Notch",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "notch",
+      "provenance": {
+        "page": 125,
+        "quote": "Place a new end bearing on installer J 7593-3 and align the notch in the bearings with the pin on the installer. Then, slide the installer and the bearing on the shaft. Position the bearing correctly with the groove in the camshaft bore.",
+        "verified": true,
+        "char_start": 3669,
+        "char_end": 3906,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 125,
+        "quote": "Place a new end bearing on installer J 7593-3 and align the notch in the bearings with the pin on the installer. Then, slide the installer and the bearing on the shaft. Position the bearing correctly with the groove in the camshaft bore.",
+        "verified": true,
+        "char_start": 3669,
+        "char_end": 3906,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 125,
+        "quote": "Place a new end bearing on installer J 7593-3 and align the notch in the bearings with the pin on the installer. Then, slide the installer and the bearing on the shaft. Position the bearing correctly with the groove in the camshaft bore.",
+        "verified": true,
+        "char_start": 3669,
+        "char_end": 3906,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 125,
+        "quote": "Place \"C\" washer J 7593-4 in the end notch in the Shaft: pull the shaft back unul the washer butts against the installer.",
+        "verified": true,
+        "char_start": 3910,
+        "char_end": 4031,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "intermediate",
+      "name": "Intermediate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "intermediate",
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "center_bearing",
+      "name": "Center bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_bearing",
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 127,
+        "quote": "Install the front balance weights (Section 1.7). balance shaft.",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 467,
+        "bbox": [
+          77.51999999999998,
+          391.98299999999995,
+          559.1434999999999,
+          410.529
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_nut_retainer",
+      "name": "Gear nut retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_nut_retainer",
+      "provenance": {
+        "page": 127,
+        "quote": "Attach the gear nut retainer. plates (if used) to the",
+        "verified": true,
+        "char_start": 471,
+        "char_end": 524,
+        "bbox": [
+          358.56,
+          417.56999999999994,
+          586.0026,
+          427.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 127,
+        "quote": "Attach the gear nut retainer. plates (if used) to the",
+        "verified": true,
+        "char_start": 471,
+        "char_end": 524,
+        "bbox": [
+          358.56,
+          417.56999999999994,
+          586.0026,
+          427.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Insert support J 7593-12 in the bore in the opposite end of the block; then, with the unthreaded end of the shaft started through pilot J 7593-2, push the shaft through the block and support J 7593-12.",
+      "source_number": 2,
+      "installs": [
+        "exhaust_valve_seat_insert",
+        "blower_drive_support",
+        "of_the_block",
+        "end_of_the_shaft",
+        "needle_bearing_pilot"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 125,
+        "quote": "Insert support J 7593-12 in the bore in the opposite end of the block; then, with the unthreaded end of the shaft started through pilot J 7593-2, push the shaft through the block and support J 7593-12.",
+        "verified": true,
+        "char_start": 3464,
+        "char_end": 3665,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place a new end bearing on installer J 7593-3 and align the notch in the bearings with the pin on the installer. Then, slide the installer and the bearing on the shaft. Position the bearing correctly with the groove in the camshaft bore.",
+      "source_number": 3,
+      "installs": [
+        "bearing_the_end_bearing",
+        "oil_seal_installer",
+        "notch",
+        "copper_plated_dowel_pin",
+        "of_the_groove"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 125,
+        "quote": "Place a new end bearing on installer J 7593-3 and align the notch in the bearings with the pin on the installer. Then, slide the installer and the bearing on the shaft. Position the bearing correctly with the groove in the camshaft bore.",
+        "verified": true,
+        "char_start": 3669,
+        "char_end": 3906,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Place \"C\" washer J 7593-4 in the end notch in the Shaft: pull the shaft back unul the washer butts against the installer.",
+      "source_number": 4,
+      "installs": [
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 125,
+        "quote": "Place \"C\" washer J 7593-4 in the end notch in the Shaft: pull the shaft back unul the washer butts against the installer.",
+        "verified": true,
+        "char_start": 3910,
+        "char_end": 4031,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four cylinder and three cylinder block are 5.54 \u201d from the rear and front face wrench on the hex nut, draw the bearing into place of the block. The right rear and left front intermediate until the shoulder on the installer prevents the shaft from further movement. The bearing is now installed bearings for the 6V and 8V cylinder block are 5.54 \u201d in its correct position. from the rear and front face of the block; and the rght front and left rear intermediate bearings are 6.66 \u201d from the front and rear face of the block. Install the remaining end bearings in the same manner. Use of tool J 7593-03 assures that the bearings are properly spaced in relation to the end of the block. The center bearing (notch end) for a four and 8V cylinder block is 10.94 \" from the rear face of the",
+      "source_number": 5,
+      "installs": [
+        "next",
+        "drive_gear_spacer",
+        "of_the_required",
+        "crankshaft_thrust_washer",
+        "plain_washer",
+        "front_balance_weight_nut",
+        "nut_securing_fig",
+        "intermediate",
+        "shoulder",
+        "center_bearing"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 126,
+        "quote": "Next. place a spacer (if required). thrust washer, plain washer and hex nut over the threaded end of the 5.54\" from the rear face of the block. The shaft as shown in \u201cD\u201d of Fig. 7 and. using a suitable intermediate bearings for the four ...",
+        "verified": true,
+        "char_start": 629,
+        "char_end": 1645,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Secure the thrust washers in place as shown in",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 127,
+        "quote": "Secure the thrust washers in place as shown in",
+        "verified": true,
+        "char_start": 208,
+        "char_end": 254,
+        "bbox": [
+          360.96,
+          355.5299999999999,
+          587.3619999999999,
+          365.5299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install the front balance weights (Section 1.7). balance shaft.",
+      "source_number": 7,
+      "installs": [
+        "front_balance_weight"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 127,
+        "quote": "Install the front balance weights (Section 1.7). balance shaft.",
+        "verified": true,
+        "char_start": 404,
+        "char_end": 467,
+        "bbox": [
+          77.51999999999998,
+          391.98299999999995,
+          559.1434999999999,
+          410.529
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Attach the gear nut retainer. plates (if used) to the",
+      "source_number": 8,
+      "installs": [
+        "gear_nut_retainer",
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 127,
+        "quote": "Attach the gear nut retainer. plates (if used) to the",
+        "verified": true,
+        "char_start": 471,
+        "char_end": 524,
+        "bbox": [
+          358.56,
+          417.56999999999994,
+          586.0026,
+          427.56999999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

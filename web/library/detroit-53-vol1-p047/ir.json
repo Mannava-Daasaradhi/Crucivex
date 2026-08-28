@@ -1,0 +1,758 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.84 - Lubricate the end of the crankshaft to...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 84,
+        "quote": "Lubricate the end of the crankshaft to facilitate pulley installation.",
+        "verified": true,
+        "char_start": 1567,
+        "char_end": 1637,
+        "bbox": [
+          347.52,
+          583.4499999999999,
+          584.2455,
+          603.1299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_splined_crankshaft_pulley",
+      "name": "Crankshaft splined crankshaft pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_splined_crankshaft_pulley",
+      "provenance": {
+        "page": 84,
+        "quote": "Lubricate the end of the crankshaft to facilitate pulley installation.",
+        "verified": true,
+        "char_start": 1567,
+        "char_end": 1637,
+        "bbox": [
+          347.52,
+          583.4499999999999,
+          584.2455,
+          603.1299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "inner_cone",
+      "name": "Inner cone",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner_cone",
+      "provenance": {
+        "page": 84,
+        "quote": "Slide the inner cone (Fig. 3), if used, on the crankshaft.",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 1699,
+        "bbox": [
+          347.28,
+          614.01,
+          585.2043,
+          634.9289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 84,
+        "quote": "Slide the inner cone (Fig. 3), if used, on the crankshaft.",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 1699,
+        "bbox": [
+          347.28,
+          614.01,
+          585.2043,
+          634.9289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "woodruff_key",
+      "name": "Woodruff key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "woodruff_key",
+      "provenance": {
+        "page": 84,
+        "quote": "On an 8V engine. install two Woodruff keys (if removed) in the keyways in the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 1703,
+        "char_end": 1809,
+        "bbox": [
+          347.0400000000002,
+          645.81,
+          588.1032000000001,
+          677.769
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "keyway",
+      "name": "Keyway",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "keyway",
+      "provenance": {
+        "page": 84,
+        "quote": "On an 8V engine. install two Woodruff keys (if removed) in the keyways in the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 1703,
+        "char_end": 1809,
+        "bbox": [
+          347.0400000000002,
+          645.81,
+          588.1032000000001,
+          677.769
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 84,
+        "quote": "Start the pulley straight on the end of the Fig. 1 - Removing Crankshaft Pulley Using crankshaft.",
+        "verified": true,
+        "char_start": 1813,
+        "char_end": 1910,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rigid_type_pulley",
+      "name": "Rigid type pulley",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rigid_type_pulley",
+      "provenance": {
+        "page": 85,
+        "quote": "Install a rigid type pulley on an In-line or 6V engine with installer J 7773 as shown in Fig. 2. Then remove the installer.",
+        "verified": true,
+        "char_start": 70,
+        "char_end": 193,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 85,
+        "quote": "Install a rigid type pulley on an In-line or 6V engine with installer J 7773 as shown in Fig. 2. Then remove the installer.",
+        "verified": true,
+        "char_start": 70,
+        "char_end": 193,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 85,
+        "quote": "Install a rigid type pulley on an In-line or 6V engine with installer J 7773 as shown in Fig. 2. Then remove the installer.",
+        "verified": true,
+        "char_start": 70,
+        "char_end": 193,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "block_of_wood",
+      "name": "Block of wood",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "block_of_wood",
+      "provenance": {
+        "page": 85,
+        "quote": "Slide a rigid type pulley on an 8V engine. If necessary. hold a block of wood against the hub of the pulley and tap the pulley on the crankshaft with a hammer.",
+        "verified": true,
+        "char_start": 197,
+        "char_end": 356,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "damper_outer_cone",
+      "name": "Damper outer cone",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "damper_outer_cone",
+      "provenance": {
+        "page": 85,
+        "quote": "Slide the outer cone (Fig. 3). if used, on the crankshaft.",
+        "verified": true,
+        "char_start": 360,
+        "char_end": 418,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 85,
+        "quote": "Place the washer on the crankshaft bolt and thread the bolt into the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 519,
+        "bbox": [
+          318.96000000000004,
+          106.72799999999995,
+          558.08064,
+          125.42999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 85,
+        "quote": "Place the washer on the crankshaft bolt and thread the bolt into the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 519,
+        "bbox": [
+          318.96000000000004,
+          106.72799999999995,
+          558.08064,
+          125.42999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 85,
+        "quote": "Place the washer on the crankshaft bolt and thread the bolt into the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 519,
+        "bbox": [
+          318.96000000000004,
+          106.72799999999995,
+          558.08064,
+          125.42999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spline",
+      "name": "Spline",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spline",
+      "provenance": {
+        "page": 85,
+        "quote": "On certain 4-53 and 6V-53 engines, a splined crankshaft pulley is used. Place a drive flange washer over the splined end of the crankshaft. Align the splines and tap the pulley on the crankshaft with a plasuc hammer. Place another drive ...",
+        "verified": true,
+        "char_start": 523,
+        "char_end": 882,
+        "bbox": [
+          318.4799999999999,
+          136.40999999999997,
+          560.4248999999999,
+          212.19299999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "generator_drive_belt",
+      "name": "Generator drive belt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "generator_drive_belt",
+      "provenance": {
+        "page": 85,
+        "quote": "Install and adjust the belts.",
+        "verified": true,
+        "char_start": 1392,
+        "char_end": 1421,
+        "bbox": [
+          334.56,
+          395.27599999999995,
+          450.56118000000004,
+          404.27599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Lubricate the end of the crankshaft to facilitate pulley installation.",
+      "source_number": 1,
+      "installs": [
+        "halve_of_the_crankshaft",
+        "crankshaft_splined_crankshaft_pulley"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "Lubricate the end of the crankshaft to facilitate pulley installation.",
+        "verified": true,
+        "char_start": 1567,
+        "char_end": 1637,
+        "bbox": [
+          347.52,
+          583.4499999999999,
+          584.2455,
+          603.1299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Slide the inner cone (Fig. 3), if used, on the crankshaft.",
+      "source_number": 2,
+      "installs": [
+        "inner_cone",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "Slide the inner cone (Fig. 3), if used, on the crankshaft.",
+        "verified": true,
+        "char_start": 1641,
+        "char_end": 1699,
+        "bbox": [
+          347.28,
+          614.01,
+          585.2043,
+          634.9289999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "On an 8V engine. install two Woodruff keys (if removed) in the keyways in the front end of the crankshaft.",
+      "source_number": 3,
+      "installs": [
+        "woodruff_key",
+        "keyway"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "On an 8V engine. install two Woodruff keys (if removed) in the keyways in the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 1703,
+        "char_end": 1809,
+        "bbox": [
+          347.0400000000002,
+          645.81,
+          588.1032000000001,
+          677.769
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Start the pulley straight on the end of the Fig. 1 - Removing Crankshaft Pulley Using crankshaft.",
+      "source_number": 4,
+      "installs": [
+        "press_the_shaft_straight"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 84,
+        "quote": "Start the pulley straight on the end of the Fig. 1 - Removing Crankshaft Pulley Using crankshaft.",
+        "verified": true,
+        "char_start": 1813,
+        "char_end": 1910,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Install a rigid type pulley on an In-line or 6V engine with installer J 7773 as shown in Fig. 2. Then remove the installer.",
+      "source_number": 5,
+      "installs": [
+        "rigid_type_pulley",
+        "tbe_lubricating_oil_line",
+        "oil_seal_installer"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Install a rigid type pulley on an In-line or 6V engine with installer J 7773 as shown in Fig. 2. Then remove the installer.",
+        "verified": true,
+        "char_start": 70,
+        "char_end": 193,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Slide a rigid type pulley on an 8V engine. If necessary. hold a block of wood against the hub of the pulley and tap the pulley on the crankshaft with a hammer.",
+      "source_number": 6,
+      "installs": [
+        "block_of_wood"
+      ],
+      "depends_on": [
+        "s01",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Slide a rigid type pulley on an 8V engine. If necessary. hold a block of wood against the hub of the pulley and tap the pulley on the crankshaft with a hammer.",
+        "verified": true,
+        "char_start": 197,
+        "char_end": 356,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Slide the outer cone (Fig. 3). if used, on the crankshaft.",
+      "source_number": 7,
+      "installs": [
+        "damper_outer_cone"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Slide the outer cone (Fig. 3). if used, on the crankshaft.",
+        "verified": true,
+        "char_start": 360,
+        "char_end": 418,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Place the washer on the crankshaft bolt and thread the bolt into the front end of the crankshaft.",
+      "source_number": 8,
+      "installs": [
+        "another_drive_flange_washer",
+        "engine_front_cover_bolt",
+        "bolt_thread"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Place the washer on the crankshaft bolt and thread the bolt into the front end of the crankshaft.",
+        "verified": true,
+        "char_start": 422,
+        "char_end": 519,
+        "bbox": [
+          318.96000000000004,
+          106.72799999999995,
+          558.08064,
+          125.42999999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "On certain 4-53 and 6V-53 engines, a splined crankshaft pulley is used. Place a drive flange washer over the splined end of the crankshaft. Align the splines and tap the pulley on the crankshaft with a plasuc hammer. Place another drive flange washer on the bolt and thread it into the end of the crankshaft. Tighten the 3/4 \"-16 bolt to 290-300 Ib-ft torque.",
+      "source_number": 9,
+      "installs": [
+        "spline"
+      ],
+      "depends_on": [
+        "s01",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": 393.2,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "On certain 4-53 and 6V-53 engines, a splined crankshaft pulley is used. Place a drive flange washer over the splined end of the crankshaft. Align the splines and tap the pulley on the crankshaft with a plasuc hammer. Place another drive ...",
+        "verified": true,
+        "char_start": 523,
+        "char_end": 882,
+        "bbox": [
+          318.4799999999999,
+          136.40999999999997,
+          560.4248999999999,
+          212.19299999999987
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "On in-line engines with cone mounted pulleys NOT stamped with the letter \u201cA\u201d, tighten the 3/4 7-16 bolt to 290-300 Ib-ft torque.",
+      "source_number": 10,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s05",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": 393.2,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "On in-line engines with cone mounted pulleys NOT stamped with the letter \u201cA\u201d, tighten the 3/4 7-16 bolt to 290-300 Ib-ft torque.",
+        "verified": true,
+        "char_start": 887,
+        "char_end": 1015,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "On all in-line and 6V engines with the rigid type pulleys and cone mounted pulleys stamped with the letter \u201c\u0410\u201d, tighten the 3/4 7-16 bolt to 200-220 Ib-ft torque.",
+      "source_number": 11,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s05",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": 271.2,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "On all in-line and 6V engines with the rigid type pulleys and cone mounted pulleys stamped with the letter \u201c\u0410\u201d, tighten the 3/4 7-16 bolt to 200-220 Ib-ft torque.",
+        "verified": true,
+        "char_start": 1020,
+        "char_end": 1182,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "When pulleys stamped with the letter \u201cU\u201d (in a square box) are used. tighten the 3/4 7-16 bolt to 290- 310 Ib-ft torque.",
+      "source_number": 12,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": 393.2,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "When pulleys stamped with the letter \u201cU\u201d (in a square box) are used. tighten the 3/4 7-16 bolt to 290- 310 Ib-ft torque.",
+        "verified": true,
+        "char_start": 1187,
+        "char_end": 1307,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "On 8V engines, tighten the | \"\"-14 crankshaft bolt to 290-310 lb-ft torque.",
+      "source_number": 13,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": 393.2,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "On 8V engines, tighten the | \"\"-14 crankshaft bolt to 290-310 lb-ft torque.",
+        "verified": true,
+        "char_start": 1312,
+        "char_end": 1387,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Install and adjust the belts.",
+      "source_number": 14,
+      "installs": [
+        "generator_drive_belt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 85,
+        "quote": "Install and adjust the belts.",
+        "verified": true,
+        "char_start": 1392,
+        "char_end": 1421,
+        "bbox": [
+          334.56,
+          395.27599999999995,
+          450.56118000000004,
+          404.27599999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

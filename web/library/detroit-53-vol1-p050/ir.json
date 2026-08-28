@@ -1,0 +1,932 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.90 - Remove the engine from its base as...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "base",
+      "name": "Base",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "base",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the engine from its base as outlined in Section l.l.",
+        "verified": true,
+        "char_start": 411,
+        "char_end": 470,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the engine from its base as outlined in Section l.l.",
+        "verified": true,
+        "char_start": 411,
+        "char_end": 470,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "starter",
+      "name": "Starter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "starter",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the starter from the fivwheel housing or the clutch housing.",
+        "verified": true,
+        "char_start": 474,
+        "char_end": 541,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the starter from the fivwheel housing or the clutch housing.",
+        "verified": true,
+        "char_start": 474,
+        "char_end": 541,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clutch_housing",
+      "name": "Clutch housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clutch_housing",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the starter from the fivwheel housing or the clutch housing.",
+        "verified": true,
+        "char_start": 474,
+        "char_end": 541,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the flywheel.",
+        "verified": true,
+        "char_start": 545,
+        "char_end": 565,
+        "bbox": [
+          85.92,
+          312.68699999999995,
+          175.4874,
+          322.68699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_pan",
+      "name": "Oil pan",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pan",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the oil pan.",
+        "verified": true,
+        "char_start": 569,
+        "char_end": 588,
+        "bbox": [
+          85.92000000000002,
+          335.441,
+          170.50752000000003,
+          343.441
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the clutch housing, if used. Fig. 1 - Installing Flywheel Housing",
+        "verified": true,
+        "char_start": 592,
+        "char_end": 664,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the fuel pump, if it is mounted on the flywheel housing.",
+        "verified": true,
+        "char_start": 676,
+        "char_end": 739,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_cover",
+      "name": "Blower drive cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_cover",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the blower drive cover on 6V and 8V engines, the blower drive shaft retainer ring and the blower drive shaft on the 6V engine.",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 876,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the blower drive cover on 6V and 8V engines, the blower drive shaft retainer ring and the blower drive shaft on the 6V engine.",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 876,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the blower drive cover on 6V and 8V engines, the blower drive shaft retainer ring and the blower drive shaft on the 6V engine.",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 876,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the blower drive cover on 6V and 8V engines, the blower drive shaft retainer ring and the blower drive shaft on the 6V engine.",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 876,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_shaft",
+      "name": "Blower drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_shaft",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the blower drive cover on 6V and 8V engines, the blower drive shaft retainer ring and the blower drive shaft on the 6V engine.",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 876,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "ihe_governor",
+      "name": "Ihe governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ihe_governor",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove ihe governor and blower drive support (6V engine).",
+        "verified": true,
+        "char_start": 880,
+        "char_end": 937,
+        "bbox": [
+          344.1600000000001,
+          199.60799999999995,
+          581.8984,
+          219.9799999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove ihe governor and blower drive support (6V engine).",
+        "verified": true,
+        "char_start": 880,
+        "char_end": 937,
+        "bbox": [
+          344.1600000000001,
+          199.60799999999995,
+          581.8984,
+          219.9799999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_bolt",
+      "name": "Of the bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_bolt",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove all of the bolts from the flywheel housing. Don't forget the blower-to-flywhee! housing bolts on the 2-53 or 3-53 engines. NOTE: When removing the flywheel housing bolts. note the location of the vartous size bolts, lock washers. ...",
+        "verified": true,
+        "char_start": 941,
+        "char_end": 1262,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove all of the bolts from the flywheel housing. Don't forget the blower-to-flywhee! housing bolts on the 2-53 or 3-53 engines. NOTE: When removing the flywheel housing bolts. note the location of the vartous size bolts, lock washers. ...",
+        "verified": true,
+        "char_start": 941,
+        "char_end": 1262,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 90,
+        "quote": "To guide the flywheel housing until the oil seal clears the end of the crankshaft. thread two pilot studs J 7540 into the cylinder block (Fig. 1).",
+        "verified": true,
+        "char_start": 1267,
+        "char_end": 1413,
+        "bbox": [
+          343.68000000000006,
+          365.64899999999994,
+          582.6469200000001,
+          400.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 90,
+        "quote": "To guide the flywheel housing until the oil seal clears the end of the crankshaft. thread two pilot studs J 7540 into the cylinder block (Fig. 1).",
+        "verified": true,
+        "char_start": 1267,
+        "char_end": 1413,
+        "bbox": [
+          343.68000000000006,
+          365.64899999999994,
+          582.6469200000001,
+          400.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 90,
+        "quote": "To guide the flywheel housing until the oil seal clears the end of the crankshaft. thread two pilot studs J 7540 into the cylinder block (Fig. 1).",
+        "verified": true,
+        "char_start": 1267,
+        "char_end": 1413,
+        "bbox": [
+          343.68000000000006,
+          365.64899999999994,
+          582.6469200000001,
+          400.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 90,
+        "quote": "To guide the flywheel housing until the oil seal clears the end of the crankshaft. thread two pilot studs J 7540 into the cylinder block (Fig. 1).",
+        "verified": true,
+        "char_start": 1267,
+        "char_end": 1413,
+        "bbox": [
+          343.68000000000006,
+          365.64899999999994,
+          582.6469200000001,
+          400.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "pilot_stud",
+      "name": "Pilot stud",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pilot_stud",
+      "provenance": {
+        "page": 90,
+        "quote": "To guide the flywheel housing until the oil seal clears the end of the crankshaft. thread two pilot studs J 7540 into the cylinder block (Fig. 1).",
+        "verified": true,
+        "char_start": 1267,
+        "char_end": 1413,
+        "bbox": [
+          343.68000000000006,
+          365.64899999999994,
+          582.6469200000001,
+          400.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 90,
+        "quote": "To guide the flywheel housing until the oil seal clears the end of the crankshaft. thread two pilot studs J 7540 into the cylinder block (Fig. 1).",
+        "verified": true,
+        "char_start": 1267,
+        "char_end": 1413,
+        "bbox": [
+          343.68000000000006,
+          365.64899999999994,
+          582.6469200000001,
+          400.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 90,
+        "quote": "Thread eyebolts into the tapped holes in the pads Gf provided) on the top or sides of the flywheel housing and attach a chain hoist with a suitable sling to the eyebolts. Then strike the front face of the housing alternately on each side...",
+        "verified": true,
+        "char_start": 1418,
+        "char_end": 1730,
+        "bbox": [
+          343.6799999999997,
+          416.48999999999995,
+          583.8734999999997,
+          489.97200000000004
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "chain_hoist",
+      "name": "Chain hoist",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "chain_hoist",
+      "provenance": {
+        "page": 90,
+        "quote": "Thread eyebolts into the tapped holes in the pads Gf provided) on the top or sides of the flywheel housing and attach a chain hoist with a suitable sling to the eyebolts. Then strike the front face of the housing alternately on each side...",
+        "verified": true,
+        "char_start": 1418,
+        "char_end": 1730,
+        "bbox": [
+          343.6799999999997,
+          416.48999999999995,
+          583.8734999999997,
+          489.97200000000004
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 90,
+        "quote": "Thread eyebolts into the tapped holes in the pads Gf provided) on the top or sides of the flywheel housing and attach a chain hoist with a suitable sling to the eyebolts. Then strike the front face of the housing alternately on each side...",
+        "verified": true,
+        "char_start": 1418,
+        "char_end": 1730,
+        "bbox": [
+          343.6799999999997,
+          416.48999999999995,
+          583.8734999999997,
+          489.97200000000004
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove all traces of the old gaskets from the cylinder block rear end plate and the flywheel housing. Fig. 2 - Location of Shim",
+        "verified": true,
+        "char_start": 1735,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove all traces of the old gaskets from the cylinder block rear end plate and the flywheel housing. Fig. 2 - Location of Shim",
+        "verified": true,
+        "char_start": 1735,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove all traces of the old gaskets from the cylinder block rear end plate and the flywheel housing. Fig. 2 - Location of Shim",
+        "verified": true,
+        "char_start": 1735,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the engine from its base as outlined in Section l.l.",
+      "source_number": 1,
+      "installs": [
+        "base",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the engine from its base as outlined in Section l.l.",
+        "verified": true,
+        "char_start": 411,
+        "char_end": 470,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the starter from the fivwheel housing or the clutch housing.",
+      "source_number": 2,
+      "installs": [
+        "starter",
+        "of_the_flywheel_housing",
+        "clutch_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the starter from the fivwheel housing or the clutch housing.",
+        "verified": true,
+        "char_start": 474,
+        "char_end": 541,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Remove the flywheel.",
+      "source_number": 3,
+      "installs": [
+        "hammer_puller_set_flywheel"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the flywheel.",
+        "verified": true,
+        "char_start": 545,
+        "char_end": 565,
+        "bbox": [
+          85.92,
+          312.68699999999995,
+          175.4874,
+          322.68699999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Remove the oil pan.",
+      "source_number": 4,
+      "installs": [
+        "oil_pan"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the oil pan.",
+        "verified": true,
+        "char_start": 569,
+        "char_end": 588,
+        "bbox": [
+          85.92000000000002,
+          335.441,
+          170.50752000000003,
+          343.441
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the clutch housing, if used. Fig. 1 - Installing Flywheel Housing",
+      "source_number": 5,
+      "installs": [
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the clutch housing, if used. Fig. 1 - Installing Flywheel Housing",
+        "verified": true,
+        "char_start": 592,
+        "char_end": 664,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove the fuel pump, if it is mounted on the flywheel housing.",
+      "source_number": 6,
+      "installs": [
+        "fuel_pump"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the fuel pump, if it is mounted on the flywheel housing.",
+        "verified": true,
+        "char_start": 676,
+        "char_end": 739,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Remove the blower drive cover on 6V and 8V engines, the blower drive shaft retainer ring and the blower drive shaft on the 6V engine.",
+      "source_number": 7,
+      "installs": [
+        "blower_drive_cover",
+        "assembly_examine_the_blower",
+        "drive_shaft_retainer",
+        "bottom_oil_ring",
+        "blower_drive_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "Remove the blower drive cover on 6V and 8V engines, the blower drive shaft retainer ring and the blower drive shaft on the 6V engine.",
+        "verified": true,
+        "char_start": 743,
+        "char_end": 876,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove ihe governor and blower drive support (6V engine).",
+      "source_number": 8,
+      "installs": [
+        "ihe_governor",
+        "blower_drive_support"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "Remove ihe governor and blower drive support (6V engine).",
+        "verified": true,
+        "char_start": 880,
+        "char_end": 937,
+        "bbox": [
+          344.1600000000001,
+          199.60799999999995,
+          581.8984,
+          219.9799999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove all of the bolts from the flywheel housing. Don't forget the blower-to-flywhee! housing bolts on the 2-53 or 3-53 engines. NOTE: When removing the flywheel housing bolts. note the location of the vartous size bolts, lock washers. flat washers and copper washers so they may be reinstalled in their proper location.",
+      "source_number": 9,
+      "installs": [
+        "of_the_bolt",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [
+        "s02",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: When removing the flywheel housing bolts.",
+      "provenance": {
+        "page": 90,
+        "quote": "Remove all of the bolts from the flywheel housing. Don't forget the blower-to-flywhee! housing bolts on the 2-53 or 3-53 engines. NOTE: When removing the flywheel housing bolts. note the location of the vartous size bolts, lock washers. ...",
+        "verified": true,
+        "char_start": 941,
+        "char_end": 1262,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "To guide the flywheel housing until the oil seal clears the end of the crankshaft. thread two pilot studs J 7540 into the cylinder block (Fig. 1).",
+      "source_number": 10,
+      "installs": [
+        "cam_follower_guide",
+        "crankshaft_front_oil_seal",
+        "halve_of_the_crankshaft",
+        "bolt_thread",
+        "pilot_stud",
+        "of_the_block"
+      ],
+      "depends_on": [
+        "s02",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "To guide the flywheel housing until the oil seal clears the end of the crankshaft. thread two pilot studs J 7540 into the cylinder block (Fig. 1).",
+        "verified": true,
+        "char_start": 1267,
+        "char_end": 1413,
+        "bbox": [
+          343.68000000000006,
+          365.64899999999994,
+          582.6469200000001,
+          400.3299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Thread eyebolts into the tapped holes in the pads Gf provided) on the top or sides of the flywheel housing and attach a chain hoist with a suitable sling to the eyebolts. Then strike the front face of the housing alternately on each side of the engine with a soft hammer to Joosen and work 1t off the dowel pins.",
+      "source_number": 11,
+      "installs": [
+        "of_the_oil_hole",
+        "chain_hoist",
+        "copper_plated_dowel_pin"
+      ],
+      "depends_on": [
+        "s02",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "Thread eyebolts into the tapped holes in the pads Gf provided) on the top or sides of the flywheel housing and attach a chain hoist with a suitable sling to the eyebolts. Then strike the front face of the housing alternately on each side...",
+        "verified": true,
+        "char_start": 1418,
+        "char_end": 1730,
+        "bbox": [
+          343.6799999999997,
+          416.48999999999995,
+          583.8734999999997,
+          489.97200000000004
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Remove all traces of the old gaskets from the cylinder block rear end plate and the flywheel housing. Fig. 2 - Location of Shim",
+      "source_number": 12,
+      "installs": [
+        "head_gasket",
+        "assembly_rear_end_plate",
+        "rotor_shim"
+      ],
+      "depends_on": [
+        "s02",
+        "s05",
+        "s10"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 90,
+        "quote": "Remove all traces of the old gaskets from the cylinder block rear end plate and the flywheel housing. Fig. 2 - Location of Shim",
+        "verified": true,
+        "char_start": 1735,
+        "char_end": 1862,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

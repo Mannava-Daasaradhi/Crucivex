@@ -1,0 +1,1012 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.276 - If the weight carrier was removed from...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "weight_carrier",
+      "name": "Weight carrier",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_carrier",
+      "provenance": {
+        "page": 276,
+        "quote": "If the weight carrier was removed from the weight shaft, press the carrier on the shaft so as to allow a clearance of .001\" to 006\u201d between the shaft shoulder and the rear face of the weight carrier.",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1071,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 276,
+        "quote": "If the weight carrier was removed from the weight shaft, press the carrier on the shaft so as to allow a clearance of .001\" to 006\u201d between the shaft shoulder and the rear face of the weight carrier.",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1071,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 276,
+        "quote": "If the weight carrier was removed from the weight shaft, press the carrier on the shaft so as to allow a clearance of .001\" to 006\u201d between the shaft shoulder and the rear face of the weight carrier.",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1071,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 276,
+        "quote": "If the weight carrier was removed from the weight shaft, press the carrier on the shaft so as to allow a clearance of .001\" to 006\u201d between the shaft shoulder and the rear face of the weight carrier.",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1071,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_weight",
+      "name": "Of the weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_weight",
+      "provenance": {
+        "page": 276,
+        "quote": "If the weight carrier was removed from the weight shaft, press the carrier on the shaft so as to allow a clearance of .001\" to 006\u201d between the shaft shoulder and the rear face of the weight carrier.",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1071,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 276,
+        "quote": "Press the bearing (Fig. 7) in the retainer (press on the outer race). Then install the snap ring, with the flat side of the ring facing the bearing. P. um",
+        "verified": true,
+        "char_start": 1075,
+        "char_end": 1229,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 276,
+        "quote": "Press the bearing (Fig. 7) in the retainer (press on the outer race). Then install the snap ring, with the flat side of the ring facing the bearing. P. um",
+        "verified": true,
+        "char_start": 1075,
+        "char_end": 1229,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 276,
+        "quote": "Press the bearing (Fig. 7) in the retainer (press on the outer race). Then install the snap ring, with the flat side of the ring facing the bearing. P. um",
+        "verified": true,
+        "char_start": 1075,
+        "char_end": 1229,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "outer_race",
+      "name": "Outer race",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "outer_race",
+      "provenance": {
+        "page": 276,
+        "quote": "Press the bearing (Fig. 7) in the retainer (press on the outer race). Then install the snap ring, with the flat side of the ring facing the bearing. P. um",
+        "verified": true,
+        "char_start": 1075,
+        "char_end": 1229,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 276,
+        "quote": "Press the bearing (Fig. 7) in the retainer (press on the outer race). Then install the snap ring, with the flat side of the ring facing the bearing. P. um",
+        "verified": true,
+        "char_start": 1075,
+        "char_end": 1229,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 276,
+        "quote": "Press the bearing (Fig. 7) in the retainer (press on the outer race). Then install the snap ring, with the flat side of the ring facing the bearing. P. um",
+        "verified": true,
+        "char_start": 1075,
+        "char_end": 1229,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_retainer_assembly",
+      "name": "Drive retainer assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_retainer_assembly",
+      "provenance": {
+        "page": 276,
+        "quote": "Press the bearing and retainer assembly on the shaft until the bearing contacts the shoulder on the shaft. NOTE: Press on the inner race of the bearing.",
+        "verified": true,
+        "char_start": 1342,
+        "char_end": 1494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 276,
+        "quote": "Press the bearing and retainer assembly on the shaft until the bearing contacts the shoulder on the shaft. NOTE: Press on the inner race of the bearing.",
+        "verified": true,
+        "char_start": 1342,
+        "char_end": 1494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 276,
+        "quote": "Lubricate the shaft with clean engine oil. Then slide the riser and bearing assembly on the shaft.",
+        "verified": true,
+        "char_start": 1498,
+        "char_end": 1596,
+        "bbox": [
+          353.75999999999993,
+          426.33099999999996,
+          590.216,
+          447.27399999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_riser",
+      "name": "Governor riser",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_riser",
+      "provenance": {
+        "page": 276,
+        "quote": "Lubricate the shaft with clean engine oil. Then slide the riser and bearing assembly on the shaft.",
+        "verified": true,
+        "char_start": 1498,
+        "char_end": 1596,
+        "bbox": [
+          353.75999999999993,
+          426.33099999999996,
+          590.216,
+          447.27399999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 276,
+        "quote": "Secure the weights to the carrier as follows: a. Position one of the weights in the carrier. If the current steel carrier is used, place a spacer on each side of the weight. b. Insert the serrated end of the weight pin through the larger...",
+        "verified": true,
+        "char_start": 1600,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_current",
+      "name": "Engine front cover current",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_current",
+      "provenance": {
+        "page": 276,
+        "quote": "Secure the weights to the carrier as follows: a. Position one of the weights in the carrier. If the current steel carrier is used, place a spacer on each side of the weight. b. Insert the serrated end of the weight pin through the larger...",
+        "verified": true,
+        "char_start": 1600,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 276,
+        "quote": "Secure the weights to the carrier as follows: a. Position one of the weights in the carrier. If the current steel carrier is used, place a spacer on each side of the weight. b. Insert the serrated end of the weight pin through the larger...",
+        "verified": true,
+        "char_start": 1600,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 276,
+        "quote": "Secure the weights to the carrier as follows: a. Position one of the weights in the carrier. If the current steel carrier is used, place a spacer on each side of the weight. b. Insert the serrated end of the weight pin through the larger...",
+        "verified": true,
+        "char_start": 1600,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "weight_pin",
+      "name": "Weight pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "weight_pin",
+      "provenance": {
+        "page": 276,
+        "quote": "Secure the weights to the carrier as follows: a. Position one of the weights in the carrier. If the current steel carrier is used, place a spacer on each side of the weight. b. Insert the serrated end of the weight pin through the larger...",
+        "verified": true,
+        "char_start": 1600,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 276,
+        "quote": "Secure the weights to the carrier as follows: a. Position one of the weights in the carrier. If the current steel carrier is used, place a spacer on each side of the weight. b. Insert the serrated end of the weight pin through the larger...",
+        "verified": true,
+        "char_start": 1600,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 276,
+        "quote": "Secure the weights to the carrier as follows: a. Position one of the weights in the carrier. If the current steel carrier is used, place a spacer on each side of the weight. b. Insert the serrated end of the weight pin through the larger...",
+        "verified": true,
+        "char_start": 1600,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 276,
+        "quote": "Slide the shaft and weight assembly into the weight housing, with the riser bearing positioned behind the operating fork.",
+        "verified": true,
+        "char_start": 2057,
+        "char_end": 2178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 276,
+        "quote": "Slide the shaft and weight assembly into the weight housing, with the riser bearing positioned behind the operating fork.",
+        "verified": true,
+        "char_start": 2057,
+        "char_end": 2178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retainer",
+      "name": "Bearing retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer",
+      "provenance": {
+        "page": 276,
+        "quote": "Turn the bearing retainer until the large opening is over the fork on the operating shaft. Then tighten the two fork attaching screws with a 5/16 \" electrician's socket wrench (Fig. 5).",
+        "verified": true,
+        "char_start": 2182,
+        "char_end": 2367,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 276,
+        "quote": "Turn the bearing retainer until the large opening is over the fork on the operating shaft. Then tighten the two fork attaching screws with a 5/16 \" electrician's socket wrench (Fig. 5).",
+        "verified": true,
+        "char_start": 2182,
+        "char_end": 2367,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "attaching_screw",
+      "name": "Attaching screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "attaching_screw",
+      "provenance": {
+        "page": 276,
+        "quote": "Turn the bearing retainer until the large opening is over the fork on the operating shaft. Then tighten the two fork attaching screws with a 5/16 \" electrician's socket wrench (Fig. 5).",
+        "verified": true,
+        "char_start": 2182,
+        "char_end": 2367,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "disassemble_governor_housing",
+      "name": "Disassemble governor housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "disassemble_governor_housing",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_cover",
+      "name": "Governor cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_cover",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_throttle_shaft",
+      "name": "Governor throttle shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_throttle_shaft",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_slot",
+      "name": "Tbe slot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_slot",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 277,
+        "quote": "Hook the stop lever spring to the lever and to the spring retaining bracket or the special cover screw.",
+        "verified": true,
+        "char_start": 2058,
+        "char_end": 2161,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 277,
+        "quote": "Hook the stop lever spring to the lever and to the spring retaining bracket or the special cover screw.",
+        "verified": true,
+        "char_start": 2058,
+        "char_end": 2161,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_cover_screw",
+      "name": "Valve cover screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_cover_screw",
+      "provenance": {
+        "page": 277,
+        "quote": "Hook the stop lever spring to the lever and to the spring retaining bracket or the special cover screw.",
+        "verified": true,
+        "char_start": 2058,
+        "char_end": 2161,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 277,
+        "quote": "Install the fuel pump and fuel lines. Perform an engine tune-up as outlined in 13. Section 14.",
+        "verified": true,
+        "char_start": 2166,
+        "char_end": 2260,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_line",
+      "name": "Fuel line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_line",
+      "provenance": {
+        "page": 277,
+        "quote": "Install the fuel pump and fuel lines. Perform an engine tune-up as outlined in 13. Section 14.",
+        "verified": true,
+        "char_start": 2166,
+        "char_end": 2260,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 277,
+        "quote": "Install the fuel pump and fuel lines. Perform an engine tune-up as outlined in 13. Section 14.",
+        "verified": true,
+        "char_start": 2166,
+        "char_end": 2260,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "If the weight carrier was removed from the weight shaft, press the carrier on the shaft so as to allow a clearance of .001\" to 006\u201d between the shaft shoulder and the rear face of the weight carrier.",
+      "source_number": 1,
+      "installs": [
+        "weight_carrier",
+        "governor_weight_shaft",
+        "end_of_the_shaft",
+        "shoulder",
+        "of_the_weight"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 276,
+        "quote": "If the weight carrier was removed from the weight shaft, press the carrier on the shaft so as to allow a clearance of .001\" to 006\u201d between the shaft shoulder and the rear face of the weight carrier.",
+        "verified": true,
+        "char_start": 872,
+        "char_end": 1071,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Press the bearing (Fig. 7) in the retainer (press on the outer race). Then install the snap ring, with the flat side of the ring facing the bearing. P. um",
+      "source_number": 2,
+      "installs": [
+        "bearing_the_end_bearing",
+        "nut_securing_fig",
+        "drive_shaft_retainer",
+        "outer_race",
+        "external_snap_ring",
+        "bottom_oil_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 276,
+        "quote": "Press the bearing (Fig. 7) in the retainer (press on the outer race). Then install the snap ring, with the flat side of the ring facing the bearing. P. um",
+        "verified": true,
+        "char_start": 1075,
+        "char_end": 1229,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Press the bearing and retainer assembly on the shaft until the bearing contacts the shoulder on the shaft. NOTE: Press on the inner race of the bearing.",
+      "source_number": 3,
+      "installs": [
+        "drive_retainer_assembly",
+        "contact"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: Press on the inner race of the bearing.",
+      "provenance": {
+        "page": 276,
+        "quote": "Press the bearing and retainer assembly on the shaft until the bearing contacts the shoulder on the shaft. NOTE: Press on the inner race of the bearing.",
+        "verified": true,
+        "char_start": 1342,
+        "char_end": 1494,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Lubricate the shaft with clean engine oil. Then slide the riser and bearing assembly on the shaft.",
+      "source_number": 4,
+      "installs": [
+        "valve_rocker_cover_clean",
+        "governor_riser"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 276,
+        "quote": "Lubricate the shaft with clean engine oil. Then slide the riser and bearing assembly on the shaft.",
+        "verified": true,
+        "char_start": 1498,
+        "char_end": 1596,
+        "bbox": [
+          353.75999999999993,
+          426.33099999999996,
+          590.216,
+          447.27399999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Secure the weights to the carrier as follows: a. Position one of the weights in the carrier. If the current steel carrier is used, place a spacer on each side of the weight. b. Insert the serrated end of the weight pin through the larger opening in the carrier and through the weight and spacers. Then drive the pin into the smaller opening in the carrier. c. Install a retainer in the groove of the pin. d. Install the second weight in the same manner.",
+      "source_number": 5,
+      "installs": [
+        "front_balance_weight",
+        "engine_front_cover_current",
+        "drive_gear_spacer",
+        "exhaust_valve_seat_insert",
+        "weight_pin",
+        "copper_plated_dowel_pin",
+        "of_the_groove"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 276,
+        "quote": "Secure the weights to the carrier as follows: a. Position one of the weights in the carrier. If the current steel carrier is used, place a spacer on each side of the weight. b. Insert the serrated end of the weight pin through the larger...",
+        "verified": true,
+        "char_start": 1600,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Slide the shaft and weight assembly into the weight housing, with the riser bearing positioned behind the operating fork.",
+      "source_number": 6,
+      "installs": [
+        "of_the_flywheel_housing",
+        "governor_operating_fork"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 276,
+        "quote": "Slide the shaft and weight assembly into the weight housing, with the riser bearing positioned behind the operating fork.",
+        "verified": true,
+        "char_start": 2057,
+        "char_end": 2178,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Turn the bearing retainer until the large opening is over the fork on the operating shaft. Then tighten the two fork attaching screws with a 5/16 \" electrician's socket wrench (Fig. 5).",
+      "source_number": 7,
+      "installs": [
+        "bearing_retainer",
+        "governor_operating_shaft",
+        "attaching_screw"
+      ],
+      "depends_on": [
+        "s02",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 276,
+        "quote": "Turn the bearing retainer until the large opening is over the fork on the operating shaft. Then tighten the two fork attaching screws with a 5/16 \" electrician's socket wrench (Fig. 5).",
+        "verified": true,
+        "char_start": 2182,
+        "char_end": 2367,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock washers. NOTE: If a torsion-type stop lever spring (Fig. 2) is used, a special cover screw is used to hold the spring in place. If a long coil spring is used, the spring retaining bracket is held in place by one of the standard cover retaining screws.",
+      "source_number": 10,
+      "installs": [
+        "head_gasket",
+        "disassemble_governor_housing",
+        "governor_cover",
+        "of_the_stop_lever",
+        "governor_throttle_shaft",
+        "tbe_slot",
+        "governor_differential_lever",
+        "underside_of_the_cover",
+        "blower_the_engine_governor",
+        "of_the_buffer_screw",
+        "special_lock_washer"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: If a torsion-type stop lever spring (Fig.",
+      "provenance": {
+        "page": 277,
+        "quote": "Place a new gasket on the governor housing, then instal] the governor cover and lever assembly. Be sure the pin in the throttle shaft enters the slot in the differential lever. Secure the cover to the governor with four screws and lock w...",
+        "verified": true,
+        "char_start": 1566,
+        "char_end": 2053,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Hook the stop lever spring to the lever and to the spring retaining bracket or the special cover screw.",
+      "source_number": 11,
+      "installs": [
+        "end_of_the_spring",
+        "booster_spring_bracket",
+        "valve_cover_screw"
+      ],
+      "depends_on": [
+        "s08"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 277,
+        "quote": "Hook the stop lever spring to the lever and to the spring retaining bracket or the special cover screw.",
+        "verified": true,
+        "char_start": 2058,
+        "char_end": 2161,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Install the fuel pump and fuel lines. Perform an engine tune-up as outlined in 13. Section 14.",
+      "source_number": 12,
+      "installs": [
+        "fuel_pump",
+        "fuel_line",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 277,
+        "quote": "Install the fuel pump and fuel lines. Perform an engine tune-up as outlined in 13. Section 14.",
+        "verified": true,
+        "char_start": 2166,
+        "char_end": 2260,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

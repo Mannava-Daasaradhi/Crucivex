@@ -1,0 +1,484 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.200 - Check Valve Cage: 2 Lap both flat...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "check_valve_cage",
+      "name": "Check valve cage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "check_valve_cage",
+      "provenance": {
+        "page": 200,
+        "quote": "Check Valve Cage: 2 Lap both flat sealing surfaces. a Replace if cracked or too thin (see Table 1).",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 200,
+        "quote": "Check Valve Cage: 2 Lap both flat sealing surfaces. a Replace if cracked or too thin (see Table 1).",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "too",
+      "name": "Too",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "too",
+      "provenance": {
+        "page": 200,
+        "quote": "Check Valve Cage: 2 Lap both flat sealing surfaces. a Replace if cracked or too thin (see Table 1).",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_spring",
+      "name": "Exhaust valve spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_spring",
+      "provenance": {
+        "page": 200,
+        "quote": "Valve Spring: s Replace. Do not reuse unless there is absolutely no wear or damage.",
+        "verified": true,
+        "char_start": 108,
+        "char_end": 191,
+        "bbox": [
+          71.28,
+          119.64599999999996,
+          294.7932,
+          157.10400000000004
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 200,
+        "quote": "Spring Seat: s Replace if there is a hole worn in the rounded end where the needle quill touches.",
+        "verified": true,
+        "char_start": 196,
+        "char_end": 293,
+        "bbox": [
+          71.28,
+          166.337,
+          294.71610000000004,
+          203.50799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 200,
+        "quote": "Spring Seat: s Replace if there is a hole worn in the rounded end where the needle quill touches.",
+        "verified": true,
+        "char_start": 196,
+        "char_end": 293,
+        "bbox": [
+          71.28,
+          166.337,
+          294.71610000000004,
+          203.50799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "worn",
+      "name": "Worn",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "worn",
+      "provenance": {
+        "page": 200,
+        "quote": "Spring Seat: s Replace if there is a hole worn in the rounded end where the needle quill touches.",
+        "verified": true,
+        "char_start": 196,
+        "char_end": 293,
+        "bbox": [
+          71.28,
+          166.337,
+          294.71610000000004,
+          203.50799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spring_cage",
+      "name": "Spring cage",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_cage",
+      "provenance": {
+        "page": 200,
+        "quote": "Spring Cage: =Lap both flat (sealing) surfaces. a Replace if cracked or too thin (see Table 1) or if the needle has worn a pocket around the small hole.",
+        "verified": true,
+        "char_start": 298,
+        "char_end": 450,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "indicate_the_spray_tip",
+      "name": "Indicate the spray tip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "indicate_the_spray_tip",
+      "provenance": {
+        "page": 200,
+        "quote": "Spray Tip: = Regrind seat. \u00abLap flat sealing surface. \u0438 \u0420\u0435\u0440\u0433\u0456\u043f\u0430 the needle conicol seat. a Replace if beyond flow limits i.e., eroded spray holes.",
+        "verified": true,
+        "char_start": 455,
+        "char_end": 601,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 200,
+        "quote": "Spray Tip: = Regrind seat. \u00abLap flat sealing surface. \u0438 \u0420\u0435\u0440\u0433\u0456\u043f\u0430 the needle conicol seat. a Replace if beyond flow limits i.e., eroded spray holes.",
+        "verified": true,
+        "char_start": 455,
+        "char_end": 601,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 200,
+        "quote": "Nut: s Remove carbon from the seat and tapered I.D. = Reblue. \u00abReplace if the threads are damaged more than 10% or if the small I.D. is badly eroded.",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "only_the_carbon",
+      "name": "Only the carbon",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "only_the_carbon",
+      "provenance": {
+        "page": 200,
+        "quote": "Nut: s Remove carbon from the seat and tapered I.D. = Reblue. \u00abReplace if the threads are damaged more than 10% or if the small I.D. is badly eroded.",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 200,
+        "quote": "Nut: s Remove carbon from the seat and tapered I.D. = Reblue. \u00abReplace if the threads are damaged more than 10% or if the small I.D. is badly eroded.",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "more",
+      "name": "More",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "more",
+      "provenance": {
+        "page": 200,
+        "quote": "Nut: s Remove carbon from the seat and tapered I.D. = Reblue. \u00abReplace if the threads are damaged more than 10% or if the small I.D. is badly eroded.",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spill_deflector",
+      "name": "Spill deflector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spill_deflector",
+      "provenance": {
+        "page": 200,
+        "quote": "Spill Deflector: \u00abRemove burrs. s Reuse if the ends are smooth and even and the deflector is not cracked. Normally, new parts do not require lapping prior to use. Wash the service parts in clean solvent to remove the solitified preservat...",
+        "verified": true,
+        "char_start": 760,
+        "char_end": 1147,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "burr",
+      "name": "Burr",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "burr",
+      "provenance": {
+        "page": 200,
+        "quote": "Spill Deflector: \u00abRemove burrs. s Reuse if the ends are smooth and even and the deflector is not cracked. Normally, new parts do not require lapping prior to use. Wash the service parts in clean solvent to remove the solitified preservat...",
+        "verified": true,
+        "char_start": 760,
+        "char_end": 1147,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Check Valve Cage: 2 Lap both flat sealing surfaces. a Replace if cracked or too thin (see Table 1).",
+      "source_number": 10,
+      "installs": [
+        "check_valve_cage",
+        "flat",
+        "too"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 200,
+        "quote": "Check Valve Cage: 2 Lap both flat sealing surfaces. a Replace if cracked or too thin (see Table 1).",
+        "verified": true,
+        "char_start": 4,
+        "char_end": 103,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Valve Spring: s Replace. Do not reuse unless there is absolutely no wear or damage.",
+      "source_number": 11,
+      "installs": [
+        "exhaust_valve_spring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not reuse unless there is absolutely no wear or damage.",
+      "provenance": {
+        "page": 200,
+        "quote": "Valve Spring: s Replace. Do not reuse unless there is absolutely no wear or damage.",
+        "verified": true,
+        "char_start": 108,
+        "char_end": 191,
+        "bbox": [
+          71.28,
+          119.64599999999996,
+          294.7932,
+          157.10400000000004
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Spring Seat: s Replace if there is a hole worn in the rounded end where the needle quill touches.",
+      "source_number": 12,
+      "installs": [
+        "drive_spring_seat",
+        "of_the_oil_hole",
+        "worn"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 200,
+        "quote": "Spring Seat: s Replace if there is a hole worn in the rounded end where the needle quill touches.",
+        "verified": true,
+        "char_start": 196,
+        "char_end": 293,
+        "bbox": [
+          71.28,
+          166.337,
+          294.71610000000004,
+          203.50799999999992
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Spring Cage: =Lap both flat (sealing) surfaces. a Replace if cracked or too thin (see Table 1) or if the needle has worn a pocket around the small hole.",
+      "source_number": 13,
+      "installs": [
+        "spring_cage"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 200,
+        "quote": "Spring Cage: =Lap both flat (sealing) surfaces. a Replace if cracked or too thin (see Table 1) or if the needle has worn a pocket around the small hole.",
+        "verified": true,
+        "char_start": 298,
+        "char_end": 450,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Spray Tip: = Regrind seat. \u00abLap flat sealing surface. \u0438 \u0420\u0435\u0440\u0433\u0456\u043f\u0430 the needle conicol seat. a Replace if beyond flow limits i.e., eroded spray holes.",
+      "source_number": 14,
+      "installs": [
+        "indicate_the_spray_tip",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 200,
+        "quote": "Spray Tip: = Regrind seat. \u00abLap flat sealing surface. \u0438 \u0420\u0435\u0440\u0433\u0456\u043f\u0430 the needle conicol seat. a Replace if beyond flow limits i.e., eroded spray holes.",
+        "verified": true,
+        "char_start": 455,
+        "char_end": 601,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Nut: s Remove carbon from the seat and tapered I.D. = Reblue. \u00abReplace if the threads are damaged more than 10% or if the small I.D. is badly eroded.",
+      "source_number": 15,
+      "installs": [
+        "front_balance_weight_nut",
+        "only_the_carbon",
+        "bolt_thread",
+        "more"
+      ],
+      "depends_on": [
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 200,
+        "quote": "Nut: s Remove carbon from the seat and tapered I.D. = Reblue. \u00abReplace if the threads are damaged more than 10% or if the small I.D. is badly eroded.",
+        "verified": true,
+        "char_start": 606,
+        "char_end": 755,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Spill Deflector: \u00abRemove burrs. s Reuse if the ends are smooth and even and the deflector is not cracked. Normally, new parts do not require lapping prior to use. Wash the service parts in clean solvent to remove the solitified preservative. However, if new parts become nicked or burred during handling, then lapping will be necessary to provide adequate sealing between the flat parts.",
+      "source_number": 16,
+      "installs": [
+        "spill_deflector",
+        "burr"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "do not require lapping prior to use.",
+      "provenance": {
+        "page": 200,
+        "quote": "Spill Deflector: \u00abRemove burrs. s Reuse if the ends are smooth and even and the deflector is not cracked. Normally, new parts do not require lapping prior to use. Wash the service parts in clean solvent to remove the solitified preservat...",
+        "verified": true,
+        "char_start": 760,
+        "char_end": 1147,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

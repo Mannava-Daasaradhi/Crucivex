@@ -1,0 +1,334 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.111 - Wipe the inside and outside of the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "portion_of_the_liner",
+      "name": "Portion of the liner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "portion_of_the_liner",
+      "provenance": {
+        "page": 111,
+        "quote": "Wipe the inside and outside of the liner clean. Also, make sure the block bore and counterbore are clean so the liner flange will seat properly. Then, slide the liner into the block until the flange rests on the bottom of the counterbore...",
+        "verified": true,
+        "char_start": 1881,
+        "char_end": 2132,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 111,
+        "quote": "Wipe the inside and outside of the liner clean. Also, make sure the block bore and counterbore are clean so the liner flange will seat properly. Then, slide the liner into the block until the flange rests on the bottom of the counterbore...",
+        "verified": true,
+        "char_start": 1881,
+        "char_end": 2132,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 111,
+        "quote": "Wipe the inside and outside of the liner clean. Also, make sure the block bore and counterbore are clean so the liner flange will seat properly. Then, slide the liner into the block until the flange rests on the bottom of the counterbore...",
+        "verified": true,
+        "char_start": 1881,
+        "char_end": 2132,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flange",
+      "name": "Flange",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flange",
+      "provenance": {
+        "page": 111,
+        "quote": "Wipe the inside and outside of the liner clean. Also, make sure the block bore and counterbore are clean so the liner flange will seat properly. Then, slide the liner into the block until the flange rests on the bottom of the counterbore...",
+        "verified": true,
+        "char_start": 1881,
+        "char_end": 2132,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 111,
+        "quote": "Wipe the inside and outside of the liner clean. Also, make sure the block bore and counterbore are clean so the liner flange will seat properly. Then, slide the liner into the block until the flange rests on the bottom of the counterbore...",
+        "verified": true,
+        "char_start": 1881,
+        "char_end": 2132,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 111,
+        "quote": "Clamp the liner in place with hold-down clamp J 21793 and measure the distance from the top of the liner flange to the top of the block with dial indicator set J 22273 (Fig. 5). The top of the liner flange should be .0465\" to .050\" below...",
+        "verified": true,
+        "char_start": 2441,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "liner_hold_down_clamp",
+      "name": "Liner hold-down clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "liner_hold_down_clamp",
+      "provenance": {
+        "page": 111,
+        "quote": "Clamp the liner in place with hold-down clamp J 21793 and measure the distance from the top of the liner flange to the top of the block with dial indicator set J 22273 (Fig. 5). The top of the liner flange should be .0465\" to .050\" below...",
+        "verified": true,
+        "char_start": 2441,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 111,
+        "quote": "Clamp the liner in place with hold-down clamp J 21793 and measure the distance from the top of the liner flange to the top of the block with dial indicator set J 22273 (Fig. 5). The top of the liner flange should be .0465\" to .050\" below...",
+        "verified": true,
+        "char_start": 2441,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 111,
+        "quote": "Clamp the liner in place with hold-down clamp J 21793 and measure the distance from the top of the liner flange to the top of the block with dial indicator set J 22273 (Fig. 5). The top of the liner flange should be .0465\" to .050\" below...",
+        "verified": true,
+        "char_start": 2441,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_matchmark",
+      "name": "Of the matchmark",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_matchmark",
+      "provenance": {
+        "page": 111,
+        "quote": "Matchmark the liner and the block with chalk or paint, so the liner may be reinstalled in the same position in the same bore. Place the matchmark on the engine serial number side of the block (In-line engine) or on the outer edge of the ...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3198,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 111,
+        "quote": "Matchmark the liner and the block with chalk or paint, so the liner may be reinstalled in the same position in the same bore. Place the matchmark on the engine serial number side of the block (In-line engine) or on the outer edge of the ...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3198,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_outer",
+      "name": "Idler gear outer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_outer",
+      "provenance": {
+        "page": 111,
+        "quote": "Matchmark the liner and the block with chalk or paint, so the liner may be reinstalled in the same position in the same bore. Place the matchmark on the engine serial number side of the block (In-line engine) or on the outer edge of the ...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3198,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Wipe the inside and outside of the liner clean. Also, make sure the block bore and counterbore are clean so the liner flange will seat properly. Then, slide the liner into the block until the flange rests on the bottom of the counterbore in the block.",
+      "source_number": 1,
+      "installs": [
+        "portion_of_the_liner",
+        "valve_rocker_cover_clean",
+        "insert_counterbore",
+        "flange",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 111,
+        "quote": "Wipe the inside and outside of the liner clean. Also, make sure the block bore and counterbore are clean so the liner flange will seat properly. Then, slide the liner into the block until the flange rests on the bottom of the counterbore...",
+        "verified": true,
+        "char_start": 1881,
+        "char_end": 2132,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Tap the liner lightly with a soft hammer to make certain the liner flange seats on the bottom of the counterbore.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 111,
+        "quote": "Tap the liner lightly with a soft hammer to make certain the liner flange seats on the bottom of the counterbore.",
+        "verified": true,
+        "char_start": 2324,
+        "char_end": 2437,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Clamp the liner in place with hold-down clamp J 21793 and measure the distance from the top of the liner flange to the top of the block with dial indicator set J 22273 (Fig. 5). The top of the liner flange should be .0465\" to .050\" below the top of the block, and there must not be over 0015\" difference between any two adjacent liners when measured along the cylinder longitudinal] center line. If the above limits are not met. install the hner in another bore and recheck. or use a new liner.",
+      "source_number": 3,
+      "installs": [
+        "breather_tube_clamp",
+        "liner_hold_down_clamp",
+        "of_the_block",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": "dial indicator",
+      "torque_nm": null,
+      "warning": "must not be over 0015\" difference between any two adjacent liners when measured along the cylinder longitudinal] center line.",
+      "provenance": {
+        "page": 111,
+        "quote": "Clamp the liner in place with hold-down clamp J 21793 and measure the distance from the top of the liner flange to the top of the block with dial indicator set J 22273 (Fig. 5). The top of the liner flange should be .0465\" to .050\" below...",
+        "verified": true,
+        "char_start": 2441,
+        "char_end": 2935,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Matchmark the liner and the block with chalk or paint, so the liner may be reinstalled in the same position in the same bore. Place the matchmark on the engine serial number side of the block (In-line engine) or on the outer edge of the block (V-type engine).",
+      "source_number": 4,
+      "installs": [
+        "of_the_matchmark",
+        "tbe_lubricating_oil_line",
+        "idler_gear_outer"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 111,
+        "quote": "Matchmark the liner and the block with chalk or paint, so the liner may be reinstalled in the same position in the same bore. Place the matchmark on the engine serial number side of the block (In-line engine) or on the outer edge of the ...",
+        "verified": true,
+        "char_start": 2939,
+        "char_end": 3198,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Remove the hold-down clamp and the liner.",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 111,
+        "quote": "Remove the hold-down clamp and the liner.",
+        "verified": true,
+        "char_start": 3202,
+        "char_end": 3243,
+        "bbox": [
+          360.24,
+          610.1469999999999,
+          549.8112000000001,
+          618.1469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

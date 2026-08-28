@@ -1,0 +1,392 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.34 - Gasket ; cylinder head 15. Gasket ...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; cylinder head 15. Gasket ; water pump to cylinder",
+        "verified": true,
+        "char_start": 41,
+        "char_end": 99,
+        "bbox": [
+          125.52,
+          551.7908,
+          497.57075199999997,
+          561.5908000000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head",
+      "name": "Cylinder head",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; cylinder head 15. Gasket ; water pump to cylinder",
+        "verified": true,
+        "char_start": 41,
+        "char_end": 99,
+        "bbox": [
+          125.52,
+          551.7908,
+          497.57075199999997,
+          561.5908000000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_head_cover",
+      "name": "Cylinder head cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_cover",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; cylinder head cover block",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 137,
+        "bbox": [
+          125.52000000000001,
+          564.3409,
+          370.5010166666666,
+          573.9075666666668
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "intake",
+      "name": "Intake",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "intake",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; intake and exhaust mani- 16. Gasket ; outlet pipe fold 17. Gasket ; cylinder head to housing",
+        "verified": true,
+        "char_start": 141,
+        "char_end": 242,
+        "bbox": [
+          125.52,
+          576.812,
+          504.277124,
+          597.6138000000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "joint_bolt",
+      "name": "Joint bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "joint_bolt",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; joint bolt 18. Sealing ring ; split collar",
+        "verified": true,
+        "char_start": 246,
+        "char_end": 297,
+        "bbox": [
+          125.75999999999999,
+          599.4067,
+          461.97787400000004,
+          609.4400333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "split_collar",
+      "name": "Split collar",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "split_collar",
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; joint bolt 18. Sealing ring ; split collar",
+        "verified": true,
+        "char_start": 246,
+        "char_end": 297,
+        "bbox": [
+          125.75999999999999,
+          599.4067,
+          461.97787400000004,
+          609.4400333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 34,
+        "quote": "Seal ; crankshaft rear 19. Gasket ; oil filter",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 347,
+        "bbox": [
+          125.75999999999999,
+          611.7407000000001,
+          425.2211919999999,
+          621.7740333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "oil_filter",
+      "name": "Oil filter",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_filter",
+      "provenance": {
+        "page": 34,
+        "quote": "Seal ; crankshaft rear 19. Gasket ; oil filter",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 347,
+        "bbox": [
+          125.75999999999999,
+          611.7407000000001,
+          425.2211919999999,
+          621.7740333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Gasket ; cylinder head 15. Gasket ; water pump to cylinder",
+      "source_number": 1,
+      "installs": [
+        "head_gasket",
+        "cylinder_head"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; cylinder head 15. Gasket ; water pump to cylinder",
+        "verified": true,
+        "char_start": 41,
+        "char_end": 99,
+        "bbox": [
+          125.52,
+          551.7908,
+          497.57075199999997,
+          561.5908000000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Gasket ; cylinder head cover block",
+      "source_number": 2,
+      "installs": [
+        "cylinder_head_cover"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; cylinder head cover block",
+        "verified": true,
+        "char_start": 103,
+        "char_end": 137,
+        "bbox": [
+          125.52000000000001,
+          564.3409,
+          370.5010166666666,
+          573.9075666666668
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Gasket ; intake and exhaust mani- 16. Gasket ; outlet pipe fold 17. Gasket ; cylinder head to housing",
+      "source_number": 3,
+      "installs": [
+        "intake"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; intake and exhaust mani- 16. Gasket ; outlet pipe fold 17. Gasket ; cylinder head to housing",
+        "verified": true,
+        "char_start": 141,
+        "char_end": 242,
+        "bbox": [
+          125.52,
+          576.812,
+          504.277124,
+          597.6138000000001
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Gasket ; joint bolt 18. Sealing ring ; split collar",
+      "source_number": 4,
+      "installs": [
+        "joint_bolt",
+        "split_collar"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; joint bolt 18. Sealing ring ; split collar",
+        "verified": true,
+        "char_start": 246,
+        "char_end": 297,
+        "bbox": [
+          125.75999999999999,
+          599.4067,
+          461.97787400000004,
+          609.4400333333333
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Seal ; crankshaft rear 19. Gasket ; oil filter",
+      "source_number": 5,
+      "installs": [
+        "crankshaft",
+        "oil_filter"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Seal ; crankshaft rear 19. Gasket ; oil filter",
+        "verified": true,
+        "char_start": 301,
+        "char_end": 347,
+        "bbox": [
+          125.75999999999999,
+          611.7407000000001,
+          425.2211919999999,
+          621.7740333333334
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Gasket ; front plate 20. Gasket ; fuel pump",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 34,
+        "quote": "Gasket ; front plate 20. Gasket ; fuel pump",
+        "verified": true,
+        "char_start": 351,
+        "char_end": 394,
+        "bbox": [
+          126.0,
+          624.1029000000001,
+          434.3712346666667,
+          633.6695666666667
+        ],
+        "page_size": [
+          588.0,
+          786.48
+        ]
+      }
+    }
+  ]
+}

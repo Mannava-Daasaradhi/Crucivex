@@ -1,0 +1,567 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.69 - Support the inner face of the flywheel...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 69,
+        "quote": "Support the inner face of the flywheel housing \u0457\u043f an arbor press.",
+        "verified": true,
+        "char_start": 1693,
+        "char_end": 1758,
+        "bbox": [
+          342.00000000000006,
+          266.1289999999999,
+          577.855,
+          286.8019999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 69,
+        "quote": "Support the inner face of the flywheel housing \u0457\u043f an arbor press.",
+        "verified": true,
+        "char_start": 1693,
+        "char_end": 1758,
+        "bbox": [
+          342.00000000000006,
+          266.1289999999999,
+          577.855,
+          286.8019999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 69,
+        "quote": "If the seal is not pre-coated, apply a non-hardening . sealant to the periphery of the metal casing.",
+        "verified": true,
+        "char_start": 1762,
+        "char_end": 1862,
+        "bbox": [
+          341.52,
+          299.01599999999996,
+          585.1767,
+          319.83399999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_oil_seal",
+      "name": "Of the oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_seal",
+      "provenance": {
+        "page": 69,
+        "quote": "If not previously lubricated, apply grease or vegetable shortening to the hp of the oil seal; then, position the seal in the flywheel housing bore with the lip of the sea! pointing toward the inner face of the housing.",
+        "verified": true,
+        "char_start": 1866,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_seal_installer",
+      "name": "Oil seal installer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_seal_installer",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "standard",
+      "name": "Standard",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "standard",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_oversize",
+      "name": "Insert oversize",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_oversize",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "next",
+      "name": "Next",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "next",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "guide_stud",
+      "name": "Guide stud",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "guide_stud",
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 69,
+        "quote": "On 8V engines, use installer J 9727 and handle J 3154-1 to press the oil seal in the flywheel housing bore until it seats in the bottom of the counterbore. If the flywheel housing was not removed from the engine, place the oil seal expan...",
+        "verified": true,
+        "char_start": 2747,
+        "char_end": 3236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_counterbore",
+      "name": "Insert counterbore",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_counterbore",
+      "provenance": {
+        "page": 69,
+        "quote": "On 8V engines, use installer J 9727 and handle J 3154-1 to press the oil seal in the flywheel housing bore until it seats in the bottom of the counterbore. If the flywheel housing was not removed from the engine, place the oil seal expan...",
+        "verified": true,
+        "char_start": 2747,
+        "char_end": 3236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_seal",
+      "name": "Of the seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_seal",
+      "provenance": {
+        "page": 69,
+        "quote": "On 8V engines, use installer J 9727 and handle J 3154-1 to press the oil seal in the flywheel housing bore until it seats in the bottom of the counterbore. If the flywheel housing was not removed from the engine, place the oil seal expan...",
+        "verified": true,
+        "char_start": 2747,
+        "char_end": 3236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "excess_sealant",
+      "name": "Excess sealant",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "excess_sealant",
+      "provenance": {
+        "page": 69,
+        "quote": "Remove all excess sealant from the housing and the seal.",
+        "verified": true,
+        "char_start": 3240,
+        "char_end": 3296,
+        "bbox": [
+          341.28000000000003,
+          694.531,
+          578.4219,
+          715.5649999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 70,
+        "quote": "Install the flywheel housing as outlined in Section 1.5.",
+        "verified": true,
+        "char_start": 279,
+        "char_end": 335,
+        "bbox": [
+          321.59999999999997,
+          96.53099999999995,
+          561.51482,
+          117.85000000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Support the inner face of the flywheel housing \u0457\u043f an arbor press.",
+      "source_number": 1,
+      "installs": [
+        "blower_drive_support",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "Support the inner face of the flywheel housing \u0457\u043f an arbor press.",
+        "verified": true,
+        "char_start": 1693,
+        "char_end": 1758,
+        "bbox": [
+          342.00000000000006,
+          266.1289999999999,
+          577.855,
+          286.8019999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "If the seal is not pre-coated, apply a non-hardening . sealant to the periphery of the metal casing.",
+      "source_number": 2,
+      "installs": [
+        "crankshaft_front_oil_seal"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "If the seal is not pre-coated, apply a non-hardening . sealant to the periphery of the metal casing.",
+        "verified": true,
+        "char_start": 1762,
+        "char_end": 1862,
+        "bbox": [
+          341.52,
+          299.01599999999996,
+          585.1767,
+          319.83399999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "If not previously lubricated, apply grease or vegetable shortening to the hp of the oil seal; then, position the seal in the flywheel housing bore with the lip of the sea! pointing toward the inner face of the housing.",
+      "source_number": 3,
+      "installs": [
+        "of_the_oil_seal"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "If not previously lubricated, apply grease or vegetable shortening to the hp of the oil seal; then, position the seal in the flywheel housing bore with the lip of the sea! pointing toward the inner face of the housing.",
+        "verified": true,
+        "char_start": 1866,
+        "char_end": 2084,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil seal expander J 9769 (standard size seal) or J 21278 (oversize seal) up against the rear end of the crankshaft; then, with the lip of the oil seal pointed toward the flywheel housing, slide the seal over the expander and on the crankshaft. Next, thread the guide studs J 9479-2 into the crankshaft. Now drive the sea] into the flywheel housing with installer J 9479-1 until the seal is flush with the face of the housing.",
+      "source_number": 4,
+      "installs": [
+        "tbe_lubricating_oil_line",
+        "oil_seal_installer",
+        "nut_securing_fig",
+        "hammer_puller_set_flywheel",
+        "standard",
+        "insert_oversize",
+        "halve_of_the_crankshaft",
+        "next",
+        "bolt_thread",
+        "guide_stud"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "On In-Line and 6V engines, use installer J 9479 to press the oil seal into the flywheel housing until the seal is flush with the outside face of the housing (Fig. 6). If the flywheel housing was not removed from the engine, place oil sea...",
+        "verified": true,
+        "char_start": 2088,
+        "char_end": 2743,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "On 8V engines, use installer J 9727 and handle J 3154-1 to press the oil seal in the flywheel housing bore until it seats in the bottom of the counterbore. If the flywheel housing was not removed from the engine, place the oil seal expander J 22425 against the end of the crankshaft. Then, with the lip of the seal pointed toward the engine, slide the seal over the tool and on the crankshaft. Remove the seal expander and drive the seal in place with installer J 9727 and handle J 3154-1.",
+      "source_number": 5,
+      "installs": [
+        "insert_remover_valve_seat",
+        "insert_counterbore",
+        "of_the_seal"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "On 8V engines, use installer J 9727 and handle J 3154-1 to press the oil seal in the flywheel housing bore until it seats in the bottom of the counterbore. If the flywheel housing was not removed from the engine, place the oil seal expan...",
+        "verified": true,
+        "char_start": 2747,
+        "char_end": 3236,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Remove all excess sealant from the housing and the seal.",
+      "source_number": 6,
+      "installs": [
+        "excess_sealant"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 69,
+        "quote": "Remove all excess sealant from the housing and the seal.",
+        "verified": true,
+        "char_start": 3240,
+        "char_end": 3296,
+        "bbox": [
+          341.28000000000003,
+          694.531,
+          578.4219,
+          715.5649999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Install the flywheel housing as outlined in Section 1.5.",
+      "source_number": 7,
+      "installs": [
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 70,
+        "quote": "Install the flywheel housing as outlined in Section 1.5.",
+        "verified": true,
+        "char_start": 279,
+        "char_end": 335,
+        "bbox": [
+          321.59999999999997,
+          96.53099999999995,
+          561.51482,
+          117.85000000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

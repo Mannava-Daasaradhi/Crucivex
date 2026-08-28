@@ -1,0 +1,296 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.47 - Install a serrated lower spring seat on...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a serrated lower spring seat on each push the bottom of the pail during soaking, thus avoiding the possibility of contamination. rod. If the engine being assembled was equipped with plain lower spring seats, replace them with ser...",
+        "verified": true,
+        "char_start": 358,
+        "char_end": 699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a serrated lower spring seat on each push the bottom of the pail during soaking, thus avoiding the possibility of contamination. rod. If the engine being assembled was equipped with plain lower spring seats, replace them with ser...",
+        "verified": true,
+        "char_start": 358,
+        "char_end": 699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_spring_seat",
+      "name": "Drive spring seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_spring_seat",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a serrated lower spring seat on each push the bottom of the pail during soaking, thus avoiding the possibility of contamination. rod. If the engine being assembled was equipped with plain lower spring seats, replace them with ser...",
+        "verified": true,
+        "char_start": 358,
+        "char_end": 699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a serrated lower spring seat on each push the bottom of the pail during soaking, thus avoiding the possibility of contamination. rod. If the engine being assembled was equipped with plain lower spring seats, replace them with ser...",
+        "verified": true,
+        "char_start": 358,
+        "char_end": 699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_assembly",
+      "name": "Cam follower assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_assembly",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a serrated lower spring seat on each push the bottom of the pail during soaking, thus avoiding the possibility of contamination. rod. If the engine being assembled was equipped with plain lower spring seats, replace them with ser...",
+        "verified": true,
+        "char_start": 358,
+        "char_end": 699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 47,
+        "quote": "Install a serrated lower spring seat on each push the bottom of the pail during soaking, thus avoiding the possibility of contamination. rod. If the engine being assembled was equipped with plain lower spring seats, replace them with ser...",
+        "verified": true,
+        "char_start": 358,
+        "char_end": 699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "push_rod_spring",
+      "name": "Push rod spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "push_rod_spring",
+      "provenance": {
+        "page": 47,
+        "quote": "Place the push rod springs (Fig. 11) on the push ing oil or Cindol 1705 to remove the rods. preservative.",
+        "verified": true,
+        "char_start": 703,
+        "char_end": 808,
+        "bbox": [
+          101.03999999999999,
+          395.49099999999993,
+          594.2703999999999,
+          419.28499999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 47,
+        "quote": "Place the push rod springs (Fig. 11) on the push ing oil or Cindol 1705 to remove the rods. preservative.",
+        "verified": true,
+        "char_start": 703,
+        "char_end": 808,
+        "bbox": [
+          101.03999999999999,
+          395.49099999999993,
+          594.2703999999999,
+          419.28499999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "solitified_preservative",
+      "name": "Solitified preservative",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "solitified_preservative",
+      "provenance": {
+        "page": 47,
+        "quote": "Place the push rod springs (Fig. 11) on the push ing oil or Cindol 1705 to remove the rods. preservative.",
+        "verified": true,
+        "char_start": 703,
+        "char_end": 808,
+        "bbox": [
+          101.03999999999999,
+          395.49099999999993,
+          594.2703999999999,
+          419.28499999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install a serrated lower spring seat on each push the bottom of the pail during soaking, thus avoiding the possibility of contamination. rod. If the engine being assembled was equipped with plain lower spring seats, replace them with serrated spring seats, IMPORTANT: When installing a new cam follower assembly, wash it with clean lubricat-",
+      "source_number": 3,
+      "installs": [
+        "insert_remover_valve_seat",
+        "bearing_pilot_rod",
+        "drive_spring_seat",
+        "end_of_the_spring",
+        "cam_follower_assembly",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 47,
+        "quote": "Install a serrated lower spring seat on each push the bottom of the pail during soaking, thus avoiding the possibility of contamination. rod. If the engine being assembled was equipped with plain lower spring seats, replace them with ser...",
+        "verified": true,
+        "char_start": 358,
+        "char_end": 699,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Place the push rod springs (Fig. 11) on the push ing oil or Cindol 1705 to remove the rods. preservative.",
+      "source_number": 4,
+      "installs": [
+        "push_rod_spring",
+        "nut_securing_fig",
+        "solitified_preservative"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 47,
+        "quote": "Place the push rod springs (Fig. 11) on the push ing oil or Cindol 1705 to remove the rods. preservative.",
+        "verified": true,
+        "char_start": 703,
+        "char_end": 808,
+        "bbox": [
+          101.03999999999999,
+          395.49099999999993,
+          594.2703999999999,
+          419.28499999999985
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the proper upper spring seat on each push",
+      "source_number": 5,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 47,
+        "quote": "Install the proper upper spring seat on each push",
+        "verified": true,
+        "char_start": 812,
+        "char_end": 861,
+        "bbox": [
+          367.68,
+          427.29099999999994,
+          594.1188000000001,
+          437.29099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Note the oil hole in the bottom of the cam follower. rod. The cup shaped spring seat used with the current With this oil hole pointing away from the exhaust type push rod spring may also be used with the former valves, slide the cam follower into position from the spring. bottom of the head.",
+      "source_number": 7,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Note the oil hole in the bottom of the cam follower.",
+      "provenance": {
+        "page": 47,
+        "quote": "Note the oil hole in the bottom of the cam follower. rod. The cup shaped spring seat used with the current With this oil hole pointing away from the exhaust type push rod spring may also be used with the former valves, slide the cam foll...",
+        "verified": true,
+        "char_start": 865,
+        "char_end": 1157,
+        "bbox": [
+          84.96000000000001,
+          432.81399999999996,
+          592.8462,
+          475.69
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.220 - Ifan injector rack sticks or moves too...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "injector_rack",
+      "name": "Injector rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_rack",
+      "provenance": {
+        "page": 220,
+        "quote": "Ifan injector rack sticks or moves too hard, it may be due to the injector hold-down clamp being too tight or improperly positioned. To correct this condition, loosen the injector clamp, reposition it and tighten the clamp bolt to 20-25 ...",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2552,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "too",
+      "name": "Too",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "too",
+      "provenance": {
+        "page": 220,
+        "quote": "Ifan injector rack sticks or moves too hard, it may be due to the injector hold-down clamp being too tight or improperly positioned. To correct this condition, loosen the injector clamp, reposition it and tighten the clamp bolt to 20-25 ...",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2552,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cylinder_head_due",
+      "name": "Cylinder head due",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_head_due",
+      "provenance": {
+        "page": 220,
+        "quote": "Ifan injector rack sticks or moves too hard, it may be due to the injector hold-down clamp being too tight or improperly positioned. To correct this condition, loosen the injector clamp, reposition it and tighten the clamp bolt to 20-25 ...",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2552,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_injector",
+      "name": "End of the injector",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_injector",
+      "provenance": {
+        "page": 220,
+        "quote": "Ifan injector rack sticks or moves too hard, it may be due to the injector hold-down clamp being too tight or improperly positioned. To correct this condition, loosen the injector clamp, reposition it and tighten the clamp bolt to 20-25 ...",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2552,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "liner_hold_down_clamp",
+      "name": "Liner hold-down clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "liner_hold_down_clamp",
+      "provenance": {
+        "page": 220,
+        "quote": "Ifan injector rack sticks or moves too hard, it may be due to the injector hold-down clamp being too tight or improperly positioned. To correct this condition, loosen the injector clamp, reposition it and tighten the clamp bolt to 20-25 ...",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2552,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 220,
+        "quote": "Ifan injector rack sticks or moves too hard, it may be due to the injector hold-down clamp being too tight or improperly positioned. To correct this condition, loosen the injector clamp, reposition it and tighten the clamp bolt to 20-25 ...",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2552,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_clamp",
+      "name": "Injector clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_clamp",
+      "provenance": {
+        "page": 220,
+        "quote": "Ifan injector rack sticks or moves too hard, it may be due to the injector hold-down clamp being too tight or improperly positioned. To correct this condition, loosen the injector clamp, reposition it and tighten the clamp bolt to 20-25 ...",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2552,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_clamp_bolt",
+      "name": "Injector clamp bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_clamp_bolt",
+      "provenance": {
+        "page": 220,
+        "quote": "Ifan injector rack sticks or moves too hard, it may be due to the injector hold-down clamp being too tight or improperly positioned. To correct this condition, loosen the injector clamp, reposition it and tighten the clamp bolt to 20-25 ...",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2552,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "area_of_the_plunger",
+      "name": "Area of the plunger",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "area_of_the_plunger",
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bushing",
+      "name": "Connecting rod bushing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bushing",
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bent",
+      "name": "Bent",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bent",
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_rack",
+      "name": "Injector control rack",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_rack",
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bind",
+      "name": "Bind",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bind",
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rack_control_lever",
+      "name": "Rack control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rack_control_lever",
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "gap_adjusting_screw",
+      "name": "Gap adjusting screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gap_adjusting_screw",
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "injector_control_tube",
+      "name": "Injector control tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "injector_control_tube",
+      "provenance": {
+        "page": 220,
+        "quote": "The injector control tube may bind in its support brackets, thus preventing free movement of the injector racks to their no-fuel position due to tension of the return spring. This condition may be corrected by loosening and realigning th...",
+        "verified": true,
+        "char_start": 2992,
+        "char_end": 3408,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 220,
+        "quote": "The injector control tube may bind in its support brackets, thus preventing free movement of the injector racks to their no-fuel position due to tension of the return spring. This condition may be corrected by loosening and realigning th...",
+        "verified": true,
+        "char_start": 2992,
+        "char_end": 3408,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "booster_spring_bracket",
+      "name": "Booster spring bracket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "booster_spring_bracket",
+      "provenance": {
+        "page": 220,
+        "quote": "The injector control tube may bind in its support brackets, thus preventing free movement of the injector racks to their no-fuel position due to tension of the return spring. This condition may be corrected by loosening and realigning th...",
+        "verified": true,
+        "char_start": 2992,
+        "char_end": 3408,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "return_spring",
+      "name": "Return spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "return_spring",
+      "provenance": {
+        "page": 220,
+        "quote": "The injector control tube may bind in its support brackets, thus preventing free movement of the injector racks to their no-fuel position due to tension of the return spring. This condition may be corrected by loosening and realigning th...",
+        "verified": true,
+        "char_start": 2992,
+        "char_end": 3408,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 220,
+        "quote": "A bent injector control tube return spring may cause friction in the operation of the injector control tube. If the spring has been bent or otherwise distorted, install a new spring.",
+        "verified": true,
+        "char_start": 3412,
+        "char_end": 3594,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 220,
+        "quote": "Check for bind at the pin which connects the fuel rod to the injector control tube lever; replace the pin, if necessary. If, after making these checks, the governor fails to control the engine properly, remove and recondition the governor.",
+        "verified": true,
+        "char_start": 3598,
+        "char_end": 3837,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_fuel_rod",
+      "name": "Governor fuel rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_fuel_rod",
+      "provenance": {
+        "page": 220,
+        "quote": "Check for bind at the pin which connects the fuel rod to the injector control tube lever; replace the pin, if necessary. If, after making these checks, the governor fails to control the engine properly, remove and recondition the governor.",
+        "verified": true,
+        "char_start": 3598,
+        "char_end": 3837,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 220,
+        "quote": "Check for bind at the pin which connects the fuel rod to the injector control tube lever; replace the pin, if necessary. If, after making these checks, the governor fails to control the engine properly, remove and recondition the governor.",
+        "verified": true,
+        "char_start": 3598,
+        "char_end": 3837,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Ifan injector rack sticks or moves too hard, it may be due to the injector hold-down clamp being too tight or improperly positioned. To correct this condition, loosen the injector clamp, reposition it and tighten the clamp bolt to 20-25 ib-ft (27-34 N-m) torque.",
+      "source_number": 1,
+      "installs": [
+        "injector_rack",
+        "too",
+        "cylinder_head_due",
+        "end_of_the_injector",
+        "liner_hold_down_clamp",
+        "locknut_finger_tight",
+        "injector_clamp",
+        "injector_clamp_bolt"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 27.1,
+      "warning": null,
+      "provenance": {
+        "page": 220,
+        "quote": "Ifan injector rack sticks or moves too hard, it may be due to the injector hold-down clamp being too tight or improperly positioned. To correct this condition, loosen the injector clamp, reposition it and tighten the clamp bolt to 20-25 ...",
+        "verified": true,
+        "char_start": 2290,
+        "char_end": 2552,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperly positioned rack control lever. Loosen the rack control lever adjusting screws. If this relieves the bind, relocate the lever on the control tube and position the rack as outlined in Section 14.",
+      "source_number": 2,
+      "installs": [
+        "area_of_the_plunger",
+        "connecting_rod_bushing",
+        "bent",
+        "spray_nozzle_outlined",
+        "injector_control_rack",
+        "bind",
+        "rack_control_lever",
+        "gap_adjusting_screw",
+        "of_the_stop_lever",
+        "end_of_each_tube"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 220,
+        "quote": "An injector which is not functioning properly may have a defective plunger and bushing or a bent injector rack. Recondition a faulty injector as outlined in Section 2.1 or 2.1.1. 3. \u0410\u043f injector rack may bind as the result of an improperl...",
+        "verified": true,
+        "char_start": 2556,
+        "char_end": 2988,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "The injector control tube may bind in its support brackets, thus preventing free movement of the injector racks to their no-fuel position due to tension of the return spring. This condition may be corrected by loosening and realigning the control tube supporting brackets. If the control tube support brackets were loosened, realigned and tightened, the injector racks must be repositioned as outlined in Section 14.",
+      "source_number": 4,
+      "installs": [
+        "injector_control_tube",
+        "blower_drive_support",
+        "booster_spring_bracket",
+        "return_spring"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 220,
+        "quote": "The injector control tube may bind in its support brackets, thus preventing free movement of the injector racks to their no-fuel position due to tension of the return spring. This condition may be corrected by loosening and realigning th...",
+        "verified": true,
+        "char_start": 2992,
+        "char_end": 3408,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "A bent injector control tube return spring may cause friction in the operation of the injector control tube. If the spring has been bent or otherwise distorted, install a new spring.",
+      "source_number": 5,
+      "installs": [
+        "end_of_the_spring"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 220,
+        "quote": "A bent injector control tube return spring may cause friction in the operation of the injector control tube. If the spring has been bent or otherwise distorted, install a new spring.",
+        "verified": true,
+        "char_start": 3412,
+        "char_end": 3594,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Check for bind at the pin which connects the fuel rod to the injector control tube lever; replace the pin, if necessary. If, after making these checks, the governor fails to control the engine properly, remove and recondition the governor.",
+      "source_number": 6,
+      "installs": [
+        "copper_plated_dowel_pin",
+        "governor_fuel_rod",
+        "blower_the_engine_governor"
+      ],
+      "depends_on": [
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 220,
+        "quote": "Check for bind at the pin which connects the fuel rod to the injector control tube lever; replace the pin, if necessary. If, after making these checks, the governor fails to control the engine properly, remove and recondition the governor.",
+        "verified": true,
+        "char_start": 3598,
+        "char_end": 3837,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

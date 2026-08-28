@@ -1,0 +1,1074 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.323 - Place a short brass rod on the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "short_brass_rod",
+      "name": "Short brass rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "short_brass_rod",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_sleeve",
+      "name": "Crankshaft front sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_sleeve",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_driven_shaft",
+      "name": "Governor driven shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_driven_shaft",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "press_the_shaft_straight",
+      "name": "Press the shaft straight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "press_the_shaft_straight",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "shoulder",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "driven_gear",
+      "name": "Driven gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "driven_gear",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "gear_train_teeth",
+      "name": "Gear train teeth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_train_teeth",
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "accessory_drive_shaft",
+      "name": "Accessory drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_shaft",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the two bearings on the drive shaft with engine oil. Insert the small end of the drive shaft into the drive shaft opening of the drive housing and start the large drive shaft bearing straight into the bearing bore of the housin...",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 459,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the two bearings on the drive shaft with engine oil. Insert the small end of the drive shaft into the drive shaft opening of the drive housing and start the large drive shaft bearing straight into the bearing bore of the housin...",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 459,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_housing",
+      "name": "Governor drive housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_housing",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the two bearings on the drive shaft with engine oil. Insert the small end of the drive shaft into the drive shaft opening of the drive housing and start the large drive shaft bearing straight into the bearing bore of the housin...",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 459,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the two bearings on the drive shaft with engine oil. Insert the small end of the drive shaft into the drive shaft opening of the drive housing and start the large drive shaft bearing straight into the bearing bore of the housin...",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 459,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cam_follower_guide",
+      "name": "Cam follower guide",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cam_follower_guide",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the two bearings on the drive shaft with engine oil. Insert the small end of the drive shaft into the drive shaft opening of the drive housing and start the large drive shaft bearing straight into the bearing bore of the housin...",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 459,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "inner_bearing",
+      "name": "Inner bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "inner_bearing",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the two bearings on the drive shaft with engine oil. Insert the small end of the drive shaft into the drive shaft opening of the drive housing and start the large drive shaft bearing straight into the bearing bore of the housin...",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 459,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the two bearings on the drive shaft with engine oil. Insert the small end of the drive shaft into the drive shaft opening of the drive housing and start the large drive shaft bearing straight into the bearing bore of the housin...",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 459,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the two bearings on the drive shaft with engine oil. Insert the small end of the drive shaft into the drive shaft opening of the drive housing and start the large drive shaft bearing straight into the bearing bore of the housin...",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 459,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_shaft",
+      "name": "Governor drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_shaft",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive shaft and ball bearing retaining snap ring in the groove in the housing with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 463,
+        "char_end": 594,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_ball",
+      "name": "End of the ball",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_ball",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive shaft and ball bearing retaining snap ring in the groove in the housing with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 463,
+        "char_end": 594,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retaining_snap",
+      "name": "Bearing retaining snap",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retaining_snap",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive shaft and ball bearing retaining snap ring in the groove in the housing with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 463,
+        "char_end": 594,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive shaft and ball bearing retaining snap ring in the groove in the housing with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 463,
+        "char_end": 594,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive shaft and ball bearing retaining snap ring in the groove in the housing with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 463,
+        "char_end": 594,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive shaft and ball bearing retaining snap ring in the groove in the housing with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 463,
+        "char_end": 594,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "driven_gear_bearing",
+      "name": "Driven gear bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "driven_gear_bearing",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the driven gear bearing with engine oil. Insert the driven gear, bearing and sleeve assembly in the opening in the top of the drive housing and start the bearing straight into the bearing bore in the housing. Then push the driv...",
+        "verified": true,
+        "char_start": 598,
+        "char_end": 982,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "driven_gear_assembly",
+      "name": "Driven gear assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "driven_gear_assembly",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the driven gear bearing with engine oil. Insert the driven gear, bearing and sleeve assembly in the opening in the top of the drive housing and start the bearing straight into the bearing bore in the housing. Then push the driv...",
+        "verified": true,
+        "char_start": 598,
+        "char_end": 982,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "set_screw",
+      "name": "Set screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "set_screw",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the two driven gear bearing retaining set screws with copper washers and nuts in the holes in the side of the drive housing. Turn the screws in tight against the bearing and tighten the lock nuts.",
+        "verified": true,
+        "char_start": 986,
+        "char_end": 1190,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the two driven gear bearing retaining set screws with copper washers and nuts in the holes in the side of the drive housing. Turn the screws in tight against the bearing and tighten the lock nuts.",
+        "verified": true,
+        "char_start": 986,
+        "char_end": 1190,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the two driven gear bearing retaining set screws with copper washers and nuts in the holes in the side of the drive housing. Turn the screws in tight against the bearing and tighten the lock nuts.",
+        "verified": true,
+        "char_start": 986,
+        "char_end": 1190,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_oil_hole",
+      "name": "Of the oil hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_oil_hole",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the two driven gear bearing retaining set screws with copper washers and nuts in the holes in the side of the drive housing. Turn the screws in tight against the bearing and tighten the lock nuts.",
+        "verified": true,
+        "char_start": 986,
+        "char_end": 1190,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the two driven gear bearing retaining set screws with copper washers and nuts in the holes in the side of the drive housing. Turn the screws in tight against the bearing and tighten the lock nuts.",
+        "verified": true,
+        "char_start": 986,
+        "char_end": 1190,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_lock_nut",
+      "name": "Bearing lock nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_lock_nut",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the two driven gear bearing retaining set screws with copper washers and nuts in the holes in the side of the drive housing. Turn the screws in tight against the bearing and tighten the lock nuts.",
+        "verified": true,
+        "char_start": 986,
+        "char_end": 1190,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_gear",
+      "name": "Governor drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_gear",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive gear on the governor drive shaft as follows: . Place the governor drive shaft bearing spacer over \u0442 the threaded end of the drive shaft and against the bearing inner race. b. Install the key in the keyway in th...",
+        "verified": true,
+        "char_start": 1194,
+        "char_end": 2037,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive gear on the governor drive shaft as follows: . Place the governor drive shaft bearing spacer over \u0442 the threaded end of the drive shaft and against the bearing inner race. b. Install the key in the keyway in th...",
+        "verified": true,
+        "char_start": 1194,
+        "char_end": 2037,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive gear on the governor drive shaft as follows: . Place the governor drive shaft bearing spacer over \u0442 the threaded end of the drive shaft and against the bearing inner race. b. Install the key in the keyway in th...",
+        "verified": true,
+        "char_start": 1194,
+        "char_end": 2037,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_key",
+      "name": "Drive key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_key",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive gear on the governor drive shaft as follows: . Place the governor drive shaft bearing spacer over \u0442 the threaded end of the drive shaft and against the bearing inner race. b. Install the key in the keyway in th...",
+        "verified": true,
+        "char_start": 1194,
+        "char_end": 2037,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "keyway",
+      "name": "Keyway",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "keyway",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive gear on the governor drive shaft as follows: . Place the governor drive shaft bearing spacer over \u0442 the threaded end of the drive shaft and against the bearing inner race. b. Install the key in the keyway in th...",
+        "verified": true,
+        "char_start": 1194,
+        "char_end": 2037,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_governor",
+      "name": "Of the governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_governor",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive gear on the governor drive shaft as follows: . Place the governor drive shaft bearing spacer over \u0442 the threaded end of the drive shaft and against the bearing inner race. b. Install the key in the keyway in th...",
+        "verified": true,
+        "char_start": 1194,
+        "char_end": 2037,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "suitable_sleeve",
+      "name": "Suitable sleeve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "suitable_sleeve",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive gear on the governor drive shaft as follows: . Place the governor drive shaft bearing spacer over \u0442 the threaded end of the drive shaft and against the bearing inner race. b. Install the key in the keyway in th...",
+        "verified": true,
+        "char_start": 1194,
+        "char_end": 2037,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive gear on the governor drive shaft as follows: . Place the governor drive shaft bearing spacer over \u0442 the threaded end of the drive shaft and against the bearing inner race. b. Install the key in the keyway in th...",
+        "verified": true,
+        "char_start": 1194,
+        "char_end": 2037,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_thread",
+      "name": "Bolt thread",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_thread",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the threads of the governor drive gear relaining nut with engine oil. Thread the nut on the drive shaft and tighten the nut to 125-135 1b- ft torque. install Governor Drive Refer to Fig. 2 and proceed as follows:",
+        "verified": true,
+        "char_start": 2041,
+        "char_end": 2263,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_drive_refer",
+      "name": "Governor drive refer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_drive_refer",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the threads of the governor drive gear relaining nut with engine oil. Thread the nut on the drive shaft and tighten the nut to 125-135 1b- ft torque. install Governor Drive Refer to Fig. 2 and proceed as follows:",
+        "verified": true,
+        "char_start": 2041,
+        "char_end": 2263,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the threads of the governor drive gear relaining nut with engine oil. Thread the nut on the drive shaft and tighten the nut to 125-135 1b- ft torque. install Governor Drive Refer to Fig. 2 and proceed as follows:",
+        "verified": true,
+        "char_start": 2041,
+        "char_end": 2263,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support the driven gear with the bearing and sleeve on the bed of an arbor press with the teeth of the driven gear facing up.",
+      "source_number": 1,
+      "installs": [
+        "short_brass_rod",
+        "crankshaft_front_sleeve",
+        "governor_driven_shaft",
+        "press_the_shaft_straight",
+        "bearing_the_end_bearing",
+        "fuel_pump_drive_gear",
+        "shoulder",
+        "end_of_the_shaft",
+        "locknut_finger_tight",
+        "blower_drive_support",
+        "driven_gear",
+        "gear_train_teeth"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 323,
+        "quote": "Place a short brass rod on the end of the drive end of the sleeve on the small end of the driven shaft and press the shaft straight into the bearing gear. until the shoulder on the shaft is tight against the bearing inner race. . Support...",
+        "verified": true,
+        "char_start": 1341,
+        "char_end": 1696,
+        "bbox": [
+          103.2,
+          627.048,
+          591.0989999999998,
+          696.01
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the governor driven shaft bearing and sleeve on the driven gear as foliows: . Place a short brass rod on the center of the driven",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 323,
+        "quote": "Install the governor driven shaft bearing and sleeve on the driven gear as foliows: . Place a short brass rod on the center of the driven",
+        "verified": true,
+        "char_start": 1700,
+        "char_end": 1837,
+        "bbox": [
+          86.64000000000001,
+          691.01,
+          590.6999999999998,
+          721.0819999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Lubricate the two bearings on the drive shaft with engine oil. Insert the small end of the drive shaft into the drive shaft opening of the drive housing and start the large drive shaft bearing straight into the bearing bore of the housing. Then guide the inner bearing into its bore and push the drive shaft assembly in the housing until the bearing contacts the shoulder in the housing.",
+      "source_number": 3,
+      "installs": [
+        "accessory_drive_shaft",
+        "exhaust_valve_seat_insert",
+        "governor_drive_housing",
+        "of_the_flywheel_housing",
+        "cam_follower_guide",
+        "inner_bearing",
+        "drive_shaft_assembly",
+        "contact"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the two bearings on the drive shaft with engine oil. Insert the small end of the drive shaft into the drive shaft opening of the drive housing and start the large drive shaft bearing straight into the bearing bore of the housin...",
+        "verified": true,
+        "char_start": 72,
+        "char_end": 459,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the governor drive shaft and ball bearing retaining snap ring in the groove in the housing with a pair of snap ring pliers.",
+      "source_number": 4,
+      "installs": [
+        "governor_drive_shaft",
+        "end_of_the_ball",
+        "bearing_retaining_snap",
+        "bottom_oil_ring",
+        "of_the_groove",
+        "external_snap_ring"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive shaft and ball bearing retaining snap ring in the groove in the housing with a pair of snap ring pliers.",
+        "verified": true,
+        "char_start": 463,
+        "char_end": 594,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Lubricate the driven gear bearing with engine oil. Insert the driven gear, bearing and sleeve assembly in the opening in the top of the drive housing and start the bearing straight into the bearing bore in the housing. Then push the driven gear assembly in the housing until the teeth of the drive and driven gears are in mesh and the bearing is seated on the shoulder in the housing.",
+      "source_number": 5,
+      "installs": [
+        "driven_gear_bearing",
+        "driven_gear_assembly"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the driven gear bearing with engine oil. Insert the driven gear, bearing and sleeve assembly in the opening in the top of the drive housing and start the bearing straight into the bearing bore in the housing. Then push the driv...",
+        "verified": true,
+        "char_start": 598,
+        "char_end": 982,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install the two driven gear bearing retaining set screws with copper washers and nuts in the holes in the side of the drive housing. Turn the screws in tight against the bearing and tighten the lock nuts.",
+      "source_number": 6,
+      "installs": [
+        "set_screw",
+        "copper_washer",
+        "front_balance_weight_nut",
+        "of_the_oil_hole",
+        "of_the_buffer_screw",
+        "bearing_lock_nut"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 324,
+        "quote": "Install the two driven gear bearing retaining set screws with copper washers and nuts in the holes in the side of the drive housing. Turn the screws in tight against the bearing and tighten the lock nuts.",
+        "verified": true,
+        "char_start": 986,
+        "char_end": 1190,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Install the governor drive gear on the governor drive shaft as follows: . Place the governor drive shaft bearing spacer over \u0442 the threaded end of the drive shaft and against the bearing inner race. b. Install the key in the keyway in the drive shaft. c. Lubricate the inside diameter of the governor drive gear with engine oil and start the gear on the drive shaft with the keyway in the gear in alignment with the key in the drive shaft. d. Support the governor drive housing assembly with the governor drive gear on the bed of an arbor press, with a support under the small outside diameter end of drive shaft. e. Place a suitable sleeve on top of the governor drive gear and under the ram of the press, then press the gear on the drive shaft and against the spacer. f. Clamp the governor drive gear in a bench vise equipped with soft jaws.",
+      "source_number": 7,
+      "installs": [
+        "governor_drive_gear",
+        "blower_the_engine_governor",
+        "drive_gear_spacer",
+        "drive_key",
+        "keyway",
+        "of_the_governor",
+        "suitable_sleeve",
+        "breather_tube_clamp"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 324,
+        "quote": "Install the governor drive gear on the governor drive shaft as follows: . Place the governor drive shaft bearing spacer over \u0442 the threaded end of the drive shaft and against the bearing inner race. b. Install the key in the keyway in th...",
+        "verified": true,
+        "char_start": 1194,
+        "char_end": 2037,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Lubricate the threads of the governor drive gear relaining nut with engine oil. Thread the nut on the drive shaft and tighten the nut to 125-135 1b- ft torque. install Governor Drive Refer to Fig. 2 and proceed as follows:",
+      "source_number": 8,
+      "installs": [
+        "bolt_thread",
+        "governor_drive_refer",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s03",
+        "s06",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 324,
+        "quote": "Lubricate the threads of the governor drive gear relaining nut with engine oil. Thread the nut on the drive shaft and tighten the nut to 125-135 1b- ft torque. install Governor Drive Refer to Fig. 2 and proceed as follows:",
+        "verified": true,
+        "char_start": 2041,
+        "char_end": 2263,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

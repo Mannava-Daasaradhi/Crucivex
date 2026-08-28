@@ -1,0 +1,472 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.75 - When installing the upper main bearing shells...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 75,
+        "quote": "When installing the upper main bearing shells with the crankshaft in place, start the plain end of the shell around the crankshaft journal so that, when the shell is in place, the tang will fit into the groove in the bearing support.",
+        "verified": true,
+        "char_start": 832,
+        "char_end": 1065,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "main_bearing_shell",
+      "name": "Main bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "main_bearing_shell",
+      "provenance": {
+        "page": 75,
+        "quote": "When installing the upper main bearing shells with the crankshaft in place, start the plain end of the shell around the crankshaft journal so that, when the shell is in place, the tang will fit into the groove in the bearing support.",
+        "verified": true,
+        "char_start": 832,
+        "char_end": 1065,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 75,
+        "quote": "When installing the upper main bearing shells with the crankshaft in place, start the plain end of the shell around the crankshaft journal so that, when the shell is in place, the tang will fit into the groove in the bearing support.",
+        "verified": true,
+        "char_start": 832,
+        "char_end": 1065,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "connecting_rod_bearing_shell",
+      "name": "Connecting rod bearing shell",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "connecting_rod_bearing_shell",
+      "provenance": {
+        "page": 75,
+        "quote": "When installing the upper main bearing shells with the crankshaft in place, start the plain end of the shell around the crankshaft journal so that, when the shell is in place, the tang will fit into the groove in the bearing support.",
+        "verified": true,
+        "char_start": 832,
+        "char_end": 1065,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_groove",
+      "name": "Of the groove",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_groove",
+      "provenance": {
+        "page": 75,
+        "quote": "When installing the upper main bearing shells with the crankshaft in place, start the plain end of the shell around the crankshaft journal so that, when the shell is in place, the tang will fit into the groove in the bearing support.",
+        "verified": true,
+        "char_start": 832,
+        "char_end": 1065,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 75,
+        "quote": "When installing the upper main bearing shells with the crankshaft in place, start the plain end of the shell around the crankshaft journal so that, when the shell is in place, the tang will fit into the groove in the bearing support.",
+        "verified": true,
+        "char_start": 832,
+        "char_end": 1065,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 75,
+        "quote": "When installing the upper main bearing shells with the crankshaft in place, start the plain end of the shell around the crankshaft journal so that, when the shell is in place, the tang will fit into the groove in the bearing support.",
+        "verified": true,
+        "char_start": 832,
+        "char_end": 1065,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 76,
+        "quote": "Check the crankshaft end play as outlined under Install Crankshaft in Section 1.3.",
+        "verified": true,
+        "char_start": 771,
+        "char_end": 853,
+        "bbox": [
+          325.68000000000006,
+          259.16999999999996,
+          562.2865,
+          279.849
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "lubricating_oil_pump",
+      "name": "Lubricating oil pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "lubricating_oil_pump",
+      "provenance": {
+        "page": 76,
+        "quote": "Install the lubricating oil pump intake pipe assembly. THRUST .",
+        "verified": true,
+        "char_start": 857,
+        "char_end": 920,
+        "bbox": [
+          237.84,
+          291.3299999999999,
+          563.9984,
+          313.6809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 76,
+        "quote": "Use a new gasket and install the oil pan.",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 979,
+        "bbox": [
+          336.0,
+          325.4099999999999,
+          510.58752,
+          333.4099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_pan",
+      "name": "Oil pan",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pan",
+      "provenance": {
+        "page": 76,
+        "quote": "Use a new gasket and install the oil pan.",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 979,
+        "bbox": [
+          336.0,
+          325.4099999999999,
+          510.58752,
+          333.4099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 76,
+        "quote": "Fill the crankcase to the proper level (indicated on the dipstick) with heavy-duty lubricating oil of the Fig. 9 - Crankshaft Thrust Washer Mounting viscosity recommended (see Lubricating Oil Specifica- the cylinder block that carries th...",
+        "verified": true,
+        "char_start": 983,
+        "char_end": 1267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_thrust_washer",
+      "name": "Crankshaft thrust washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_thrust_washer",
+      "provenance": {
+        "page": 76,
+        "quote": "Fill the crankcase to the proper level (indicated on the dipstick) with heavy-duty lubricating oil of the Fig. 9 - Crankshaft Thrust Washer Mounting viscosity recommended (see Lubricating Oil Specifica- the cylinder block that carries th...",
+        "verified": true,
+        "char_start": 983,
+        "char_end": 1267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "battery_charging_generator_mounting",
+      "name": "Battery-charging generator mounting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "battery_charging_generator_mounting",
+      "provenance": {
+        "page": 76,
+        "quote": "Fill the crankcase to the proper level (indicated on the dipstick) with heavy-duty lubricating oil of the Fig. 9 - Crankshaft Thrust Washer Mounting viscosity recommended (see Lubricating Oil Specifica- the cylinder block that carries th...",
+        "verified": true,
+        "char_start": 983,
+        "char_end": 1267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 76,
+        "quote": "Fill the crankcase to the proper level (indicated on the dipstick) with heavy-duty lubricating oil of the Fig. 9 - Crankshaft Thrust Washer Mounting viscosity recommended (see Lubricating Oil Specifica- the cylinder block that carries th...",
+        "verified": true,
+        "char_start": 983,
+        "char_end": 1267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "number",
+      "provenance": {
+        "page": 76,
+        "quote": "Fill the crankcase to the proper level (indicated on the dipstick) with heavy-duty lubricating oil of the Fig. 9 - Crankshaft Thrust Washer Mounting viscosity recommended (see Lubricating Oil Specifica- the cylinder block that carries th...",
+        "verified": true,
+        "char_start": 983,
+        "char_end": 1267,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "When installing the upper main bearing shells with the crankshaft in place, start the plain end of the shell around the crankshaft journal so that, when the shell is in place, the tang will fit into the groove in the bearing support.",
+      "source_number": 1,
+      "installs": [
+        "hammer_spring_scale_upper",
+        "main_bearing_shell",
+        "halve_of_the_crankshaft",
+        "connecting_rod_bearing_shell",
+        "of_the_groove",
+        "bearing_the_end_bearing",
+        "blower_drive_support"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 75,
+        "quote": "When installing the upper main bearing shells with the crankshaft in place, start the plain end of the shell around the crankshaft journal so that, when the shell is in place, the tang will fit into the groove in the bearing support.",
+        "verified": true,
+        "char_start": 832,
+        "char_end": 1065,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Check the crankshaft end play as outlined under Install Crankshaft in Section 1.3.",
+      "source_number": 4,
+      "installs": [
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 76,
+        "quote": "Check the crankshaft end play as outlined under Install Crankshaft in Section 1.3.",
+        "verified": true,
+        "char_start": 771,
+        "char_end": 853,
+        "bbox": [
+          325.68000000000006,
+          259.16999999999996,
+          562.2865,
+          279.849
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the lubricating oil pump intake pipe assembly. THRUST .",
+      "source_number": 5,
+      "installs": [
+        "lubricating_oil_pump"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 76,
+        "quote": "Install the lubricating oil pump intake pipe assembly. THRUST .",
+        "verified": true,
+        "char_start": 857,
+        "char_end": 920,
+        "bbox": [
+          237.84,
+          291.3299999999999,
+          563.9984,
+          313.6809999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Use a new gasket and install the oil pan.",
+      "source_number": 6,
+      "installs": [
+        "head_gasket",
+        "oil_pan"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 76,
+        "quote": "Use a new gasket and install the oil pan.",
+        "verified": true,
+        "char_start": 938,
+        "char_end": 979,
+        "bbox": [
+          336.0,
+          325.4099999999999,
+          510.58752,
+          333.4099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Fill the crankcase to the proper level (indicated on the dipstick) with heavy-duty lubricating oil of the Fig. 9 - Crankshaft Thrust Washer Mounting viscosity recommended (see Lubricating Oil Specifica- the cylinder block that carries the engine serial tions in Section 13.3). number.",
+      "source_number": 7,
+      "installs": [
+        "nut_securing_fig",
+        "crankshaft_thrust_washer",
+        "battery_charging_generator_mounting",
+        "of_the_block",
+        "number"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 76,
+        "quote": "Fill the crankcase to the proper level (indicated on the dipstick) with heavy-duty lubricating oil of the Fig. 9 - Crankshaft Thrust Washer Mounting viscosity recommended (see Lubricating Oil Specifica- the cylinder block that carries th...",
+        "verified": true,
+        "char_start": 983,
+        "char_end": 1267,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "After installing new bearing shells, operate the",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 76,
+        "quote": "After installing new bearing shells, operate the",
+        "verified": true,
+        "char_start": 1271,
+        "char_end": 1319,
+        "bbox": [
+          339.12,
+          398.72999999999996,
+          563.7434999999999,
+          408.72999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

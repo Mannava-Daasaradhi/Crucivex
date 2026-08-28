@@ -1,0 +1,482 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.343 - Empty the sump, remove the baffle and...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "baffle",
+      "name": "Baffle",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "baffle",
+      "provenance": {
+        "page": 343,
+        "quote": "Empty the sump, remove the baffle and clean both the sump and the baffle with fuel oil to remove all sediment.",
+        "verified": true,
+        "char_start": 50,
+        "char_end": 160,
+        "bbox": [
+          59.99999999999997,
+          361.52399999999994,
+          304.81325999999996,
+          393.48199999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 343,
+        "quote": "Empty the sump, remove the baffle and clean both the sump and the baffle with fuel oil to remove all sediment.",
+        "verified": true,
+        "char_start": 50,
+        "char_end": 160,
+        "bbox": [
+          59.99999999999997,
+          361.52399999999994,
+          304.81325999999996,
+          393.48199999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_sediment",
+      "name": "Of the sediment",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_sediment",
+      "provenance": {
+        "page": 343,
+        "quote": "Empty the sump, remove the baffle and clean both the sump and the baffle with fuel oil to remove all sediment.",
+        "verified": true,
+        "char_start": 50,
+        "char_end": 160,
+        "bbox": [
+          59.99999999999997,
+          361.52399999999994,
+          304.81325999999996,
+          393.48199999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "cloth",
+      "name": "Cloth",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cloth",
+      "provenance": {
+        "page": 343,
+        "quote": "Push a lint-free cloth through the center tube to remove dirt or oil from the walls.",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 248,
+        "bbox": [
+          60.239999999999924,
+          406.36499999999995,
+          304.38527999999997,
+          425.6209999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_each_tube",
+      "name": "End of each tube",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_each_tube",
+      "provenance": {
+        "page": 343,
+        "quote": "Push a lint-free cloth through the center tube to remove dirt or oil from the walls.",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 248,
+        "bbox": [
+          60.239999999999924,
+          406.36499999999995,
+          304.38527999999997,
+          425.6209999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 343,
+        "quote": "Clean and check all gaskets and sealing surfaces to insure air tight seals.",
+        "verified": true,
+        "char_start": 252,
+        "char_end": 327,
+        "bbox": [
+          57.84,
+          433.64699999999993,
+          301.85600000000005,
+          454.67099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 343,
+        "quote": "Clean and check all gaskets and sealing surfaces to insure air tight seals.",
+        "verified": true,
+        "char_start": 252,
+        "char_end": 327,
+        "bbox": [
+          57.84,
+          433.64699999999993,
+          301.85600000000005,
+          454.67099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 343,
+        "quote": "Clean and check all gaskets and sealing surfaces to insure air tight seals.",
+        "verified": true,
+        "char_start": 252,
+        "char_end": 327,
+        "bbox": [
+          57.84,
+          433.64699999999993,
+          301.85600000000005,
+          454.67099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "air_cleaner",
+      "name": "Air cleaner",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_cleaner",
+      "provenance": {
+        "page": 343,
+        "quote": "Before installing the air cleaner on the engine, check the air inlet housing for dirt. If the service period has been too long, or if dust-laden air has been leaking past the air cleaner to the air inlet housing seals, the inlet will be ...",
+        "verified": true,
+        "char_start": 425,
+        "char_end": 911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "air_inlet_housing",
+      "name": "Air inlet housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "air_inlet_housing",
+      "provenance": {
+        "page": 343,
+        "quote": "Before installing the air cleaner on the engine, check the air inlet housing for dirt. If the service period has been too long, or if dust-laden air has been leaking past the air cleaner to the air inlet housing seals, the inlet will be ...",
+        "verified": true,
+        "char_start": 425,
+        "char_end": 911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "too",
+      "name": "Too",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "too",
+      "provenance": {
+        "page": 343,
+        "quote": "Before installing the air cleaner on the engine, check the air inlet housing for dirt. If the service period has been too long, or if dust-laden air has been leaking past the air cleaner to the air inlet housing seals, the inlet will be ...",
+        "verified": true,
+        "char_start": 425,
+        "char_end": 911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_oil_inlet",
+      "name": "Fuel oil inlet",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_oil_inlet",
+      "provenance": {
+        "page": 343,
+        "quote": "Before installing the air cleaner on the engine, check the air inlet housing for dirt. If the service period has been too long, or if dust-laden air has been leaking past the air cleaner to the air inlet housing seals, the inlet will be ...",
+        "verified": true,
+        "char_start": 425,
+        "char_end": 911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 343,
+        "quote": "Before installing the air cleaner on the engine, check the air inlet housing for dirt. If the service period has been too long, or if dust-laden air has been leaking past the air cleaner to the air inlet housing seals, the inlet will be ...",
+        "verified": true,
+        "char_start": 425,
+        "char_end": 911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 343,
+        "quote": "Before installing the air cleaner on the engine, check the air inlet housing for dirt. If the service period has been too long, or if dust-laden air has been leaking past the air cleaner to the air inlet housing seals, the inlet will be ...",
+        "verified": true,
+        "char_start": 425,
+        "char_end": 911,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Empty the sump, remove the baffle and clean both the sump and the baffle with fuel oil to remove all sediment.",
+      "source_number": 3,
+      "installs": [
+        "baffle",
+        "valve_rocker_cover_clean",
+        "of_the_sediment"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 343,
+        "quote": "Empty the sump, remove the baffle and clean both the sump and the baffle with fuel oil to remove all sediment.",
+        "verified": true,
+        "char_start": 50,
+        "char_end": 160,
+        "bbox": [
+          59.99999999999997,
+          361.52399999999994,
+          304.81325999999996,
+          393.48199999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Push a lint-free cloth through the center tube to remove dirt or oil from the walls.",
+      "source_number": 4,
+      "installs": [
+        "cloth",
+        "end_of_each_tube"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 343,
+        "quote": "Push a lint-free cloth through the center tube to remove dirt or oil from the walls.",
+        "verified": true,
+        "char_start": 164,
+        "char_end": 248,
+        "bbox": [
+          60.239999999999924,
+          406.36499999999995,
+          304.38527999999997,
+          425.6209999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Clean and check all gaskets and sealing surfaces to insure air tight seals.",
+      "source_number": 5,
+      "installs": [
+        "head_gasket",
+        "locknut_finger_tight",
+        "crankshaft_front_oil_seal"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 343,
+        "quote": "Clean and check all gaskets and sealing surfaces to insure air tight seals.",
+        "verified": true,
+        "char_start": 252,
+        "char_end": 327,
+        "bbox": [
+          57.84,
+          433.64699999999993,
+          301.85600000000005,
+          454.67099999999994
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Refill the sump to the oil level mark ONLY, with the same grade of oil used in the engine.",
+      "source_number": 6,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 343,
+        "quote": "Refill the sump to the oil level mark ONLY, with the same grade of oil used in the engine.",
+        "verified": true,
+        "char_start": 331,
+        "char_end": 421,
+        "bbox": [
+          57.839999999999975,
+          465.56699999999995,
+          300.5064,
+          486.63899999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Before installing the air cleaner on the engine, check the air inlet housing for dirt. If the service period has been too long, or if dust-laden air has been leaking past the air cleaner to the air inlet housing seals, the inlet will be dirty. This will serve as a good check on the servicing of the air cleaner. When installing the cleaner (and its seal) on the inlet housing, be sure the cleaner seats properly, then tighten the wingbolt securely until the cleaner is rigidly mounted.",
+      "source_number": 7,
+      "installs": [
+        "air_cleaner",
+        "air_inlet_housing",
+        "too",
+        "fuel_oil_inlet",
+        "of_the_flywheel_housing",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 343,
+        "quote": "Before installing the air cleaner on the engine, check the air inlet housing for dirt. If the service period has been too long, or if dust-laden air has been leaking past the air cleaner to the air inlet housing seals, the inlet will be ...",
+        "verified": true,
+        "char_start": 425,
+        "char_end": 911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install the baffle and reassemble the air cleaner.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 343,
+        "quote": "Install the baffle and reassemble the air cleaner.",
+        "verified": true,
+        "char_start": 915,
+        "char_end": 965,
+        "bbox": [
+          67.92,
+          619.736,
+          278.43327999999997,
+          627.736
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.113 - Apply engine oil to the idler gear...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 113,
+        "quote": "Apply engine oil to the idler gear and the idler gear shaft bearing.",
+        "verified": true,
+        "char_start": 52,
+        "char_end": 120,
+        "bbox": [
+          306.48,
+          216.50970000000007,
+          551.7469626666666,
+          238.8250333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "water_pump_bearing",
+      "name": "Water pump bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_pump_bearing",
+      "provenance": {
+        "page": 113,
+        "quote": "Apply engine oil to the idler gear and the idler gear shaft bearing.",
+        "verified": true,
+        "char_start": 52,
+        "char_end": 120,
+        "bbox": [
+          306.48,
+          216.50970000000007,
+          551.7469626666666,
+          238.8250333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 113,
+        "quote": "Align the idler gear \u201cX\u201d setting mark with the crank shaft timing gear @) \u201cX-X\" setting mark.",
+        "verified": true,
+        "char_start": 226,
+        "char_end": 319,
+        "bbox": [
+          306.71999999999997,
+          277.08880000000005,
+          551.30017,
+          298.9042666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "idler_gear_bolt",
+      "name": "Idler gear bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_bolt",
+      "provenance": {
+        "page": 113,
+        "quote": "Tighten the idler gear bolt. Idler Gear Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17.3/13.7 \u2014 23.5)",
+        "verified": true,
+        "char_start": 419,
+        "char_end": 523,
+        "bbox": [
+          288.24,
+          355.03770000000003,
+          551.5123799999999,
+          398.80126666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 113,
+        "quote": "Tighten the idler gear bolt. Idler Gear Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17.3/13.7 \u2014 23.5)",
+        "verified": true,
+        "char_start": 419,
+        "char_end": 523,
+        "bbox": [
+          288.24,
+          355.03770000000003,
+          551.5123799999999,
+          398.80126666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply engine oil to the idler gear and the idler gear shaft bearing.",
+      "source_number": 1,
+      "installs": [
+        "idler_gear",
+        "water_pump_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Apply engine oil to the idler gear and the idler gear shaft bearing.",
+        "verified": true,
+        "char_start": 52,
+        "char_end": 120,
+        "bbox": [
+          306.48,
+          216.50970000000007,
+          551.7469626666666,
+          238.8250333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Position the idler gear setting marks \u201cX\u201d and \u201cY\" so that they are facing the front of the engine.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Position the idler gear setting marks \u201cX\u201d and \u201cY\" so that they are facing the front of the engine.",
+        "verified": true,
+        "char_start": 124,
+        "char_end": 222,
+        "bbox": [
+          306.4799999999999,
+          246.72270000000003,
+          551.9591766666665,
+          268.8795666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Align the idler gear \u201cX\u201d setting mark with the crank shaft timing gear @) \u201cX-X\" setting mark.",
+      "source_number": 3,
+      "installs": [
+        "crankshaft"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Align the idler gear \u201cX\u201d setting mark with the crank shaft timing gear @) \u201cX-X\" setting mark.",
+        "verified": true,
+        "char_start": 226,
+        "char_end": 319,
+        "bbox": [
+          306.71999999999997,
+          277.08880000000005,
+          551.30017,
+          298.9042666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Align the idler gear \u201cY\" setting mark with the cam- shaft timing gear @) \u201cY-Y\u201d setting mark.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Align the idler gear \u201cY\" setting mark with the cam- shaft timing gear @) \u201cY-Y\u201d setting mark.",
+        "verified": true,
+        "char_start": 323,
+        "char_end": 415,
+        "bbox": [
+          306.96,
+          326.76980000000003,
+          550.8644400000001,
+          348.8272666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Tighten the idler gear bolt. Idler Gear Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17.3/13.7 \u2014 23.5)",
+      "source_number": 5,
+      "installs": [
+        "idler_gear_bolt",
+        "bearing_cap_bolt"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 13.7,
+      "warning": null,
+      "provenance": {
+        "page": 113,
+        "quote": "Tighten the idler gear bolt. Idler Gear Bolt Torque kg-m (Ib.ft/N-m) 1.4 - 2.4 (10.1 \u2014 17.3/13.7 \u2014 23.5)",
+        "verified": true,
+        "char_start": 419,
+        "char_end": 523,
+        "bbox": [
+          288.24,
+          355.03770000000003,
+          551.5123799999999,
+          398.80126666666666
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

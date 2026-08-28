@@ -1,0 +1,145 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.100 - Install the top oil ring with the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "top_oil_ring",
+      "name": "Top oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "top_oil_ring",
+      "provenance": {
+        "page": 100,
+        "quote": "Install the top oil ring with the gap 180\u00b0 from the ends of the expander.",
+        "verified": true,
+        "char_start": 1689,
+        "char_end": 1762,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 100,
+        "quote": "Install the bottom oil ring with the gap 45 \u00b0 from the gap of the top oil ring. Recheck to be sure the ends of the expander are not overlapped. NOTE: Do not, at any time, cut off or grind the ends of the oil ring expander to prevent the ...",
+        "verified": true,
+        "char_start": 1836,
+        "char_end": 2243,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "oil_control_ring",
+      "name": "Oil control ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_control_ring",
+      "provenance": {
+        "page": 100,
+        "quote": "Install the second set of oil control rings and expander in the same manner as described above.",
+        "verified": true,
+        "char_start": 2247,
+        "char_end": 2342,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the top oil ring with the gap 180\u00b0 from the ends of the expander.",
+      "source_number": 2,
+      "installs": [
+        "top_oil_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 100,
+        "quote": "Install the top oil ring with the gap 180\u00b0 from the ends of the expander.",
+        "verified": true,
+        "char_start": 1689,
+        "char_end": 1762,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Check the ends of the expander to be sure they are not overlapped.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 100,
+        "quote": "Check the ends of the expander to be sure they are not overlapped.",
+        "verified": true,
+        "char_start": 1766,
+        "char_end": 1832,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install the bottom oil ring with the gap 45 \u00b0 from the gap of the top oil ring. Recheck to be sure the ends of the expander are not overlapped. NOTE: Do not, at any time, cut off or grind the ends of the oil ring expander to prevent the ends from overlapping. Cutting off or grinding the ends of the expander will decrease the tension on the oil control rings and result in high lubricating oil comsumption.",
+      "source_number": 4,
+      "installs": [
+        "bottom_oil_ring"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": "ring expander",
+      "torque_nm": null,
+      "warning": "NOTE: Do not, at any time, cut off or grind the ends of the oil ring expander to prevent the ends from overlapping.",
+      "provenance": {
+        "page": 100,
+        "quote": "Install the bottom oil ring with the gap 45 \u00b0 from the gap of the top oil ring. Recheck to be sure the ends of the expander are not overlapped. NOTE: Do not, at any time, cut off or grind the ends of the oil ring expander to prevent the ...",
+        "verified": true,
+        "char_start": 1836,
+        "char_end": 2243,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install the second set of oil control rings and expander in the same manner as described above.",
+      "source_number": 5,
+      "installs": [
+        "oil_control_ring"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 100,
+        "quote": "Install the second set of oil control rings and expander in the same manner as described above.",
+        "verified": true,
+        "char_start": 2247,
+        "char_end": 2342,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

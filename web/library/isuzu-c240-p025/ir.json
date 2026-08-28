@@ -1,0 +1,298 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.102 - Install the front plate gasket @ to...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "front_plate_gasket",
+      "name": "Front plate gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_plate_gasket",
+      "provenance": {
+        "page": 102,
+        "quote": "Install the front plate gasket @ to the cylinder body side.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 220,
+        "bbox": [
+          306.96,
+          201.87170000000003,
+          550.2852666666668,
+          224.29303333333337
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_body_front",
+      "name": "Cylinder body front",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_body_front",
+      "provenance": {
+        "page": 102,
+        "quote": "Align the cylinder body front plate @ with the cylinder body straight pins \u00a9.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 301,
+        "bbox": [
+          306.71999999999997,
+          230.2908,
+          551.0401019999999,
+          252.1078000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "cylinder_body",
+      "name": "Cylinder body",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cylinder_body",
+      "provenance": {
+        "page": 102,
+        "quote": "Align the cylinder body front plate @ with the cylinder body straight pins \u00a9.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 301,
+        "bbox": [
+          306.71999999999997,
+          230.2908,
+          551.0401019999999,
+          252.1078000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "pin",
+      "name": "Pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pin",
+      "provenance": {
+        "page": 102,
+        "quote": "Align the cylinder body front plate @ with the cylinder body straight pins \u00a9.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 301,
+        "bbox": [
+          306.71999999999997,
+          230.2908,
+          551.0401019999999,
+          252.1078000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_cap_bolt",
+      "name": "Bearing cap bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_cap_bolt",
+      "provenance": {
+        "page": 102,
+        "quote": "Tighten the cylinder body front plate to the specified torque. Front Plate Bolt Torque kg-m (Ib.ft/N-m) 1.4 -\u2014 2.4 (10.1 \u2014 17.3/13.7 - 23.5) aa 4 Crankshaft and Bearing Upper Halves gE 1) Carefully wipe any foreign material from the uppe...",
+        "verified": true,
+        "char_start": 305,
+        "char_end": 552,
+        "bbox": [
+          252.24000000000004,
+          258.37080000000003,
+          550.3839900000002,
+          366.1368
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "crankshaft",
+      "name": "Crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft",
+      "provenance": {
+        "page": 102,
+        "quote": "Tighten the cylinder body front plate to the specified torque. Front Plate Bolt Torque kg-m (Ib.ft/N-m) 1.4 -\u2014 2.4 (10.1 \u2014 17.3/13.7 - 23.5) aa 4 Crankshaft and Bearing Upper Halves gE 1) Carefully wipe any foreign material from the uppe...",
+        "verified": true,
+        "char_start": 305,
+        "char_end": 552,
+        "bbox": [
+          252.24000000000004,
+          258.37080000000003,
+          550.3839900000002,
+          366.1368
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "water_pump_bearing",
+      "name": "Water pump bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "water_pump_bearing",
+      "provenance": {
+        "page": 102,
+        "quote": "Tighten the cylinder body front plate to the specified torque. Front Plate Bolt Torque kg-m (Ib.ft/N-m) 1.4 -\u2014 2.4 (10.1 \u2014 17.3/13.7 - 23.5) aa 4 Crankshaft and Bearing Upper Halves gE 1) Carefully wipe any foreign material from the uppe...",
+        "verified": true,
+        "char_start": 305,
+        "char_end": 552,
+        "bbox": [
+          252.24000000000004,
+          258.37080000000003,
+          550.3839900000002,
+          366.1368
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "bearing_halve",
+      "name": "Bearing halve",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_halve",
+      "provenance": {
+        "page": 102,
+        "quote": "Tighten the cylinder body front plate to the specified torque. Front Plate Bolt Torque kg-m (Ib.ft/N-m) 1.4 -\u2014 2.4 (10.1 \u2014 17.3/13.7 - 23.5) aa 4 Crankshaft and Bearing Upper Halves gE 1) Carefully wipe any foreign material from the uppe...",
+        "verified": true,
+        "char_start": 305,
+        "char_end": 552,
+        "bbox": [
+          252.24000000000004,
+          258.37080000000003,
+          550.3839900000002,
+          366.1368
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Install the front plate gasket @ to the cylinder body side.",
+      "source_number": 1,
+      "installs": [
+        "front_plate_gasket"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 102,
+        "quote": "Install the front plate gasket @ to the cylinder body side.",
+        "verified": true,
+        "char_start": 161,
+        "char_end": 220,
+        "bbox": [
+          306.96,
+          201.87170000000003,
+          550.2852666666668,
+          224.29303333333337
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Align the cylinder body front plate @ with the cylinder body straight pins \u00a9.",
+      "source_number": 2,
+      "installs": [
+        "cylinder_body_front",
+        "cylinder_body",
+        "pin"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 102,
+        "quote": "Align the cylinder body front plate @ with the cylinder body straight pins \u00a9.",
+        "verified": true,
+        "char_start": 224,
+        "char_end": 301,
+        "bbox": [
+          306.71999999999997,
+          230.2908,
+          551.0401019999999,
+          252.1078000000001
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Tighten the cylinder body front plate to the specified torque. Front Plate Bolt Torque kg-m (Ib.ft/N-m) 1.4 -\u2014 2.4 (10.1 \u2014 17.3/13.7 - 23.5) aa 4 Crankshaft and Bearing Upper Halves gE 1) Carefully wipe any foreign material from the upper bearing.",
+      "source_number": 3,
+      "installs": [
+        "bearing_cap_bolt",
+        "crankshaft",
+        "water_pump_bearing",
+        "bearing_halve"
+      ],
+      "depends_on": [
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": 13.7,
+      "warning": null,
+      "provenance": {
+        "page": 102,
+        "quote": "Tighten the cylinder body front plate to the specified torque. Front Plate Bolt Torque kg-m (Ib.ft/N-m) 1.4 -\u2014 2.4 (10.1 \u2014 17.3/13.7 - 23.5) aa 4 Crankshaft and Bearing Upper Halves gE 1) Carefully wipe any foreign material from the uppe...",
+        "verified": true,
+        "char_start": 305,
+        "char_end": 552,
+        "bbox": [
+          252.24000000000004,
+          258.37080000000003,
+          550.3839900000002,
+          366.1368
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

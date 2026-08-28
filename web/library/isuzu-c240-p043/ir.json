@@ -1,0 +1,202 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Isuzu C240 workshop manual - p.148 - Apply a thin coat of liquid gasket...",
+  "source_document": "isuzu_c240.pdf",
+  "parts": [
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 148,
+        "quote": "Apply a thin coat of liquid gasket to the seal unit outer periphery.",
+        "verified": true,
+        "char_start": 211,
+        "char_end": 279,
+        "bbox": [
+          311.52,
+          222.28290000000004,
+          556.5036053333333,
+          243.84956666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "seal_unit",
+      "name": "Seal unit",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_unit",
+      "provenance": {
+        "page": 148,
+        "quote": "Apply a thin coat of liquid gasket to the seal unit outer periphery.",
+        "verified": true,
+        "char_start": 211,
+        "char_end": 279,
+        "bbox": [
+          311.52,
+          222.28290000000004,
+          556.5036053333333,
+          243.84956666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "impeller",
+      "name": "Impeller",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "impeller",
+      "provenance": {
+        "page": 148,
+        "quote": "Use a bench press to install the impeller so that the specified clearance is provided between the impeller and the pump body.",
+        "verified": true,
+        "char_start": 309,
+        "char_end": 434,
+        "bbox": [
+          311.75999999999993,
+          329.67680000000007,
+          556.3965419999998,
+          363.6093333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Apply a thin coat of liquid gasket to the seal unit outer periphery.",
+      "source_number": 1,
+      "installs": [
+        "head_gasket",
+        "seal_unit"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 148,
+        "quote": "Apply a thin coat of liquid gasket to the seal unit outer periphery.",
+        "verified": true,
+        "char_start": 211,
+        "char_end": 279,
+        "bbox": [
+          311.52,
+          222.28290000000004,
+          556.5036053333333,
+          243.84956666666665
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the seal unit.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 148,
+        "quote": "Install the seal unit.",
+        "verified": true,
+        "char_start": 283,
+        "char_end": 305,
+        "bbox": [
+          315.35999999999996,
+          250.36290000000008,
+          404.67112999999995,
+          259.9295666666667
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Use a bench press to install the impeller so that the specified clearance is provided between the impeller and the pump body.",
+      "source_number": 3,
+      "installs": [
+        "impeller"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 148,
+        "quote": "Use a bench press to install the impeller so that the specified clearance is provided between the impeller and the pump body.",
+        "verified": true,
+        "char_start": 309,
+        "char_end": 434,
+        "bbox": [
+          311.75999999999993,
+          329.67680000000007,
+          556.3965419999998,
+          363.6093333333334
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Use a feeler gauge and a straight edge to measure the impeller rear face depth from the pump body face.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": "feeler gauge",
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 148,
+        "quote": "Use a feeler gauge and a straight edge to measure the impeller rear face depth from the pump body face.",
+        "verified": true,
+        "char_start": 525,
+        "char_end": 628,
+        "bbox": [
+          311.76,
+          471.4098000000001,
+          555.9836640000001,
+          505.44980000000004
+        ],
+        "page_size": [
+          601.44,
+          786.48
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1162 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.91 - Affix a new flywheel housing gasket to...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 91,
+        "quote": "Affix a new flywheel housing gasket to the rear face of the cylinder block rear end plate. The V-type engines employ two gaskets (one large and one small). Affix the small (7/8 \u201d dia.) gasket near the top of the end plate.",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 574,
+        "bbox": [
+          53.27999999999997,
+          556.164,
+          297.60030000000006,
+          610.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 91,
+        "quote": "Affix a new flywheel housing gasket to the rear face of the cylinder block rear end plate. The V-type engines employ two gaskets (one large and one small). Affix the small (7/8 \u201d dia.) gasket near the top of the end plate.",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 574,
+        "bbox": [
+          53.27999999999997,
+          556.164,
+          297.60030000000006,
+          610.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 91,
+        "quote": "Affix a new flywheel housing gasket to the rear face of the cylinder block rear end plate. The V-type engines employ two gaskets (one large and one small). Affix the small (7/8 \u201d dia.) gasket near the top of the end plate.",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 574,
+        "bbox": [
+          53.27999999999997,
+          556.164,
+          297.60030000000006,
+          610.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 91,
+        "quote": "Affix a new flywheel housing gasket to the rear face of the cylinder block rear end plate. The V-type engines employ two gaskets (one large and one small). Affix the small (7/8 \u201d dia.) gasket near the top of the end plate.",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 574,
+        "bbox": [
+          53.27999999999997,
+          556.164,
+          297.60030000000006,
+          610.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 91,
+        "quote": "If the flywheel housing has an integral cast hub, install a flywheel housing-to-end plate shim (015 '' thick). Use grease to affix the shim to the cylinder block rear end plate (Fig. 2).",
+        "verified": true,
+        "char_start": 578,
+        "char_end": 764,
+        "bbox": [
+          53.51999999999998,
+          624.843,
+          298.18001999999996,
+          666.952
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flywheel_housing_to_end_plate",
+      "name": "Flywheel housing-to-end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_housing_to_end_plate",
+      "provenance": {
+        "page": 91,
+        "quote": "If the flywheel housing has an integral cast hub, install a flywheel housing-to-end plate shim (015 '' thick). Use grease to affix the shim to the cylinder block rear end plate (Fig. 2).",
+        "verified": true,
+        "char_start": 578,
+        "char_end": 764,
+        "bbox": [
+          53.51999999999998,
+          624.843,
+          298.18001999999996,
+          666.952
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "rotor_shim",
+      "name": "Rotor shim",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rotor_shim",
+      "provenance": {
+        "page": 91,
+        "quote": "If the flywheel housing has an integral cast hub, install a flywheel housing-to-end plate shim (015 '' thick). Use grease to affix the shim to the cylinder block rear end plate (Fig. 2).",
+        "verified": true,
+        "char_start": 578,
+        "char_end": 764,
+        "bbox": [
+          53.51999999999998,
+          624.843,
+          298.18001999999996,
+          666.952
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 91,
+        "quote": "If the flywheel housing has an integral cast hub, install a flywheel housing-to-end plate shim (015 '' thick). Use grease to affix the shim to the cylinder block rear end plate (Fig. 2).",
+        "verified": true,
+        "char_start": 578,
+        "char_end": 764,
+        "bbox": [
+          53.51999999999998,
+          624.843,
+          298.18001999999996,
+          666.952
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_oil_seal",
+      "name": "Crankshaft oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_oil_seal",
+      "provenance": {
+        "page": 91,
+        "quote": "Coat the lip of the crankshaft oil seal lightly with engine oil (single-lip seal) or vegetable shortening (double-lip seal). Do not scratch or nick the sealing edge of the oil seal. Fig. 4 - Flywheel Housing Bolt Tightening",
+        "verified": true,
+        "char_start": 768,
+        "char_end": 991,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 91,
+        "quote": "Coat the lip of the crankshaft oil seal lightly with engine oil (single-lip seal) or vegetable shortening (double-lip seal). Do not scratch or nick the sealing edge of the oil seal. Fig. 4 - Flywheel Housing Bolt Tightening",
+        "verified": true,
+        "char_start": 768,
+        "char_end": 991,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_lubricating_oil_line",
+      "name": "Tbe lubricating oil line",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_lubricating_oil_line",
+      "provenance": {
+        "page": 91,
+        "quote": "On In-line and 6V engines. to pilot the oil seal on the crankshaft successfully, use oil seal expander Fig. 5 - Flywheel Housing Bolt Tightening",
+        "verified": true,
+        "char_start": 1029,
+        "char_end": 1173,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "needle_bearing_pilot",
+      "name": "Needle bearing pilot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing_pilot",
+      "provenance": {
+        "page": 91,
+        "quote": "On In-line and 6V engines. to pilot the oil seal on the crankshaft successfully, use oil seal expander Fig. 5 - Flywheel Housing Bolt Tightening",
+        "verified": true,
+        "char_start": 1029,
+        "char_end": 1173,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "halve_of_the_crankshaft",
+      "name": "Halve of the crankshaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "halve_of_the_crankshaft",
+      "provenance": {
+        "page": 91,
+        "quote": "On In-line and 6V engines. to pilot the oil seal on the crankshaft successfully, use oil seal expander Fig. 5 - Flywheel Housing Bolt Tightening",
+        "verified": true,
+        "char_start": 1029,
+        "char_end": 1173,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 91,
+        "quote": "On In-line and 6V engines. to pilot the oil seal on the crankshaft successfully, use oil seal expander Fig. 5 - Flywheel Housing Bolt Tightening",
+        "verified": true,
+        "char_start": 1029,
+        "char_end": 1173,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 92,
+        "quote": "With the housing suitably supported. position it over the crankshaft and up against the cvlinder block rear end plate and gasket(s). 7. |nstall all of the flywheel housing bolts, lock washers, flat washers and copper washers in their pro...",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 658,
+        "bbox": [
+          81.35999999999999,
+          139.52999999999997,
+          325.5039999999999,
+          268.3299999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "flat_washer",
+      "name": "Flat washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat_washer",
+      "provenance": {
+        "page": 92,
+        "quote": "With the housing suitably supported. position it over the crankshaft and up against the cvlinder block rear end plate and gasket(s). 7. |nstall all of the flywheel housing bolts, lock washers, flat washers and copper washers in their pro...",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 658,
+        "bbox": [
+          81.35999999999999,
+          139.52999999999997,
+          325.5039999999999,
+          268.3299999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 92,
+        "quote": "With the housing suitably supported. position it over the crankshaft and up against the cvlinder block rear end plate and gasket(s). 7. |nstall all of the flywheel housing bolts, lock washers, flat washers and copper washers in their pro...",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 658,
+        "bbox": [
+          81.35999999999999,
+          139.52999999999997,
+          325.5039999999999,
+          268.3299999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "locknut_finger_tight",
+      "name": "Locknut finger tight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "locknut_finger_tight",
+      "provenance": {
+        "page": 92,
+        "quote": "With the housing suitably supported. position it over the crankshaft and up against the cvlinder block rear end plate and gasket(s). 7. |nstall all of the flywheel housing bolts, lock washers, flat washers and copper washers in their pro...",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 658,
+        "bbox": [
+          81.35999999999999,
+          139.52999999999997,
+          325.5039999999999,
+          268.3299999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "number",
+      "provenance": {
+        "page": 93,
+        "quote": "Refer to Fig. 7 or 8 for the final bolt tightening sequence for V engines: then. start at No. | and ughten the bolts to the specified torque. Tighten the 5/16 \"-18 bolts (numbers 13 and 14) to 19-23 Ib-ft torque and the 3/8 \"-16 bolts (n...",
+        "verified": true,
+        "char_start": 464,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 93,
+        "quote": "On a 6V engine. install the blower and governor drive support assembly as outlined in Section 2.7.1.1 or 2.7.2.1. Fig. 9 - Checking Flywhee! Housing",
+        "verified": true,
+        "char_start": 1117,
+        "char_end": 1265,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 93,
+        "quote": "On a 6V engine. install the blower and governor drive support assembly as outlined in Section 2.7.1.1 or 2.7.2.1. Fig. 9 - Checking Flywhee! Housing",
+        "verified": true,
+        "char_start": 1117,
+        "char_end": 1265,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support_assembly",
+      "name": "Blower drive support assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support_assembly",
+      "provenance": {
+        "page": 93,
+        "quote": "On a 6V engine. install the blower and governor drive support assembly as outlined in Section 2.7.1.1 or 2.7.2.1. Fig. 9 - Checking Flywhee! Housing",
+        "verified": true,
+        "char_start": 1117,
+        "char_end": 1265,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 93,
+        "quote": "On a 6V engine. install the blower and governor drive support assembly as outlined in Section 2.7.1.1 or 2.7.2.1. Fig. 9 - Checking Flywhee! Housing",
+        "verified": true,
+        "char_start": 1117,
+        "char_end": 1265,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clutch_housing",
+      "name": "Clutch housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clutch_housing",
+      "provenance": {
+        "page": 94,
+        "quote": "Install the clutch housing. if used. Tighten the 3/8 \"-16 attaching bolts to 30-35 lb-ft torque and the 3/8 ''-24 nuts to 35-39 Ib-ft torque. a. Install tool J 9748 in one of the crankshaft bolt holes. b. Install the dial indicator J 800...",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flywheel_attaching_bolt",
+      "name": "Flywheel attaching bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flywheel_attaching_bolt",
+      "provenance": {
+        "page": 94,
+        "quote": "Install the clutch housing. if used. Tighten the 3/8 \"-16 attaching bolts to 30-35 lb-ft torque and the 3/8 ''-24 nuts to 35-39 Ib-ft torque. a. Install tool J 9748 in one of the crankshaft bolt holes. b. Install the dial indicator J 800...",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 94,
+        "quote": "Install the clutch housing. if used. Tighten the 3/8 \"-16 attaching bolts to 30-35 lb-ft torque and the 3/8 ''-24 nuts to 35-39 Ib-ft torque. a. Install tool J 9748 in one of the crankshaft bolt holes. b. Install the dial indicator J 800...",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bolt_hole",
+      "name": "Bolt hole",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bolt_hole",
+      "provenance": {
+        "page": 94,
+        "quote": "Install the clutch housing. if used. Tighten the 3/8 \"-16 attaching bolts to 30-35 lb-ft torque and the 3/8 ''-24 nuts to 35-39 Ib-ft torque. a. Install tool J 9748 in one of the crankshaft bolt holes. b. Install the dial indicator J 800...",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_required",
+      "name": "Of the required",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_required",
+      "provenance": {
+        "page": 94,
+        "quote": "Install the clutch housing. if used. Tighten the 3/8 \"-16 attaching bolts to 30-35 lb-ft torque and the 3/8 ''-24 nuts to 35-39 Ib-ft torque. a. Install tool J 9748 in one of the crankshaft bolt holes. b. Install the dial indicator J 800...",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump",
+      "name": "Fuel pump",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump",
+      "provenance": {
+        "page": 94,
+        "quote": "Install the fuel pump (V-type engine), if removed.",
+        "verified": true,
+        "char_start": 924,
+        "char_end": 974,
+        "bbox": [
+          367.68,
+          113.88099999999997,
+          581.2298400000001,
+          122.88099999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 94,
+        "quote": "Install the flywheel.",
+        "verified": true,
+        "char_start": 979,
+        "char_end": 1000,
+        "bbox": [
+          367.20000000000005,
+          134.289,
+          448.53240000000005,
+          143.289
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "oil_pan",
+      "name": "Oil pan",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "oil_pan",
+      "provenance": {
+        "page": 94,
+        "quote": "Use a new gasket and install the oil pan. On 8V engines. if the flywheel housing and oil pan include outriggers for the installation of reinforcement bolts. be sure the oi] pan butts up against the flywheel housing before ughtening the o...",
+        "verified": true,
+        "char_start": 1005,
+        "char_end": 1309,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "transmission",
+      "name": "Transmission",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "transmission",
+      "provenance": {
+        "page": 94,
+        "quote": "Install the transmission.",
+        "verified": true,
+        "char_start": 1408,
+        "char_end": 1433,
+        "bbox": [
+          366.96,
+          263.05099999999993,
+          466.52013,
+          272.05099999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Affix a new flywheel housing gasket to the rear face of the cylinder block rear end plate. The V-type engines employ two gaskets (one large and one small). Affix the small (7/8 \u201d dia.) gasket near the top of the end plate.",
+      "source_number": 2,
+      "installs": [
+        "of_the_flywheel_housing",
+        "head_gasket",
+        "of_the_block",
+        "assembly_rear_end_plate"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 91,
+        "quote": "Affix a new flywheel housing gasket to the rear face of the cylinder block rear end plate. The V-type engines employ two gaskets (one large and one small). Affix the small (7/8 \u201d dia.) gasket near the top of the end plate.",
+        "verified": true,
+        "char_start": 352,
+        "char_end": 574,
+        "bbox": [
+          53.27999999999997,
+          556.164,
+          297.60030000000006,
+          610.3359999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "If the flywheel housing has an integral cast hub, install a flywheel housing-to-end plate shim (015 '' thick). Use grease to affix the shim to the cylinder block rear end plate (Fig. 2).",
+      "source_number": 3,
+      "installs": [
+        "blower_drive_hub",
+        "flywheel_housing_to_end_plate",
+        "rotor_shim",
+        "nut_securing_fig"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 91,
+        "quote": "If the flywheel housing has an integral cast hub, install a flywheel housing-to-end plate shim (015 '' thick). Use grease to affix the shim to the cylinder block rear end plate (Fig. 2).",
+        "verified": true,
+        "char_start": 578,
+        "char_end": 764,
+        "bbox": [
+          53.51999999999998,
+          624.843,
+          298.18001999999996,
+          666.952
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Coat the lip of the crankshaft oil seal lightly with engine oil (single-lip seal) or vegetable shortening (double-lip seal). Do not scratch or nick the sealing edge of the oil seal. Fig. 4 - Flywheel Housing Bolt Tightening",
+      "source_number": 4,
+      "installs": [
+        "crankshaft_oil_seal",
+        "crankshaft_front_oil_seal"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "Do not scratch or nick the sealing edge of the oil seal.",
+      "provenance": {
+        "page": 91,
+        "quote": "Coat the lip of the crankshaft oil seal lightly with engine oil (single-lip seal) or vegetable shortening (double-lip seal). Do not scratch or nick the sealing edge of the oil seal. Fig. 4 - Flywheel Housing Bolt Tightening",
+        "verified": true,
+        "char_start": 768,
+        "char_end": 991,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "On In-line and 6V engines. to pilot the oil seal on the crankshaft successfully, use oil seal expander Fig. 5 - Flywheel Housing Bolt Tightening",
+      "source_number": 5,
+      "installs": [
+        "tbe_lubricating_oil_line",
+        "needle_bearing_pilot",
+        "halve_of_the_crankshaft",
+        "engine_front_cover_bolt"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 91,
+        "quote": "On In-line and 6V engines. to pilot the oil seal on the crankshaft successfully, use oil seal expander Fig. 5 - Flywheel Housing Bolt Tightening",
+        "verified": true,
+        "char_start": 1029,
+        "char_end": 1173,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "With the housing suitably supported. position it over the crankshaft and up against the cvlinder block rear end plate and gasket(s). 7. |nstall all of the flywheel housing bolts, lock washers, flat washers and copper washers in their proper location -- finger tight only. NOTE: If the engine 15 equipped with a clutch housing. do not install the six bolts numbered 7 through 12 (Fig. 3) until the clutch housing is installed.",
+      "source_number": 6,
+      "installs": [
+        "special_lock_washer",
+        "flat_washer",
+        "copper_washer",
+        "locknut_finger_tight"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: If the engine 15 equipped with a clutch housing.",
+      "provenance": {
+        "page": 92,
+        "quote": "With the housing suitably supported. position it over the crankshaft and up against the cvlinder block rear end plate and gasket(s). 7. |nstall all of the flywheel housing bolts, lock washers, flat washers and copper washers in their pro...",
+        "verified": true,
+        "char_start": 233,
+        "char_end": 658,
+        "bbox": [
+          81.35999999999999,
+          139.52999999999997,
+          325.5039999999999,
+          268.3299999999998
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "On an In-line right hand rotation engine, start at No. I (No. 4 on left hand rotation engine) and draw the bolts up snug in the sequence shown in Fig. 3. On V engines, start at No. 4 on a right-hand rotation engine (No. 1 on a left-hand rotation engine) and draw the bolts up snug in the sequence shown in Fig. 4 and 5.",
+      "source_number": 8,
+      "installs": [],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 92,
+        "quote": "On an In-line right hand rotation engine, start at No. I (No. 4 on left hand rotation engine) and draw the bolts up snug in the sequence shown in Fig. 3. On V engines, start at No. 4 on a right-hand rotation engine (No. 1 on a left-hand ...",
+        "verified": true,
+        "char_start": 662,
+        "char_end": 981,
+        "bbox": [
+          81.59999999999994,
+          279.44999999999993,
+          323.5919399999999,
+          354.859
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Refer to Fig. 6 for the final bolt tightening Fig. 7 - Flywheel Housing Bolt Tightening sequence on an In-line engine. Then start at No. 1",
+      "source_number": 9,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 92,
+        "quote": "Refer to Fig. 6 for the final bolt tightening Fig. 7 - Flywheel Housing Bolt Tightening sequence on an In-line engine. Then start at No. 1",
+        "verified": true,
+        "char_start": 985,
+        "char_end": 1123,
+        "bbox": [
+          81.59999999999997,
+          366.09299999999996,
+          557.2856,
+          387.12899999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Refer to Fig. 7 or 8 for the final bolt tightening sequence for V engines: then. start at No. | and ughten the bolts to the specified torque. Tighten the 5/16 \"-18 bolts (numbers 13 and 14) to 19-23 Ib-ft torque and the 3/8 \"-16 bolts (numbers 9 through 12) to 40-45 lb-ft torque. Tighten the remaining 3/8 \"'-16 and 3/8 \"7-24 bolts to 25-30 Ib-ft torque. NOTE: On an 8V engine when tightening the flywheel housing bolts, the idler gear hub bolts should always be ughtened first. Also turn the crankshaft by hand while tightening the idler gear hub bolts to prevent any bind or brinelling of the rollers and races of the tapered roller bearing. | |",
+      "source_number": 10,
+      "installs": [
+        "number"
+      ],
+      "depends_on": [
+        "s02",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": 25.8,
+      "warning": "NOTE: On an 8V engine when tightening the flywheel housing bolts, the idler gear hub bolts should always be ughtened first.",
+      "provenance": {
+        "page": 93,
+        "quote": "Refer to Fig. 7 or 8 for the final bolt tightening sequence for V engines: then. start at No. | and ughten the bolts to the specified torque. Tighten the 5/16 \"-18 bolts (numbers 13 and 14) to 19-23 Ib-ft torque and the 3/8 \"-16 bolts (n...",
+        "verified": true,
+        "char_start": 464,
+        "char_end": 1112,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "On a 6V engine. install the blower and governor drive support assembly as outlined in Section 2.7.1.1 or 2.7.2.1. Fig. 9 - Checking Flywhee! Housing",
+      "source_number": 11,
+      "installs": [
+        "assembly_examine_the_blower",
+        "blower_the_engine_governor",
+        "blower_drive_support_assembly",
+        "spray_nozzle_outlined"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 93,
+        "quote": "On a 6V engine. install the blower and governor drive support assembly as outlined in Section 2.7.1.1 or 2.7.2.1. Fig. 9 - Checking Flywhee! Housing",
+        "verified": true,
+        "char_start": 1117,
+        "char_end": 1265,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Install the clutch housing. if used. Tighten the 3/8 \"-16 attaching bolts to 30-35 lb-ft torque and the 3/8 ''-24 nuts to 35-39 Ib-ft torque. a. Install tool J 9748 in one of the crankshaft bolt holes. b. Install the dial indicator J 8001-3 and position it to read the bore runout of the housing (Fig. 10). Now check the runout by rotating the crankshaft. The runout should not exceed .008 \u201d\u2019. c. Reposition the dial indicator to read the face runout and rotate the crankshaft. The maximum allowable runout is 008\u201d. d. If the bore or face runout is excessive, loosen the housing attaching bolts and nuts slightly and tap the housing with a soft hammer in the required direction until the runout is within limits. Tighten the attaching bolts and nuts evenly to 30-35 and 35-39 lb-ft torque respectively. Then recheck the runout.",
+      "source_number": 13,
+      "installs": [
+        "clutch_housing",
+        "flywheel_attaching_bolt",
+        "front_balance_weight_nut",
+        "bolt_hole",
+        "of_the_required"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04"
+      ],
+      "tool": "dial indicator",
+      "torque_nm": 40.7,
+      "warning": null,
+      "provenance": {
+        "page": 94,
+        "quote": "Install the clutch housing. if used. Tighten the 3/8 \"-16 attaching bolts to 30-35 lb-ft torque and the 3/8 ''-24 nuts to 35-39 Ib-ft torque. a. Install tool J 9748 in one of the crankshaft bolt holes. b. Install the dial indicator J 800...",
+        "verified": true,
+        "char_start": 92,
+        "char_end": 919,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "Install the fuel pump (V-type engine), if removed.",
+      "source_number": 14,
+      "installs": [
+        "fuel_pump"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 94,
+        "quote": "Install the fuel pump (V-type engine), if removed.",
+        "verified": true,
+        "char_start": 924,
+        "char_end": 974,
+        "bbox": [
+          367.68,
+          113.88099999999997,
+          581.2298400000001,
+          122.88099999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "index": 11,
+      "text": "Install the flywheel.",
+      "source_number": 15,
+      "installs": [
+        "hammer_puller_set_flywheel"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 94,
+        "quote": "Install the flywheel.",
+        "verified": true,
+        "char_start": 979,
+        "char_end": 1000,
+        "bbox": [
+          367.20000000000005,
+          134.289,
+          448.53240000000005,
+          143.289
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "index": 12,
+      "text": "Use a new gasket and install the oil pan. On 8V engines. if the flywheel housing and oil pan include outriggers for the installation of reinforcement bolts. be sure the oi] pan butts up against the flywheel housing before ughtening the oil pan bolts. Install and tighten the 1/2 \"-13 reinforcement bolts.",
+      "source_number": 16,
+      "installs": [
+        "oil_pan"
+      ],
+      "depends_on": [
+        "s01",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 94,
+        "quote": "Use a new gasket and install the oil pan. On 8V engines. if the flywheel housing and oil pan include outriggers for the installation of reinforcement bolts. be sure the oi] pan butts up against the flywheel housing before ughtening the o...",
+        "verified": true,
+        "char_start": 1005,
+        "char_end": 1309,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s14",
+      "index": 13,
+      "text": "Remove the engine from the overhaul stand and install all accessories previously removed.",
+      "source_number": 17,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 94,
+        "quote": "Remove the engine from the overhaul stand and install all accessories previously removed.",
+        "verified": true,
+        "char_start": 1314,
+        "char_end": 1403,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s15",
+      "index": 14,
+      "text": "Install the transmission.",
+      "source_number": 18,
+      "installs": [
+        "transmission"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 94,
+        "quote": "Install the transmission.",
+        "verified": true,
+        "char_start": 1408,
+        "char_end": 1433,
+        "bbox": [
+          366.96,
+          263.05099999999993,
+          466.52013,
+          272.05099999999993
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s16",
+      "index": 15,
+      "text": "Install the engine in the unit.",
+      "source_number": 19,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 94,
+        "quote": "Install the engine in the unit.",
+        "verified": true,
+        "char_start": 1438,
+        "char_end": 1469,
+        "bbox": [
+          366.96000000000004,
+          283.7099999999999,
+          490.86675,
+          292.7099999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s17",
+      "index": 16,
+      "text": "Fill the crankcase with lubricating oil.",
+      "source_number": 20,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 94,
+        "quote": "Fill the crankcase with lubricating oil.",
+        "verified": true,
+        "char_start": 1474,
+        "char_end": 1514,
+        "bbox": [
+          366.72,
+          304.5979999999999,
+          531.5118,
+          313.5979999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s18",
+      "index": 17,
+      "text": "Refill the cooling system.",
+      "source_number": 21,
+      "installs": [],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 94,
+        "quote": "Refill the cooling system.",
+        "verified": true,
+        "char_start": 1519,
+        "char_end": 1545,
+        "bbox": [
+          366.71999999999997,
+          325.32899999999995,
+          471.93287999999995,
+          334.32899999999995
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

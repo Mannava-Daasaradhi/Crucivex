@@ -1,0 +1,817 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.222 - Remove the gear retaining nut from the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "gear_retaining_nut",
+      "name": "Gear retaining nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "gear_retaining_nut",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the gear retaining nut from the shaft, then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 3123,
+        "char_end": 3221,
+        "bbox": [
+          344.15999999999997,
+          635.7669999999999,
+          566.06916,
+          656.069
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the gear retaining nut from the shaft, then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 3123,
+        "char_end": 3221,
+        "bbox": [
+          344.15999999999997,
+          635.7669999999999,
+          566.06916,
+          656.069
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the gear retaining nut from the shaft, then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 3123,
+        "char_end": 3221,
+        "bbox": [
+          344.15999999999997,
+          635.7669999999999,
+          566.06916,
+          656.069
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_key",
+      "name": "Drive key",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_key",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the gear retaining nut from the shaft, then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 3123,
+        "char_end": 3221,
+        "bbox": [
+          344.15999999999997,
+          635.7669999999999,
+          566.06916,
+          656.069
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the gear retaining nut from the shaft, then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 3123,
+        "char_end": 3221,
+        "bbox": [
+          344.15999999999997,
+          635.7669999999999,
+          566.06916,
+          656.069
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "small_screw_holding",
+      "name": "Small screw holding",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "small_screw_holding",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the small screw holding the bearing retainer in place.",
+        "verified": true,
+        "char_start": 3225,
+        "char_end": 3286,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_retainer",
+      "name": "Bearing retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_retainer",
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the small screw holding the bearing retainer in place.",
+        "verified": true,
+        "char_start": 3225,
+        "char_end": 3286,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 222,
+        "quote": "Turn the bearing support until the large opening is centered over the fork on the operating shaft.",
+        "verified": true,
+        "char_start": 3294,
+        "char_end": 3392,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 222,
+        "quote": "Turn the bearing support until the large opening is centered over the fork on the operating shaft.",
+        "verified": true,
+        "char_start": 3294,
+        "char_end": 3392,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "centered",
+      "name": "Centered",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "centered",
+      "provenance": {
+        "page": 222,
+        "quote": "Turn the bearing support until the large opening is centered over the fork on the operating shaft.",
+        "verified": true,
+        "char_start": 3294,
+        "char_end": 3392,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_fork",
+      "name": "Governor operating fork",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_fork",
+      "provenance": {
+        "page": 222,
+        "quote": "Turn the bearing support until the large opening is centered over the fork on the operating shaft.",
+        "verified": true,
+        "char_start": 3294,
+        "char_end": 3392,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_operating_shaft",
+      "name": "Governor operating shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_operating_shaft",
+      "provenance": {
+        "page": 222,
+        "quote": "Turn the bearing support until the large opening is centered over the fork on the operating shaft.",
+        "verified": true,
+        "char_start": 3294,
+        "char_end": 3392,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_shaft",
+      "name": "Governor weight shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_shaft",
+      "provenance": {
+        "page": 223,
+        "quote": "Lift up on the weight shaft until there is enough clearance for a 5/16\" socket wrench to be placed on the screws that hold the fork to the operating shaft (Fig. 4). Then remove the two screws and washers.",
+        "verified": true,
+        "char_start": 386,
+        "char_end": 590,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_buffer_screw",
+      "name": "Of the buffer screw",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_buffer_screw",
+      "provenance": {
+        "page": 223,
+        "quote": "Lift up on the weight shaft until there is enough clearance for a 5/16\" socket wrench to be placed on the screws that hold the fork to the operating shaft (Fig. 4). Then remove the two screws and washers.",
+        "verified": true,
+        "char_start": 386,
+        "char_end": 590,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 223,
+        "quote": "Lift up on the weight shaft until there is enough clearance for a 5/16\" socket wrench to be placed on the screws that hold the fork to the operating shaft (Fig. 4). Then remove the two screws and washers.",
+        "verified": true,
+        "char_start": 386,
+        "char_end": 590,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 223,
+        "quote": "Lift up on the weight shaft until there is enough clearance for a 5/16\" socket wrench to be placed on the screws that hold the fork to the operating shaft (Fig. 4). Then remove the two screws and washers.",
+        "verified": true,
+        "char_start": 386,
+        "char_end": 590,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight",
+      "name": "Front balance weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight",
+      "provenance": {
+        "page": 223,
+        "quote": "Lift the shaft and weight assembly out of the governor weight housing.",
+        "verified": true,
+        "char_start": 594,
+        "char_end": 664,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_weight_housing",
+      "name": "Governor weight housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_weight_housing",
+      "provenance": {
+        "page": 223,
+        "quote": "Lift the shaft and weight assembly out of the governor weight housing.",
+        "verified": true,
+        "char_start": 594,
+        "char_end": 664,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "control_housing",
+      "name": "Control housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "control_housing",
+      "provenance": {
+        "page": 223,
+        "quote": "Removethe screw and washers holding the bearing in the control housing and lift the shaft assembly out of the housing.",
+        "verified": true,
+        "char_start": 668,
+        "char_end": 786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_shaft_assembly",
+      "name": "Drive shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_assembly",
+      "provenance": {
+        "page": 223,
+        "quote": "Removethe screw and washers holding the bearing in the control housing and lift the shaft assembly out of the housing.",
+        "verified": true,
+        "char_start": 668,
+        "char_end": 786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 223,
+        "quote": "Removethe screw and washers holding the bearing in the control housing and lift the shaft assembly out of the housing.",
+        "verified": true,
+        "char_start": 668,
+        "char_end": 786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_pilot_rod",
+      "name": "Bearing pilot rod",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_pilot_rod",
+      "provenance": {
+        "page": 223,
+        "quote": "Place a rod approximately 18\" long through the control housing and knock the plug out of the bottom of the weight housing.",
+        "verified": true,
+        "char_start": 790,
+        "char_end": 912,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "edge_of_the_plug",
+      "name": "Edge of the plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "edge_of_the_plug",
+      "provenance": {
+        "page": 223,
+        "quote": "Place a rod approximately 18\" long through the control housing and knock the plug out of the bottom of the weight housing.",
+        "verified": true,
+        "char_start": 790,
+        "char_end": 912,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_weight",
+      "name": "Of the weight",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_weight",
+      "provenance": {
+        "page": 223,
+        "quote": "Place a rod approximately 18\" long through the control housing and knock the plug out of the bottom of the weight housing.",
+        "verified": true,
+        "char_start": 790,
+        "char_end": 912,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 223,
+        "quote": "Remove the snap ring and press the bearing from the weight housing.",
+        "verified": true,
+        "char_start": 916,
+        "char_end": 983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spring_clip",
+      "name": "Spring clip",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spring_clip",
+      "provenance": {
+        "page": 223,
+        "quote": "Remove the spring clip and washer from the governor operating shaft lever and remove the governor differential lever.",
+        "verified": true,
+        "char_start": 987,
+        "char_end": 1104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 223,
+        "quote": "Remove the spring clip and washer from the governor operating shaft lever and remove the governor differential lever.",
+        "verified": true,
+        "char_start": 987,
+        "char_end": 1104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "governor_differential_lever",
+      "name": "Governor differential lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_differential_lever",
+      "provenance": {
+        "page": 223,
+        "quote": "Remove the spring clip and washer from the governor operating shaft lever and remove the governor differential lever.",
+        "verified": true,
+        "char_start": 987,
+        "char_end": 1104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "operating_shaft_lever",
+      "name": "Operating shaft lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "operating_shaft_lever",
+      "provenance": {
+        "page": 223,
+        "quote": "Press the bearing and operating shaft lever from the operating shaft, if necessary.",
+        "verified": true,
+        "char_start": 1109,
+        "char_end": 1192,
+        "bbox": [
+          372.72,
+          262.698,
+          596.0957099999999,
+          282.731
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Remove the gear retaining nut from the shaft, then remove the gear, key and spacer from the shaft.",
+      "source_number": 1,
+      "installs": [
+        "gear_retaining_nut",
+        "end_of_the_shaft",
+        "fuel_pump_drive_gear",
+        "drive_key",
+        "drive_gear_spacer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the gear retaining nut from the shaft, then remove the gear, key and spacer from the shaft.",
+        "verified": true,
+        "char_start": 3123,
+        "char_end": 3221,
+        "bbox": [
+          344.15999999999997,
+          635.7669999999999,
+          566.06916,
+          656.069
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Remove the small screw holding the bearing retainer in place.",
+      "source_number": 2,
+      "installs": [
+        "small_screw_holding",
+        "bearing_retainer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Remove the small screw holding the bearing retainer in place.",
+        "verified": true,
+        "char_start": 3225,
+        "char_end": 3286,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Turn the bearing support until the large opening is centered over the fork on the operating shaft.",
+      "source_number": 3,
+      "installs": [
+        "bearing_the_end_bearing",
+        "blower_drive_support",
+        "centered",
+        "governor_operating_fork",
+        "governor_operating_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 222,
+        "quote": "Turn the bearing support until the large opening is centered over the fork on the operating shaft.",
+        "verified": true,
+        "char_start": 3294,
+        "char_end": 3392,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Lift up on the weight shaft until there is enough clearance for a 5/16\" socket wrench to be placed on the screws that hold the fork to the operating shaft (Fig. 4). Then remove the two screws and washers.",
+      "source_number": 4,
+      "installs": [
+        "governor_weight_shaft",
+        "of_the_buffer_screw",
+        "nut_securing_fig",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 223,
+        "quote": "Lift up on the weight shaft until there is enough clearance for a 5/16\" socket wrench to be placed on the screws that hold the fork to the operating shaft (Fig. 4). Then remove the two screws and washers.",
+        "verified": true,
+        "char_start": 386,
+        "char_end": 590,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Lift the shaft and weight assembly out of the governor weight housing.",
+      "source_number": 5,
+      "installs": [
+        "front_balance_weight",
+        "governor_weight_housing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 223,
+        "quote": "Lift the shaft and weight assembly out of the governor weight housing.",
+        "verified": true,
+        "char_start": 594,
+        "char_end": 664,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Removethe screw and washers holding the bearing in the control housing and lift the shaft assembly out of the housing.",
+      "source_number": 6,
+      "installs": [
+        "control_housing",
+        "drive_shaft_assembly",
+        "of_the_flywheel_housing"
+      ],
+      "depends_on": [
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 223,
+        "quote": "Removethe screw and washers holding the bearing in the control housing and lift the shaft assembly out of the housing.",
+        "verified": true,
+        "char_start": 668,
+        "char_end": 786,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Place a rod approximately 18\" long through the control housing and knock the plug out of the bottom of the weight housing.",
+      "source_number": 7,
+      "installs": [
+        "bearing_pilot_rod",
+        "edge_of_the_plug",
+        "of_the_weight"
+      ],
+      "depends_on": [
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 223,
+        "quote": "Place a rod approximately 18\" long through the control housing and knock the plug out of the bottom of the weight housing.",
+        "verified": true,
+        "char_start": 790,
+        "char_end": 912,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Remove the snap ring and press the bearing from the weight housing.",
+      "source_number": 8,
+      "installs": [
+        "external_snap_ring"
+      ],
+      "depends_on": [
+        "s03",
+        "s05",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 223,
+        "quote": "Remove the snap ring and press the bearing from the weight housing.",
+        "verified": true,
+        "char_start": 916,
+        "char_end": 983,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s09",
+      "index": 8,
+      "text": "Remove the spring clip and washer from the governor operating shaft lever and remove the governor differential lever.",
+      "source_number": 9,
+      "installs": [
+        "spring_clip",
+        "of_the_stop_lever",
+        "governor_differential_lever"
+      ],
+      "depends_on": [
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 223,
+        "quote": "Remove the spring clip and washer from the governor operating shaft lever and remove the governor differential lever.",
+        "verified": true,
+        "char_start": 987,
+        "char_end": 1104,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s10",
+      "index": 9,
+      "text": "Press the bearing and operating shaft lever from the operating shaft, if necessary.",
+      "source_number": 10,
+      "installs": [
+        "operating_shaft_lever"
+      ],
+      "depends_on": [
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 223,
+        "quote": "Press the bearing and operating shaft lever from the operating shaft, if necessary.",
+        "verified": true,
+        "char_start": 1109,
+        "char_end": 1192,
+        "bbox": [
+          372.72,
+          262.698,
+          596.0957099999999,
+          282.731
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "index": 10,
+      "text": "If necessary, disassemble the control housing from the weight housing.",
+      "source_number": 11,
+      "installs": [],
+      "depends_on": [
+        "s05",
+        "s06"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 223,
+        "quote": "If necessary, disassemble the control housing from the weight housing.",
+        "verified": true,
+        "char_start": 1197,
+        "char_end": 1267,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.242 - Turn the cover over and start the...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "underside_of_the_cover",
+      "name": "Underside of the cover",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "underside_of_the_cover",
+      "provenance": {
+        "page": 242,
+        "quote": "Turn the cover over and start the second bearing, number side up, in the bearing bore. Press the bearing in flush with the cover with tool J 21068. NOTE: Do not use impact tools to install needle bearings.",
+        "verified": true,
+        "char_start": 593,
+        "char_end": 798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 242,
+        "quote": "Turn the cover over and start the second bearing, number side up, in the bearing bore. Press the bearing in flush with the cover with tool J 21068. NOTE: Do not use impact tools to install needle bearings.",
+        "verified": true,
+        "char_start": 593,
+        "char_end": 798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "grease_fitting",
+      "name": "Grease fitting",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "grease_fitting",
+      "provenance": {
+        "page": 242,
+        "quote": "Install the grease fitting in the throttle shaft.",
+        "verified": true,
+        "char_start": 802,
+        "char_end": 851,
+        "bbox": [
+          77.52,
+          629.1299999999999,
+          271.6968,
+          639.1299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "governor_throttle_shaft",
+      "name": "Governor throttle shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "governor_throttle_shaft",
+      "provenance": {
+        "page": 242,
+        "quote": "Install the grease fitting in the throttle shaft.",
+        "verified": true,
+        "char_start": 802,
+        "char_end": 851,
+        "bbox": [
+          77.52,
+          629.1299999999999,
+          271.6968,
+          639.1299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "needle_bearing",
+      "name": "Needle bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "needle_bearing",
+      "provenance": {
+        "page": 242,
+        "quote": "Pack the needle bearings with grease. Then slide the throttle shaft assembly through the bearings, with the fulcrum lever pin seated in the slot on the underside of the cover.",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 1030,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "throttle_shaft_assembly",
+      "name": "Throttle shaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "throttle_shaft_assembly",
+      "provenance": {
+        "page": 242,
+        "quote": "Pack the needle bearings with grease. Then slide the throttle shaft assembly through the bearings, with the fulcrum lever pin seated in the slot on the underside of the cover.",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 1030,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_stop_lever",
+      "name": "Of the stop lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_stop_lever",
+      "provenance": {
+        "page": 242,
+        "quote": "Pack the needle bearings with grease. Then slide the throttle shaft assembly through the bearings, with the fulcrum lever pin seated in the slot on the underside of the cover.",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 1030,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "copper_plated_dowel_pin",
+      "name": "Copper-plated dowel pin",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_plated_dowel_pin",
+      "provenance": {
+        "page": 242,
+        "quote": "Pack the needle bearings with grease. Then slide the throttle shaft assembly through the bearings, with the fulcrum lever pin seated in the slot on the underside of the cover.",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 1030,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "tbe_slot",
+      "name": "Tbe slot",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "tbe_slot",
+      "provenance": {
+        "page": 242,
+        "quote": "Pack the needle bearings with grease. Then slide the throttle shaft assembly through the bearings, with the fulcrum lever pin seated in the slot on the underside of the cover.",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 1030,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_ring",
+      "name": "Seal ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_ring",
+      "provenance": {
+        "page": 242,
+        "quote": "Install a new seal ring on top of the upper bearing.",
+        "verified": true,
+        "char_start": 1034,
+        "char_end": 1086,
+        "bbox": [
+          78.24,
+          709.173,
+          309.27680000000004,
+          719.173
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "hammer_spring_scale_upper",
+      "name": "Hammer spring scale upper",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_spring_scale_upper",
+      "provenance": {
+        "page": 242,
+        "quote": "Install a new seal ring on top of the upper bearing.",
+        "verified": true,
+        "char_start": 1034,
+        "char_end": 1086,
+        "bbox": [
+          78.24,
+          709.173,
+          309.27680000000004,
+          719.173
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "large_washer",
+      "name": "Large washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "large_washer",
+      "provenance": {
+        "page": 242,
+        "quote": "Place the large washer over the stop lever shaft. Then place the spring, with the hook end down, over the shaft. Insert the shaft in the cover with the lever against the stop in the cover; position the spring with the hook behind the lev...",
+        "verified": true,
+        "char_start": 1225,
+        "char_end": 1569,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "stop_lever_shaft",
+      "name": "Stop lever shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "stop_lever_shaft",
+      "provenance": {
+        "page": 242,
+        "quote": "Place the large washer over the stop lever shaft. Then place the spring, with the hook end down, over the shaft. Insert the shaft in the cover with the lever against the stop in the cover; position the spring with the hook behind the lev...",
+        "verified": true,
+        "char_start": 1225,
+        "char_end": 1569,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 242,
+        "quote": "Place the large washer over the stop lever shaft. Then place the spring, with the hook end down, over the shaft. Insert the shaft in the cover with the lever against the stop in the cover; position the spring with the hook behind the lev...",
+        "verified": true,
+        "char_start": 1225,
+        "char_end": 1569,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 242,
+        "quote": "Place the large washer over the stop lever shaft. Then place the spring, with the hook end down, over the shaft. Insert the shaft in the cover with the lever against the stop in the cover; position the spring with the hook behind the lev...",
+        "verified": true,
+        "char_start": 1225,
+        "char_end": 1569,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 242,
+        "quote": "Place the large washer over the stop lever shaft. Then place the spring, with the hook end down, over the shaft. Insert the shaft in the cover with the lever against the stop in the cover; position the spring with the hook behind the lev...",
+        "verified": true,
+        "char_start": 1225,
+        "char_end": 1569,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "seal_retaining_washer",
+      "name": "Seal retaining washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "seal_retaining_washer",
+      "provenance": {
+        "page": 242,
+        "quote": "Install a new seal ring over the shaft. Then install the two seal retaining washers and the retaining ring.",
+        "verified": true,
+        "char_start": 1573,
+        "char_end": 1680,
+        "bbox": [
+          338.15999999999997,
+          407.0109999999999,
+          577.4087999999999,
+          427.9299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "follower_retaining_ring",
+      "name": "Follower retaining ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_retaining_ring",
+      "provenance": {
+        "page": 242,
+        "quote": "Install a new seal ring over the shaft. Then install the two seal retaining washers and the retaining ring.",
+        "verified": true,
+        "char_start": 1573,
+        "char_end": 1680,
+        "bbox": [
+          338.15999999999997,
+          407.0109999999999,
+          577.4087999999999,
+          427.9299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 242,
+        "quote": "Install the .078 \u201d thick spacer over the speed control shaft and against the retaining ring.",
+        "verified": true,
+        "char_start": 1684,
+        "char_end": 1776,
+        "bbox": [
+          337.91999999999996,
+          438.9309999999999,
+          576.7393,
+          459.6909999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_control_shaft",
+      "name": "Speed control shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_shaft",
+      "provenance": {
+        "page": 242,
+        "quote": "Install the .078 \u201d thick spacer over the speed control shaft and against the retaining ring.",
+        "verified": true,
+        "char_start": 1684,
+        "char_end": 1776,
+        "bbox": [
+          337.91999999999996,
+          438.9309999999999,
+          576.7393,
+          459.6909999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "speed_control_lever",
+      "name": "Speed control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "speed_control_lever",
+      "provenance": {
+        "page": 242,
+        "quote": "Install the stop lever and the speed control lever; \u00fcghten the clamping bolts. Be sure the speed control lever contacts the spacer.",
+        "verified": true,
+        "char_start": 1780,
+        "char_end": 1911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 242,
+        "quote": "Install the stop lever and the speed control lever; \u00fcghten the clamping bolts. Be sure the speed control lever contacts the spacer.",
+        "verified": true,
+        "char_start": 1780,
+        "char_end": 1911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_speed",
+      "name": "Engine speed",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_speed",
+      "provenance": {
+        "page": 242,
+        "quote": "Install the stop lever and the speed control lever; \u00fcghten the clamping bolts. Be sure the speed control lever contacts the spacer.",
+        "verified": true,
+        "char_start": 1780,
+        "char_end": 1911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "rack_control_lever",
+      "name": "Rack control lever",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "rack_control_lever",
+      "provenance": {
+        "page": 242,
+        "quote": "Install the stop lever and the speed control lever; \u00fcghten the clamping bolts. Be sure the speed control lever contacts the spacer.",
+        "verified": true,
+        "char_start": 1780,
+        "char_end": 1911,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "contact",
+      "provenance": {
+        "page": 242,
+        "quote": "Install the stop lever and the speed control lever; \u00fcghten the clamping bolts. Be sure the speed control lever contacts the spacer.",
+        "verified": true,
+        "char_start": 1780,
+        "char_end": 1911,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Turn the cover over and start the second bearing, number side up, in the bearing bore. Press the bearing in flush with the cover with tool J 21068. NOTE: Do not use impact tools to install needle bearings.",
+      "source_number": 2,
+      "installs": [
+        "underside_of_the_cover",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "NOTE: Do not use impact tools to install needle bearings.",
+      "provenance": {
+        "page": 242,
+        "quote": "Turn the cover over and start the second bearing, number side up, in the bearing bore. Press the bearing in flush with the cover with tool J 21068. NOTE: Do not use impact tools to install needle bearings.",
+        "verified": true,
+        "char_start": 593,
+        "char_end": 798,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install the grease fitting in the throttle shaft.",
+      "source_number": 3,
+      "installs": [
+        "grease_fitting",
+        "governor_throttle_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Install the grease fitting in the throttle shaft.",
+        "verified": true,
+        "char_start": 802,
+        "char_end": 851,
+        "bbox": [
+          77.52,
+          629.1299999999999,
+          271.6968,
+          639.1299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Pack the needle bearings with grease. Then slide the throttle shaft assembly through the bearings, with the fulcrum lever pin seated in the slot on the underside of the cover.",
+      "source_number": 4,
+      "installs": [
+        "needle_bearing",
+        "throttle_shaft_assembly",
+        "of_the_stop_lever",
+        "copper_plated_dowel_pin",
+        "tbe_slot"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Pack the needle bearings with grease. Then slide the throttle shaft assembly through the bearings, with the fulcrum lever pin seated in the slot on the underside of the cover.",
+        "verified": true,
+        "char_start": 855,
+        "char_end": 1030,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install a new seal ring on top of the upper bearing.",
+      "source_number": 5,
+      "installs": [
+        "seal_ring",
+        "hammer_spring_scale_upper"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Install a new seal ring on top of the upper bearing.",
+        "verified": true,
+        "char_start": 1034,
+        "char_end": 1086,
+        "bbox": [
+          78.24,
+          709.173,
+          309.27680000000004,
+          719.173
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Place the large washer over the stop lever shaft. Then place the spring, with the hook end down, over the shaft. Insert the shaft in the cover with the lever against the stop in the cover; position the spring with the hook behind the lever and the upper extended end of the spring located between the lever stop and the shaft boss in the cover.",
+      "source_number": 6,
+      "installs": [
+        "large_washer",
+        "stop_lever_shaft",
+        "end_of_the_spring",
+        "end_of_the_shaft",
+        "exhaust_valve_seat_insert"
+      ],
+      "depends_on": [
+        "s01",
+        "s03",
+        "s04"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Place the large washer over the stop lever shaft. Then place the spring, with the hook end down, over the shaft. Insert the shaft in the cover with the lever against the stop in the cover; position the spring with the hook behind the lev...",
+        "verified": true,
+        "char_start": 1225,
+        "char_end": 1569,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Install a new seal ring over the shaft. Then install the two seal retaining washers and the retaining ring.",
+      "source_number": 7,
+      "installs": [
+        "seal_retaining_washer",
+        "follower_retaining_ring"
+      ],
+      "depends_on": [
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Install a new seal ring over the shaft. Then install the two seal retaining washers and the retaining ring.",
+        "verified": true,
+        "char_start": 1573,
+        "char_end": 1680,
+        "bbox": [
+          338.15999999999997,
+          407.0109999999999,
+          577.4087999999999,
+          427.9299999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "index": 6,
+      "text": "Install the .078 \u201d thick spacer over the speed control shaft and against the retaining ring.",
+      "source_number": 8,
+      "installs": [
+        "drive_gear_spacer",
+        "speed_control_shaft"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Install the .078 \u201d thick spacer over the speed control shaft and against the retaining ring.",
+        "verified": true,
+        "char_start": 1684,
+        "char_end": 1776,
+        "bbox": [
+          337.91999999999996,
+          438.9309999999999,
+          576.7393,
+          459.6909999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "index": 7,
+      "text": "Install the stop lever and the speed control lever; \u00fcghten the clamping bolts. Be sure the speed control lever contacts the spacer.",
+      "source_number": 9,
+      "installs": [
+        "speed_control_lever",
+        "engine_front_cover_bolt",
+        "engine_speed",
+        "rack_control_lever",
+        "contact"
+      ],
+      "depends_on": [
+        "s03",
+        "s07"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 242,
+        "quote": "Install the stop lever and the speed control lever; \u00fcghten the clamping bolts. Be sure the speed control lever contacts the spacer.",
+        "verified": true,
+        "char_start": 1780,
+        "char_end": 1911,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

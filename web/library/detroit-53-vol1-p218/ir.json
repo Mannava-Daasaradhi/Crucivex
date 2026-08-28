@@ -1,0 +1,281 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.385 - Lubricate the bearings (20 and 23) with...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 385,
+        "quote": "Lubricate the bearings (20 and 23) with clean engine oil.",
+        "verified": true,
+        "char_start": 1743,
+        "char_end": 1800,
+        "bbox": [
+          329.76,
+          74.769,
+          569.5209,
+          94.45600000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 385,
+        "quote": "Lubricate the bearings (20 and 23) with clean engine oil.",
+        "verified": true,
+        "char_start": 1743,
+        "char_end": 1800,
+        "bbox": [
+          329.76,
+          74.769,
+          569.5209,
+          94.45600000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "follower_retaining_ring",
+      "name": "Follower retaining ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "follower_retaining_ring",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new retaining ring (24), bearing (23), spacer (27) and new retaining ring (22) in the turbine housing end of the center housing (26).",
+        "verified": true,
+        "char_start": 1804,
+        "char_end": 1947,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "drive_gear_spacer",
+      "name": "Drive gear spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_gear_spacer",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new retaining ring (24), bearing (23), spacer (27) and new retaining ring (22) in the turbine housing end of the center housing (26).",
+        "verified": true,
+        "char_start": 1804,
+        "char_end": 1947,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bottom_oil_ring",
+      "name": "Bottom oil ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bottom_oil_ring",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new retaining ring (24), bearing (23), spacer (27) and new retaining ring (22) in the turbine housing end of the center housing (26).",
+        "verified": true,
+        "char_start": 1804,
+        "char_end": 1947,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "center_housing",
+      "name": "Center housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "center_housing",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new retaining ring (24), bearing (23), spacer (27) and new retaining ring (22) in the turbine housing end of the center housing (26).",
+        "verified": true,
+        "char_start": 1804,
+        "char_end": 1947,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "piston_ring",
+      "name": "Piston ring set",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "piston_ring",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new piston ring (16) on the thrust spacer",
+        "verified": true,
+        "char_start": 2041,
+        "char_end": 2092,
+        "bbox": [
+          342.0,
+          181.52999999999997,
+          569.0717999999999,
+          191.52999999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "thrust_spacer",
+      "name": "Thrust spacer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "thrust_spacer",
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new piston ring (16) on the thrust spacer",
+        "verified": true,
+        "char_start": 2041,
+        "char_end": 2092,
+        "bbox": [
+          342.0,
+          181.52999999999997,
+          569.0717999999999,
+          191.52999999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Lubricate the bearings (20 and 23) with clean engine oil.",
+      "source_number": 1,
+      "installs": [
+        "bearing_the_end_bearing",
+        "valve_rocker_cover_clean"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Lubricate the bearings (20 and 23) with clean engine oil.",
+        "verified": true,
+        "char_start": 1743,
+        "char_end": 1800,
+        "bbox": [
+          329.76,
+          74.769,
+          569.5209,
+          94.45600000000002
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Install a new retaining ring (24), bearing (23), spacer (27) and new retaining ring (22) in the turbine housing end of the center housing (26).",
+      "source_number": 2,
+      "installs": [
+        "follower_retaining_ring",
+        "drive_gear_spacer",
+        "bottom_oil_ring",
+        "center_housing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new retaining ring (24), bearing (23), spacer (27) and new retaining ring (22) in the turbine housing end of the center housing (26).",
+        "verified": true,
+        "char_start": 1804,
+        "char_end": 1947,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Install a new retaining ring (21), spacer (27) and bearing (20) in the center housing.",
+      "source_number": 3,
+      "installs": [],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new retaining ring (21), spacer (27) and bearing (20) in the center housing.",
+        "verified": true,
+        "char_start": 1951,
+        "char_end": 2037,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Install a new piston ring (16) on the thrust spacer",
+      "source_number": 4,
+      "installs": [
+        "piston_ring",
+        "thrust_spacer"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 385,
+        "quote": "Install a new piston ring (16) on the thrust spacer",
+        "verified": true,
+        "char_start": 2041,
+        "char_end": 2092,
+        "bbox": [
+          342.0,
+          181.52999999999997,
+          569.0717999999999,
+          191.52999999999997
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

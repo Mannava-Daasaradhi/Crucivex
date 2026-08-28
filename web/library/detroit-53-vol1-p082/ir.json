@@ -1,0 +1,799 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.143 - Support--Blower Drive 12. Pipe Plug 19. Seal--Drive...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 143,
+        "quote": "Support--Blower Drive 12. Pipe Plug 19. Seal--Drive Hub Oil 26. Bolt--Drive Cam Retaining",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1148,
+        "bbox": [
+          76.79999999999998,
+          611.481,
+          555.29775,
+          618.481
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_assemble_blower_drive",
+      "name": "Assembly assemble blower drive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_assemble_blower_drive",
+      "provenance": {
+        "page": 143,
+        "quote": "Support--Blower Drive 12. Pipe Plug 19. Seal--Drive Hub Oil 26. Bolt--Drive Cam Retaining",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1148,
+        "bbox": [
+          76.79999999999998,
+          611.481,
+          555.29775,
+          618.481
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "pipe_plug",
+      "name": "Pipe plug",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "pipe_plug",
+      "provenance": {
+        "page": 143,
+        "quote": "Support--Blower Drive 12. Pipe Plug 19. Seal--Drive Hub Oil 26. Bolt--Drive Cam Retaining",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1148,
+        "bbox": [
+          76.79999999999998,
+          611.481,
+          555.29775,
+          618.481
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "crankshaft_front_oil_seal",
+      "name": "Crankshaft front oil seal",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "crankshaft_front_oil_seal",
+      "provenance": {
+        "page": 143,
+        "quote": "Support--Blower Drive 12. Pipe Plug 19. Seal--Drive Hub Oil 26. Bolt--Drive Cam Retaining",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1148,
+        "bbox": [
+          76.79999999999998,
+          611.481,
+          555.29775,
+          618.481
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 143,
+        "quote": "Support--Blower Drive 12. Pipe Plug 19. Seal--Drive Hub Oil 26. Bolt--Drive Cam Retaining",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1148,
+        "bbox": [
+          76.79999999999998,
+          611.481,
+          555.29775,
+          618.481
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 143,
+        "quote": "Support--Blower Drive 12. Pipe Plug 19. Seal--Drive Hub Oil 26. Bolt--Drive Cam Retaining",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1148,
+        "bbox": [
+          76.79999999999998,
+          611.481,
+          555.29775,
+          618.481
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 143,
+        "quote": "Support--Blower Drive 12. Pipe Plug 19. Seal--Drive Hub Oil 26. Bolt--Drive Cam Retaining",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1148,
+        "bbox": [
+          76.79999999999998,
+          611.481,
+          555.29775,
+          618.481
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "head_gasket",
+      "name": "Cylinder head gasket",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "head_gasket",
+      "provenance": {
+        "page": 143,
+        "quote": "Bolt--Drive Supports 13. Gasket--Drive Support to 20. Bolt--Drive Support to Blower 27. Plain Washer Retainer",
+        "verified": true,
+        "char_start": 1152,
+        "char_end": 1261,
+        "bbox": [
+          76.55999999999996,
+          621.807,
+          542.92416,
+          628.807
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 143,
+        "quote": "Bolt--Drive Supports 13. Gasket--Drive Support to 20. Bolt--Drive Support to Blower 27. Plain Washer Retainer",
+        "verified": true,
+        "char_start": 1152,
+        "char_end": 1261,
+        "bbox": [
+          76.55999999999996,
+          621.807,
+          542.92416,
+          628.807
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 143,
+        "quote": "Bolt--Drive Supports 13. Gasket--Drive Support to 20. Bolt--Drive Support to Blower 27. Plain Washer Retainer",
+        "verified": true,
+        "char_start": 1152,
+        "char_end": 1261,
+        "bbox": [
+          76.55999999999996,
+          621.807,
+          542.92416,
+          628.807
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "drive_shaft_retainer",
+      "name": "Drive shaft retainer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "drive_shaft_retainer",
+      "provenance": {
+        "page": 143,
+        "quote": "Bolt--Drive Supports 13. Gasket--Drive Support to 20. Bolt--Drive Support to Blower 27. Plain Washer Retainer",
+        "verified": true,
+        "char_start": 1152,
+        "char_end": 1261,
+        "bbox": [
+          76.55999999999996,
+          621.807,
+          542.92416,
+          628.807
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 143,
+        "quote": "Gear-- Blower Drive Blower End Plate 21. Support--Blower Drive Spring 28. Retainer--Drive Shaft",
+        "verified": true,
+        "char_start": 1265,
+        "char_end": 1360,
+        "bbox": [
+          76.55999999999996,
+          630.891,
+          536.7511999999999,
+          638.891
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_end_plate",
+      "name": "Blower end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_end_plate",
+      "provenance": {
+        "page": 143,
+        "quote": "Gear-- Blower Drive Blower End Plate 21. Support--Blower Drive Spring 28. Retainer--Drive Shaft",
+        "verified": true,
+        "char_start": 1265,
+        "char_end": 1360,
+        "bbox": [
+          76.55999999999996,
+          630.891,
+          536.7511999999999,
+          638.891
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_spring",
+      "name": "Blower drive spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_spring",
+      "provenance": {
+        "page": 143,
+        "quote": "Gear-- Blower Drive Blower End Plate 21. Support--Blower Drive Spring 28. Retainer--Drive Shaft",
+        "verified": true,
+        "char_start": 1265,
+        "char_end": 1360,
+        "bbox": [
+          76.55999999999996,
+          630.891,
+          536.7511999999999,
+          638.891
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "accessory_drive_shaft",
+      "name": "Accessory drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_shaft",
+      "provenance": {
+        "page": 143,
+        "quote": "Gear-- Blower Drive Blower End Plate 21. Support--Blower Drive Spring 28. Retainer--Drive Shaft",
+        "verified": true,
+        "char_start": 1265,
+        "char_end": 1360,
+        "bbox": [
+          76.55999999999996,
+          630.891,
+          536.7511999999999,
+          638.891
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 143,
+        "quote": "Shaft--Drive Gear 14. Lock Washer 22. Seat--Drive Spring 29. Bolt--Drive Shaft",
+        "verified": true,
+        "char_start": 1364,
+        "char_end": 1442,
+        "bbox": [
+          76.55999999999995,
+          640.9789999999999,
+          520.2412,
+          648.9789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 143,
+        "quote": "Shaft--Drive Gear 14. Lock Washer 22. Seat--Drive Spring 29. Bolt--Drive Shaft",
+        "verified": true,
+        "char_start": 1364,
+        "char_end": 1442,
+        "bbox": [
+          76.55999999999995,
+          640.9789999999999,
+          520.2412,
+          648.9789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "insert_remover_valve_seat",
+      "name": "Insert remover valve seat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "insert_remover_valve_seat",
+      "provenance": {
+        "page": 143,
+        "quote": "Shaft--Drive Gear 14. Lock Washer 22. Seat--Drive Spring 29. Bolt--Drive Shaft",
+        "verified": true,
+        "char_start": 1364,
+        "char_end": 1442,
+        "bbox": [
+          76.55999999999995,
+          640.9789999999999,
+          520.2412,
+          648.9789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 143,
+        "quote": "Washer--Thrust 15. Plain Washer 23. Spring--Blower Drive 30. Gasket--Drive Support to",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 1532,
+        "bbox": [
+          76.32000000000002,
+          652.0469999999999,
+          551.6893600000001,
+          659.0469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 143,
+        "quote": "Washer--Thrust 15. Plain Washer 23. Spring--Blower Drive 30. Gasket--Drive Support to",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 1532,
+        "bbox": [
+          76.32000000000002,
+          652.0469999999999,
+          551.6893600000001,
+          659.0469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "external_snap_ring",
+      "name": "External snap ring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "external_snap_ring",
+      "provenance": {
+        "page": 143,
+        "quote": "Snap Ring--Thrust 17. Hub--Biower Drive 24. Cam--Blower Drive Cylinder Block End Washer Retaining 18. Bolt--Drive Hub 25. Shaft--Blower Drive Plate Fig. 7 - Blower Drive Support Details and Relative Location of Parts (8V-53 Engine)",
+        "verified": true,
+        "char_start": 1537,
+        "char_end": 1768,
+        "bbox": [
+          76.32,
+          661.891,
+          530.95464,
+          714.1899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 143,
+        "quote": "Snap Ring--Thrust 17. Hub--Biower Drive 24. Cam--Blower Drive Cylinder Block End Washer Retaining 18. Bolt--Drive Hub 25. Shaft--Blower Drive Plate Fig. 7 - Blower Drive Support Details and Relative Location of Parts (8V-53 Engine)",
+        "verified": true,
+        "char_start": 1537,
+        "char_end": 1768,
+        "bbox": [
+          76.32,
+          661.891,
+          530.95464,
+          714.1899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 143,
+        "quote": "Snap Ring--Thrust 17. Hub--Biower Drive 24. Cam--Blower Drive Cylinder Block End Washer Retaining 18. Bolt--Drive Hub 25. Shaft--Blower Drive Plate Fig. 7 - Blower Drive Support Details and Relative Location of Parts (8V-53 Engine)",
+        "verified": true,
+        "char_start": 1537,
+        "char_end": 1768,
+        "bbox": [
+          76.32,
+          661.891,
+          530.95464,
+          714.1899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_adjusted_relative",
+      "name": "Valve adjusted relative",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_adjusted_relative",
+      "provenance": {
+        "page": 143,
+        "quote": "Snap Ring--Thrust 17. Hub--Biower Drive 24. Cam--Blower Drive Cylinder Block End Washer Retaining 18. Bolt--Drive Hub 25. Shaft--Blower Drive Plate Fig. 7 - Blower Drive Support Details and Relative Location of Parts (8V-53 Engine)",
+        "verified": true,
+        "char_start": 1537,
+        "char_end": 1768,
+        "bbox": [
+          76.32,
+          661.891,
+          530.95464,
+          714.1899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Support--Blower Drive 12. Pipe Plug 19. Seal--Drive Hub Oil 26. Bolt--Drive Cam Retaining",
+      "source_number": 1,
+      "installs": [
+        "blower_drive_support",
+        "assembly_assemble_blower_drive",
+        "pipe_plug",
+        "crankshaft_front_oil_seal",
+        "blower_drive_hub",
+        "engine_front_cover_bolt",
+        "t_push_rod_cam"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 143,
+        "quote": "Support--Blower Drive 12. Pipe Plug 19. Seal--Drive Hub Oil 26. Bolt--Drive Cam Retaining",
+        "verified": true,
+        "char_start": 1059,
+        "char_end": 1148,
+        "bbox": [
+          76.79999999999998,
+          611.481,
+          555.29775,
+          618.481
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Bolt--Drive Supports 13. Gasket--Drive Support to 20. Bolt--Drive Support to Blower 27. Plain Washer Retainer",
+      "source_number": 5,
+      "installs": [
+        "head_gasket",
+        "assembly_examine_the_blower",
+        "plain_washer",
+        "drive_shaft_retainer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 143,
+        "quote": "Bolt--Drive Supports 13. Gasket--Drive Support to 20. Bolt--Drive Support to Blower 27. Plain Washer Retainer",
+        "verified": true,
+        "char_start": 1152,
+        "char_end": 1261,
+        "bbox": [
+          76.55999999999996,
+          621.807,
+          542.92416,
+          628.807
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Gear-- Blower Drive Blower End Plate 21. Support--Blower Drive Spring 28. Retainer--Drive Shaft",
+      "source_number": 7,
+      "installs": [
+        "fuel_pump_drive_gear",
+        "blower_end_plate",
+        "blower_drive_spring",
+        "accessory_drive_shaft"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 143,
+        "quote": "Gear-- Blower Drive Blower End Plate 21. Support--Blower Drive Spring 28. Retainer--Drive Shaft",
+        "verified": true,
+        "char_start": 1265,
+        "char_end": 1360,
+        "bbox": [
+          76.55999999999996,
+          630.891,
+          536.7511999999999,
+          638.891
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Shaft--Drive Gear 14. Lock Washer 22. Seat--Drive Spring 29. Bolt--Drive Shaft",
+      "source_number": 8,
+      "installs": [
+        "end_of_the_shaft",
+        "special_lock_washer",
+        "insert_remover_valve_seat"
+      ],
+      "depends_on": [
+        "s01",
+        "s03"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 143,
+        "quote": "Shaft--Drive Gear 14. Lock Washer 22. Seat--Drive Spring 29. Bolt--Drive Shaft",
+        "verified": true,
+        "char_start": 1364,
+        "char_end": 1442,
+        "bbox": [
+          76.55999999999995,
+          640.9789999999999,
+          520.2412,
+          648.9789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "index": 4,
+      "text": "Washer--Thrust 15. Plain Washer 23. Spring--Blower Drive 30. Gasket--Drive Support to",
+      "source_number": 10,
+      "installs": [
+        "another_drive_flange_washer",
+        "end_of_the_spring"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 143,
+        "quote": "Washer--Thrust 15. Plain Washer 23. Spring--Blower Drive 30. Gasket--Drive Support to",
+        "verified": true,
+        "char_start": 1447,
+        "char_end": 1532,
+        "bbox": [
+          76.32000000000002,
+          652.0469999999999,
+          551.6893600000001,
+          659.0469999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "index": 5,
+      "text": "Snap Ring--Thrust 17. Hub--Biower Drive 24. Cam--Blower Drive Cylinder Block End Washer Retaining 18. Bolt--Drive Hub 25. Shaft--Blower Drive Plate Fig. 7 - Blower Drive Support Details and Relative Location of Parts (8V-53 Engine)",
+      "source_number": 11,
+      "installs": [
+        "external_snap_ring",
+        "assembly_rear_end_plate",
+        "nut_securing_fig",
+        "valve_adjusted_relative"
+      ],
+      "depends_on": [
+        "s01",
+        "s02",
+        "s04",
+        "s05"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 143,
+        "quote": "Snap Ring--Thrust 17. Hub--Biower Drive 24. Cam--Blower Drive Cylinder Block End Washer Retaining 18. Bolt--Drive Hub 25. Shaft--Blower Drive Plate Fig. 7 - Blower Drive Support Details and Relative Location of Parts (8V-53 Engine)",
+        "verified": true,
+        "char_start": 1537,
+        "char_end": 1768,
+        "bbox": [
+          76.32,
+          661.891,
+          530.95464,
+          714.1899999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    }
+  ]
+}

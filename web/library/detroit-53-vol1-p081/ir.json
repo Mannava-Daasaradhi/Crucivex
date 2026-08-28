@@ -1,0 +1,706 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.142 - install the blower drive support assembly by...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_drive_support_assembly",
+      "name": "Blower drive support assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support_assembly",
+      "provenance": {
+        "page": 142,
+        "quote": "install the blower drive support assembly by Refer to Fig. 4 for the relative position of the parts reversing the removal procedure. and assemble the blower drive support as follows:",
+        "verified": true,
+        "char_start": 631,
+        "char_end": 813,
+        "bbox": [
+          85.68000000000004,
+          269.37,
+          591.7876000000001,
+          297.4789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 142,
+        "quote": "install the blower drive support assembly by Refer to Fig. 4 for the relative position of the parts reversing the removal procedure. and assemble the blower drive support as follows:",
+        "verified": true,
+        "char_start": 631,
+        "char_end": 813,
+        "bbox": [
+          85.68000000000004,
+          269.37,
+          591.7876000000001,
+          297.4789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_adjusted_relative",
+      "name": "Valve adjusted relative",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_adjusted_relative",
+      "provenance": {
+        "page": 142,
+        "quote": "install the blower drive support assembly by Refer to Fig. 4 for the relative position of the parts reversing the removal procedure. and assemble the blower drive support as follows:",
+        "verified": true,
+        "char_start": 631,
+        "char_end": 813,
+        "bbox": [
+          85.68000000000004,
+          269.37,
+          591.7876000000001,
+          297.4789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 142,
+        "quote": "install the blower drive support assembly by Refer to Fig. 4 for the relative position of the parts reversing the removal procedure. and assemble the blower drive support as follows:",
+        "verified": true,
+        "char_start": 631,
+        "char_end": 813,
+        "bbox": [
+          85.68000000000004,
+          269.37,
+          591.7876000000001,
+          297.4789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_gear",
+      "name": "Blower drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_gear",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "end_of_the_shaft",
+      "name": "End of the shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_shaft",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "valve_rocker_cover_clean",
+      "name": "Valve rocker cover clean",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "valve_rocker_cover_clean",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "copper_washer",
+      "name": "Copper washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "copper_washer",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "assembly_assemble_blower_drive",
+      "name": "Assembly assemble blower drive",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_assemble_blower_drive",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "of_the_flywheel_housing",
+      "name": "Of the flywheel housing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_flywheel_housing",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "plain_washer",
+      "name": "Plain washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "plain_washer",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "another_drive_flange_washer",
+      "name": "Another drive flange washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "another_drive_flange_washer",
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "blower_drive_shaft",
+      "name": "Blower drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_shaft",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "camshaft",
+      "name": "Camshaft assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "camshaft",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_drive_hub",
+      "name": "Blower drive hub",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_hub",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "t_push_rod_cam",
+      "name": "T push rod cam",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "t_push_rod_cam",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_examine_the_blower",
+      "name": "Assembly examine the blower",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_examine_the_blower",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "accessory_drive_shaft",
+      "name": "Accessory drive shaft",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "accessory_drive_shaft",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "clamping_pressure",
+      "name": "Clamping pressure",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "clamping_pressure",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "blower_the_engine_governor",
+      "name": "Blower the engine governor",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_the_engine_governor",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "special_lock_washer",
+      "name": "Special lock washer",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "special_lock_washer",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "socket_head_bolt",
+      "name": "Socket head bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "socket_head_bolt",
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "install the blower drive support assembly by Refer to Fig. 4 for the relative position of the parts reversing the removal procedure. and assemble the blower drive support as follows:",
+      "source_number": 2,
+      "installs": [
+        "blower_drive_support_assembly",
+        "nut_securing_fig",
+        "valve_adjusted_relative",
+        "blower_drive_support"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 142,
+        "quote": "install the blower drive support assembly by Refer to Fig. 4 for the relative position of the parts reversing the removal procedure. and assemble the blower drive support as follows:",
+        "verified": true,
+        "char_start": 631,
+        "char_end": 813,
+        "bbox": [
+          85.68000000000004,
+          269.37,
+          591.7876000000001,
+          297.4789999999999
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with plain washers and lock support. washers) to 35 lb-ft torque.",
+      "source_number": 3,
+      "installs": [
+        "assembly_rear_end_plate",
+        "engine_front_cover_bolt",
+        "blower_drive_gear",
+        "end_of_the_shaft",
+        "valve_rocker_cover_clean",
+        "copper_washer",
+        "exhaust_valve_seat_insert",
+        "assembly_assemble_blower_drive",
+        "of_the_flywheel_housing",
+        "plain_washer",
+        "another_drive_flange_washer"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 47.5,
+      "warning": null,
+      "provenance": {
+        "page": 142,
+        "quote": "Tighten the 3/8 \"24 support-to-end plate bolts l. Lubricate the blower drive gear shaft with clean (with copper washers) and the 3/8 \u2019\u2019-16 support-to- engine oil and insert the shaft into the blower drive flywheel housing bolts (with pla...",
+        "verified": true,
+        "char_start": 817,
+        "char_end": 1111,
+        "bbox": [
+          85.43999999999997,
+          301.29099999999994,
+          589.816,
+          344.16999999999996
+        ],
+        "page_size": [
+          609.12,
+          790.56
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive support assembly is attached to the blower rear end plate and the forward face of the 5. Install the blower drive shaft by reversing the removal procedure. cylinder block end plate. The blower drive support bearing receives oil under pressure from the horizontal oil passage in the blower Remove Blower Drive Support Assembly rear end plate which leads to the oil passage in the ]l. Remove the blower, governor and drive support blower drive support. assembly from the engine as outlined under Remove Blower in Section 3.4.1. Remove and Install Blower Drive Shaft 2. Remove the six bolts, lock washers, plain washers and one socket head bolt securing the blower drive support to the blower rear end plate. i. If an air compressor is attached to the rear right- hand face of the flywheel housing, disconnect and",
+      "source_number": 4,
+      "installs": [
+        "blower_drive_shaft",
+        "camshaft",
+        "fuel_pump_drive_gear",
+        "blower_drive_hub",
+        "t_push_rod_cam",
+        "assembly_examine_the_blower",
+        "accessory_drive_shaft",
+        "of_the_block",
+        "bearing_the_end_bearing",
+        "clamping_pressure",
+        "blower_the_engine_governor",
+        "spray_nozzle_outlined",
+        "special_lock_washer",
+        "socket_head_bolt"
+      ],
+      "depends_on": [
+        "s01",
+        "s02"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 142,
+        "quote": "Pull the blower drive shaft out of the blower drive camshaft gear. The drive gear is pressed onto a shaft hub and cam. If necessary, use a pair of small nose which is supported in the blower drive support. The pliers. biower drive suppor...",
+        "verified": true,
+        "char_start": 1217,
+        "char_end": 2258,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

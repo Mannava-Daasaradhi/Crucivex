@@ -1,0 +1,331 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.136 - Clamp the idler gear between the two...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "breather_tube_clamp",
+      "name": "Breather tube clamp",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "breather_tube_clamp",
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear between the two plates as shown in Fig. 10. Insert the bolts and tighten the three 3/8 \"'-16 bolts and nuts to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 2351,
+        "char_end": 2502,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear",
+      "name": "Idler gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear",
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear between the two plates as shown in Fig. 10. Insert the bolts and tighten the three 3/8 \"'-16 bolts and nuts to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 2351,
+        "char_end": 2502,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "assembly_rear_end_plate",
+      "name": "Assembly rear end plate",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "assembly_rear_end_plate",
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear between the two plates as shown in Fig. 10. Insert the bolts and tighten the three 3/8 \"'-16 bolts and nuts to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 2351,
+        "char_end": 2502,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "nut_securing_fig",
+      "name": "Nut securing fig",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "nut_securing_fig",
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear between the two plates as shown in Fig. 10. Insert the bolts and tighten the three 3/8 \"'-16 bolts and nuts to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 2351,
+        "char_end": 2502,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "exhaust_valve_seat_insert",
+      "name": "Exhaust valve seat insert",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "exhaust_valve_seat_insert",
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear between the two plates as shown in Fig. 10. Insert the bolts and tighten the three 3/8 \"'-16 bolts and nuts to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 2351,
+        "char_end": 2502,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "engine_front_cover_bolt",
+      "name": "Engine front cover bolt",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "engine_front_cover_bolt",
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear between the two plates as shown in Fig. 10. Insert the bolts and tighten the three 3/8 \"'-16 bolts and nuts to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 2351,
+        "char_end": 2502,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "front_balance_weight_nut",
+      "name": "Front balance weight nut",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "front_balance_weight_nut",
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear between the two plates as shown in Fig. 10. Insert the bolts and tighten the three 3/8 \"'-16 bolts and nuts to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 2351,
+        "char_end": 2502,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "idler_gear_assembly",
+      "name": "Idler gear assembly",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "idler_gear_assembly",
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear assembly and fixture in a vise as shown in Fig. 12.",
+        "verified": true,
+        "char_start": 2506,
+        "char_end": 2578,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fixture",
+      "name": "Fixture",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fixture",
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear assembly and fixture in a vise as shown in Fig. 12.",
+        "verified": true,
+        "char_start": 2506,
+        "char_end": 2578,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "cord",
+      "name": "Cord",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "cord",
+      "provenance": {
+        "page": 136,
+        "quote": "Attach the cord to the idler gear and spring scale and check the pre-load as outlined in Step 4 of the previous method. If the scale reading is within the specified 1-1/4 to 6-3/4 lbs., but fluctuates more than the permissible 2 lbs. 11 ...",
+        "verified": true,
+        "char_start": 2582,
+        "char_end": 3830,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "end_of_the_spring",
+      "name": "End of the spring",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "end_of_the_spring",
+      "provenance": {
+        "page": 136,
+        "quote": "Attach the cord to the idler gear and spring scale and check the pre-load as outlined in Step 4 of the previous method. If the scale reading is within the specified 1-1/4 to 6-3/4 lbs., but fluctuates more than the permissible 2 lbs. 11 ...",
+        "verified": true,
+        "char_start": 2582,
+        "char_end": 3830,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "spray_nozzle_outlined",
+      "name": "Spray nozzle outlined",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "spray_nozzle_outlined",
+      "provenance": {
+        "page": 136,
+        "quote": "Attach the cord to the idler gear and spring scale and check the pre-load as outlined in Step 4 of the previous method. If the scale reading is within the specified 1-1/4 to 6-3/4 lbs., but fluctuates more than the permissible 2 lbs. 11 ...",
+        "verified": true,
+        "char_start": 2582,
+        "char_end": 3830,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "more",
+      "name": "More",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "more",
+      "provenance": {
+        "page": 136,
+        "quote": "Attach the cord to the idler gear and spring scale and check the pre-load as outlined in Step 4 of the previous method. If the scale reading is within the specified 1-1/4 to 6-3/4 lbs., but fluctuates more than the permissible 2 lbs. 11 ...",
+        "verified": true,
+        "char_start": 2582,
+        "char_end": 3830,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 136,
+        "quote": "Attach the cord to the idler gear and spring scale and check the pre-load as outlined in Step 4 of the previous method. If the scale reading is within the specified 1-1/4 to 6-3/4 lbs., but fluctuates more than the permissible 2 lbs. 11 ...",
+        "verified": true,
+        "char_start": 2582,
+        "char_end": 3830,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "bearing_the_end_bearing",
+      "name": "Bearing the end bearing",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "bearing_the_end_bearing",
+      "provenance": {
+        "page": 136,
+        "quote": "Attach the cord to the idler gear and spring scale and check the pre-load as outlined in Step 4 of the previous method. If the scale reading is within the specified 1-1/4 to 6-3/4 lbs., but fluctuates more than the permissible 2 lbs. 11 ...",
+        "verified": true,
+        "char_start": 2582,
+        "char_end": 3830,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Clamp the idler gear between the two plates as shown in Fig. 10. Insert the bolts and tighten the three 3/8 \"'-16 bolts and nuts to 40-45 lb-ft torque.",
+      "source_number": 1,
+      "installs": [
+        "breather_tube_clamp",
+        "idler_gear",
+        "assembly_rear_end_plate",
+        "nut_securing_fig",
+        "exhaust_valve_seat_insert",
+        "engine_front_cover_bolt",
+        "front_balance_weight_nut"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": 54.2,
+      "warning": null,
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear between the two plates as shown in Fig. 10. Insert the bolts and tighten the three 3/8 \"'-16 bolts and nuts to 40-45 lb-ft torque.",
+        "verified": true,
+        "char_start": 2351,
+        "char_end": 2502,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Clamp the idler gear assembly and fixture in a vise as shown in Fig. 12.",
+      "source_number": 2,
+      "installs": [
+        "idler_gear_assembly",
+        "fixture"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 136,
+        "quote": "Clamp the idler gear assembly and fixture in a vise as shown in Fig. 12.",
+        "verified": true,
+        "char_start": 2506,
+        "char_end": 2578,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Attach the cord to the idler gear and spring scale and check the pre-load as outlined in Step 4 of the previous method. If the scale reading is within the specified 1-1/4 to 6-3/4 lbs., but fluctuates more than the permissible 2 lbs. 11 ounces, the idler gear and bearing assembly must NOT be installed on the engine. Fluctuations in scale reading may be caused by the cones not being concentric to each other, damaged cones or rollers, or dirt or foreign material within the bearings. In these cases, the bearing should be inspected for the cause of fluctuation in the scale readings and corrected or a new bearing installed. A scale reading which exceeds the specified maximum indicates binding of the bearing rollers or rollers improperly installed. When the scale reading is less than the specified minimum, the bearing 15 more likely worn and the bearing should be replaced. After the pre-load test is completed, remove the steel plates. Attach the bearing retainer to the idler gear with six self-locking bolts. Tighten the bolts to 12-15 lb-ft torque. Instal! Idler Gear, Hub and Bearing Assembly l. Position the crankshaft gear and the camshaft gear so that the timing marks will align with those on the idler gear (refer to Section 1.7.1).",
+      "source_number": 3,
+      "installs": [
+        "cord",
+        "end_of_the_spring",
+        "spray_nozzle_outlined",
+        "more",
+        "fuel_pump_drive_gear",
+        "bearing_the_end_bearing"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": 16.3,
+      "warning": "must NOT be installed on the engine.",
+      "provenance": {
+        "page": 136,
+        "quote": "Attach the cord to the idler gear and spring scale and check the pre-load as outlined in Step 4 of the previous method. If the scale reading is within the specified 1-1/4 to 6-3/4 lbs., but fluctuates more than the permissible 2 lbs. 11 ...",
+        "verified": true,
+        "char_start": 2582,
+        "char_end": 3830,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}

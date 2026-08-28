@@ -1,0 +1,216 @@
+{
+  "schema_version": "0.1.0",
+  "title": "Detroit Diesel Series 53 - p.87 - Support the flywheel, crankshaft side down. on...",
+  "source_document": "detroit_53_vol1.pdf",
+  "parts": [
+    {
+      "id": "blower_drive_support",
+      "name": "Blower drive support",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "blower_drive_support",
+      "provenance": {
+        "page": 87,
+        "quote": "Support the flywheel, crankshaft side down. on a solid flat surface or a hardwood block which is slightly smaller than the inside diameter of the ring gear. Before removing the gear, note the chamfer. if any, on the gear teeth so that th...",
+        "verified": true,
+        "char_start": 589,
+        "char_end": 1045,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "hammer_puller_set_flywheel",
+      "name": "Hammer puller set flywheel",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "hammer_puller_set_flywheel",
+      "provenance": {
+        "page": 87,
+        "quote": "Support the flywheel, crankshaft side down. on a solid flat surface or a hardwood block which is slightly smaller than the inside diameter of the ring gear. Before removing the gear, note the chamfer. if any, on the gear teeth so that th...",
+        "verified": true,
+        "char_start": 589,
+        "char_end": 1045,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "flat",
+      "provenance": {
+        "page": 87,
+        "quote": "Support the flywheel, crankshaft side down. on a solid flat surface or a hardwood block which is slightly smaller than the inside diameter of the ring gear. Before removing the gear, note the chamfer. if any, on the gear teeth so that th...",
+        "verified": true,
+        "char_start": 589,
+        "char_end": 1045,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "of_the_block",
+      "name": "Of the block",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "of_the_block",
+      "provenance": {
+        "page": 87,
+        "quote": "Support the flywheel, crankshaft side down. on a solid flat surface or a hardwood block which is slightly smaller than the inside diameter of the ring gear. Before removing the gear, note the chamfer. if any, on the gear teeth so that th...",
+        "verified": true,
+        "char_start": 589,
+        "char_end": 1045,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "ring_gear",
+      "name": "Ring gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "ring_gear",
+      "provenance": {
+        "page": 87,
+        "quote": "Support the flywheel, crankshaft side down. on a solid flat surface or a hardwood block which is slightly smaller than the inside diameter of the ring gear. Before removing the gear, note the chamfer. if any, on the gear teeth so that th...",
+        "verified": true,
+        "char_start": 589,
+        "char_end": 1045,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "fuel_pump_drive_gear",
+      "name": "Fuel pump drive gear",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "fuel_pump_drive_gear",
+      "provenance": {
+        "page": 87,
+        "quote": "Support the flywheel, crankshaft side down. on a solid flat surface or a hardwood block which is slightly smaller than the inside diameter of the ring gear. Before removing the gear, note the chamfer. if any, on the gear teeth so that th...",
+        "verified": true,
+        "char_start": 589,
+        "char_end": 1045,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "just",
+      "name": "Just",
+      "qty": 1,
+      "part_number": null,
+      "mesh": "just",
+      "provenance": {
+        "page": 87,
+        "quote": "Use a pair of tongs to place the gear on the flywheel with the chamfer, if any. facing the same direction as on the gear just removed.",
+        "verified": true,
+        "char_start": 1658,
+        "char_end": 1792,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": "s01",
+      "index": 0,
+      "text": "Support the flywheel, crankshaft side down. on a solid flat surface or a hardwood block which is slightly smaller than the inside diameter of the ring gear. Before removing the gear, note the chamfer. if any, on the gear teeth so that the new gear may be installed in \u2018the same position. . 2. Drive the ring gear off of the flywheel with a suitable drift and hammer. Work around the circumference of the ring gear to avoid binding the gear on the flywheel.",
+      "source_number": 1,
+      "installs": [
+        "blower_drive_support",
+        "hammer_puller_set_flywheel",
+        "flat",
+        "of_the_block",
+        "ring_gear",
+        "fuel_pump_drive_gear"
+      ],
+      "depends_on": [],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "note the chamfer.",
+      "provenance": {
+        "page": 87,
+        "quote": "Support the flywheel, crankshaft side down. on a solid flat surface or a hardwood block which is slightly smaller than the inside diameter of the ring gear. Before removing the gear, note the chamfer. if any, on the gear teeth so that th...",
+        "verified": true,
+        "char_start": 589,
+        "char_end": 1045,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s02",
+      "index": 1,
+      "text": "Rest the ring gear on a flat metal surface and heat the gear uniformly with an acetylene torch. keeping the torch moving around the gear to avoid hot spots. CAUTION: Do not, under any circumstances, heat the gear over 400\u00b0F.; excessive heating may destroy the original heat treatment. NOTE: Heat indicating \"crayons\". which are placed on the ring gear and melt at a pre- determined temperature, may be obtained from most tool vendors. Use of \u043e\u043f\u0435 of these \"crayons\" will insure against overheating the gear.",
+      "source_number": 2,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "CAUTION: Do not, under any circumstances, heat the gear over 400\u00b0F.",
+      "provenance": {
+        "page": 87,
+        "quote": "Rest the ring gear on a flat metal surface and heat the gear uniformly with an acetylene torch. keeping the torch moving around the gear to avoid hot spots. CAUTION: Do not, under any circumstances, heat the gear over 400\u00b0F.; excessive h...",
+        "verified": true,
+        "char_start": 1148,
+        "char_end": 1654,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s03",
+      "index": 2,
+      "text": "Use a pair of tongs to place the gear on the flywheel with the chamfer, if any. facing the same direction as on the gear just removed.",
+      "source_number": 3,
+      "installs": [
+        "just"
+      ],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": null,
+      "provenance": {
+        "page": 87,
+        "quote": "Use a pair of tongs to place the gear on the flywheel with the chamfer, if any. facing the same direction as on the gear just removed.",
+        "verified": true,
+        "char_start": 1658,
+        "char_end": 1792,
+        "bbox": null,
+        "page_size": null
+      }
+    },
+    {
+      "id": "s04",
+      "index": 3,
+      "text": "Tap the gear in place against the shoulder on the flywheel. If the gear cannot be tapped into place readily, remove it and apply additional heat, heeding the caution about overheating.",
+      "source_number": 4,
+      "installs": [],
+      "depends_on": [
+        "s01"
+      ],
+      "tool": null,
+      "torque_nm": null,
+      "warning": "caution about overheating.",
+      "provenance": {
+        "page": 87,
+        "quote": "Tap the gear in place against the shoulder on the flywheel. If the gear cannot be tapped into place readily, remove it and apply additional heat, heeding the caution about overheating.",
+        "verified": true,
+        "char_start": 1796,
+        "char_end": 1980,
+        "bbox": null,
+        "page_size": null
+      }
+    }
+  ]
+}
